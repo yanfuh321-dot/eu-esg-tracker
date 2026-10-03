@@ -101,34 +101,67 @@ def parse_json(text: str):
 
 
 # --------------------------------------------------------------------------- Gemini
+class Unavailable(Exception):
+    """The model cannot answer right now (overloaded, over quota, unknown): try the next one."""
+
+
 class Gemini:
-    def __init__(self, key: str, model: str, use_search: bool):
+    PAUSE = 13  # seconds between calls, which keeps even a five-requests-per-minute quota
+
+    def __init__(self, key: str, model: str, use_search: bool, preferred: str | None, minutes: float):
         self.key = key
         self.use_search = use_search
         self.calls = 0
-        self.model = self.pick_model() if model in ("", "auto", None) else model
+        self.last_call = 0.0
+        self.deadline = time.time() + minutes * 60
+        if model in ("", "auto", None):
+            self.models = self.list_models()
+            if preferred in self.models:  # the model that worked on the last run goes first
+                self.models.remove(preferred)
+                self.models.insert(0, preferred)
+        else:
+            self.models = [model]
+        self.model = self.models[0]
 
-    def pick_model(self) -> str:
-        """Newest stable Flash model this key can use, e.g. gemini-3-flash over gemini-2.5-flash."""
+    def list_models(self) -> list[str]:
+        """Flash models this key can use, newest first, then the lighter Flash-Lite models.
+
+        The newest model is often overloaded or has no free quota, so the others serve as fallbacks.
+        """
+        found = []
         try:
             res = requests.get(f"{API}/models", params={"pageSize": 1000}, headers={"x-goog-api-key": self.key}, timeout=30)
             res.raise_for_status()
-            best = None
             for entry in res.json().get("models", []):
                 if "generateContent" not in entry.get("supportedGenerationMethods", []):
                     continue
-                match = re.fullmatch(r"models/gemini-(\d+(?:\.\d+)?)-flash", entry.get("name", ""))
-                if match and (best is None or float(match.group(1)) > best[0]):
-                    best = (float(match.group(1)), entry["name"].split("/", 1)[1])
-            if best:
-                return best[1]
+                match = re.fullmatch(r"models/gemini-(\d+(?:\.\d+)?)-flash(-lite)?", entry.get("name", ""))
+                if match:
+                    found.append((bool(match.group(2)), -float(match.group(1)), entry["name"].split("/", 1)[1]))
         except Exception as exc:  # noqa: BLE001
             warn(f"Could not list models ({clip(exc, 120)}); using {FALLBACK_MODEL}.")
-        return FALLBACK_MODEL
+        names = [name for _, _, name in sorted(found)][:6]
+        return names or [FALLBACK_MODEL]
 
-    def generate(self, system: str, prompt: str, search: bool = False):
-        """Return (parsed JSON, list of source URLs the model consulted)."""
-        search = search and self.use_search
+    def post(self, model: str, body: dict):
+        if time.time() > self.deadline:
+            raise TimeoutError("the time budget for the AI review is used up; the rest follows on the next run")
+        wait = self.PAUSE - (time.time() - self.last_call)
+        if self.calls and wait > 0:
+            time.sleep(wait)
+        self.calls += 1
+        self.last_call = time.time()
+        return requests.post(f"{API}/models/{model}:generateContent", json=body, headers={"x-goog-api-key": self.key}, timeout=120)
+
+    @staticmethod
+    def reason(res) -> str:
+        try:
+            message = res.json()["error"]["message"]
+        except Exception:  # noqa: BLE001
+            message = res.text
+        return f"HTTP {res.status_code}: {clip(message, 180)}"
+
+    def ask(self, model: str, system: str, prompt: str, search: bool):
         body = {
             "system_instruction": {"parts": [{"text": system}]},
             "contents": [{"role": "user", "parts": [{"text": prompt}]}],
@@ -138,31 +171,45 @@ class Gemini:
             body["tools"] = [{"google_search": {}}]
         else:
             body["generationConfig"]["responseMimeType"] = "application/json"
-        url = f"{API}/models/{self.model}:generateContent"
-        for attempt in range(3):
-            if self.calls:
-                time.sleep(4)  # stay well inside the free tier's requests per minute
-            self.calls += 1
-            res = requests.post(url, json=body, headers={"x-goog-api-key": self.key}, timeout=180)
-            if res.status_code in (429, 500, 503) and attempt < 2:
-                time.sleep(30)
-                continue
-            if res.status_code == 400 and search:
-                # Search grounding is not available for every key and model; go on without it.
-                warn("Google Search grounding was refused by the API; continuing without it.")
-                self.use_search = False
-                return self.generate(system, prompt, search=False)
-            res.raise_for_status()
-            data = res.json()
-            candidate = (data.get("candidates") or [{}])[0]
-            parts = (candidate.get("content") or {}).get("parts") or []
-            text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
-            if not text.strip():
-                raise ValueError(f"empty answer (finish reason: {candidate.get('finishReason')})")
-            chunks = (candidate.get("groundingMetadata") or {}).get("groundingChunks") or []
-            sources = [c["web"]["uri"] for c in chunks if c.get("web", {}).get("uri")]
-            return parse_json(text), sources
-        raise RuntimeError("the API kept answering with an error")
+        res = self.post(model, body)
+        if res.status_code in (429, 500, 503):
+            time.sleep(20)  # one more try: brief overloads and per-minute limits pass quickly
+            res = self.post(model, body)
+        if res.status_code in (400, 429) and search:
+            # Search grounding has its own, smaller quota and is not available for every key.
+            warn(f"Google Search could not be used ({self.reason(res)}); continuing without it.")
+            self.use_search = False
+            return self.ask(model, system, prompt, search=False)
+        if res.status_code in (404, 429, 500, 503):
+            raise Unavailable(self.reason(res))
+        if not res.ok:
+            raise RuntimeError(self.reason(res))
+        data = res.json()
+        candidate = (data.get("candidates") or [{}])[0]
+        parts = (candidate.get("content") or {}).get("parts") or []
+        text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+        if not text.strip():
+            raise ValueError(f"empty answer (finish reason: {candidate.get('finishReason')})")
+        chunks = (candidate.get("groundingMetadata") or {}).get("groundingChunks") or []
+        sources = [c["web"]["uri"] for c in chunks if c.get("web", {}).get("uri")]
+        return parse_json(text), sources
+
+    def generate(self, system: str, prompt: str, search: bool = False):
+        """Return (parsed JSON, list of source URLs the model consulted).
+
+        If the current model is overloaded or over its quota, the next one in the list takes over
+        for the rest of the run.
+        """
+        while True:
+            try:
+                return self.ask(self.model, system, prompt, search and self.use_search)
+            except Unavailable as exc:
+                position = self.models.index(self.model)
+                if position + 1 >= len(self.models):
+                    raise RuntimeError(f"no model could answer; last error from {self.model}: {exc}") from exc
+                following = self.models[position + 1]
+                warn(f"{self.model} is not available ({exc}); switching to {following}.")
+                self.model = following
 
 
 class FakeModel:
@@ -529,8 +576,8 @@ def check_learning_pages(model, regs: list[dict], state: dict, conf: dict, run_a
         try:
             answer, _ = model.generate(LEARN_SYSTEM, json.dumps(material, ensure_ascii=False))
         except Exception as exc:  # noqa: BLE001
-            warn(f"Checking the learning page for {reg['short']} failed: {clip(exc, 160)}")
-            continue
+            warn(f"Checking the learning page for {reg['short']} failed: {clip(exc, 200)}")
+            break  # the others would fail the same way; they are checked on a later run
         checked[reg["id"]] = {"hash": entry_hash(reg), "date": run_at.strftime("%Y-%m-%d")}
         for row in (answer.get("edits") or [])[:5] if isinstance(answer, dict) else []:
             if not isinstance(row, dict) or not row.get("old") or not row.get("new") or row["old"] == row["new"]:
@@ -585,9 +632,13 @@ def main() -> int:
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
 
-    model = FakeModel(fake) if fake else Gemini(key, conf.get("model", "auto"), bool(conf.get("use_search", True)))
-    print(f"AI review with {model.model}")
-    state["model"] = model.model
+    # If Google Search was refused recently, do not spend calls on trying it again for a week.
+    week_ago = (run_at - timedelta(days=7)).strftime("%Y-%m-%d")
+    want_search = bool(conf.get("use_search", True))
+    use_search = want_search and state.get("search_refused", "") < week_ago
+    model = FakeModel(fake) if fake else Gemini(
+        key, conf.get("model", "auto"), use_search, state.get("model"), float(conf.get("max_minutes", 8)))
+    print(f"AI review, starting with {model.model}" + (f" (fallbacks: {', '.join(model.models[1:])})" if len(getattr(model, 'models', [])) > 1 else ""))
 
     # 1. every run: review new items
     reviewed = review_items(model, news, regs, profile, conf)
@@ -614,7 +665,8 @@ def main() -> int:
 
     learn_edits = state.get("learn_edits", [])
     if daily:
-        if write_briefing(model, news, devs, regs, profile, conf, run_at):
+        briefed = write_briefing(model, news, devs, regs, profile, conf, run_at)
+        if briefed:
             print("briefing written")
         if conf.get("propose_changes", True):
             try:
@@ -633,7 +685,8 @@ def main() -> int:
                 learn_edits = fresh + [e for e in learn_edits if (e["id"], e["old"]) not in seen]
             except Exception as exc:  # noqa: BLE001
                 warn(f"Checking learning pages failed: {clip(exc, 200)}")
-        state["last_daily"] = today
+        if briefed:
+            state["last_daily"] = today  # otherwise the next run tries the daily tasks again
 
     # Drop stored learning-page edits that no longer match the page (merged, or the page changed).
     still = []
@@ -677,9 +730,13 @@ def main() -> int:
         "items": listing,
         "learn_edits": [{"id": e["id"], "old": e["old"], "new": e["new"], "reason": e["reason"]} for e in learn_edits],
     })
+    if reviewed or state.get("last_daily") == today:
+        state["model"] = model.model  # remembered, so the next run starts with a model that worked
+    if use_search and not model.use_search:
+        state["search_refused"] = run_at.strftime("%Y-%m-%d")
     state.update(pending=pending, dismissed=dismissed, learn_edits=learn_edits)
     write_json(STATE_PATH, state)
-    print(f"{len(pending)} proposals for the regulation data, {len(learn_edits)} for learning pages; {model.calls} API calls.")
+    print(f"{len(pending)} proposals for the regulation data, {len(learn_edits)} for learning pages; {model.calls} API calls, last model {model.model}.")
     return 0
 
 
