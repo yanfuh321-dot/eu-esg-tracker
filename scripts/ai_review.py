@@ -105,6 +105,18 @@ class Unavailable(Exception):
     """The model cannot answer right now (overloaded, over quota, unknown): try the next one."""
 
 
+class BadJson(ValueError):
+    """The model answered, but not with JSON that can be read. The raw text is kept for salvaging."""
+
+    def __init__(self, message: str, text: str):
+        super().__init__(message)
+        self.text = text
+
+
+def is_light(model: str) -> bool:
+    return "-lite" in model
+
+
 class Gemini:
     PAUSE = 13  # seconds between calls, which keeps even a five-requests-per-minute quota
 
@@ -114,6 +126,8 @@ class Gemini:
         self.calls = 0
         self.last_call = 0.0
         self.deadline = time.time() + minutes * 60
+        self.dead: set[str] = set()  # models that could not answer during this run
+        self.last_ok: str | None = None
         if model in ("", "auto", None):
             self.models = self.list_models()
             if preferred in self.models:  # the model that worked on the last run goes first
@@ -121,7 +135,10 @@ class Gemini:
                 self.models.insert(0, preferred)
         else:
             self.models = [model]
-        self.model = self.models[0]
+
+    @property
+    def model(self) -> str:
+        return self.last_ok or self.models[0]
 
     def list_models(self) -> list[str]:
         """Flash models this key can use, newest first, then the lighter Flash-Lite models.
@@ -140,8 +157,9 @@ class Gemini:
                     found.append((bool(match.group(2)), -float(match.group(1)), entry["name"].split("/", 1)[1]))
         except Exception as exc:  # noqa: BLE001
             warn(f"Could not list models ({clip(exc, 120)}); using {FALLBACK_MODEL}.")
-        names = [name for _, _, name in sorted(found)][:6]
-        return names or [FALLBACK_MODEL]
+        full = [name for light, _, name in sorted(found) if not light][:5]
+        light = [name for light, _, name in sorted(found) if light][:2]
+        return (full + light) or [FALLBACK_MODEL]
 
     def post(self, model: str, body: dict):
         if time.time() > self.deadline:
@@ -161,6 +179,11 @@ class Gemini:
             message = res.text
         return f"HTTP {res.status_code}: {clip(message, 180)}"
 
+    @staticmethod
+    def daily_quota_used(res) -> bool:
+        """A 429 that names a per-day limit will not go away by waiting twenty seconds."""
+        return res.status_code == 429 and "perday" in re.sub(r"[\s_-]", "", res.text.lower())
+
     def ask(self, model: str, system: str, prompt: str, search: bool):
         body = {
             "system_instruction": {"parts": [{"text": system}]},
@@ -172,7 +195,7 @@ class Gemini:
         else:
             body["generationConfig"]["responseMimeType"] = "application/json"
         res = self.post(model, body)
-        if res.status_code in (429, 500, 503):
+        if res.status_code in (429, 500, 503) and not self.daily_quota_used(res):
             time.sleep(20)  # one more try: brief overloads and per-minute limits pass quickly
             res = self.post(model, body)
         if res.status_code in (400, 429) and search:
@@ -192,24 +215,44 @@ class Gemini:
             raise ValueError(f"empty answer (finish reason: {candidate.get('finishReason')})")
         chunks = (candidate.get("groundingMetadata") or {}).get("groundingChunks") or []
         sources = [c["web"]["uri"] for c in chunks if c.get("web", {}).get("uri")]
-        return parse_json(text), sources
+        try:
+            return parse_json(text), sources
+        except ValueError as exc:
+            raise BadJson(f"the answer was not valid JSON ({clip(exc, 80)})", text) from exc
 
-    def generate(self, system: str, prompt: str, search: bool = False):
+    def usable(self, strict: bool) -> list[str]:
+        return [m for m in self.models if m not in self.dead and not (strict and is_light(m))]
+
+    def generate(self, system: str, prompt: str, search: bool = False, strict: bool = False, retry_json: bool = True):
         """Return (parsed JSON, list of source URLs the model consulted).
 
-        If the current model is overloaded or over its quota, the next one in the list takes over
-        for the rest of the run.
+        A model that is overloaded or over its quota is left out for the rest of the run and the
+        next one takes over. strict=True is for tasks that need judgement (briefing, proposals,
+        learning pages): the light models are not used for them, and if no full model can answer
+        the task fails and is tried again on a later run.
         """
+        damaged = 0
         while True:
+            options = self.usable(strict)
+            if not options:
+                raise RuntimeError(
+                    "no full Flash model could answer right now; light models are not used for this task, so it waits for the next run"
+                    if strict and self.usable(False) else "no model could answer right now")
+            model = options[0]
             try:
-                return self.ask(self.model, system, prompt, search and self.use_search)
+                result = self.ask(model, system, prompt, search and self.use_search)
             except Unavailable as exc:
-                position = self.models.index(self.model)
-                if position + 1 >= len(self.models):
-                    raise RuntimeError(f"no model could answer; last error from {self.model}: {exc}") from exc
-                following = self.models[position + 1]
-                warn(f"{self.model} is not available ({exc}); switching to {following}.")
-                self.model = following
+                self.dead.add(model)
+                following = self.usable(strict)
+                warn(f"{model} is not available ({exc})" + (f"; switching to {following[0]}." if following else "."))
+                continue
+            except BadJson:
+                damaged += 1
+                if not retry_json or damaged > 1:
+                    raise
+                continue  # ask once more; a second sample is usually well-formed
+            self.last_ok = model
+            return result
 
 
 class FakeModel:
@@ -219,10 +262,27 @@ class FakeModel:
         self.answers = json.loads(Path(path).read_text(encoding="utf-8"))
         self.model, self.use_search, self.calls = "fake", True, 0
 
-    def generate(self, system: str, prompt: str, search: bool = False):
+    def generate(self, system: str, prompt: str, search: bool = False, strict: bool = False, retry_json: bool = True):
         self.calls += 1
         task = re.search(r"TASK: (\w+)", system).group(1)
         return copy.deepcopy(self.answers.get(task, {})), ["https://example.org/source"] if search else []
+
+
+def salvage_rows(text: str) -> list[dict]:
+    """Pick the complete verdicts out of a damaged answer.
+
+    Each verdict is a flat JSON object, so every "{...}" without braces inside can be read on its
+    own; one broken entry then no longer costs the other thirty-nine.
+    """
+    rows = []
+    for chunk in re.findall(r"\{[^{}]*\}", text):
+        try:
+            row = json.loads(chunk)
+        except ValueError:
+            continue
+        if isinstance(row, dict) and "n" in row:
+            rows.append(row)
+    return rows
 
 
 # --------------------------------------------------------------------------- shared context
@@ -267,16 +327,24 @@ def review_items(model, news: dict, regs: list[dict], profile: dict, conf: dict)
     todo = [it for it in news.get("items", []) if "ai" not in it and it.get("ai_tries", 0) < 2][: int(conf.get("max_items_per_run", 80))]
     system = REVIEW_SYSTEM.format(profile=profile_text(profile), regs=regulation_index(regs, profile))
     done = 0
+    empty = 0
     for start in range(0, len(todo), 40):
         batch = todo[start:start + 40]
         lines = [f"{n}. {it['title']} [{it.get('publisher') or it.get('source')}, {item_time(it)[:10]}]" for n, it in enumerate(batch, 1)]
         try:
-            answer, _ = model.generate(system, "Headlines:\n" + "\n".join(lines))
+            answer, _ = model.generate(system, "Headlines:\n" + "\n".join(lines), retry_json=False)
+            rows = answer.get("items", []) if isinstance(answer, dict) else answer
+        except BadJson as exc:
+            rows = salvage_rows(exc.text)
+            warn(f"The answer for {len(batch)} headlines was damaged; {len(rows)} complete verdicts were kept, the others follow on the next run.")
         except Exception as exc:  # noqa: BLE001
             warn(f"Reviewing news items failed: {clip(exc, 200)}")
             break
-        rows = answer.get("items", []) if isinstance(answer, dict) else answer
-        for row in rows if isinstance(rows, list) else []:
+        rows = [row for row in rows if isinstance(row, dict)] if isinstance(rows, list) else []
+        empty = 0 if rows else empty + 1
+        if empty >= 2:
+            break  # two answers in a row without a usable verdict: stop spending requests
+        for row in rows:
             try:
                 item = batch[int(row["n"]) - 1]
             except (KeyError, ValueError, IndexError, TypeError):
@@ -345,7 +413,7 @@ def write_briefing(model, news: dict, devs: list[dict], regs: list[dict], profil
     }
     system = BRIEFING_SYSTEM.format(profile=profile_text(profile), today=run_at.strftime("%-d %B %Y"), days=days)
     try:
-        answer, sources = model.generate(system, json.dumps(material, ensure_ascii=False), search=True)
+        answer, sources = model.generate(system, json.dumps(material, ensure_ascii=False), search=True, strict=True)
     except Exception as exc:  # noqa: BLE001
         warn(f"Writing the briefing failed: {clip(exc, 200)}")
         return False
@@ -526,7 +594,7 @@ def find_proposals(model, news: dict, devs: list[dict], regs: list[dict], profil
         for r in chosen
     ]
     system = PROPOSAL_SYSTEM.format(today=run_at.strftime("%-d %B %Y"))
-    answer, sources = model.generate(system, json.dumps(material, ensure_ascii=False), search=True)
+    answer, sources = model.generate(system, json.dumps(material, ensure_ascii=False), search=True, strict=True)
     rows = answer.get("proposals", []) if isinstance(answer, dict) else []
     by_id = {r["id"]: r for r in regs}
     out = []
@@ -561,8 +629,14 @@ def check_learning_pages(model, regs: list[dict], state: dict, conf: dict, run_a
     """Return edits as {id, old, new, reason}; they are validated against the page text."""
     checked = state.setdefault("learn_checked", {})
     candidates = [r for r in regs if (LEARN_DIR / f"{r['id']}.json").exists()]
+
+    def up_to_date(reg: dict) -> bool:
+        # Checks made before light models were excluded carry no model name and do not count.
+        entry = checked.get(reg["id"], {})
+        return bool(entry.get("model")) and entry.get("hash") == entry_hash(reg)
+
     # Pages whose regulation data changed since the last check come first, then the longest unchecked.
-    candidates.sort(key=lambda r: (checked.get(r["id"], {}).get("hash") == entry_hash(r), checked.get(r["id"], {}).get("date", "")))
+    candidates.sort(key=lambda r: (up_to_date(r), checked.get(r["id"], {}).get("date", "") if up_to_date(r) else ""))
     edits = []
     for reg in candidates[: int(conf.get("learn_pages_per_day", 3))]:
         path = LEARN_DIR / f"{reg['id']}.json"
@@ -574,11 +648,11 @@ def check_learning_pages(model, regs: list[dict], state: dict, conf: dict, run_a
             "learning_page": {k: page.get(k) for k in ("essentials", "sections", "numbers", "mistakes", "practice", "quiz")},
         }
         try:
-            answer, _ = model.generate(LEARN_SYSTEM, json.dumps(material, ensure_ascii=False))
+            answer, _ = model.generate(LEARN_SYSTEM, json.dumps(material, ensure_ascii=False), strict=True)
         except Exception as exc:  # noqa: BLE001
             warn(f"Checking the learning page for {reg['short']} failed: {clip(exc, 200)}")
             break  # the others would fail the same way; they are checked on a later run
-        checked[reg["id"]] = {"hash": entry_hash(reg), "date": run_at.strftime("%Y-%m-%d")}
+        checked[reg["id"]] = {"hash": entry_hash(reg), "date": run_at.strftime("%Y-%m-%d"), "model": model.model}
         for row in (answer.get("edits") or [])[:5] if isinstance(answer, dict) else []:
             if not isinstance(row, dict) or not row.get("old") or not row.get("new") or row["old"] == row["new"]:
                 continue
@@ -646,7 +720,12 @@ def main() -> int:
     print(f"reviewed {reviewed} new items")
 
     today = run_at.strftime("%Y-%m-%d")
-    daily = state.get("last_daily") != today or os.environ.get("AI_FORCE") == "1"
+    # Briefing and proposals each run once a day, and again on a run started by hand. Each has
+    # its own marker, so a task that could not be done is tried again on the next run.
+    force = os.environ.get("AI_FORCE") == "1"
+    do_briefing = force or state.get("last_briefing") != today
+    do_proposals = bool(conf.get("propose_changes", True)) and (force or state.get("last_proposals") != today)
+    print(f"today: briefing {'due' if do_briefing else 'already written'}, data check {'due' if do_proposals else 'already done'}")
 
     # Pull request bookkeeping. The workflow tells us whether the proposal PR is open.
     pending = [p for p in state.get("pending", []) if p.get("reg") in by_id and not is_satisfied(p, by_id[p["reg"]])]
@@ -664,29 +743,29 @@ def main() -> int:
         state["pr_seen_open"] = True
 
     learn_edits = state.get("learn_edits", [])
-    if daily:
-        briefed = write_briefing(model, news, devs, regs, profile, conf, run_at)
-        if briefed:
-            print("briefing written")
-        if conf.get("propose_changes", True):
-            try:
-                for p in find_proposals(model, news, devs, regs, profile, run_at):
-                    p["fp"] = fingerprint(p)
-                    if p["fp"] in dismissed:
-                        continue
-                    pending = [q for q in pending if q["fp"] != p["fp"] and not (p["type"] == "set_status" and q["type"] == "set_status" and q["reg"] == p["reg"])]
-                    p["proposed_on"] = today
-                    pending.append(p)
-            except Exception as exc:  # noqa: BLE001
-                warn(f"Looking for outdated data failed: {clip(exc, 200)}")
+    if do_briefing and write_briefing(model, news, devs, regs, profile, conf, run_at):
+        state["last_briefing"] = today
+        print(f"briefing written by {model.model}")
+    if do_proposals:
+        try:
+            for p in find_proposals(model, news, devs, regs, profile, run_at):
+                p["fp"] = fingerprint(p)
+                if p["fp"] in dismissed:
+                    continue
+                pending = [q for q in pending if q["fp"] != p["fp"] and not (p["type"] == "set_status" and q["type"] == "set_status" and q["reg"] == p["reg"])]
+                p["proposed_on"] = today
+                pending.append(p)
+            state["last_proposals"] = today
+            print(f"regulation data compared with the news by {model.model}")
+        except Exception as exc:  # noqa: BLE001
+            warn(f"Looking for outdated data failed: {clip(exc, 200)}")
+        if state.get("last_proposals") == today:  # otherwise no full model is answering; skip the pages too
             try:
                 fresh = check_learning_pages(model, regs, state, conf, run_at)
                 seen = {(e["id"], e["old"]) for e in fresh}
                 learn_edits = fresh + [e for e in learn_edits if (e["id"], e["old"]) not in seen]
             except Exception as exc:  # noqa: BLE001
                 warn(f"Checking learning pages failed: {clip(exc, 200)}")
-        if briefed:
-            state["last_daily"] = today  # otherwise the next run tries the daily tasks again
 
     # Drop stored learning-page edits that no longer match the page (merged, or the page changed).
     still = []
@@ -730,8 +809,10 @@ def main() -> int:
         "items": listing,
         "learn_edits": [{"id": e["id"], "old": e["old"], "new": e["new"], "reason": e["reason"]} for e in learn_edits],
     })
-    if reviewed or state.get("last_daily") == today:
-        state["model"] = model.model  # remembered, so the next run starts with a model that worked
+    worked = getattr(model, "last_ok", None)
+    if worked and not is_light(worked):
+        state["model"] = worked  # remembered, so the next run starts with a full model that worked
+    state.pop("last_daily", None)
     if use_search and not model.use_search:
         state["search_refused"] = run_at.strftime("%Y-%m-%d")
     state.update(pending=pending, dismissed=dismissed, learn_edits=learn_edits)
