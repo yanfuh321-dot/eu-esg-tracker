@@ -1,0 +1,262 @@
+# Sources the tracker checks for updates.
+# scripts/fetch_feeds.py reads this file on every run of the GitHub Action.
+#
+# Each source needs:
+#   id      unique, lowercase, no spaces
+#   name    shown on the website
+#   kind    official | news | industry  (used for filtering on the website)
+#   url     an RSS or Atom feed URL   -- OR --   query: a Google News search
+#   filter  which items to keep:
+#             regulations  only items that mention a tracked regulation (keywords in site/data/regulations.json)
+#             relevant     items that mention a tracked regulation OR one of the relevance_keywords below
+#             none         keep everything (use for feeds that are already on-topic)
+#             Items are matched on everything the feed provides: title, teaser, full text and
+#             categories, plus the act numbers in each regulation's reference (for example
+#             2023/956), because official feeds cite acts by number rather than by nickname.
+#   tags    (optional) regulation ids to use when no regulation keyword is found in an item
+#   language, country
+#           (optional, for news searches) search in another edition of Google News,
+#           for example language: de and country: DE for German-language reporting
+#   fallback_query
+#           (optional, for sources with a url) a Google News search that is used on a run where
+#           the feed fails or lists no items. Some official sites turn away automated requests;
+#           "site:example.europa.eu keyword OR keyword" then collects the same pages by search.
+#           The Sources page shows when the fallback was used.
+
+settings:
+  site_title: EU ESG Tracker
+  # Public address of the site. Leave empty to detect it automatically in GitHub Actions.
+  site_url: ""
+  # Items older than this are removed from the website.
+  max_age_days: 150
+  max_items: 800
+  timeout_seconds: 25
+  google_news:
+    language: en-GB
+    country: GB
+    # Only look at articles from this window on each run (Google News "when:" operator).
+    window: 14d
+  # Procedure steps reported in the news (votes, adoption, publication, postponements) are added
+  # to the timeline automatically, marked as reported. Curated dates are never changed.
+  developments:
+    enabled: true
+    # Reports on the same regulation and the same kind of step within this window count as one entry.
+    window_days: 10
+    # An entry is shown when an official source reports it, or at least this many different
+    # publishers that name an EU institution in the headline (one more if they do not).
+    min_reports: 2
+    # Entries are kept on the timeline for this long.
+    max_age_days: 730
+  # Optional review by Google Gemini (scripts/ai_review.py). It only runs when the repository
+  # has a secret called GEMINI_API_KEY; without it the tracker works as before.
+  ai:
+    enabled: true
+    # "auto" picks the newest Flash model your key can use. Or name one, e.g. gemini-2.5-flash.
+    model: auto
+    # New items reviewed per run (relevance, importance, one-line note).
+    max_items_per_run: 80
+    # The briefing looks back this many days.
+    briefing_days: 7
+    # Let the model check its findings with Google Search where the API key allows it.
+    use_search: true
+    # Propose changes to regulations.json and the learning pages as a pull request.
+    # Nothing in those files changes until you merge the pull request.
+    propose_changes: true
+    # Learning pages compared with the tracker data per day.
+    learn_pages_per_day: 3
+    # A proposal you close without merging is not made again for this many days.
+    dismiss_days: 90
+
+# Used by sources with filter: relevant.
+# A trailing * matches any ending: sustainab* matches sustainable and sustainability.
+relevance_keywords:
+  - sustainab*
+  - ESG
+  - greenwashing
+  - deforestation
+  - due diligence
+  - forced labour
+  - climate
+  - greenhouse gas
+  - emissions trading
+  - carbon
+  - biodiversity
+  - circular economy
+  - ecodesign
+  - green transition
+  - Green Deal
+  - simplification package
+
+sources:
+  # ---------------------------------------------------------------- official EU sources
+  # The European Parliament's site often answers automated requests with an empty page instead
+  # of the feed. The fallback_query lines collect its pages through a news search in that case.
+  - id: eurlex-legislation
+    name: EUR-Lex, new Parliament and Council legislation
+    kind: official
+    url: https://eur-lex.europa.eu/EN/display-feed.rss?rssId=162
+    filter: relevant
+
+  - id: ep-press
+    name: European Parliament, press releases
+    kind: official
+    url: https://www.europarl.europa.eu/rss/doc/press-news/en.xml
+    filter: relevant
+    fallback_query: 'site:europarl.europa.eu sustainability OR omnibus OR "forced labour" OR "pay transparency" OR greenwashing'
+
+  - id: ep-juri
+    name: European Parliament, Legal Affairs committee (JURI)
+    kind: official
+    url: https://www.europarl.europa.eu/rss/committee/juri/en.xml
+    filter: relevant
+    fallback_query: 'site:europarl.europa.eu "due diligence" OR "sustainability reporting" OR CSRD OR CSDDD'
+
+  - id: ep-econ
+    name: European Parliament, Economic and Monetary Affairs committee (ECON)
+    kind: official
+    url: https://www.europarl.europa.eu/rss/committee/econ/en.xml
+    filter: relevant
+    fallback_query: 'site:europarl.europa.eu "sustainable finance" OR SFDR OR taxonomy OR "green bond" OR "ESG ratings"'
+
+  - id: ep-envi
+    name: European Parliament, Environment committee (ENVI)
+    kind: official
+    url: https://www.europarl.europa.eu/rss/committee/envi/en.xml
+    filter: relevant
+    fallback_query: 'site:europarl.europa.eu deforestation OR "emissions trading" OR "carbon border" OR packaging OR ecodesign OR "green claims"'
+
+  - id: ep-thinktank
+    name: European Parliament Think Tank
+    kind: official
+    url: https://www.europarl.europa.eu/thinktank/en/research/advanced-search/rss
+    filter: regulations
+
+  - id: council-press
+    name: Council of the EU, press releases
+    kind: official
+    url: https://www.consilium.europa.eu/en/rss/pressreleases.ashx
+    filter: relevant
+
+  # ---------------------------------------------------------------- specialist news
+  - id: esgtoday
+    name: ESG Today
+    kind: industry
+    url: https://www.esgtoday.com/feed/
+    filter: regulations
+
+  # ---------------------------------------------------------------- Google News searches
+  # Each query becomes a Google News RSS feed. Quotes and OR work like in Google search.
+  - id: gn-reporting
+    name: News search, CSRD and ESRS
+    kind: news
+    query: '"CSRD" OR "ESRS" OR "sustainability omnibus"'
+    filter: none
+    tags: [csrd]
+
+  - id: gn-csddd
+    name: News search, CSDDD
+    kind: news
+    query: '"CSDDD" OR "CS3D" OR "due diligence directive"'
+    filter: none
+    tags: [csddd]
+
+  - id: gn-finance
+    name: News search, Taxonomy and SFDR
+    kind: news
+    query: '"EU taxonomy" OR "SFDR"'
+    filter: none
+
+  - id: gn-cbam
+    name: News search, CBAM and EU ETS
+    kind: news
+    query: '"CBAM" OR "carbon border adjustment" OR "ETS2"'
+    filter: none
+
+  - id: gn-eudr
+    name: News search, EUDR
+    kind: news
+    query: '"EUDR" OR "EU deforestation regulation"'
+    filter: none
+    tags: [eudr]
+
+  - id: gn-claims
+    name: News search, green claims
+    kind: news
+    query: '"green claims" EU OR "empowering consumers" directive OR greenwashing EU directive'
+    filter: none
+
+  - id: gn-products
+    name: News search, ecodesign, batteries and packaging
+    kind: news
+    query: '"ESPR" OR "digital product passport" OR "battery regulation" EU OR "PPWR"'
+    filter: none
+
+  - id: gn-social
+    name: News search, forced labour and pay transparency
+    kind: news
+    query: '"forced labour regulation" OR "pay transparency directive"'
+    filter: none
+
+  # ---------------------------------------------------------------- product compliance
+  - id: gn-repair
+    name: News search, right to repair and machinery
+    kind: news
+    query: '"right to repair" EU directive OR "Machinery Regulation" EU OR "2023/1230"'
+    filter: none
+
+  - id: gn-chemicals
+    name: News search, RoHS and REACH
+    kind: news
+    query: '"RoHS" exemption OR "REACH" SVHC OR "Candidate List" ECHA OR "PFAS restriction"'
+    filter: none
+
+  - id: gn-tools
+    name: News search, power tools and batteries
+    kind: news
+    query: '"power tools" EU regulation OR "portable batteries" removable EU OR "battery due diligence"'
+    filter: none
+    tags: [batteries]
+
+  # ---------------------------------------------------------------- Germany (German-language search)
+  - id: gn-de-lieferkette
+    name: News search, Lieferkettengesetz
+    kind: news
+    query: '"Lieferkettengesetz" OR "LkSG" OR "Lieferkettensorgfaltspflichtengesetz"'
+    filter: none
+    language: de
+    country: DE
+    tags: [de-lksg]
+
+  - id: gn-de-csrd
+    name: News search, CSRD-Umsetzungsgesetz
+    kind: news
+    query: '"CSRD-Umsetzungsgesetz" OR "CSRD-Umsetzung" Bundestag OR "Nachhaltigkeitsberichterstattung" HGB'
+    filter: none
+    language: de
+    country: DE
+    tags: [de-csrd]
+
+  # ---------------------------------------------------------------- China
+  - id: gn-cn-reporting
+    name: News search, China sustainability disclosure
+    kind: news
+    query: '"China" "sustainability disclosure standards" OR "CSDS" China OR "China ESG reporting"'
+    filter: none
+    tags: [cn-csds]
+
+  - id: gn-cn-carbon
+    name: News search, China carbon market
+    kind: news
+    query: '"China" "national carbon market" OR "China ETS" OR "China" "carbon market" steel aluminium'
+    filter: none
+    tags: [cn-ets]
+
+  - id: gn-cn-supply
+    name: News search, supply-chain audits in China
+    kind: news
+    query: '"Anti-Foreign Sanctions Law" OR "supply chain" audit China "forced labour" EU OR "due diligence" China suppliers regulation'
+    filter: none
+
+# Tip: EUR-Lex can create an RSS feed for any saved search (for example all new acts that
+# mention "sustainability reporting"). Sign in to EUR-Lex, run the search, choose
+# "Create RSS alert", then add the feed URL here as a new source with kind: official.

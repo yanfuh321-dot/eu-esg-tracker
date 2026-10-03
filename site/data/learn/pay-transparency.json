@@ -1,0 +1,265 @@
+{
+ "id": "pay-transparency",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The directive makes pay **transparent** so that the long-standing right to equal pay for equal work can be enforced.",
+  "**All employers** must give pay information to applicants and employees. **Employers with 100 or more workers** must also report their gender pay gap.",
+  "Where a gap of **5% or more** in a category of workers cannot be justified and is not corrected within six months, a **joint pay assessment** with worker representatives is required.",
+  "The transposition deadline was **7 June 2026**. Many Member States are late, so the national law decides what applies when."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Equal pay for equal work has been in the EU treaties since 1957. Yet women in the EU still earn around 12% less per hour than men on average. A main obstacle to enforcing the right is that employees do not know what colleagues earn and cannot tell whether they are paid less for work of equal value. The directive tackles that lack of information and shifts the burden onto employers."
+   ]
+  },
+  {
+   "title": "Before employment",
+   "points": [
+    "Applicants must be told the **initial pay or its range** in the vacancy notice or before the interview.",
+    "Employers may **not ask about pay history**.",
+    "Job titles and recruitment processes must be **gender-neutral**."
+   ]
+  },
+  {
+   "title": "During employment",
+   "points": [
+    "Employees have a **right to information** on their individual pay level and on the average pay levels, broken down by sex, of workers doing the same work or work of equal value. The employer must answer within two months and remind staff of this right every year.",
+    "The **criteria** used to set pay, pay levels and pay progression must be accessible, objective and gender-neutral.",
+    "**Pay secrecy clauses** that prevent workers from disclosing their pay are prohibited.",
+    "Employers need **pay structures** that allow work of equal value to be compared, based on skills, effort, responsibility and working conditions."
+   ]
+  },
+  {
+   "title": "Gender pay gap reporting",
+   "table": {
+    "head": [
+     "Employer size",
+     "First report due",
+     "Frequency"
+    ],
+    "rows": [
+     [
+      "250 or more workers",
+      "7 June 2027, for calendar year 2026",
+      "Every year"
+     ],
+     [
+      "150 to 249 workers",
+      "7 June 2027, for calendar year 2026",
+      "Every three years"
+     ],
+     [
+      "100 to 149 workers",
+      "7 June 2031",
+      "Every three years"
+     ],
+     [
+      "Fewer than 100 workers",
+      "No duty under the directive",
+      "Member States may require it"
+     ]
+    ]
+   },
+   "after": [
+    "The report covers, among other things, the mean and median gender pay gap, the gap in variable pay, the share of women and men in each pay quartile, and the gap **by category of workers**. Thresholds count workers per employer in a Member State, and national law may set lower thresholds or earlier dates."
+   ]
+  },
+  {
+   "title": "The joint pay assessment",
+   "text": [
+    "A joint pay assessment with worker representatives is triggered when three conditions are met: the report shows a gap of **at least 5%** in any category of workers, the employer **cannot justify** it by objective, gender-neutral criteria, and the gap is **not remedied within six months** of the report. The assessment analyses the causes and sets measures to close the gap."
+   ]
+  },
+  {
+   "title": "Enforcement",
+   "points": [
+    "**Compensation**: workers who suffered pay discrimination can claim full back pay and related bonuses, without a fixed upper limit.",
+    "**Burden of proof**: where an employer has not met its transparency duties, it is for the employer to prove that there was no discrimination.",
+    "**Penalties**: Member States must provide effective, proportionate and dissuasive penalties, including fines.",
+    "**Representation**: equality bodies and worker representatives can act on behalf of workers.",
+    "**Intersectional discrimination**, for example on grounds of sex and ethnicity combined, is recognised as an aggravating factor."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Work of equal value",
+   "text": "Different jobs that are comparable in skills, effort, responsibility and working conditions."
+  },
+  {
+   "term": "Gender pay gap",
+   "text": "The difference between the average pay of men and women, as a percentage of men's pay. Unadjusted: it does not correct for job or hours."
+  },
+  {
+   "term": "Category of workers",
+   "text": "Workers performing the same work or work of equal value, grouped by the employer using objective criteria."
+  },
+  {
+   "term": "Joint pay assessment",
+   "text": "An analysis carried out with worker representatives when an unexplained gap of 5% or more persists."
+  },
+  {
+   "term": "Pay",
+   "text": "Basic wage plus all other consideration in cash or in kind: bonuses, allowances, pensions, benefits."
+  },
+  {
+   "term": "Pay secrecy clause",
+   "text": "A contract term that forbids employees from talking about their pay. No longer permitted."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "100",
+   "label": "workers: the size from which gender pay gap reporting is required"
+  },
+  {
+   "value": "5%",
+   "label": "gap in a category of workers that can trigger a joint pay assessment"
+  },
+  {
+   "value": "7 June 2027",
+   "label": "first reports due from employers with 150 or more workers"
+  },
+  {
+   "value": "2 months",
+   "label": "deadline for answering an employee's request for pay information"
+  },
+  {
+   "value": "6 months",
+   "label": "time to remedy an unjustified gap before a joint assessment is required"
+  },
+  {
+   "value": "about 12%",
+   "label": "average gender pay gap in the EU"
+  }
+ ],
+ "related": [
+  {
+   "id": "csrd",
+   "text": "The gender pay gap is a datapoint in the own-workforce standard, so in-scope companies report it in two places."
+  },
+  {
+   "id": "csddd",
+   "text": "Equal remuneration is among the human rights covered by due diligence."
+  },
+  {
+   "id": "foundations",
+   "text": "A textbook directive: the dates and details that bind an employer are in each country's transposition law."
+  },
+  {
+   "id": "sfdr",
+   "text": "The unadjusted gender pay gap of investee companies is one of the adverse impact indicators funds report."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The directive only concerns companies with 100 or more employees.",
+   "right": "The reporting duty does. The transparency rights for applicants and employees apply to all employers."
+  },
+  {
+   "wrong": "Any pay gap of 5% is unlawful.",
+   "right": "A gap is a trigger for scrutiny. It becomes a problem if it cannot be explained by objective, gender-neutral criteria."
+  },
+  {
+   "wrong": "Employees may now see what each colleague earns.",
+   "right": "They can ask for their own pay level and for averages by sex in their category, not for individual salaries."
+  },
+  {
+   "wrong": "The rules apply across the EU since 7 June 2026.",
+   "right": "That was the transposition deadline. Where national law is late, the start depends on that law."
+  },
+  {
+   "wrong": "The gender pay gap and unequal pay are the same thing.",
+   "right": "The gap is a statistical average across the workforce. Unequal pay is a difference for the same work or work of equal value."
+  }
+ ],
+ "practice": [
+  "**Check the national law** in each Member State where you employ people: status, thresholds, dates.",
+  "**Build a job architecture**: group roles of equal value using skills, effort, responsibility and working conditions.",
+  "**Run a pay gap analysis** by category now, and fix or document gaps above 5%.",
+  "**Add pay ranges** to vacancy notices and remove pay-history questions from recruitment.",
+  "**Remove pay secrecy clauses** from contracts and set up a process to answer information requests within two months.",
+  "**Prepare the data** for the first report on calendar year 2026."
+ ],
+ "quiz": [
+  {
+   "q": "Which employers must give pay information to job applicants?",
+   "options": [
+    "Only those with 250 or more workers",
+    "Only those with 100 or more workers",
+    "All employers",
+    "Only public-sector employers"
+   ],
+   "answer": 2,
+   "why": "The transparency rights apply to every employer. Size thresholds matter only for pay gap reporting."
+  },
+  {
+   "q": "What may an employer no longer ask an applicant?",
+   "options": [
+    "About their qualifications",
+    "About their pay history",
+    "About their notice period",
+    "About their salary expectations"
+   ],
+   "answer": 1,
+   "why": "Questions about current or previous pay are prohibited, because they carry existing pay gaps into the new job."
+  },
+  {
+   "q": "From which size must employers report their gender pay gap under the directive?",
+   "options": [
+    "50 workers",
+    "100 workers",
+    "250 workers",
+    "500 workers"
+   ],
+   "answer": 1,
+   "why": "100 workers, phased in: 150 or more from June 2027, 100 to 149 from June 2031."
+  },
+  {
+   "q": "When is a joint pay assessment required?",
+   "options": [
+    "Whenever any pay gap exists",
+    "When a gap of at least 5% in a category is not justified and not remedied within six months",
+    "Every three years for all employers",
+    "When an employee files a complaint"
+   ],
+   "answer": 1,
+   "why": "All three conditions must be met: size of the gap, no objective justification, no remedy within six months."
+  },
+  {
+   "q": "An employer has not met its transparency duties and is sued for pay discrimination. Who bears the burden of proof?",
+   "options": [
+    "The employee",
+    "The employer",
+    "The works council",
+    "The equality body"
+   ],
+   "answer": 1,
+   "why": "The burden shifts to the employer, who has to show that there was no discrimination."
+  },
+  {
+   "q": "What information can an employee request?",
+   "options": [
+    "The salary of any named colleague",
+    "Their own pay level and average pay levels by sex for the same work or work of equal value",
+    "The employer's total wage bill",
+    "The pay of the management board"
+   ],
+   "answer": 1,
+   "why": "The right covers averages by sex in the worker's category, not individual colleagues' pay."
+  },
+  {
+   "q": "The directive had to be transposed by 7 June 2026. What follows if a Member State is late?",
+   "options": [
+    "The directive applies directly to private employers in full",
+    "Employers follow the national law once it is in force; the start can be later than in other countries",
+    "The duties lapse",
+    "The Commission sets the rules for that country"
+   ],
+   "answer": 1,
+   "why": "Directives bind through national law. Late transposition delays the practical start and exposes the Member State to infringement proceedings."
+  }
+ ]
+}

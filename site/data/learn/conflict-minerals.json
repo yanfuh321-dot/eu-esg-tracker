@@ -1,0 +1,210 @@
+{
+ "id": "conflict-minerals",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "EU importers of **tin, tantalum, tungsten and gold** (3TG) must check that their purchases do not finance armed conflict or human rights abuses.",
+  "The duty falls on **importers of ores and metals above volume thresholds**, not on makers of finished products.",
+  "It follows the **five steps of the OECD guidance** and covers conflict-affected and high-risk areas **anywhere in the world**.",
+  "It has applied since **1 January 2021** and was the EU's first mandatory supply-chain due diligence law."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "In parts of the world, most prominently the eastern Democratic Republic of the Congo, the mining and trade of minerals has financed armed groups and involved forced labour and other abuses. The four minerals are used in everyday products: tin in solder, tantalum in capacitors, tungsten in tools, gold in electronics and jewellery. The regulation aims to cut the link between that trade and conflict."
+   ]
+  },
+  {
+   "title": "Who is covered",
+   "text": [
+    "The regulation addresses **Union importers**: companies that declare 3TG ores, concentrates or metals for release into free circulation in the EU. It applies only above the annual import volumes listed in Annex I, which are set so that the great majority of import volume is covered while very small importers are spared.",
+    "Companies further down the chain, which buy components or finished products containing these metals, have no legal duty under this regulation. They are expected to exercise due diligence voluntarily and report on it."
+   ]
+  },
+  {
+   "title": "The five steps",
+   "steps": [
+    "**Management system**: a supply-chain policy, a responsible senior manager, a traceability system and a grievance mechanism.",
+    "**Risk identification and assessment**: establish whether minerals come from or pass through conflict-affected and high-risk areas and what harms may be involved.",
+    "**Risk response**: a strategy to prevent or mitigate the risks, which may mean continuing trade while improving, suspending it, or disengaging.",
+    "**Third-party audit**: an independent audit of the importer's due diligence. Importers of metals can rely on audits of the smelters and refiners they buy from.",
+    "**Annual reporting**: a public report on the due diligence policies and practices."
+   ]
+  },
+  {
+   "title": "Smelters and refiners: the pinch point",
+   "text": [
+    "Minerals from many mines are mixed when they are smelted or refined, so origin can no longer be traced after that stage. Due diligence therefore concentrates on smelters and refiners. Industry schemes audit them, and the Commission can recognise such schemes as equivalent to the regulation's requirements. Buying from audited smelters and refiners is the main way for metal importers to comply."
+   ]
+  },
+  {
+   "title": "How it differs from the US rule",
+   "points": [
+    "**Geography**: the US Dodd-Frank Act, section 1502, covers the Democratic Republic of the Congo and its neighbours. The EU regulation covers conflict-affected and high-risk areas worldwide, supported by an indicative, non-exhaustive list.",
+    "**Addressee**: the US rule targets listed companies that use the minerals in products. The EU rule targets importers of the raw materials and metals.",
+    "**Duty**: the US rule is a disclosure duty. The EU rule requires due diligence, audit and reporting."
+   ]
+  },
+  {
+   "title": "Enforcement",
+   "text": [
+    "Member State authorities carry out checks after the fact, including on-site inspections, and can order an importer to remedy shortcomings. The regulation itself does not set fines; the rules on infringements are left to Member States."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "3TG",
+   "text": "Tin, tantalum, tungsten and gold."
+  },
+  {
+   "term": "Conflict-affected and high-risk areas (CAHRAs)",
+   "text": "Areas in armed conflict or fragile post-conflict situations, or with weak governance and widespread human rights abuses."
+  },
+  {
+   "term": "Union importer",
+   "text": "The company declaring the minerals or metals for release for free circulation in the EU."
+  },
+  {
+   "term": "OECD Due Diligence Guidance",
+   "text": "The international standard on responsible supply chains of minerals, with the five-step framework."
+  },
+  {
+   "term": "Upstream / downstream",
+   "text": "Upstream runs from the mine to the smelter or refiner; downstream from there to the final product."
+  },
+  {
+   "term": "Recognised due diligence scheme",
+   "text": "An industry scheme the Commission has assessed as meeting the regulation's requirements."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "4",
+   "label": "minerals covered: tin, tantalum, tungsten, gold"
+  },
+  {
+   "value": "5",
+   "label": "steps of due diligence"
+  },
+  {
+   "value": "1 Jan 2021",
+   "label": "start of application"
+  },
+  {
+   "value": "Annex I",
+   "label": "where the import volume thresholds for each mineral and metal are listed"
+  }
+ ],
+ "related": [
+  {
+   "id": "csddd",
+   "text": "General due diligence for the largest companies, built on the same international standards."
+  },
+  {
+   "id": "batteries",
+   "text": "A parallel regime for cobalt, lithium, nickel and natural graphite in batteries."
+  },
+  {
+   "id": "forced-labour",
+   "text": "From December 2027 a product made with forced labour can be banned, whatever due diligence regime applied."
+  },
+  {
+   "id": "csrd",
+   "text": "Where downstream companies report on mineral sourcing, under the value-chain workers and communities standards."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Electronics manufacturers are directly obliged.",
+   "right": "Only importers of the ores, concentrates and metals are. Product manufacturers have no duty under this regulation."
+  },
+  {
+   "wrong": "It is about minerals from the Democratic Republic of the Congo.",
+   "right": "It applies to conflict-affected and high-risk areas worldwide."
+  },
+  {
+   "wrong": "Cobalt is covered.",
+   "right": "The regulation covers only tin, tantalum, tungsten and gold. Cobalt is addressed in the Batteries Regulation."
+  },
+  {
+   "wrong": "Sourcing from high-risk areas is prohibited.",
+   "right": "The aim is responsible sourcing, not a boycott. Withdrawal is one option among several."
+  }
+ ],
+ "practice": [
+  "**Check import volumes** per customs code against the Annex I thresholds each year.",
+  "**Identify the smelters and refiners** in your chain and whether they are covered by a recognised audit scheme.",
+  "**Use the indicative list of high-risk areas** as a starting point, not as a complete answer.",
+  "**Publish the annual report** and keep audit evidence available for the authority.",
+  "As a downstream company, **collect smelter information** from suppliers with the standard industry templates."
+ ],
+ "quiz": [
+  {
+   "q": "Which minerals does the Conflict Minerals Regulation cover?",
+   "options": [
+    "Cobalt, lithium, nickel and graphite",
+    "Tin, tantalum, tungsten and gold",
+    "Copper, zinc, lead and silver",
+    "All minerals from conflict regions"
+   ],
+   "answer": 1,
+   "why": "The four are known as 3TG. Cobalt, lithium, nickel and graphite are covered by the Batteries Regulation."
+  },
+  {
+   "q": "Who is legally obliged under the regulation?",
+   "options": [
+    "Manufacturers of electronic products",
+    "EU importers of the minerals and metals above the volume thresholds",
+    "Mining companies outside the EU",
+    "Retailers of jewellery"
+   ],
+   "answer": 1,
+   "why": "The duty rests on Union importers of ores, concentrates and metals. Downstream companies are only encouraged to act."
+  },
+  {
+   "q": "Which geographical area does the regulation address?",
+   "options": [
+    "Only the Democratic Republic of the Congo and neighbouring countries",
+    "Conflict-affected and high-risk areas worldwide",
+    "Only non-OECD countries",
+    "Only countries under EU sanctions"
+   ],
+   "answer": 1,
+   "why": "Unlike the US rule, the EU regulation has global reach."
+  },
+  {
+   "q": "Why does due diligence focus on smelters and refiners?",
+   "options": [
+    "They are all located in the EU",
+    "After smelting or refining, the origin of the mineral can no longer be traced",
+    "They are the largest companies in the chain",
+    "They set the world market price"
+   ],
+   "answer": 1,
+   "why": "Minerals from many sources are mixed at this stage, which makes it the last point where origin can be verified."
+  },
+  {
+   "q": "Which international standard is the regulation built on?",
+   "options": [
+    "The GRI standards",
+    "The OECD Due Diligence Guidance with its five steps",
+    "ISO 14001",
+    "The Kimberley Process"
+   ],
+   "answer": 1,
+   "why": "The five-step framework of the OECD guidance is written into the regulation."
+  },
+  {
+   "q": "Since when does the regulation apply?",
+   "options": [
+    "2017",
+    "1 January 2021",
+    "30 December 2026",
+    "It is still a proposal"
+   ],
+   "answer": 1,
+   "why": "It was adopted in 2017 and has applied since 1 January 2021."
+  }
+ ]
+}

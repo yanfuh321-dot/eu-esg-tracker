@@ -1,0 +1,1389 @@
+{
+ "reviewed": "2026-09-29",
+ "stages": [
+  "Proposed",
+  "Negotiating",
+  "Adopted",
+  "In force",
+  "Applies"
+ ],
+ "regulations": [
+  {
+   "id": "csrd",
+   "short": "CSRD",
+   "name": "Corporate Sustainability Reporting Directive",
+   "reference": "Directive (EU) 2022/2464, amended by Directive (EU) 2026/470 (Omnibus I)",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "Reporting",
+   "stage": 4,
+   "flag": "amended",
+   "status": "Applies to wave 1 reporters. Omnibus I narrowed the scope; Member States must transpose the changes by 19 March 2027.",
+   "summary": "Requires in-scope companies to publish sustainability information in their management report, prepared under the ESRS on a double-materiality basis and subject to limited assurance. It replaced the Non-Financial Reporting Directive (NFRD).",
+   "scope": "After Omnibus I: EU companies and groups with more than 1,000 employees and more than €450m net turnover (both criteria), from financial year 2027. Non-EU groups with more than €450m EU turnover and an EU subsidiary or branch above €200m, from financial year 2028. Member States may exempt wave 1 companies below the new thresholds for financial years 2025 and 2026.",
+   "keywords": [
+    "CSRD",
+    "Corporate Sustainability Reporting Directive",
+    "sustainability reporting directive",
+    "sustainability omnibus",
+    "Omnibus I",
+    "stop-the-clock"
+   ],
+   "dates": [
+    {
+     "date": "2024-01-01",
+     "label": "applies to wave 1 companies for financial year 2024"
+    },
+    {
+     "date": "2025-04-17",
+     "label": "stop-the-clock directive enters into force, postponing waves 2 and 3 by two years"
+    },
+    {
+     "date": "2026-02-26",
+     "label": "Omnibus I directive published in the Official Journal"
+    },
+    {
+     "date": "2026-03-18",
+     "label": "Omnibus I amendments enter into force"
+    },
+    {
+     "date": "2027-01-01",
+     "label": "new scope applies from financial year 2027 (over 1,000 employees and €450m turnover)"
+    },
+    {
+     "date": "2027-03-19",
+     "label": "amendments must be transposed into national law"
+    },
+    {
+     "date": "2028-01-01",
+     "label": "starts to apply to non-EU groups above €450m EU turnover"
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive (EU) 2022/2464 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2022/2464/oj"
+    },
+    {
+     "label": "Omnibus I, Directive (EU) 2026/470",
+     "url": "https://eur-lex.europa.eu/eli/dir/2026/470/oj"
+    },
+    {
+     "label": "European Commission: corporate sustainability reporting",
+     "url": "https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "esrs",
+   "short": "ESRS",
+   "name": "European Sustainability Reporting Standards (Set 1)",
+   "reference": "Delegated Regulation (EU) 2023/2772",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "Reporting",
+   "stage": 4,
+   "flag": "revision",
+   "status": "In use for current reports. The revised ESRS (Delegated Regulation (EU) 2026/1563) replace Set 1 from financial year 2027; for financial year 2026 companies may choose either.",
+   "summary": "The standards companies use to meet their CSRD obligations: cross-cutting ESRS 1 and 2 plus topical standards on climate, pollution, water, biodiversity, resource use, own workforce, value-chain workers, communities, consumers and business conduct.",
+   "scope": "Every company reporting under the CSRD. Wave 1 companies may keep using Set 1 (with the 2025 quick-fix reliefs) for financial year 2026 or switch early to the revised standards once they are in force.",
+   "keywords": [
+    "ESRS",
+    "European Sustainability Reporting Standards",
+    "EFRAG",
+    "double materiality"
+   ],
+   "dates": [
+    {
+     "date": "2024-01-01",
+     "label": "applies to wave 1 reports for financial year 2024"
+    },
+    {
+     "date": "2027-01-01",
+     "label": "replaced by the revised ESRS for financial years from 2027"
+    }
+   ],
+   "links": [
+    {
+     "label": "Delegated Regulation (EU) 2023/2772 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg_del/2023/2772/oj"
+    },
+    {
+     "label": "EFRAG",
+     "url": "https://www.efrag.org/en"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "esrs-revised",
+   "short": "Revised ESRS",
+   "name": "Revised (simplified) ESRS and voluntary reporting standard",
+   "reference": "Delegated Regulation (EU) 2026/1563 (revised ESRS) and Delegated Regulation (EU) 2026/1560 (voluntary standard)",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "Reporting",
+   "stage": 2,
+   "flag": null,
+   "status": "Published in the Official Journal on 21 September 2026 after the scrutiny period. The revised ESRS enter into force on 10 November 2026 and apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.",
+   "summary": "Shorter standards with about 61% fewer mandatory datapoints, a reworked materiality assessment and new reliefs and phase-ins. A second delegated act sets up a voluntary reporting standard for companies outside the CSRD scope.",
+   "scope": "Mandatory for CSRD reporters from financial year 2027. For financial year 2026, companies already reporting may keep the current ESRS (with or without the new reliefs) or switch to the revised standards. The voluntary standard also caps what CSRD reporters may request from value-chain companies with up to 1,000 employees, from financial year 2027.",
+   "keywords": [
+    "revised ESRS",
+    "simplified ESRS",
+    "ESRS 2026",
+    "voluntary sustainability reporting standard",
+    "VSME",
+    "2026/1563"
+   ],
+   "dates": [
+    {
+     "date": "2025-12-03",
+     "label": "EFRAG submits its technical advice"
+    },
+    {
+     "date": "2026-05-06",
+     "label": "draft delegated act published for feedback"
+    },
+    {
+     "date": "2026-07-03",
+     "label": "adopted by the Commission together with the voluntary standard"
+    },
+    {
+     "date": "2026-09-21",
+     "label": "published in the Official Journal"
+    },
+    {
+     "date": "2026-09-24",
+     "label": "voluntary standard enters into force"
+    },
+    {
+     "date": "2026-11-10",
+     "label": "enter into force"
+    },
+    {
+     "date": "2027-01-01",
+     "label": "become mandatory from financial year 2027"
+    }
+   ],
+   "links": [
+    {
+     "label": "Delegated Regulation (EU) 2026/1563 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
+    },
+    {
+     "label": "Delegated Regulation (EU) 2026/1560 (voluntary standard) on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg_del/2026/1560/oj"
+    },
+    {
+     "label": "European Commission announcement (3 July 2026)",
+     "url": "https://finance.ec.europa.eu/news/commission-adopts-revised-sustainability-reporting-standards-2026-07-03_en"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "taxonomy",
+   "short": "EU Taxonomy",
+   "name": "EU Taxonomy Regulation",
+   "reference": "Regulation (EU) 2020/852",
+   "pillars": [
+    "E"
+   ],
+   "area": "Sustainable finance",
+   "stage": 4,
+   "flag": "amended",
+   "status": "Applies. Simplified reporting rules have applied since 1 January 2026, with the option to defer them by one year.",
+   "summary": "Classification system that defines which economic activities count as environmentally sustainable across six objectives. Companies under the CSRD disclose the share of turnover, CapEx and OpEx that is Taxonomy-eligible and Taxonomy-aligned.",
+   "scope": "Companies subject to CSRD reporting, and financial market participants offering financial products in the EU.",
+   "keywords": [
+    "EU Taxonomy",
+    "Taxonomy Regulation",
+    "taxonomy-aligned",
+    "taxonomy alignment",
+    "Taxonomy delegated act",
+    "Climate Delegated Act",
+    "do no significant harm",
+    "DNSH"
+   ],
+   "dates": [
+    {
+     "date": "2022-01-01",
+     "label": "first eligibility disclosures apply"
+    },
+    {
+     "date": "2024-01-01",
+     "label": "Environmental Delegated Act covering the remaining four objectives applies"
+    },
+    {
+     "date": "2026-01-01",
+     "label": "simplified reporting rules apply (deferral by one year possible)"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2020/852 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2020/852/oj"
+    },
+    {
+     "label": "European Commission: EU Taxonomy",
+     "url": "https://finance.ec.europa.eu/sustainable-finance/tools-and-standards/eu-taxonomy-sustainable-activities_en"
+    },
+    {
+     "label": "EU Taxonomy Navigator",
+     "url": "https://ec.europa.eu/sustainable-finance-taxonomy/"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "sfdr",
+   "short": "SFDR",
+   "name": "Sustainable Finance Disclosure Regulation",
+   "reference": "Regulation (EU) 2019/2088",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "Sustainable finance",
+   "stage": 4,
+   "flag": "revision",
+   "status": "Applies. SFDR 2.0 would replace it and is heading into trilogue negotiations.",
+   "summary": "Sustainability disclosure rules for financial market participants and advisers at entity and product level, including Article 8 and Article 9 product disclosures and principal adverse impact reporting.",
+   "scope": "Asset managers, insurers offering investment products, pension providers, investment firms and financial advisers operating in the EU.",
+   "keywords": [
+    "SFDR",
+    "Sustainable Finance Disclosure",
+    "Article 8 fund*",
+    "Article 9 fund*",
+    "principal adverse impact*"
+   ],
+   "dates": [
+    {
+     "date": "2021-03-10",
+     "label": "Level 1 disclosures apply"
+    },
+    {
+     "date": "2023-01-01",
+     "label": "Level 2 regulatory technical standards apply"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2019/2088 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2019/2088/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "sfdr2",
+   "short": "SFDR 2.0",
+   "name": "SFDR revision (SFDR 2.0)",
+   "reference": "Commission proposal of 20 November 2025",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "Sustainable finance",
+   "stage": 1,
+   "flag": null,
+   "status": "Council mandate agreed on 24 June 2026. Parliament's ECON committee adopted its position on 10 September 2026; the plenary vote is expected in October, followed by trilogues.",
+   "summary": "Replaces the Article 8/9 logic with three product categories (sustainable, transition and ESG basics) with minimum criteria and exclusions, drops entity-level principal adverse impact disclosures and restricts sustainability terms in fund names and marketing to categorised products.",
+   "scope": "Same population as the SFDR. Council and Parliament both favour applying the new rules 24 months after entry into force, so application is unlikely before 2029.",
+   "keywords": [
+    "SFDR 2.0",
+    "SFDR review",
+    "SFDR reform",
+    "SFDR revision"
+   ],
+   "dates": [
+    {
+     "date": "2025-11-20",
+     "label": "proposed by the Commission"
+    },
+    {
+     "date": "2026-06-24",
+     "label": "Council agrees its negotiating mandate"
+    },
+    {
+     "date": "2026-09-10",
+     "label": "ECON committee adopts Parliament's position"
+    },
+    {
+     "date": "2026-10",
+     "label": "goes to a plenary vote in Parliament",
+     "approx": true
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2019/2088 (current SFDR)",
+     "url": "https://eur-lex.europa.eu/eli/reg/2019/2088/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "csddd",
+   "short": "CSDDD",
+   "name": "Corporate Sustainability Due Diligence Directive",
+   "reference": "Directive (EU) 2024/1760, amended by Directive (EU) 2026/470 (Omnibus I)",
+   "pillars": [
+    "S",
+    "E",
+    "G"
+   ],
+   "area": "Due diligence",
+   "stage": 3,
+   "flag": "amended",
+   "status": "In force. Omnibus I narrowed the scope and moved transposition to 26 July 2028; obligations are expected to apply from July 2029.",
+   "summary": "Requires very large companies to identify, prevent and address adverse human-rights and environmental impacts in their own operations, subsidiaries and chains of activity, using a risk-based approach focused where harm is most likely.",
+   "scope": "After Omnibus I: EU companies with more than 5,000 employees and more than €1.5bn net worldwide turnover, and non-EU companies above €1.5bn EU turnover. The climate transition plan obligation was deleted, penalties are capped at 3% of net worldwide turnover and the harmonised EU civil liability regime was removed.",
+   "keywords": [
+    "CSDDD",
+    "CS3D",
+    "Corporate Sustainability Due Diligence",
+    "due diligence directive",
+    "sustainability omnibus",
+    "Omnibus I"
+   ],
+   "dates": [
+    {
+     "date": "2024-07-25",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-03-18",
+     "label": "Omnibus I amendments enter into force"
+    },
+    {
+     "date": "2028-07-26",
+     "label": "must be transposed into national law"
+    },
+    {
+     "date": "2029-07",
+     "label": "obligations start to apply",
+     "approx": true
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive (EU) 2024/1760 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2024/1760/oj"
+    },
+    {
+     "label": "Omnibus I, Directive (EU) 2026/470",
+     "url": "https://eur-lex.europa.eu/eli/dir/2026/470/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "cbam",
+   "short": "CBAM",
+   "name": "Carbon Border Adjustment Mechanism",
+   "reference": "Regulation (EU) 2023/956, amended by Regulation (EU) 2025/2083",
+   "pillars": [
+    "E"
+   ],
+   "area": "Climate and carbon",
+   "stage": 4,
+   "flag": "amended",
+   "status": "Definitive period since 1 January 2026. Only authorised CBAM declarants may import more than 50 tonnes of covered goods per year.",
+   "summary": "Puts a carbon price on imports of cement, iron and steel, aluminium, fertilisers, electricity and hydrogen, mirroring the EU ETS so that emissions are not simply shifted to countries with weaker climate rules.",
+   "scope": "EU importers of covered goods above a 50-tonne annual threshold per importer, introduced by the 2025 simplification.",
+   "keywords": [
+    "CBAM",
+    "Carbon Border Adjustment",
+    "carbon border tax",
+    "carbon border levy"
+   ],
+   "dates": [
+    {
+     "date": "2023-10-01",
+     "label": "transitional reporting period begins"
+    },
+    {
+     "date": "2025-10-17",
+     "label": "simplification regulation published, introducing the 50-tonne threshold"
+    },
+    {
+     "date": "2026-01-01",
+     "label": "definitive period begins"
+    },
+    {
+     "date": "2027-02-01",
+     "label": "certificates go on sale for 2026 imports"
+    },
+    {
+     "date": "2027-09-30",
+     "label": "first annual declaration and certificate surrender are due, covering 2026 imports"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2023/956 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2023/956/oj"
+    },
+    {
+     "label": "European Commission: CBAM",
+     "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "eudr",
+   "short": "EUDR",
+   "name": "EU Deforestation Regulation",
+   "reference": "Regulation (EU) 2023/1115, amended by Regulation (EU) 2025/2650",
+   "pillars": [
+    "E"
+   ],
+   "area": "Supply chains",
+   "stage": 3,
+   "flag": "amended",
+   "status": "In force; obligations apply from 30 December 2026. The scope amendment (Delegated Regulation (EU) 2026/2102) took effect on 18 September 2026, and the Commission has ruled out a further postponement.",
+   "summary": "Bans placing cattle, cocoa, coffee, oil palm, rubber, soya and wood, and products made from them, on the EU market unless they are deforestation-free since 31 December 2020, legally produced and covered by a due diligence statement with plot-level geolocation.",
+   "scope": "Operators and traders placing relevant products on the EU market or exporting them. Large and medium companies from 30 December 2026; micro and small operators from 30 June 2027 (timber sector: 30 December 2026).",
+   "keywords": [
+    "EUDR",
+    "deforestation regulation",
+    "deforestation-free",
+    "EU Deforestation"
+   ],
+   "dates": [
+    {
+     "date": "2023-06-29",
+     "label": "entered into force"
+    },
+    {
+     "date": "2025-12-18",
+     "label": "Council adopts the targeted revision postponing application by one year"
+    },
+    {
+     "date": "2026-05-04",
+     "label": "simplification package published (review report, guidance, draft scope delegated act)"
+    },
+    {
+     "date": "2026-09-18",
+     "label": "scope amendment enters into force (Delegated Regulation (EU) 2026/2102), removing leather and some rubber products"
+    },
+    {
+     "date": "2026-12-30",
+     "label": "applies to large and medium operators and traders"
+    },
+    {
+     "date": "2027-06-30",
+     "label": "applies to micro and small operators"
+    },
+    {
+     "date": "2027-12-30",
+     "label": "applies to products newly added to the scope"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2023/1115 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj"
+    },
+    {
+     "label": "Delegated Regulation (EU) 2026/2102 (scope) on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg_del/2026/2102/oj"
+    },
+    {
+     "label": "European Commission: deforestation-free products",
+     "url": "https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "ecgt",
+   "short": "ECGT",
+   "name": "Empowering Consumers for the Green Transition Directive",
+   "reference": "Directive (EU) 2024/825",
+   "pillars": [
+    "E"
+   ],
+   "area": "Consumer claims",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies since 27 September 2026 through national consumer-protection law.",
+   "summary": "Amends the Unfair Commercial Practices and Consumer Rights directives. It bans generic environmental claims such as 'eco-friendly' without proof of recognised excellent performance, product-level climate-neutral claims based on offsetting, and sustainability labels not based on a certification scheme or set by public authorities.",
+   "scope": "All traders making environmental claims to consumers in the EU.",
+   "keywords": [
+    "Empowering Consumers",
+    "ECGT",
+    "generic environmental claim*",
+    "greenwashing ban",
+    "sustainability label*"
+   ],
+   "dates": [
+    {
+     "date": "2024-03-26",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-03-27",
+     "label": "transposition deadline for Member States"
+    },
+    {
+     "date": "2026-09-27",
+     "label": "starts to apply in national law"
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive (EU) 2024/825 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2024/825/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "green-claims",
+   "short": "Green Claims",
+   "name": "Green Claims Directive (proposal)",
+   "reference": "COM(2023) 166",
+   "pillars": [
+    "E"
+   ],
+   "area": "Consumer claims",
+   "stage": 1,
+   "flag": "stalled",
+   "status": "On hold since June 2025, when the final trilogue was cancelled after the Commission announced its intention to withdraw the proposal.",
+   "summary": "Would set minimum requirements for substantiating, communicating and verifying explicit environmental claims and for environmental labelling schemes, complementing the bans in the ECGT directive.",
+   "scope": "As proposed: traders making explicit environmental claims to consumers. How to treat micro-enterprises was the main sticking point.",
+   "keywords": [
+    "Green Claims Directive",
+    "green claims",
+    "environmental claims directive"
+   ],
+   "dates": [
+    {
+     "date": "2023-03-22",
+     "label": "proposed by the Commission"
+    },
+    {
+     "date": "2025-06-23",
+     "label": "final trilogue cancelled, negotiations on hold"
+    }
+   ],
+   "links": [
+    {
+     "label": "Proposal COM(2023) 166 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0166"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "espr",
+   "short": "ESPR",
+   "name": "Ecodesign for Sustainable Products Regulation",
+   "reference": "Regulation (EU) 2024/1781",
+   "pillars": [
+    "E"
+   ],
+   "area": "Products and circularity",
+   "stage": 4,
+   "flag": null,
+   "status": "In force; the first obligations apply. Product-specific requirements follow through delegated acts for the priority groups in the working plan.",
+   "summary": "Framework for ecodesign requirements on almost all physical products (durability, repairability, recycled content, environmental footprint). It introduces the Digital Product Passport and bans the destruction of unsold apparel and footwear.",
+   "scope": "Manufacturers, importers and distributors of products covered by future delegated acts. The destruction ban applies to large enterprises now and to medium-sized enterprises from 2030.",
+   "keywords": [
+    "ESPR",
+    "ecodesign",
+    "Digital Product Passport",
+    "destruction of unsold"
+   ],
+   "dates": [
+    {
+     "date": "2024-07-18",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-07-19",
+     "label": "ban on destroying unsold apparel and footwear applies to large enterprises"
+    },
+    {
+     "date": "2030-07-19",
+     "label": "destruction ban extends to medium-sized enterprises"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2024/1781 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "batteries",
+   "short": "Batteries",
+   "name": "Batteries Regulation",
+   "reference": "Regulation (EU) 2023/1542",
+   "pillars": [
+    "E",
+    "S"
+   ],
+   "area": "Products and circularity",
+   "stage": 4,
+   "flag": "amended",
+   "status": "Applies. Raw-material due diligence obligations were postponed to 18 August 2027.",
+   "summary": "Covers the whole battery life cycle: carbon footprint declarations, recycled-content targets, performance and durability, labelling, the battery passport, extended producer responsibility and due diligence on cobalt, lithium, nickel and natural graphite.",
+   "scope": "Manufacturers, importers and distributors of portable, light-means-of-transport, SLI, industrial and electric-vehicle batteries placed on the EU market.",
+   "keywords": [
+    "Batteries Regulation",
+    "Battery Regulation",
+    "battery passport",
+    "battery due diligence"
+   ],
+   "dates": [
+    {
+     "date": "2024-02-18",
+     "label": "generally applies"
+    },
+    {
+     "date": "2027-02-18",
+     "label": "battery passport becomes mandatory for EV, LMT and industrial batteries above 2 kWh"
+    },
+    {
+     "date": "2027-02-18",
+     "label": "requires portable batteries to be removable and replaceable by end users"
+    },
+    {
+     "date": "2027-08-18",
+     "label": "raw-material due diligence obligations apply"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2023/1542 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "forced-labour",
+   "short": "Forced Labour",
+   "name": "Forced Labour Regulation",
+   "reference": "Regulation (EU) 2024/3015",
+   "pillars": [
+    "S"
+   ],
+   "area": "Supply chains",
+   "stage": 3,
+   "flag": null,
+   "status": "In force; the ban applies from 14 December 2027.",
+   "summary": "Prohibits placing products made with forced labour on the EU market, making them available or exporting them. Authorities investigate on a risk basis and can order products to be withdrawn and disposed of.",
+   "scope": "Any product and any economic operator, regardless of size, sector or origin.",
+   "keywords": [
+    "Forced Labour Regulation",
+    "forced labour",
+    "forced labor"
+   ],
+   "dates": [
+    {
+     "date": "2024-12-13",
+     "label": "entered into force"
+    },
+    {
+     "date": "2027-12-14",
+     "label": "ban on products made with forced labour applies"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2024/3015 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2024/3015/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "ets",
+   "short": "EU ETS",
+   "name": "EU Emissions Trading System, including ETS2",
+   "reference": "Directive 2003/87/EC, as amended",
+   "pillars": [
+    "E"
+   ],
+   "area": "Climate and carbon",
+   "stage": 4,
+   "flag": "amended",
+   "status": "Applies. ETS2 for buildings and road transport fuels starts in 2028 after a one-year postponement.",
+   "summary": "Cap-and-trade system for greenhouse gas emissions from power, industry, aviation and maritime transport. ETS2 extends carbon pricing to fuels used in buildings and road transport, with fuel suppliers as the regulated entities.",
+   "scope": "Installation, aircraft and ship operators under ETS1; fuel suppliers under ETS2.",
+   "keywords": [
+    "EU ETS",
+    "ETS2",
+    "Emissions Trading System",
+    "EU carbon market",
+    "carbon allowance*"
+   ],
+   "dates": [
+    {
+     "date": "2025-01-01",
+     "label": "ETS2 monitoring and reporting obligations start for fuel suppliers"
+    },
+    {
+     "date": "2028-01-01",
+     "label": "ETS2 carbon pricing starts (postponed from 2027)"
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive 2003/87/EC (consolidated) on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2003/87/oj"
+    },
+    {
+     "label": "European Commission: EU ETS",
+     "url": "https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "pay-transparency",
+   "short": "Pay Transparency",
+   "name": "Pay Transparency Directive",
+   "reference": "Directive (EU) 2023/970",
+   "pillars": [
+    "S"
+   ],
+   "area": "Social",
+   "stage": 4,
+   "flag": null,
+   "status": "The transposition deadline was 7 June 2026. Check the status of the national law in each Member State where you employ people.",
+   "summary": "Strengthens equal pay for equal work: pay ranges in job ads, a ban on asking about pay history, employee rights to pay information, gender pay gap reporting and a joint pay assessment where an unexplained gap of 5% or more persists.",
+   "scope": "All employers for the transparency rights; gender pay gap reporting for employers with 100 or more employees, phased in by size.",
+   "keywords": [
+    "Pay Transparency Directive",
+    "pay transparency",
+    "gender pay gap"
+   ],
+   "dates": [
+    {
+     "date": "2023-06-06",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-06-07",
+     "label": "transposition deadline for Member States"
+    },
+    {
+     "date": "2027-06-07",
+     "label": "first gender pay gap reports are due from employers with 150 or more employees"
+    },
+    {
+     "date": "2031-06-07",
+     "label": "first reports are due from employers with 100 to 149 employees"
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive (EU) 2023/970 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2023/970/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "green-bond",
+   "short": "EuGB",
+   "name": "European Green Bond Standard",
+   "reference": "Regulation (EU) 2023/2631",
+   "pillars": [
+    "E"
+   ],
+   "area": "Sustainable finance",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies since 21 December 2024. Using the standard is voluntary for issuers.",
+   "summary": "Voluntary standard for green bonds: proceeds must fund Taxonomy-aligned activities (with a limited flexibility pocket), backed by a factsheet, allocation and impact reports and a review by an ESMA-registered external reviewer.",
+   "scope": "Issuers that choose to use the 'European green bond' or 'EuGB' designation, and the external reviewers supervised by ESMA.",
+   "keywords": [
+    "European Green Bond",
+    "EuGB",
+    "green bond standard"
+   ],
+   "dates": [
+    {
+     "date": "2023-12-20",
+     "label": "entered into force"
+    },
+    {
+     "date": "2024-12-21",
+     "label": "applies"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2023/2631 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2023/2631/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "esg-ratings",
+   "short": "ESG Ratings",
+   "name": "ESG Rating Activities Regulation",
+   "reference": "Regulation (EU) 2024/3005",
+   "pillars": [
+    "G"
+   ],
+   "area": "Sustainable finance",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies since 2 July 2026. ESG rating providers operating in the EU need ESMA authorisation.",
+   "summary": "Requires ESG rating providers to be authorised and supervised by ESMA, to show separate E, S and G scores alongside any aggregated rating, to disclose their methodologies and to manage conflicts of interest.",
+   "scope": "Providers whose ESG ratings are published or distributed to regulated financial firms in the EU, with a lighter regime for small providers.",
+   "keywords": [
+    "ESG rating*",
+    "ESG Ratings Regulation"
+   ],
+   "dates": [
+    {
+     "date": "2025-01-02",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-07-02",
+     "label": "applies"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2024/3005 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2024/3005/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "ppwr",
+   "short": "PPWR",
+   "name": "Packaging and Packaging Waste Regulation",
+   "reference": "Regulation (EU) 2025/40",
+   "pillars": [
+    "E"
+   ],
+   "area": "Products and circularity",
+   "stage": 4,
+   "flag": null,
+   "status": "Generally applies since 12 August 2026. Further requirements phase in up to 2030 and beyond.",
+   "summary": "Replaces the Packaging Directive with directly applicable rules on packaging minimisation, recyclability, recycled content in plastic packaging, reuse targets, labelling, and restrictions on certain single-use formats and on PFAS in food-contact packaging.",
+   "scope": "Manufacturers, producers, importers and distributors of packaging and packaged products placed on the EU market.",
+   "keywords": [
+    "PPWR",
+    "Packaging and Packaging Waste Regulation",
+    "packaging regulation",
+    "packaging waste"
+   ],
+   "dates": [
+    {
+     "date": "2025-02-11",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-08-12",
+     "label": "generally applies"
+    },
+    {
+     "date": "2030-01-01",
+     "label": "minimum recycled-content targets for plastic packaging apply"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2025/40 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "conflict-minerals",
+   "short": "Conflict Minerals",
+   "name": "Conflict Minerals Regulation",
+   "reference": "Regulation (EU) 2017/821",
+   "pillars": [
+    "S"
+   ],
+   "area": "Supply chains",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies since 1 January 2021.",
+   "summary": "Requires EU importers of tin, tantalum, tungsten and gold (3TG) above annual volume thresholds to carry out supply-chain due diligence in line with OECD guidance and to report on it.",
+   "scope": "EU importers of 3TG ores, concentrates and metals above the thresholds in Annex I.",
+   "keywords": [
+    "Conflict Minerals",
+    "3TG"
+   ],
+   "dates": [
+    {
+     "date": "2021-01-01",
+     "label": "applies"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2017/821 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2017/821/oj"
+    }
+   ],
+   "jurisdiction": "EU"
+  },
+  {
+   "id": "right-to-repair",
+   "short": "Right to Repair",
+   "name": "Directive on common rules promoting the repair of goods",
+   "reference": "Directive (EU) 2024/1799",
+   "pillars": [
+    "E"
+   ],
+   "area": "Product compliance",
+   "jurisdiction": "EU",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies since 31 July 2026 through national law; transposition is uneven across Member States. The European online repair platform is expected in 2027.",
+   "summary": "Obliges manufacturers to repair certain products on request, at a reasonable price and within a reasonable time, also after the legal guarantee has ended. Bans practices that impede repair, introduces a standard repair information form and extends the seller's liability by 12 months when a consumer chooses repair over replacement.",
+   "scope": "Manufacturers of the product groups listed in Annex II, which follow the ecodesign rules with repairability requirements: among others vacuum cleaners, welding equipment, household appliances, phones and goods with batteries for light means of transport. Where the manufacturer is outside the EU, the duty passes to its authorised representative, then the importer, then the distributor. The extended liability applies to all sellers of consumer goods.",
+   "keywords": [
+    "Right to Repair",
+    "right-to-repair",
+    "repair directive",
+    "Recht auf Reparatur",
+    "Reparaturrichtlinie"
+   ],
+   "dates": [
+    {
+     "date": "2024-07-30",
+     "label": "entered into force"
+    },
+    {
+     "date": "2026-07-31",
+     "label": "applies through national law"
+    },
+    {
+     "date": "2027-07",
+     "label": "European online repair platform becomes available",
+     "approx": true
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive (EU) 2024/1799 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "rohs",
+   "short": "RoHS",
+   "name": "Restriction of Hazardous Substances in electrical and electronic equipment",
+   "reference": "Directive 2011/65/EU",
+   "pillars": [
+    "E"
+   ],
+   "area": "Product compliance",
+   "jurisdiction": "EU",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies. The time-limited exemptions in Annex III are reviewed regularly; check the expiry dates of the exemptions your products rely on.",
+   "summary": "Limits ten hazardous substances in electrical and electronic equipment: lead, mercury, cadmium, hexavalent chromium, two groups of flame retardants and four phthalates. Compliance is declared with the CE marking, backed by technical documentation.",
+   "scope": "Manufacturers, importers and distributors of electrical and electronic equipment placed on the EU market, including electrical and electronic tools (category 6). Batteries are covered by the Batteries Regulation instead.",
+   "keywords": [
+    "RoHS",
+    "hazardous substances in electrical"
+   ],
+   "dates": [
+    {
+     "date": "2013-01-02",
+     "label": "applies in its current form (RoHS 2)"
+    },
+    {
+     "date": "2019-07-22",
+     "label": "restricts four phthalates in addition to the original six substances"
+    }
+   ],
+   "links": [
+    {
+     "label": "Directive 2011/65/EU (consolidated) on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/dir/2011/65/oj"
+    },
+    {
+     "label": "European Commission: RoHS Directive",
+     "url": "https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "reach",
+   "short": "REACH",
+   "name": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+   "reference": "Regulation (EC) No 1907/2006",
+   "pillars": [
+    "E"
+   ],
+   "area": "Product compliance",
+   "jurisdiction": "EU",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies. The Candidate List of substances of very high concern is updated twice a year, each update triggering information duties straight away. A revision of REACH and a broad restriction of PFAS are under discussion.",
+   "summary": "The EU's general chemicals law. For product companies the key parts are the restrictions in Annex XVII, which ban or limit substances in articles, and the duty to tell customers when an article contains a substance of very high concern above 0.1% by weight.",
+   "scope": "Manufacturers and importers of substances, mixtures and articles, and every supplier of articles in the EU. An EU importer of finished products is responsible for the substances in them.",
+   "keywords": [
+    "REACH regulation",
+    "REACH revision",
+    "REACH restriction",
+    "SVHC",
+    "substances of very high concern",
+    "Candidate List",
+    "ECHA",
+    "PFAS restriction",
+    "1907/2006"
+   ],
+   "dates": [
+    {
+     "date": "2007-06-01",
+     "label": "entered into force"
+    },
+    {
+     "date": "2021-01-05",
+     "label": "articles with substances of very high concern must be notified to the SCIP database"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EC) No 1907/2006 (consolidated) on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2006/1907/oj"
+    },
+    {
+     "label": "ECHA: Candidate List",
+     "url": "https://echa.europa.eu/candidate-list-table"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "machinery",
+   "short": "Machinery",
+   "name": "Machinery Regulation",
+   "reference": "Regulation (EU) 2023/1230",
+   "pillars": [
+    "S"
+   ],
+   "area": "Product compliance",
+   "jurisdiction": "EU",
+   "stage": 3,
+   "flag": null,
+   "status": "In force; applies from 20 January 2027, when it replaces the Machinery Directive 2006/42/EC without a transition period for products placed on the market after that date.",
+   "summary": "Safety requirements for machinery, now as a directly applicable regulation. Adds explicit duties for importers and distributors, allows digital instructions, covers software and cybersecurity aspects of safety and updates the list of machinery that needs stricter conformity assessment.",
+   "scope": "Manufacturers, importers and distributors of machinery placed on the EU market, including hand-held and garden power tools.",
+   "keywords": [
+    "Machinery Regulation",
+    "Maschinenverordnung",
+    "2023/1230",
+    "Machinery Directive"
+   ],
+   "dates": [
+    {
+     "date": "2023-07-19",
+     "label": "entered into force"
+    },
+    {
+     "date": "2027-01-20",
+     "label": "applies and replaces the Machinery Directive"
+    }
+   ],
+   "links": [
+    {
+     "label": "Regulation (EU) 2023/1230 on EUR-Lex",
+     "url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "de-lksg",
+   "short": "LkSG",
+   "name": "German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz)",
+   "reference": "Lieferkettensorgfaltspflichtengesetz of 16 July 2021",
+   "pillars": [
+    "S",
+    "E",
+    "G"
+   ],
+   "area": "Germany",
+   "jurisdiction": "DE",
+   "stage": 4,
+   "flag": "revision",
+   "status": "Applies. The annual report is no longer checked in practice, and an amendment bill deleting the reporting duty has been in the Bundestag since January 2026 without a final vote. On 2 July 2026 the coalition announced a one-to-one transposition of the CSDDD and a narrower scope of the LkSG; no draft for that had been published when this entry was last checked.",
+   "summary": "Obliges large companies in Germany to manage human-rights and certain environmental risks in their own business and at direct suppliers, and at indirect suppliers once they have substantiated knowledge of a violation. Enforced by the Federal Office for Economic Affairs and Export Control (BAFA).",
+   "scope": "Companies with their head office, principal place of business or a branch in Germany and at least 1,000 employees in Germany. It will be replaced by the German law transposing the CSDDD.",
+   "keywords": [
+    "LkSG",
+    "Lieferkettengesetz",
+    "Lieferkettensorgfaltspflichtengesetz",
+    "Supply Chain Due Diligence Act",
+    "German Supply Chain Act"
+   ],
+   "dates": [
+    {
+     "date": "2023-01-01",
+     "label": "applies to companies with at least 3,000 employees in Germany"
+    },
+    {
+     "date": "2024-01-01",
+     "label": "applies to companies with at least 1,000 employees in Germany"
+    },
+    {
+     "date": "2025-09-03",
+     "label": "amendment bill adopted by the federal cabinet"
+    },
+    {
+     "date": "2026-01-16",
+     "label": "amendment bill has its first reading in the Bundestag"
+    },
+    {
+     "date": "2026-07-02",
+     "label": "coalition announces a one-to-one transposition of the CSDDD and a narrower LkSG"
+    },
+    {
+     "date": "2028-07-26",
+     "label": "must be replaced by the law transposing the CSDDD"
+    }
+   ],
+   "links": [
+    {
+     "label": "Text of the act (gesetze-im-internet.de)",
+     "url": "https://www.gesetze-im-internet.de/lksg/"
+    },
+    {
+     "label": "BAFA: supply chain act",
+     "url": "https://www.bafa.de/DE/Lieferketten/lieferketten_node.html"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "de-csrd",
+   "short": "CSRD in Germany",
+   "name": "German act transposing the CSRD (CSRD-Umsetzungsgesetz)",
+   "reference": "Government draft of 3 September 2025, Bundestag printed paper 21/1857",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "Germany",
+   "jurisdiction": "DE",
+   "stage": 1,
+   "flag": null,
+   "status": "In the Bundestag. The coalition tabled amendments in March 2026 to build in Omnibus I, and the legal affairs committee held a hearing on 13 April 2026. Whether the final vote and publication in the Federal Law Gazette have taken place could not be confirmed when this entry was last checked; until the act is in force, the 2017 rules on the non-financial statement (sections 289b and following of the Commercial Code) continue to apply.",
+   "summary": "Writes the CSRD into the German Commercial Code (HGB): the sustainability report as part of the management report, its audit, and the transition rules. Germany missed the original deadline of July 2024 and the Commission opened infringement proceedings.",
+   "scope": "After Omnibus I, companies with more than 1,000 employees and more than €450m net turnover; the government expects up to about 3,900 companies in Germany.",
+   "keywords": [
+    "CSRD-Umsetzungsgesetz",
+    "CSRD-UmsG",
+    "CSRD-Umsetzung",
+    "CSRD transposition Germany"
+   ],
+   "dates": [
+    {
+     "date": "2024-07-06",
+     "label": "original transposition deadline passes without a German law"
+    },
+    {
+     "date": "2025-09-03",
+     "label": "government draft adopted by the federal cabinet"
+    },
+    {
+     "date": "2026-04-13",
+     "label": "hearing in the Bundestag legal affairs committee"
+    },
+    {
+     "date": "2027-03-19",
+     "label": "deadline for transposing the Omnibus I changes"
+    }
+   ],
+   "links": [
+    {
+     "label": "Bundestag printed paper 21/1857 (government draft)",
+     "url": "https://dserver.bundestag.de/btd/21/018/2101857.pdf"
+    },
+    {
+     "label": "DRSC: news on the CSRD transposition",
+     "url": "https://www.drsc.de/news/csrd-umsetzungsgesetz-oeffentliche-anhoerung-aenderungsantrag/"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "cn-csds",
+   "short": "China CSDS",
+   "name": "China's Corporate Sustainability Disclosure Standards and stock-exchange reporting guidelines",
+   "reference": "Basic Standard (Trial), Ministry of Finance and eight other authorities, December 2024; Climate Standard No. 1 (Trial), December 2025",
+   "pillars": [
+    "G",
+    "E",
+    "S"
+   ],
+   "area": "China",
+   "jurisdiction": "CN",
+   "stage": 3,
+   "flag": null,
+   "status": "The Basic Standard, its application guidelines and the climate standard are published on a trial, voluntary basis. Separately, the stock exchanges require sustainability reports from large listed companies, first due by 30 April 2026 for financial year 2025. A unified national system is to be in place by 2030.",
+   "summary": "China's national framework for sustainability reporting, built on the ISSB standards with an added impact perspective. It is being introduced in steps: from listed to unlisted companies, from large to small, from voluntary to mandatory.",
+   "scope": "For now voluntary for all companies in China. Mandatory reporting under the exchange guidelines applies to constituents of the main indices in Shanghai and Shenzhen and to companies listed both in mainland China and abroad.",
+   "keywords": [
+    "CSDS",
+    "China sustainability disclosure",
+    "Corporate Sustainability Disclosure Standards",
+    "China ESG reporting",
+    "China ESG disclosure"
+   ],
+   "dates": [
+    {
+     "date": "2024-12-17",
+     "label": "Basic Standard (Trial) published"
+    },
+    {
+     "date": "2025-09-03",
+     "label": "application guidelines for the Basic Standard published"
+    },
+    {
+     "date": "2025-12-19",
+     "label": "Climate Standard No. 1 (Trial) published"
+    },
+    {
+     "date": "2026-04-30",
+     "label": "first mandatory sustainability reports due from large listed companies, for financial year 2025"
+    },
+    {
+     "date": "2030-12",
+     "label": "unified national disclosure system to be in place",
+     "approx": true
+    }
+   ],
+   "links": [
+    {
+     "label": "IFRS Foundation: jurisdictional snapshot, China",
+     "url": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/china-ifrs-snapshot.pdf"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "cn-ets",
+   "short": "China ETS",
+   "name": "China's national emissions trading system",
+   "reference": "Interim Regulations on the Administration of Carbon Emissions Trading (State Council, 2024)",
+   "pillars": [
+    "E"
+   ],
+   "area": "China",
+   "jurisdiction": "CN",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies to power generation and, since the 2025 expansion, to steel, cement and aluminium smelting. Coverage of the other major industrial sectors is planned by 2027.",
+   "summary": "The world's largest carbon market by emissions covered. Allowances are allocated free of charge against output-based benchmarks, so it limits emissions per unit of output, with a move towards absolute caps planned.",
+   "scope": "Large emitters in the covered sectors in mainland China. Manufacturers of tools and components are not covered themselves, but their steel, aluminium and electricity suppliers are.",
+   "keywords": [
+    "China ETS",
+    "China's national ETS",
+    "China national carbon market",
+    "China carbon market",
+    "Chinese carbon market"
+   ],
+   "dates": [
+    {
+     "date": "2021-07-16",
+     "label": "trading starts, covering the power sector"
+    },
+    {
+     "date": "2025-03",
+     "label": "expansion to steel, cement and aluminium smelting announced"
+    },
+    {
+     "date": "2027-12",
+     "label": "coverage of the major industrial sectors planned",
+     "approx": true
+    }
+   ],
+   "links": [
+    {
+     "label": "International Carbon Action Partnership: China national ETS",
+     "url": "https://icapcarbonaction.com/en/ets/china-national-ets"
+    }
+   ],
+   "reviewed": "2026-10-03"
+  },
+  {
+   "id": "cn-audit-rules",
+   "short": "China: audit and data rules",
+   "name": "Chinese counter-sanctions, data and security rules that affect supply-chain due diligence",
+   "reference": "Anti-Foreign Sanctions Law (2021) and implementing provisions (2025); Data Security Law and Personal Information Protection Law (2021)",
+   "pillars": [
+    "S",
+    "G"
+   ],
+   "area": "China",
+   "jurisdiction": "CN",
+   "stage": 4,
+   "flag": null,
+   "status": "Applies. These laws are not sustainability rules, but they set limits for audits, questionnaires and data transfers that foreign due diligence laws ask for.",
+   "summary": "Chinese law allows countermeasures against organisations that implement foreign measures regarded as discriminatory against Chinese citizens or organisations, and regulates the export of personal and important data. Both matter when a buyer collects supplier evidence for EU or German due diligence and forced labour rules.",
+   "scope": "Organisations and individuals operating in mainland China, including the local entities and staff of foreign companies and the audit firms they use.",
+   "keywords": [
+    "Anti-Foreign Sanctions Law",
+    "Personal Information Protection Law",
+    "PIPL",
+    "China Data Security Law",
+    "unreliable entity list",
+    "supply chain audits China"
+   ],
+   "dates": [
+    {
+     "date": "2021-06-10",
+     "label": "Anti-Foreign Sanctions Law enters into force"
+    },
+    {
+     "date": "2021-09-01",
+     "label": "Data Security Law enters into force"
+    },
+    {
+     "date": "2021-11-01",
+     "label": "Personal Information Protection Law enters into force"
+    },
+    {
+     "date": "2025-03-23",
+     "label": "implementing provisions for the Anti-Foreign Sanctions Law take effect"
+    }
+   ],
+   "links": [],
+   "reviewed": "2026-10-03"
+  }
+ ]
+}

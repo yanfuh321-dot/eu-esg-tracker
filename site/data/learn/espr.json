@@ -1,0 +1,237 @@
+{
+ "id": "espr",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The ESPR is a **framework**: it lets the Commission set sustainability requirements for almost any physical product, group by group, through delegated acts.",
+  "Requirements can cover **durability, repairability, recycled content, energy and resource efficiency, substances of concern and environmental footprint**.",
+  "It introduces the **Digital Product Passport**, a data record that accompanies each product.",
+  "One rule applies directly already: since **19 July 2026** large companies may not **destroy unsold clothing and footwear**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Most of a product's environmental impact is decided when it is designed. The old Ecodesign Directive of 2009 used that insight for energy-related products such as fridges and motors and achieved large energy savings. The ESPR, in force since July 2024, extends the approach from energy use to the whole life cycle and from energy-related products to nearly all goods."
+   ]
+  },
+  {
+   "title": "How the framework works",
+   "steps": [
+    "**Working plan.** The Commission publishes which product groups it will regulate first. The plan adopted in April 2025 names iron and steel, aluminium, textiles with a focus on apparel, furniture, tyres and mattresses, plus horizontal rules on repairability and on recycled content and recyclability of electrical equipment.",
+    "**Preparatory study and consultation.** For each group, evidence is gathered and stakeholders are heard in the Ecodesign Forum.",
+    "**Delegated act.** The Commission adopts the requirements for the product group.",
+    "**Transition.** Requirements generally apply no earlier than 18 months after the delegated act enters into force.",
+    "**Compliance.** Products must meet the requirements to be placed on the EU market, shown through conformity assessment and, where required, the CE marking."
+   ],
+   "after": [
+    "Until a delegated act exists for a product group, the ESPR creates no product requirements for it. Food, feed, medicines, living organisms and vehicles covered by their own legislation are excluded."
+   ]
+  },
+  {
+   "title": "Two kinds of requirements",
+   "points": [
+    "**Performance requirements**: minimum or maximum levels, for example a minimum number of wash cycles, a minimum share of recycled content, or availability of spare parts.",
+    "**Information requirements**: what must be disclosed, for example a repairability score, the carbon footprint or the presence of substances of concern. These are delivered through labels and the Digital Product Passport."
+   ]
+  },
+  {
+   "title": "The Digital Product Passport",
+   "text": [
+    "The passport is a set of data about a product model, batch or item, reached through a data carrier such as a QR code on the product. It can hold information on materials, origin, repair, recycling and compliance. Different users see different parts: consumers the basics, recyclers and repairers technical detail, authorities compliance documents.",
+    "Which data is required is decided for each product group in its delegated act. The Commission runs a central registry so that customs and market surveillance can check that a passport exists. The same idea appears in the Batteries Regulation, whose battery passport is the first to become mandatory."
+   ]
+  },
+  {
+   "title": "Unsold consumer products",
+   "points": [
+    "**Disclosure.** Large companies must publish each year how many unsold consumer products they discarded, by number and weight, and why. Medium-sized companies follow in 2030.",
+    "**Ban.** The destruction of unsold apparel, clothing accessories and footwear is prohibited for large companies since 19 July 2026 and for medium-sized companies from 19 July 2030. Micro and small companies are exempt. Narrow exceptions exist, for example for safety reasons.",
+    "The Commission can extend the ban to other product groups by delegated act."
+   ]
+  },
+  {
+   "title": "Who is responsible",
+   "text": [
+    "The main duties fall on **manufacturers** and, for products made outside the EU, on **importers**. Distributors and online marketplaces must check that products carry the required information. National market surveillance authorities enforce the rules; penalties are set by Member States. Public buyers will have to apply mandatory green procurement criteria for regulated product groups."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Ecodesign requirement",
+   "text": "A performance or information requirement that a product must meet to be sold in the EU."
+  },
+  {
+   "term": "Delegated act",
+   "text": "The Commission act that sets the concrete requirements for a product group under the framework."
+  },
+  {
+   "term": "Digital Product Passport (DPP)",
+   "text": "A product-specific data set, accessible electronically through a data carrier."
+  },
+  {
+   "term": "Data carrier",
+   "text": "The QR code, barcode or chip on the product that links to its passport."
+  },
+  {
+   "term": "Substance of concern",
+   "text": "A substance that is hazardous or hinders recycling. Its presence may have to be tracked and disclosed."
+  },
+  {
+   "term": "Working plan",
+   "text": "The Commission's list of product groups to be regulated first."
+  },
+  {
+   "term": "Ecodesign Forum",
+   "text": "The expert group of Member States and stakeholders consulted on each measure."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "18 July 2024",
+   "label": "entry into force"
+  },
+  {
+   "value": "19 July 2026",
+   "label": "destruction ban for unsold clothing and footwear applies to large companies"
+  },
+  {
+   "value": "19 July 2030",
+   "label": "destruction ban extends to medium-sized companies"
+  },
+  {
+   "value": "18 months",
+   "label": "usual minimum time between a delegated act and the start of its requirements"
+  },
+  {
+   "value": "6",
+   "label": "priority product groups in the first working plan, plus horizontal measures"
+  }
+ ],
+ "related": [
+  {
+   "id": "batteries",
+   "text": "A product-specific regulation built on the same ideas, with the first mandatory product passport."
+  },
+  {
+   "id": "ppwr",
+   "text": "Covers packaging, which the ESPR leaves to its own regulation."
+  },
+  {
+   "id": "ecgt",
+   "text": "Product information set under the ESPR, such as repairability scores, feeds into consumer information duties."
+  },
+  {
+   "id": "csrd",
+   "text": "Resource use and circular economy are reported under standard E5."
+  },
+  {
+   "id": "taxonomy",
+   "text": "Circular-economy criteria in the Taxonomy and ecodesign requirements point in the same direction."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "All products need a Digital Product Passport now.",
+   "right": "A passport is required only once the delegated act for the product group applies."
+  },
+  {
+   "wrong": "The ESPR already sets requirements for my product.",
+   "right": "The framework by itself sets none, apart from the rules on unsold goods. Requirements come with each delegated act."
+  },
+  {
+   "wrong": "The destruction ban covers all unsold goods.",
+   "right": "It covers apparel, clothing accessories and footwear. Other products are subject to disclosure only, unless added later."
+  },
+  {
+   "wrong": "The ESPR is about energy efficiency.",
+   "right": "That was the old directive. The ESPR covers the whole life cycle and almost all physical goods."
+  }
+ ],
+ "practice": [
+  "**Check the working plan** to see whether and when your product groups are due.",
+  "**Take part in the consultations** for your product group; the requirements are shaped there.",
+  "**Start collecting product data** on materials, substances and repairability. It will be needed for the passport.",
+  "If you sell clothing or footwear, **set up processes** for unsold stock: resale, donation, remanufacturing, recycling.",
+  "As a large company, **prepare the annual disclosure** on discarded unsold products."
+ ],
+ "quiz": [
+  {
+   "q": "What kind of act is the ESPR?",
+   "options": [
+    "A framework under which product-specific requirements are set by delegated acts",
+    "A directive on energy labels",
+    "A voluntary ecolabel scheme",
+    "A regulation on packaging waste"
+   ],
+   "answer": 0,
+   "why": "The ESPR sets the framework. Concrete requirements follow for each product group in delegated acts."
+  },
+  {
+   "q": "Which products did the predecessor, the Ecodesign Directive, cover?",
+   "options": [
+    "All physical products",
+    "Energy-related products",
+    "Only textiles",
+    "Only vehicles"
+   ],
+   "answer": 1,
+   "why": "The 2009 directive covered energy-related products. The ESPR extends ecodesign to almost all physical goods."
+  },
+  {
+   "q": "What is the Digital Product Passport?",
+   "options": [
+    "A customs document for imports",
+    "A product-specific data record accessible through a data carrier on the product",
+    "A certificate issued by ESMA",
+    "A register of manufacturers"
+   ],
+   "answer": 1,
+   "why": "It holds information on materials, repair, recycling and compliance, reached for example through a QR code."
+  },
+  {
+   "q": "Which unsold products may large companies no longer destroy since 19 July 2026?",
+   "options": [
+    "Electronics",
+    "Apparel, clothing accessories and footwear",
+    "Furniture",
+    "All consumer products"
+   ],
+   "answer": 1,
+   "why": "The ban starts with textiles and footwear. Other groups can be added by delegated act."
+  },
+  {
+   "q": "A furniture maker asks which ESPR requirements its products must meet today. What is the right answer?",
+   "options": [
+    "All requirements in the regulation",
+    "None specific to furniture until the delegated act for furniture is adopted and applies",
+    "The requirements for energy-related products",
+    "Those in the Batteries Regulation"
+   ],
+   "answer": 1,
+   "why": "Furniture is in the working plan, but obligations arise only with the product-specific delegated act."
+  },
+  {
+   "q": "Which of these is excluded from the ESPR?",
+   "options": [
+    "Tyres",
+    "Mattresses",
+    "Food",
+    "Steel"
+   ],
+   "answer": 2,
+   "why": "Food, feed, medicines and living organisms are outside the scope."
+  },
+  {
+   "q": "When does the destruction ban extend to medium-sized companies?",
+   "options": [
+    "2026",
+    "2028",
+    "2030",
+    "It never does"
+   ],
+   "answer": 2,
+   "why": "From 19 July 2030. Micro and small companies are exempt."
+  }
+ ]
+}

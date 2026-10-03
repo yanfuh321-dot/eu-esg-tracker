@@ -1,0 +1,183 @@
+{
+ "id": "de-csrd",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "The CSRD is a directive. In Germany it only binds companies once the **CSRD-Umsetzungsgesetz** has written it into the Commercial Code.",
+  "Germany **missed the deadline** of July 2024. A new government draft followed in September 2025 and was adapted to Omnibus I in 2026.",
+  "Until the act is in force, the **old rules on the non-financial statement** apply. Many companies use the ESRS voluntarily in the meantime.",
+  "After Omnibus I the duty will cover companies with **more than 1,000 employees and more than €450m turnover**."
+ ],
+ "sections": [
+  {
+   "title": "Why Germany is late",
+   "text": [
+    "A first bill from 2024 lapsed when the government fell and elections were called. By the time a new government took over, the EU had already started to narrow the CSRD. The government therefore presented a new draft on 3 September 2025 and held it back until the EU changes were final, so that German companies would not be bound by rules that were about to be relaxed. The Commission opened infringement proceedings for the delay."
+   ]
+  },
+  {
+   "title": "What the act does",
+   "points": [
+    "Replaces the non-financial statement with a **sustainability report** as a separate section of the management report (sections 289b and following, and 315b and following, of the Commercial Code).",
+    "Makes the **ESRS** the binding content of that report.",
+    "Requires an **audit with limited assurance** and a separate audit opinion.",
+    "Transposes the directive **one-to-one**, without going beyond it.",
+    "Contains **transition rules** for the financial years affected by the late transposition."
+   ]
+  },
+  {
+   "title": "What applies in the meantime",
+   "text": [
+    "As long as the act is not in force, the rules of 2017 remain the law: large capital-market-oriented companies with more than 500 employees publish a non-financial statement. They may use a recognised framework, and many apply the ESRS in full or in part to be ready. Such a report is described as prepared ‘with reference to’ the ESRS; the legal duty behind it is still the old one."
+   ]
+  },
+  {
+   "title": "How Omnibus I is built in",
+   "points": [
+    "The coalition's amendments of March 2026 take over the new scope: more than 1,000 employees **and** more than €450m net turnover.",
+    "Companies that would have reported under the original waves but fall below the new thresholds are relieved for the transition years.",
+    "The government expects up to about **3,900 companies** in Germany to remain in scope.",
+    "Member States have until **19 March 2027** to transpose the Omnibus changes."
+   ]
+  },
+  {
+   "title": "Where the procedure stands",
+   "text": [
+    "The Bundesrat raised no objection, the legal affairs committee of the Bundestag held a hearing on 13 April 2026, and the second and third readings were to follow. When this page was reviewed, it could not be confirmed that the final vote and the publication in the Federal Law Gazette had taken place. Check the tracker's status line and the links before relying on a date."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "HGB",
+   "text": "Handelsgesetzbuch, the German Commercial Code, which contains the accounting and reporting rules."
+  },
+  {
+   "term": "Non-financial statement",
+   "text": "The report required since 2017 under the transposition of the older NFRD."
+  },
+  {
+   "term": "Capital-market-oriented",
+   "text": "A company whose shares or bonds are traded on a regulated market."
+  },
+  {
+   "term": "Infringement proceedings",
+   "text": "The Commission's procedure against a Member State that fails to apply EU law, here for late transposition."
+  },
+  {
+   "term": "One-to-one transposition",
+   "text": "Adopting exactly what the directive requires, without stricter national additions."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "6 July 2024",
+   "label": "original transposition deadline, missed"
+  },
+  {
+   "value": "3 Sept 2025",
+   "label": "government draft adopted by the cabinet"
+  },
+  {
+   "value": "about 3,900",
+   "label": "companies expected to remain in scope in Germany"
+  },
+  {
+   "value": "19 March 2027",
+   "label": "deadline for transposing the Omnibus I changes"
+  }
+ ],
+ "related": [
+  {
+   "id": "csrd",
+   "text": "The directive being transposed. Its page explains scope, content and the Omnibus changes."
+  },
+  {
+   "id": "esrs-revised",
+   "text": "The standards that will be mandatory from financial year 2027."
+  },
+  {
+   "id": "de-lksg",
+   "text": "Amended in the same package; a full CSRD report can replace reporting under the supply chain act."
+  },
+  {
+   "id": "foundations",
+   "text": "A practical example of what late transposition of a directive means."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "German companies have been legally bound by the CSRD since 2024.",
+   "right": "Not before the German act is in force. Until then the older reporting rules apply."
+  },
+  {
+   "wrong": "A report ‘with reference to the ESRS’ is a CSRD report.",
+   "right": "It is a voluntary use of the standards on top of the old legal duty."
+  },
+  {
+   "wrong": "Germany will add stricter national rules.",
+   "right": "The stated aim is a one-to-one transposition."
+  }
+ ],
+ "practice": [
+  "**Check the legal basis** of each year's report with the auditor: old rules or new act.",
+  "**Keep preparing under the ESRS**, so that the first mandatory report is not a restart.",
+  "**Follow the final vote and publication** and read the transition rules for your financial years."
+ ],
+ "quiz": [
+  {
+   "q": "When does the CSRD bind a company in Germany?",
+   "options": [
+    "Since the directive entered into force",
+    "Once the German transposition act is in force",
+    "Only after a court ruling",
+    "Never, it is voluntary"
+   ],
+   "answer": 1,
+   "why": "A directive needs national law. Without it, the earlier national rules continue to apply."
+  },
+  {
+   "q": "What applies to large listed German companies until the act is in force?",
+   "options": [
+    "No reporting duty",
+    "The rules on the non-financial statement from 2017",
+    "The full ESRS by law",
+    "The voluntary standard for SMEs"
+   ],
+   "answer": 1,
+   "why": "The 2017 transposition of the older directive remains the legal basis."
+  },
+  {
+   "q": "Which scope do the 2026 amendments build into the German act?",
+   "options": [
+    "More than 250 employees",
+    "More than 500 employees",
+    "More than 1,000 employees and more than €450m turnover",
+    "More than 5,000 employees"
+   ],
+   "answer": 2,
+   "why": "They take over the Omnibus I thresholds."
+  },
+  {
+   "q": "What does ‘one-to-one transposition’ mean?",
+   "options": [
+    "Each company gets an individual deadline",
+    "National law adopts exactly what the directive requires, without additions",
+    "One report covers one year",
+    "One auditor per company"
+   ],
+   "answer": 1,
+   "why": "It rules out stricter national requirements beyond the directive."
+  },
+  {
+   "q": "What consequence did the missed 2024 deadline have at EU level?",
+   "options": [
+    "None",
+    "The Commission opened infringement proceedings",
+    "The CSRD was repealed for Germany",
+    "German companies had to report to the Commission directly"
+   ],
+   "answer": 1,
+   "why": "Late transposition is a breach of EU law by the Member State."
+  }
+ ]
+}

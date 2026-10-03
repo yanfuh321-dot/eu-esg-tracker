@@ -1,0 +1,240 @@
+{
+ "id": "ecgt",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The ECGT directive adds **greenwashing and early obsolescence** to the list of unfair commercial practices in EU consumer law.",
+  "**Generic claims** such as ‘eco-friendly’ or ‘green’ are banned unless the trader can show recognised excellent environmental performance.",
+  "**Climate-neutral claims based on offsetting** are banned for products, and **sustainability labels** must rest on a certification scheme or a public authority.",
+  "The rules apply through national law since **27 September 2026**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "A Commission study found that more than half of the environmental claims examined were vague, misleading or unfounded, and counted around 230 sustainability labels with very different levels of rigour. Consumers cannot make sustainable choices on that basis, and honest companies are undercut by those who exaggerate.",
+    "Instead of creating a new law, the directive amends two existing ones: the **Unfair Commercial Practices Directive** and the **Consumer Rights Directive**. That makes it enforceable through the consumer authorities and courts that already exist."
+   ]
+  },
+  {
+   "title": "What is banned outright",
+   "text": [
+    "These practices are on the ‘blacklist’: they are unfair in all circumstances, without any need to prove that consumers were misled."
+   ],
+   "points": [
+    "**Generic environmental claims** without recognised excellent environmental performance relevant to the claim. Examples: ‘environmentally friendly’, ‘eco’, ‘green’, ‘climate-friendly’, ‘biodegradable’ without specification.",
+    "**Claims about the whole product** when only one aspect of it is concerned.",
+    "**Sustainability labels** that are not based on a certification scheme or established by a public authority.",
+    "**Claims based on offsetting** that a product has a neutral, reduced or positive impact on the environment in terms of greenhouse gas emissions.",
+    "**Presenting legal requirements as a special feature** of the trader's offer.",
+    "**Obsolescence-related practices**: hiding that a software update will impair a device, presenting goods as repairable when they are not, false durability claims, or prompting consumers to replace consumables earlier than needed."
+   ]
+  },
+  {
+   "title": "What is misleading unless backed up",
+   "points": [
+    "**Claims about future environmental performance**, such as ‘net zero by 2040’, are misleading unless they rest on clear, objective and verifiable commitments set out in a detailed and realistic implementation plan, with measurable, time-bound targets and regular verification by an independent expert whose findings are made available to consumers.",
+    "**Advertising benefits that are irrelevant** to the product or do not result from any feature of it.",
+    "**Comparisons** of products on sustainability require information about the method, the products and the suppliers compared."
+   ]
+  },
+  {
+   "title": "New information duties",
+   "points": [
+    "A **harmonised notice** reminding consumers of the legal guarantee of conformity of at least two years.",
+    "A **harmonised label** for products that come with a commercial durability guarantee from the producer of more than two years at no extra cost.",
+    "Information on **software updates** and, where EU law provides for one, the **repairability score** before purchase."
+   ]
+  },
+  {
+   "title": "Who is covered and how it is enforced",
+   "text": [
+    "Every trader who markets to consumers in the EU is covered, whatever its size and wherever it is based. Business-to-business marketing is outside. Enforcement follows national consumer law: authorities can order claims to be withdrawn and impose fines, competitors and consumer organisations can go to court, and for widespread infringements across several Member States fines can reach at least 4% of annual turnover."
+   ]
+  },
+  {
+   "title": "The missing second half",
+   "text": [
+    "The ECGT says which claims are prohibited. A second act, the **Green Claims Directive**, was meant to say how permitted claims must be substantiated and verified. That proposal is stalled. For now, the ECGT and the general rules on misleading practices are what applies."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Environmental claim",
+   "text": "Any message that states or implies that a product, brand or trader has a positive or reduced impact on the environment. Includes images, colours and symbols."
+  },
+  {
+   "term": "Generic environmental claim",
+   "text": "An environmental claim that is not specified on the same medium in clear terms, such as ‘sustainable’ on its own."
+  },
+  {
+   "term": "Recognised excellent environmental performance",
+   "text": "Performance in line with the EU Ecolabel, officially recognised national ecolabels or top performance under EU law, such as the best energy class."
+  },
+  {
+   "term": "Sustainability label",
+   "text": "A voluntary trust mark or quality mark about environmental or social characteristics."
+  },
+  {
+   "term": "Certification scheme",
+   "text": "A third-party verification scheme open to all traders on transparent terms, with independent monitoring."
+  },
+  {
+   "term": "Blacklist",
+   "text": "Annex I of the Unfair Commercial Practices Directive: practices that are always unfair."
+  },
+  {
+   "term": "Offsetting",
+   "text": "Compensating emissions by paying for reductions elsewhere, for example through carbon credits."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "27 Sept 2026",
+   "label": "start of application in national law"
+  },
+  {
+   "value": "27 March 2026",
+   "label": "transposition deadline"
+  },
+  {
+   "value": "2 years",
+   "label": "minimum legal guarantee that the harmonised notice reminds consumers of"
+  },
+  {
+   "value": "4%",
+   "label": "of annual turnover: minimum level of the maximum fine for widespread cross-border infringements"
+  }
+ ],
+ "related": [
+  {
+   "id": "green-claims",
+   "text": "The intended companion act on how to substantiate claims. Stalled since June 2025."
+  },
+  {
+   "id": "espr",
+   "text": "Sets the product requirements and repairability scores that the information duties refer to."
+  },
+  {
+   "id": "ppwr",
+   "text": "Contains its own rules on environmental claims about packaging."
+  },
+  {
+   "id": "sfdr2",
+   "text": "Applies the same logic to financial products: sustainability terms only where criteria are met."
+  },
+  {
+   "id": "csrd",
+   "text": "Net-zero claims in advertising should match the targets and plans in the sustainability statement."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Environmental claims are now prohibited.",
+   "right": "Specific, substantiated claims remain allowed. What is banned are generic claims, unverified labels and offset-based product claims."
+  },
+  {
+   "wrong": "‘Climate neutral’ is fine if the company buys carbon credits.",
+   "right": "Product claims of neutral or reduced climate impact that rely on offsetting are blacklisted."
+  },
+  {
+   "wrong": "The rules concern only large companies.",
+   "right": "Every trader selling to consumers is covered. The Green Claims proposal, not the ECGT, discussed an exemption for micro-enterprises."
+  },
+  {
+   "wrong": "A company's own sustainability logo is a label like any other.",
+   "right": "A self-made label without a certification scheme behind it is banned."
+  },
+  {
+   "wrong": "A net-zero target can be advertised freely.",
+   "right": "Future claims need a realistic implementation plan with interim targets and independent verification."
+  }
+ ],
+ "practice": [
+  "**Inventory every claim** on packaging, websites, advertising and social media, including logos, colours and images.",
+  "**Replace generic wording** with specific statements: what, how much, compared with what, for which part of the product.",
+  "**Check every label** for a qualifying certification scheme. Retire self-declared marks.",
+  "**Remove offset-based neutrality claims** on products.",
+  "For **future targets**, publish the implementation plan and arrange independent verification.",
+  "**Check the national transposition** in each market: this is a directive."
+ ],
+ "quiz": [
+  {
+   "q": "How does the ECGT directive take effect?",
+   "options": [
+    "It applies directly as a regulation",
+    "It amends the Unfair Commercial Practices and Consumer Rights directives, transposed into national law",
+    "It creates a new EU agency for green claims",
+    "It applies only to products with the EU Ecolabel"
+   ],
+   "answer": 1,
+   "why": "It works through existing consumer law, which Member States had to adapt by March 2026 and apply from 27 September 2026."
+  },
+  {
+   "q": "A shampoo bottle carries the word ‘eco-friendly’ with no further explanation. Under the ECGT this is…",
+   "options": [
+    "allowed if the company believes it",
+    "banned unless recognised excellent environmental performance can be shown",
+    "allowed with a footnote on the website",
+    "allowed for companies with fewer than 50 employees"
+   ],
+   "answer": 1,
+   "why": "Generic environmental claims are blacklisted unless backed by recognised excellent environmental performance relevant to the claim."
+  },
+  {
+   "q": "A product is advertised as ‘climate neutral’ because the producer buys carbon credits. What applies?",
+   "options": [
+    "Allowed if the credits are certified",
+    "Banned: product claims of neutral climate impact based on offsetting are prohibited",
+    "Allowed until 2030",
+    "Allowed for food products only"
+   ],
+   "answer": 1,
+   "why": "Claims that a product has a neutral, reduced or positive greenhouse gas impact based on offsetting are always unfair."
+  },
+  {
+   "q": "When is a sustainability label permitted?",
+   "options": [
+    "When the trader designed it itself",
+    "When it is based on a certification scheme or established by a public authority",
+    "When it has been used for more than five years",
+    "When it is registered as a trade mark"
+   ],
+   "answer": 1,
+   "why": "Self-declared labels without third-party certification are banned."
+  },
+  {
+   "q": "What does a claim such as ‘net zero by 2040’ need?",
+   "options": [
+    "Nothing; future claims are unregulated",
+    "A detailed, realistic implementation plan with measurable targets and independent verification",
+    "Approval by the European Commission",
+    "A matching ESG rating"
+   ],
+   "answer": 1,
+   "why": "Future performance claims are misleading without a verifiable plan and regular independent checks."
+  },
+  {
+   "q": "Which traders are covered?",
+   "options": [
+    "Only those with more than 250 employees",
+    "Only those based in the EU",
+    "All traders marketing to consumers in the EU",
+    "Only producers, not retailers"
+   ],
+   "answer": 2,
+   "why": "Consumer law applies to every trader addressing EU consumers, regardless of size or location."
+  },
+  {
+   "q": "Since when do the new rules apply?",
+   "options": [
+    "26 March 2024",
+    "27 March 2026",
+    "27 September 2026",
+    "1 January 2028"
+   ],
+   "answer": 2,
+   "why": "The directive entered into force in March 2024, had to be transposed by 27 March 2026 and applies from 27 September 2026."
+  }
+ ]
+}

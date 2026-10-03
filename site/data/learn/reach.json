@@ -1,0 +1,221 @@
+{
+ "id": "reach",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "REACH is the EU's **general chemicals law**. It applies to substances on their own, in mixtures and in finished products, which it calls articles.",
+  "For product companies two parts matter most: the **restrictions** in Annex XVII and the **information duties** for substances of very high concern.",
+  "If an article contains a substance from the **Candidate List above 0.1% by weight**, customers must be told and the article must be notified to the SCIP database.",
+  "The **EU importer** is responsible for what is in imported goods."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Before REACH, most chemicals on the market had never been assessed, and authorities had to prove a substance was dangerous before they could act. REACH reversed the burden: companies must show that the substances they make or import can be used safely. The principle is ‘no data, no market’."
+   ]
+  },
+  {
+   "title": "The four processes",
+   "points": [
+    "**Registration**: manufacturers and importers of a substance in quantities of one tonne or more per year submit data on its properties and uses to the European Chemicals Agency, ECHA.",
+    "**Evaluation**: ECHA and Member States check the registrations and selected substances.",
+    "**Authorisation**: substances of very high concern listed in Annex XIV may only be used with a specific authorisation after a sunset date.",
+    "**Restriction**: Annex XVII bans or limits substances in defined uses, including in articles. This is the part that works like RoHS."
+   ]
+  },
+  {
+   "title": "Substances of very high concern in articles",
+   "text": [
+    "Substances that cause cancer, damage fertility, disrupt hormones or persist in the environment can be identified as substances of very high concern and put on the **Candidate List**. The list is updated twice a year. From the day a substance is listed, suppliers of articles have duties:"
+   ],
+   "points": [
+    "**Tell business customers** (Article 33): pass on the name of the substance and information for safe use, with the delivery.",
+    "**Answer consumers** within 45 days, free of charge, when they ask.",
+    "**Notify the SCIP database** at ECHA, so that waste operators know where such substances are.",
+    "**Notify ECHA** (Article 7) if the total amount in all articles exceeds one tonne per year, unless the use is already registered."
+   ],
+   "after": [
+    "The 0.1% threshold applies to each article in the legal sense, including every component that was an article before assembly: ‘once an article, always an article’. A handle containing a listed plasticiser triggers the duty even if it is a small part of the tool."
+   ]
+  },
+  {
+   "title": "Restrictions that matter for tools",
+   "points": [
+    "**PAHs** in rubber and plastic parts that touch the skin, such as grips.",
+    "**Lead** and **cadmium** in various articles, plastics and coatings.",
+    "**Phthalates** in plasticised materials.",
+    "**Nickel** release from parts in prolonged skin contact.",
+    "A **broad PFAS restriction** covering thousands of substances is being assessed. PFAS are used in seals, lubricants, coatings and battery components."
+   ]
+  },
+  {
+   "title": "Who is responsible",
+   "text": [
+    "A manufacturer outside the EU has no duties under REACH. They fall on whoever brings the goods into the EU: the **importer**. A non-EU producer can appoint an **only representative** to register substances, which relieves importers of that task, but the article duties stay with the importer and each supplier down the chain. Enforcement and penalties are national."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Article",
+   "text": "An object whose shape, surface or design determines its function more than its chemical composition. A tool, a screw and a cable are articles."
+  },
+  {
+   "term": "SVHC",
+   "text": "Substance of very high concern."
+  },
+  {
+   "term": "Candidate List",
+   "text": "The list of identified substances of very high concern, from which substances are chosen for authorisation."
+  },
+  {
+   "term": "Annex XVII",
+   "text": "The list of restrictions on manufacture, placing on the market and use."
+  },
+  {
+   "term": "SCIP",
+   "text": "ECHA's database of articles containing Candidate List substances, set up under the Waste Framework Directive."
+  },
+  {
+   "term": "ECHA",
+   "text": "The European Chemicals Agency in Helsinki."
+  },
+  {
+   "term": "Only representative",
+   "text": "An EU entity appointed by a non-EU manufacturer to fulfil the registration duties of importers."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "0.1%",
+   "label": "by weight in an article: the threshold for the information duties"
+  },
+  {
+   "value": "45 days",
+   "label": "deadline for answering a consumer's request"
+  },
+  {
+   "value": "1 tonne",
+   "label": "per year: the threshold for registration, and for notification of substances in articles"
+  },
+  {
+   "value": "twice a year",
+   "label": "how often the Candidate List is usually extended"
+  }
+ ],
+ "related": [
+  {
+   "id": "rohs",
+   "text": "Specific limits for electrical equipment. A substance can be limited under both laws with different thresholds."
+  },
+  {
+   "id": "batteries",
+   "text": "Has its own substance limits and labelling for batteries."
+  },
+  {
+   "id": "espr",
+   "text": "The Digital Product Passport is meant to carry information on substances of concern."
+  },
+  {
+   "id": "ppwr",
+   "text": "Restricts PFAS and heavy metals in packaging separately."
+  },
+  {
+   "id": "csrd",
+   "text": "Substances of concern are reported under the pollution standard where material."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "REACH only concerns chemical companies.",
+   "right": "Every importer and supplier of articles has duties, in particular for Candidate List substances and restrictions."
+  },
+  {
+   "wrong": "0.1% is calculated on the whole product.",
+   "right": "It is calculated for each component article."
+  },
+  {
+   "wrong": "A declaration from last year is still valid.",
+   "right": "The Candidate List changes twice a year. A declaration is only as current as the list it was checked against."
+  },
+  {
+   "wrong": "A Candidate List substance may not be used.",
+   "right": "Listing triggers information duties. A ban follows only through authorisation or restriction."
+  }
+ ],
+ "practice": [
+  "**Collect declarations per article** against the current Candidate List and Annex XVII.",
+  "**Refresh them after each list update**; build the request into supplier contracts.",
+  "**Test risk parts**: grips, cables, seals, coated and coloured parts.",
+  "**Prepare customer information and SCIP notifications** for articles above 0.1%.",
+  "**Screen for PFAS** now, so that you know where substitution would be needed."
+ ],
+ "quiz": [
+  {
+   "q": "A tool's rubber grip contains a Candidate List substance at 0.3% of the grip's weight, but far less than 0.1% of the whole tool. Do the information duties apply?",
+   "options": [
+    "No, the whole tool is the reference",
+    "Yes, the threshold applies to each component article",
+    "Only if the tool is sold to children",
+    "Only above one tonne per year"
+   ],
+   "answer": 1,
+   "why": "Every component that was an article before assembly is assessed on its own."
+  },
+  {
+   "q": "Who is responsible under REACH for a tool made outside the EU?",
+   "options": [
+    "The non-EU manufacturer",
+    "The EU importer",
+    "ECHA",
+    "The retailer only"
+   ],
+   "answer": 1,
+   "why": "REACH duties fall on EU actors. For imported articles that is the importer, and every supplier further down the chain for the information duties."
+  },
+  {
+   "q": "How long does a supplier have to answer a consumer's question about Candidate List substances in an article?",
+   "options": [
+    "7 days",
+    "45 days",
+    "6 months",
+    "There is no deadline"
+   ],
+   "answer": 1,
+   "why": "The information must be provided free of charge within 45 days."
+  },
+  {
+   "q": "What does inclusion in the Candidate List mean?",
+   "options": [
+    "The substance is banned",
+    "Information duties apply at once; a ban may follow later",
+    "The substance must be registered again",
+    "Nothing until authorisation"
+   ],
+   "answer": 1,
+   "why": "Listing triggers the article duties immediately. Use is only restricted through Annex XIV or Annex XVII."
+  },
+  {
+   "q": "Which part of REACH bans or limits substances in defined uses, similar to RoHS?",
+   "options": [
+    "Registration",
+    "Evaluation",
+    "Annex XVII restrictions",
+    "The SCIP database"
+   ],
+   "answer": 2,
+   "why": "Annex XVII contains the restrictions, such as on PAHs in grips."
+  },
+  {
+   "q": "How often is the Candidate List usually updated?",
+   "options": [
+    "Every five years",
+    "Once a year",
+    "Twice a year",
+    "Monthly"
+   ],
+   "answer": 2,
+   "why": "New substances are typically added twice a year, which is why supplier declarations need regular renewal."
+  }
+ ]
+}

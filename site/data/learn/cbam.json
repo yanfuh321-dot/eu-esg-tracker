@@ -1,0 +1,282 @@
+{
+ "id": "cbam",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "CBAM puts the **EU carbon price on imports** of emission-intensive goods, so that producers inside and outside the EU face the same cost.",
+  "It covers **cement, iron and steel, aluminium, fertilisers, electricity and hydrogen**.",
+  "Since **1 January 2026** only **authorised CBAM declarants** may import more than **50 tonnes** of covered goods per year.",
+  "Payment starts in **2027**: certificates for 2026 imports go on sale on 1 February 2027, and the first declaration is due on **30 September 2027**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "EU producers of steel or cement pay for their emissions under the ETS. If importers do not, production can move abroad and global emissions do not fall. Until now the EU dealt with this by giving industry free allowances. CBAM replaces that protection with a charge on imports, which also gives other countries a reason to price carbon themselves."
+   ]
+  },
+  {
+   "title": "What is covered",
+   "points": [
+    "The goods are listed by customs code in Annex I: **cement**, **iron and steel** including some downstream products such as screws and bolts, **aluminium**, **fertilisers**, **electricity** and **hydrogen**.",
+    "Imports from all non-EU countries are covered, except countries that take part in or are linked to the ETS: Iceland, Liechtenstein, Norway and Switzerland.",
+    "Importers below **50 tonnes** a year in total are exempt. The threshold does not apply to electricity and hydrogen. It removes around 90% of importers from the system while keeping about 99% of the emissions in it.",
+    "A proposal to extend CBAM to further downstream steel and aluminium products and to tighten anti-circumvention rules is in the legislative procedure. Check the tracker for its current state."
+   ]
+  },
+  {
+   "title": "The two periods",
+   "table": {
+    "head": [
+     "",
+     "Transitional period",
+     "Definitive period"
+    ],
+    "rows": [
+     [
+      "When",
+      "1 October 2023 to 31 December 2025",
+      "From 1 January 2026"
+     ],
+     [
+      "Duty",
+      "Quarterly reports on embedded emissions",
+      "Authorisation, annual declaration, purchase and surrender of certificates"
+     ],
+     [
+      "Payment",
+      "None",
+      "Yes, for imports from 2026, paid from 2027"
+     ],
+     [
+      "Threshold",
+      "Consignments up to €150",
+      "50 tonnes per importer and year"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "How the definitive system works",
+   "steps": [
+    "**Get authorised.** The importer, or an indirect customs representative, applies for the status of authorised CBAM declarant in its Member State.",
+    "**Collect emissions data.** Ask the producers for the embedded emissions of the goods. From 2026 actual values must be checked by an accredited verifier. Without them, default values apply, which are set conservatively.",
+    "**Declare.** By 30 September, submit the CBAM declaration for the previous calendar year: quantities, embedded emissions and certificates due.",
+    "**Buy certificates.** They are sold on a common platform. The price follows the ETS auction price: the quarterly average for 2026 imports, the weekly average from 2027.",
+    "**Surrender.** Hand in certificates for the declared emissions by the same date. During the year, at the end of each quarter, the declarant must hold certificates for at least 50% of the emissions imported since January."
+   ]
+  },
+  {
+   "title": "How much has to be paid",
+   "text": [
+    "The number of certificates is not simply the embedded emissions. Two adjustments apply."
+   ],
+   "points": [
+    "**The free-allocation adjustment.** As long as EU producers receive free allowances, importers pay only for the corresponding remainder. In 2026 that is 2.5% of embedded emissions, rising each year to 100% in 2034.",
+    "**Carbon price paid abroad.** A carbon price effectively paid in a third country for the same emissions can be deducted, with evidence."
+   ],
+   "after": [
+    "For most goods only **direct emissions** from production count. For cement and fertilisers, **indirect emissions** from the electricity used are included as well."
+   ]
+  },
+  {
+   "title": "Enforcement",
+   "text": [
+    "Customs let covered goods above the threshold in only if the importer is an authorised declarant. For each certificate not surrendered, a penalty of €100 per tonne, adjusted for inflation, applies, as in the ETS. Importing without authorisation attracts a multiple of that."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Authorised CBAM declarant",
+   "text": "The importer or indirect customs representative approved to import CBAM goods and responsible for the declaration."
+  },
+  {
+   "term": "Embedded emissions",
+   "text": "The emissions released in producing a good, including those of relevant input materials."
+  },
+  {
+   "term": "CBAM certificate",
+   "text": "One certificate covers one tonne of CO2 equivalent of embedded emissions. Certificates cannot be traded."
+  },
+  {
+   "term": "Default values",
+   "text": "Standard emission values set by the Commission for use when actual data is missing. Deliberately unfavourable."
+  },
+  {
+   "term": "Free-allocation adjustment",
+   "text": "The reduction of the CBAM obligation that mirrors the free allowances EU producers still receive."
+  },
+  {
+   "term": "Precursor",
+   "text": "An input material that is itself a CBAM good, such as pig iron for steel. Its emissions count towards the product."
+  },
+  {
+   "term": "Carbon leakage",
+   "text": "The relocation of production and emissions to countries without comparable carbon pricing."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "6",
+   "label": "sectors: cement, iron and steel, aluminium, fertilisers, electricity, hydrogen"
+  },
+  {
+   "value": "50 tonnes",
+   "label": "yearly import mass below which an importer is exempt"
+  },
+  {
+   "value": "1 Feb 2027",
+   "label": "start of certificate sales for 2026 imports"
+  },
+  {
+   "value": "30 Sept 2027",
+   "label": "first annual declaration and surrender of certificates"
+  },
+  {
+   "value": "2.5%",
+   "label": "share of embedded emissions payable in 2026, rising to 100% in 2034"
+  },
+  {
+   "value": "50%",
+   "label": "of emissions imported since January that must be covered by certificates at each quarter-end"
+  }
+ ],
+ "related": [
+  {
+   "id": "ets",
+   "text": "CBAM mirrors the ETS. Its price comes from ETS auctions, and its phase-in follows the phase-out of free allocation."
+  },
+  {
+   "id": "csrd",
+   "text": "Importers report the emissions of purchased goods in Scope 3, and CBAM costs under climate-related financial effects."
+  },
+  {
+   "id": "eudr",
+   "text": "Another regime where importers must obtain data from producers abroad, with customs as the gatekeeper."
+  },
+  {
+   "id": "foundations",
+   "text": "CBAM is a regulation managed by the Commission's customs department, with a common registry for all Member States."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "CBAM is a customs duty.",
+   "right": "It is a carbon price that mirrors the ETS, collected through certificates and an annual declaration, not at the border."
+  },
+  {
+   "wrong": "The foreign producer pays CBAM.",
+   "right": "The EU importer is liable. Producers abroad are affected because importers need their emissions data and may pass on the cost."
+  },
+  {
+   "wrong": "Importers pay for all embedded emissions from 2026.",
+   "right": "In 2026 only 2.5% is payable. The share rises as free allocation in the ETS is phased out."
+  },
+  {
+   "wrong": "Certificates have to be bought during 2026.",
+   "right": "Sales start on 1 February 2027. Obligations for 2026 imports are settled in 2027."
+  },
+  {
+   "wrong": "CBAM applies to EU exports.",
+   "right": "It applies to imports only."
+  }
+ ],
+ "practice": [
+  "**List your imports by customs code** and add up the mass per year. Stay alert if you are close to 50 tonnes.",
+  "**Apply for authorisation** in time; goods cannot be imported above the threshold without it.",
+  "**Request verified emissions data** from producers early and explain the format they need to use.",
+  "**Estimate the cost** with default values as the worst case and budget for the rising payable share.",
+  "**Plan certificate purchases** around the quarterly 50% rule from 2027.",
+  "**Keep evidence** of any carbon price paid in the country of origin."
+ ],
+ "quiz": [
+  {
+   "q": "What is the purpose of CBAM?",
+   "options": [
+    "To raise customs revenue",
+    "To put a carbon price on imports equivalent to the one EU producers pay",
+    "To ban imports from countries without climate targets",
+    "To subsidise EU steel producers"
+   ],
+   "answer": 1,
+   "why": "CBAM equalises the carbon cost of imported and EU-made goods, to prevent carbon leakage."
+  },
+  {
+   "q": "Which of these goods is NOT covered by CBAM?",
+   "options": [
+    "Cement",
+    "Aluminium",
+    "Hydrogen",
+    "Plastics"
+   ],
+   "answer": 3,
+   "why": "The six sectors are cement, iron and steel, aluminium, fertilisers, electricity and hydrogen."
+  },
+  {
+   "q": "Who is liable for CBAM?",
+   "options": [
+    "The producer outside the EU",
+    "The EU importer as authorised CBAM declarant",
+    "The final consumer",
+    "The shipping company"
+   ],
+   "answer": 1,
+   "why": "The obligation lies with the importer or its indirect customs representative."
+  },
+  {
+   "q": "Below which annual import mass is an importer exempt?",
+   "options": [
+    "1 tonne",
+    "10 tonnes",
+    "50 tonnes",
+    "500 tonnes"
+   ],
+   "answer": 2,
+   "why": "The 2025 simplification introduced a single mass threshold of 50 tonnes per importer and year."
+  },
+  {
+   "q": "When is the first annual CBAM declaration due?",
+   "options": [
+    "31 January 2026",
+    "31 May 2027",
+    "30 September 2027",
+    "1 January 2028"
+   ],
+   "answer": 2,
+   "why": "It covers imports of 2026 and is due on 30 September 2027, together with the surrender of certificates."
+  },
+  {
+   "q": "What share of embedded emissions must be covered by certificates for 2026 imports?",
+   "options": [
+    "2.5%",
+    "25%",
+    "50%",
+    "100%"
+   ],
+   "answer": 0,
+   "why": "The payable share mirrors the phase-out of free allocation: 2.5% in 2026, rising to 100% in 2034."
+  },
+  {
+   "q": "An importer has no emissions data from its supplier. What applies?",
+   "options": [
+    "The goods cannot be imported",
+    "Default values set by the Commission",
+    "The EU average for the product",
+    "Zero emissions are assumed"
+   ],
+   "answer": 1,
+   "why": "Default values are used. They are set conservatively, so actual verified data usually results in a lower cost."
+  },
+  {
+   "q": "How is the price of a CBAM certificate determined?",
+   "options": [
+    "It is fixed by law at €100",
+    "It follows the auction price of EU ETS allowances",
+    "It is negotiated with customs",
+    "It depends on the country of origin"
+   ],
+   "answer": 1,
+   "why": "The price tracks the ETS: a quarterly average for 2026 imports, a weekly average from 2027."
+  }
+ ]
+}

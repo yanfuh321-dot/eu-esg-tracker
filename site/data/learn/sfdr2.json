@@ -1,0 +1,255 @@
+{
+ "id": "sfdr2",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "SFDR 2.0 turns a disclosure regime into a **categorisation regime**: products that make sustainability claims must fit one of three categories with minimum criteria.",
+  "The categories are **Sustainable**, **Transition** and **ESG Basics**. In each, at least **70%** of investments must follow the stated strategy, and exclusions apply.",
+  "Firm-level reporting of principal adverse impacts would be **dropped**, and the vague definition of ‘sustainable investment’ deleted.",
+  "It is still a **proposal**. Council and Parliament have set out their positions; the final text will come out of trilogue, and application is unlikely before 2029."
+ ],
+ "sections": [
+  {
+   "title": "Why the SFDR is being rewritten",
+   "text": [
+    "The current regulation asks for a lot of information that retail investors do not read, while failing to answer their basic question: what kind of product is this? Articles 8 and 9 became labels without criteria. The Commission's proposal of 20 November 2025 responds with fewer disclosures and clear categories.",
+    "The reform is also part of the simplification agenda. With fewer companies reporting under the CSRD, funds have less data, so the firm-level indicators that depend on that data are cut back."
+   ]
+  },
+  {
+   "title": "The three categories",
+   "table": {
+    "head": [
+     "Category",
+     "What it is for",
+     "Core conditions in the proposal"
+    ],
+    "rows": [
+     [
+      "Sustainable (Article 9)",
+      "Investments in companies, assets or activities that already are sustainable",
+      "At least 70% in such investments; the strictest exclusions, modelled on Paris-aligned benchmarks; Taxonomy alignment as one way to qualify"
+     ],
+     [
+      "Transition (Article 7)",
+      "Investments in companies or projects on a credible path to becoming sustainable",
+      "At least 70% in investments with a credible transition path or measurable improvement targets; exclusions for companies expanding fossil fuel activities"
+     ],
+     [
+      "ESG Basics (Article 8)",
+      "Products that integrate sustainability factors without a sustainability objective",
+      "At least 70% following the stated ESG approach; basic exclusions, for example controversial weapons, tobacco and companies that violate international norms"
+     ]
+    ]
+   },
+   "after": [
+    "A further provision covers products that combine the categories, such as funds of funds. Using a category is voluntary, but it is the only way to make sustainability claims."
+   ]
+  },
+  {
+   "title": "What else changes",
+   "points": [
+    "**Names and marketing.** Products outside the categories may not use sustainability-related terms in their names and may refer to sustainability in marketing only within narrow limits.",
+    "**No firm-level adverse impact statement.** The entity-level reporting of principal adverse impacts and the remuneration disclosure are deleted. Adverse impacts remain relevant inside the categories.",
+    "**No ‘sustainable investment’ definition.** The category criteria replace Article 2(17).",
+    "**Shorter documents.** Product templates are cut to a few pages, written for retail investors.",
+    "**Narrower scope.** The Commission proposed to take financial advisers and portfolio management out of the regulation."
+   ]
+  },
+  {
+   "title": "Where the institutions stand",
+   "text": [
+    "All three institutions support the three categories and the 70% threshold, so these are very likely to survive. The open points are in the detail."
+   ],
+   "points": [
+    "**Council**, mandate of 24 June 2026: lets general-purpose bonds of EU public-sector issuers count towards the Transition threshold up to a limit, caps the time a new fund has to reach 70%, and favours applying the rules 24 months after entry into force.",
+    "**Parliament**, ECON position of 10 September 2026: adds disclosure of fossil fuel exposure for ESG Basics products, excludes companies violating human rights across all categories, and wants managers to publish how their assets are spread across the categories. It also supports 24 months.",
+    "**Next**: once the plenary has confirmed the committee position, trilogues begin. Expect movement on exclusions, sovereign bonds and the treatment of existing funds."
+   ]
+  },
+  {
+   "title": "What it means for existing funds",
+   "text": [
+    "There is no automatic translation from old to new. Today's Article 9 funds are candidates for Sustainable or Transition, but must meet the threshold and the exclusions. Today's Article 8 funds are a mixed group: some will qualify as ESG Basics or Transition, others will fall outside all categories and lose the right to sustainability-related names.",
+    "Managers also have to reconcile the new categories with ESMA's fund-name guidelines, which use an 80% threshold, until the two are aligned."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Categorisation regime",
+   "text": "A system in which a product has to meet defined criteria to be placed in a category, as opposed to merely disclosing its approach."
+  },
+  {
+   "term": "ESG Basics",
+   "text": "The entry category: sustainability factors are integrated, but the product does not claim a sustainability or transition objective."
+  },
+  {
+   "term": "Transition category",
+   "text": "For investments that are not yet sustainable but are credibly moving that way."
+  },
+  {
+   "term": "Exclusions",
+   "text": "Activities or companies a categorised product may not invest in. They differ by category."
+  },
+  {
+   "term": "Paris-aligned benchmark exclusions",
+   "text": "A set of exclusions from EU benchmark rules, covering for example companies with significant fossil fuel revenues."
+  },
+  {
+   "term": "Phase-in period",
+   "text": "The time a newly launched product has to build up to the 70% threshold."
+  },
+  {
+   "term": "Negotiating mandate",
+   "text": "The position with which the Council or Parliament enters trilogue."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "3",
+   "label": "product categories: Sustainable, Transition, ESG Basics"
+  },
+  {
+   "value": "70%",
+   "label": "minimum share of investments that must follow the category's strategy"
+  },
+  {
+   "value": "20 Nov 2025",
+   "label": "date of the Commission proposal"
+  },
+  {
+   "value": "24 months",
+   "label": "period between entry into force and application favoured by Council and Parliament"
+  },
+  {
+   "value": "2029",
+   "label": "earliest realistic year of application"
+  }
+ ],
+ "related": [
+  {
+   "id": "sfdr",
+   "text": "The regulation being revised. It continues to apply in full until the new rules take effect."
+  },
+  {
+   "id": "taxonomy",
+   "text": "Taxonomy alignment offers a route into the Sustainable category."
+  },
+  {
+   "id": "csrd",
+   "text": "The reduced CSRD scope is a reason for cutting data-heavy firm-level disclosures."
+  },
+  {
+   "id": "esg-ratings",
+   "text": "Ratings are likely to be used to show that a product meets category criteria, now under a regulated regime."
+  },
+  {
+   "id": "ecgt",
+   "text": "The same idea applied to consumer goods: sustainability claims only with substance behind them."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Article 8 funds automatically become ESG Basics funds.",
+   "right": "Each product has to meet the 70% threshold and the exclusions. Some current Article 8 funds will not qualify for any category."
+  },
+  {
+   "wrong": "SFDR 2.0 already applies.",
+   "right": "It is a proposal in negotiation. The current SFDR applies until the new rules start, probably not before 2029."
+  },
+  {
+   "wrong": "The categories are mandatory for all funds.",
+   "right": "They are voluntary. A product that makes no sustainability claims needs no category."
+  },
+  {
+   "wrong": "The numbers in the Commission proposal are final.",
+   "right": "Council and Parliament have proposed changes. Only the text agreed in trilogue and published in the Official Journal counts."
+  }
+ ],
+ "practice": [
+  "**Map each product** to its most likely category and identify the gaps: threshold, exclusions, data.",
+  "**Do not relaunch products yet.** Criteria can still change in trilogue; prepare options instead.",
+  "**Track three texts**: the Commission proposal, the Council mandate and the Parliament position. Where all three agree, plan with confidence.",
+  "**Review product names and marketing material** for sustainability terms that an uncategorised product would have to drop.",
+  "**Keep complying with the current SFDR** and ESMA's name guidelines in the meantime."
+ ],
+ "quiz": [
+  {
+   "q": "What is the central change of SFDR 2.0?",
+   "options": [
+    "It abolishes sustainability disclosures for funds",
+    "It introduces product categories with minimum criteria in place of the Article 8 and 9 disclosure logic",
+    "It makes the EU Taxonomy mandatory for all investments",
+    "It extends the SFDR to banks' lending"
+   ],
+   "answer": 1,
+   "why": "The proposal moves from pure disclosure to categorisation: Sustainable, Transition and ESG Basics, each with criteria."
+  },
+  {
+   "q": "Which minimum share of investments must follow the strategy of a category?",
+   "options": [
+    "50%",
+    "70%",
+    "80%",
+    "100%"
+   ],
+   "answer": 1,
+   "why": "70% in all three categories. The 80% figure comes from ESMA's current fund-name guidelines."
+  },
+  {
+   "q": "Which category is meant for investments in companies that are not yet sustainable but on a credible path?",
+   "options": [
+    "Sustainable",
+    "Transition",
+    "ESG Basics",
+    "Impact"
+   ],
+   "answer": 1,
+   "why": "The Transition category recognises that financing change in today's high-emitting companies is part of sustainable finance."
+  },
+  {
+   "q": "What happens to the firm-level principal adverse impact statement under the proposal?",
+   "options": [
+    "It becomes mandatory for all firms",
+    "It is deleted",
+    "It moves into the management report",
+    "It is replaced by an ESG rating"
+   ],
+   "answer": 1,
+   "why": "Entity-level adverse impact and remuneration disclosures are removed as part of the simplification."
+  },
+  {
+   "q": "A fund fits none of the three categories. What does the proposal mean for it?",
+   "options": [
+    "It must be closed",
+    "It may not use sustainability-related terms in its name and is restricted in its marketing claims",
+    "It becomes an Article 9 fund by default",
+    "Nothing changes"
+   ],
+   "answer": 1,
+   "why": "Sustainability claims are reserved for categorised products. Other products can continue but not present themselves as sustainable."
+  },
+  {
+   "q": "What is the status of SFDR 2.0 in autumn 2026?",
+   "options": [
+    "In application",
+    "Adopted and published, application in 2027",
+    "Proposed, with Council and Parliament positions agreed and trilogues ahead",
+    "Withdrawn by the Commission"
+   ],
+   "answer": 2,
+   "why": "The Council agreed its mandate in June 2026 and Parliament's ECON committee its position in September 2026. Trilogues follow."
+  },
+  {
+   "q": "On which point do Commission, Council and Parliament all agree?",
+   "options": [
+    "The exact list of exclusions",
+    "The three-category structure and the 70% threshold",
+    "The treatment of sovereign bonds",
+    "Application 12 months after entry into force"
+   ],
+   "answer": 1,
+   "why": "The structure and threshold are common ground. Exclusions, sovereign bonds and timing are where the positions differ."
+  }
+ ]
+}

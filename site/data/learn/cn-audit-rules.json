@@ -1,0 +1,185 @@
+{
+ "id": "cn-audit-rules",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "EU and German rules ask buyers for **evidence from suppliers**. In China, collecting and exporting that evidence is subject to **Chinese law**.",
+  "The **Anti-Foreign Sanctions Law** allows countermeasures against those who implement foreign measures regarded as discriminatory against Chinese citizens or organisations.",
+  "The **Personal Information Protection Law** and the **Data Security Law** regulate worker data and its transfer abroad.",
+  "The practical task is to design due diligence that **meets both legal systems**. This page gives orientation, not legal advice."
+ ],
+ "sections": [
+  {
+   "title": "Why this belongs in an ESG tracker",
+   "text": [
+    "Due diligence laws assume that a buyer can audit suppliers, interview workers, trace inputs and send the findings to headquarters. In China each of those steps touches rules that were not written with sustainability in mind. A sustainability manager who does not know them can put the company, its local staff or the supplier at risk, or collect evidence that cannot be used."
+   ]
+  },
+  {
+   "title": "The counter-sanctions framework",
+   "points": [
+    "The **Anti-Foreign Sanctions Law** of June 2021 lets Chinese authorities take countermeasures against persons and organisations involved in making or implementing discriminatory restrictive measures against Chinese citizens and organisations.",
+    "It states that **no organisation or individual may implement or assist** such foreign measures, and gives affected Chinese parties a right to sue for damages.",
+    "**Implementing provisions** of March 2025 detail the countermeasures and procedures.",
+    "Related instruments are the **unreliable entity list** and rules against the extraterritorial application of foreign law.",
+    "In supply chains the tension arises where a foreign rule leads a buyer to **exclude or single out suppliers by region or group**."
+   ]
+  },
+  {
+   "title": "Data rules",
+   "points": [
+    "Worker interviews, identity documents, payroll and working-time records are **personal information**. Processing needs a legal basis, usually consent, and people must be told what is collected and why.",
+    "**Sending personal information abroad** needs one of the transfer mechanisms set out in law, such as a standard contract, with exemptions for small volumes.",
+    "The **Data Security Law** restricts the export of data classified as important and requires approval before data stored in China is handed to foreign judicial or enforcement bodies.",
+    "Information classified as state secrets or touching national security is off limits; the scope of the **Counter-Espionage Law** was widened in 2023."
+   ]
+  },
+  {
+   "title": "What this means for audits",
+   "points": [
+    "**Choose audit providers carefully.** Use firms that are properly registered and licensed for the work in China.",
+    "**Frame requests neutrally.** Ask the same questions of all suppliers, about labour practices and sub-suppliers, instead of questions that target a region or group.",
+    "**Keep what you need.** Collect the minimum personal data, anonymise where possible, and store audit records in line with the transfer rules.",
+    "**Expect limits.** Some evidence that a foreign authority might want cannot be obtained. Record what was requested, what was provided and why something was not available.",
+    "**Have alternatives.** Where risk cannot be assessed, sourcing the input elsewhere may be the only way to meet both systems."
+   ]
+  },
+  {
+   "title": "How the EU side deals with it",
+   "text": [
+    "The EU Forced Labour Regulation leaves the burden of proof with the authorities and allows decisions on the available facts when an investigation is obstructed. The CSDDD asks for appropriate measures and does not demand the impossible. Neither excuses inaction: what counts is a documented, reasonable effort."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Anti-Foreign Sanctions Law",
+   "text": "Chinese law of 10 June 2021 on countermeasures against foreign sanctions and discriminatory measures."
+  },
+  {
+   "term": "PIPL",
+   "text": "Personal Information Protection Law, in force since 1 November 2021."
+  },
+  {
+   "term": "Data Security Law",
+   "text": "In force since 1 September 2021; classifies data and restricts the export of important data."
+  },
+  {
+   "term": "Cross-border transfer mechanism",
+   "text": "The legal routes for sending personal information abroad: security assessment, standard contract or certification."
+  },
+  {
+   "term": "Unreliable entity list",
+   "text": "A list kept by the Ministry of Commerce of foreign entities that harm Chinese interests, with trade and investment restrictions."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "10 June 2021",
+   "label": "Anti-Foreign Sanctions Law enters into force"
+  },
+  {
+   "value": "1 Nov 2021",
+   "label": "Personal Information Protection Law enters into force"
+  },
+  {
+   "value": "23 March 2025",
+   "label": "implementing provisions for the Anti-Foreign Sanctions Law take effect"
+  }
+ ],
+ "related": [
+  {
+   "id": "forced-labour",
+   "text": "The EU rule whose evidence needs collide most directly with these limits."
+  },
+  {
+   "id": "csddd",
+   "text": "Requires appropriate measures, which leaves room for what is legally possible locally."
+  },
+  {
+   "id": "de-lksg",
+   "text": "German customers pass on audit and information requirements under this act."
+  },
+  {
+   "id": "csrd",
+   "text": "Supplier workforce data for reporting is personal data when it relates to individuals."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "EU law takes precedence over Chinese law for a European company.",
+   "right": "On Chinese territory, Chinese law applies to your local entity, staff and suppliers. Both systems have to be met."
+  },
+  {
+   "wrong": "Supplier audit data is just business information.",
+   "right": "Much of it is personal information with consent and transfer requirements."
+  },
+  {
+   "wrong": "If evidence cannot be obtained, due diligence is impossible and can be skipped.",
+   "right": "The effort and its limits must be documented, and alternatives considered."
+  }
+ ],
+ "practice": [
+  "**Get advice from counsel in China** on questionnaires, audit scope and data flows.",
+  "**Standardise supplier documents** so that every supplier receives the same neutral request.",
+  "**Map data flows**: what is collected, where it is stored, what leaves China and on which legal basis.",
+  "**Train local staff** on what they may collect and share.",
+  "**Document limits** and escalate cases where risk cannot be assessed."
+ ],
+ "quiz": [
+  {
+   "q": "Why do Chinese counter-sanctions rules matter for supply-chain due diligence?",
+   "options": [
+    "They ban all audits",
+    "They can treat implementing certain foreign measures against Chinese parties as unlawful",
+    "They replace EU due diligence law",
+    "They apply only to state-owned companies"
+   ],
+   "answer": 1,
+   "why": "The Anti-Foreign Sanctions Law prohibits implementing or assisting discriminatory foreign measures, which can affect how buyers act on foreign rules."
+  },
+  {
+   "q": "A buyer wants to send copies of workers' ID cards and payslips from a supplier audit to headquarters in Europe. What applies?",
+   "options": [
+    "Nothing; it is business data",
+    "The rules on personal information, including a legal basis and a transfer mechanism",
+    "Only EU data protection law",
+    "Customs rules"
+   ],
+   "answer": 1,
+   "why": "This is personal information under Chinese law. Collection and cross-border transfer are regulated."
+  },
+  {
+   "q": "Which approach to supplier questionnaires reduces legal risk?",
+   "options": [
+    "Questions that target specific regions",
+    "The same neutral questions on labour practices and sub-suppliers for all suppliers",
+    "No questions at all",
+    "Questions sent only by foreign lawyers"
+   ],
+   "answer": 1,
+   "why": "Uniform, practice-based requests avoid singling out suppliers by region or group."
+  },
+  {
+   "q": "Evidence that an EU authority might want cannot be obtained in China. What should the company do?",
+   "options": [
+    "Stop due diligence",
+    "Document the request and its limits, and consider alternative sourcing where risk cannot be assessed",
+    "Invent the evidence",
+    "Ignore the EU rule"
+   ],
+   "answer": 1,
+   "why": "EU rules expect a reasonable, documented effort. They do not excuse inaction."
+  },
+  {
+   "q": "Since when has the Personal Information Protection Law been in force?",
+   "options": [
+    "2017",
+    "1 November 2021",
+    "23 March 2025",
+    "It is still a draft"
+   ],
+   "answer": 1,
+   "why": "It took effect on 1 November 2021, two months after the Data Security Law."
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "id": "taxonomy",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The Taxonomy is a **classification system**: a dictionary of which economic activities count as environmentally sustainable, and under which conditions.",
+  "An activity is **aligned** if it makes a substantial contribution to one of six environmental objectives, does no significant harm to the other five, and the company meets minimum social safeguards.",
+  "Companies under the CSRD report the share of their **turnover, CapEx and OpEx** that is Taxonomy-eligible and Taxonomy-aligned.",
+  "It is **not a list of permitted investments** and creates no duty to be green. It defines the term so that others can use it consistently."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Before the Taxonomy, every bank, fund manager and label had its own definition of a green investment. That made greenwashing easy and comparison impossible. The Taxonomy Regulation of 2020 gives the market one science-based definition, activity by activity.",
+    "Other rules build on it: Taxonomy shares appear in company reports under the CSRD, in fund disclosures under the SFDR, and the EU Green Bond Standard requires proceeds to go to Taxonomy-aligned activities."
+   ]
+  },
+  {
+   "title": "The six environmental objectives",
+   "steps": [
+    "Climate change mitigation",
+    "Climate change adaptation",
+    "Sustainable use and protection of water and marine resources",
+    "Transition to a circular economy",
+    "Pollution prevention and control",
+    "Protection and restoration of biodiversity and ecosystems"
+   ],
+   "after": [
+    "The detailed criteria are set in delegated acts: the Climate Delegated Act for objectives 1 and 2, a complementary act covering certain gas and nuclear activities, and the Environmental Delegated Act for objectives 3 to 6."
+   ]
+  },
+  {
+   "title": "Eligible is not aligned",
+   "text": [
+    "The most important distinction in the Taxonomy is between two steps."
+   ],
+   "points": [
+    "An activity is **eligible** if it is described in one of the delegated acts, for example ‘manufacture of cement’ or ‘renovation of existing buildings’. Eligibility says nothing about performance. Many activities are not listed at all, which does not make them harmful.",
+    "An activity is **aligned** only if it passes all the tests below."
+   ],
+   "steps": [
+    "**Substantial contribution**: it meets the technical screening criteria for at least one objective, for example an emissions threshold.",
+    "**Do no significant harm (DNSH)**: it meets the criteria that protect each of the other five objectives.",
+    "**Minimum safeguards**: the company has processes in line with the OECD Guidelines and the UN Guiding Principles on human rights, anti-corruption, taxation and fair competition."
+   ],
+   "after": [
+    "Aligned shares are typically much lower than eligible shares. A cement plant is eligible; only a plant below the emissions threshold that also passes the DNSH tests is aligned."
+   ]
+  },
+  {
+   "title": "What companies report",
+   "text": [
+    "Article 8 of the regulation links the Taxonomy to corporate reporting. Non-financial companies in the CSRD scope disclose three key performance indicators:"
+   ],
+   "points": [
+    "**Turnover**: the share of revenue from aligned activities. Shows where the company is today.",
+    "**CapEx**: the share of investment going into aligned activities or into plans to make activities aligned. Shows where it is heading.",
+    "**OpEx**: the share of certain operating costs, such as maintenance and research, linked to aligned activities."
+   ],
+   "after": [
+    "Banks report the **green asset ratio**: the share of their covered assets that finances aligned activities. Asset managers and insurers have their own indicators."
+   ]
+  },
+  {
+   "title": "The 2025 simplification",
+   "text": [
+    "Taxonomy reporting was widely seen as too heavy for the insight it produced. A delegated act adopted in July 2025 simplified it with effect from 1 January 2026, for reports on financial year 2025, with an option to start a year later."
+   ],
+   "points": [
+    "**Materiality threshold.** Activities that together account for less than 10% of turnover, CapEx or OpEx need not be assessed for eligibility and alignment.",
+    "**OpEx relief.** Where operating expenditure is not material to the business model, the OpEx indicator need not be assessed.",
+    "**Shorter templates.** The reporting tables were cut substantially.",
+    "**Scope.** Since Omnibus I, mandatory Taxonomy reporting follows the narrower CSRD scope."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Taxonomy-eligible",
+   "text": "The activity is described in a Taxonomy delegated act. A statement about what the activity is, not how well it performs."
+  },
+  {
+   "term": "Taxonomy-aligned",
+   "text": "The activity meets the substantial contribution criteria, the DNSH criteria and the minimum safeguards."
+  },
+  {
+   "term": "Technical screening criteria",
+   "text": "The detailed thresholds and conditions for each activity, set in delegated acts."
+  },
+  {
+   "term": "DNSH",
+   "text": "Do no significant harm: an activity that helps one objective must not seriously damage another."
+  },
+  {
+   "term": "Minimum safeguards",
+   "text": "Company-level due diligence standards on human rights, corruption, tax and competition."
+  },
+  {
+   "term": "Enabling activity",
+   "text": "An activity that lets others contribute, such as making wind turbine components."
+  },
+  {
+   "term": "Transitional activity",
+   "text": "An activity with no low-carbon alternative yet, which counts if it performs at best-in-sector level and does not lock in emissions."
+  },
+  {
+   "term": "Green asset ratio (GAR)",
+   "text": "The main Taxonomy indicator for banks."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "6",
+   "label": "environmental objectives"
+  },
+  {
+   "value": "3",
+   "label": "tests for alignment: substantial contribution, DNSH, minimum safeguards"
+  },
+  {
+   "value": "3",
+   "label": "indicators for non-financial companies: turnover, CapEx, OpEx"
+  },
+  {
+   "value": "10%",
+   "label": "materiality threshold below which activities need not be assessed, since the 2025 simplification"
+  },
+  {
+   "value": "1 Jan 2026",
+   "label": "start of the simplified reporting rules, with deferral by one year possible"
+  }
+ ],
+ "related": [
+  {
+   "id": "csrd",
+   "text": "Determines which companies must report Taxonomy indicators, and where: in the sustainability statement."
+  },
+  {
+   "id": "sfdr",
+   "text": "Funds disclose the Taxonomy-aligned share of their investments, using the figures companies report."
+  },
+  {
+   "id": "green-bond",
+   "text": "The European Green Bond Standard requires proceeds to be invested in Taxonomy-aligned activities."
+  },
+  {
+   "id": "sfdr2",
+   "text": "The proposed product categories use Taxonomy alignment as one route to qualify as sustainable."
+  },
+  {
+   "id": "csddd",
+   "text": "Minimum safeguards refer to the same international due diligence standards that the CSDDD turns into law."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "An eligible activity is a green activity.",
+   "right": "Eligible only means the activity is listed. Green in the Taxonomy sense means aligned."
+  },
+  {
+   "wrong": "Activities not in the Taxonomy are unsustainable.",
+   "right": "The Taxonomy does not cover every sector. An unlisted activity is simply not classified."
+  },
+  {
+   "wrong": "Companies must reach a minimum aligned share.",
+   "right": "The Taxonomy requires disclosure, not performance. A reported share of 0% is compliant."
+  },
+  {
+   "wrong": "The Taxonomy covers social sustainability.",
+   "right": "It covers six environmental objectives. Social aspects enter only through the minimum safeguards; a social taxonomy was discussed but not adopted."
+  },
+  {
+   "wrong": "Meeting the emissions threshold is enough for alignment.",
+   "right": "The DNSH criteria and minimum safeguards must be met as well. In practice DNSH is often the harder test."
+  }
+ ],
+ "practice": [
+  "**List your activities** and match them to the descriptions in the delegated acts, using the EU Taxonomy Navigator.",
+  "Apply the **10% threshold** to decide which activities to assess in detail.",
+  "For each remaining activity, test **substantial contribution**, then **DNSH**, with technical evidence for each criterion.",
+  "Check **minimum safeguards** once at company level.",
+  "Allocate **turnover, CapEx and OpEx** to aligned activities without double counting, and reconcile the totals to the financial statements."
+ ],
+ "quiz": [
+  {
+   "q": "What is the EU Taxonomy?",
+   "options": [
+    "A list of activities banks are allowed to finance",
+    "A classification system defining which economic activities are environmentally sustainable",
+    "A tax on unsustainable activities",
+    "A label for sustainable investment funds"
+   ],
+   "answer": 1,
+   "why": "It defines the term ‘environmentally sustainable’ activity by activity. It neither permits nor forbids investments."
+  },
+  {
+   "q": "A company manufactures cement, an activity described in the Climate Delegated Act. Its plant does not meet the emissions threshold. The activity is…",
+   "options": [
+    "eligible but not aligned",
+    "aligned but not eligible",
+    "neither eligible nor aligned",
+    "aligned, because cement is listed"
+   ],
+   "answer": 0,
+   "why": "Being described in the delegated act makes it eligible. Alignment requires meeting the technical screening criteria, DNSH and minimum safeguards."
+  },
+  {
+   "q": "Which three indicators do non-financial companies report?",
+   "options": [
+    "Turnover, CapEx and OpEx",
+    "Scope 1, 2 and 3 emissions",
+    "Revenue, profit and assets",
+    "Green asset ratio, CapEx and dividends"
+   ],
+   "answer": 0,
+   "why": "They report the eligible and aligned shares of turnover, capital expenditure and operating expenditure. The green asset ratio is the banks' indicator."
+  },
+  {
+   "q": "What does ‘do no significant harm’ require?",
+   "options": [
+    "That the company has no negative environmental impact at all",
+    "That an activity contributing to one objective does not seriously damage the other five",
+    "That the company offsets its remaining emissions",
+    "That suppliers are audited every year"
+   ],
+   "answer": 1,
+   "why": "DNSH criteria exist for each of the other objectives, so that, for example, a climate-friendly activity does not come at the cost of biodiversity."
+  },
+  {
+   "q": "How many environmental objectives does the Taxonomy have?",
+   "options": [
+    "Two",
+    "Four",
+    "Six",
+    "Seventeen"
+   ],
+   "answer": 2,
+   "why": "Climate mitigation, climate adaptation, water, circular economy, pollution, and biodiversity."
+  },
+  {
+   "q": "A company reports that 0% of its turnover is Taxonomy-aligned. Has it broken the Taxonomy Regulation?",
+   "options": [
+    "Yes, a minimum of 10% is required",
+    "Yes, unless it publishes a transition plan",
+    "No, the regulation requires disclosure, not a minimum share",
+    "No, but it loses access to bank finance"
+   ],
+   "answer": 2,
+   "why": "The Taxonomy is a transparency tool. It sets no minimum level of alignment."
+  },
+  {
+   "q": "What do the minimum safeguards refer to?",
+   "options": [
+    "Minimum emissions thresholds for each sector",
+    "Company processes on human rights, anti-corruption, taxation and fair competition",
+    "A minimum share of CapEx in green activities",
+    "Insurance against environmental damage"
+   ],
+   "answer": 1,
+   "why": "They are social and governance conditions at company level, based on the OECD Guidelines and the UN Guiding Principles."
+  },
+  {
+   "q": "What did the 2025 simplification introduce for activities that make up only a small part of the business?",
+   "options": [
+    "They count as aligned automatically",
+    "A 10% materiality threshold below which they need not be assessed",
+    "A separate report to the national authority",
+    "A ban on reporting them"
+   ],
+   "answer": 1,
+   "why": "Activities that together stay below 10% of the relevant indicator can be left unassessed, which removes much of the effort for minor activities."
+  }
+ ]
+}

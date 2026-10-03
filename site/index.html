@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>EU ESG Tracker</title>
+  <meta name="description" content="Where EU ESG regulations stand, what is due next, the latest updates from official and news sources, and a learning page with a test for every regulation.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2316213F'/%3E%3Cpath d='M7 16h18' stroke='%238FA8FF' stroke-width='2.5'/%3E%3Ccircle cx='8' cy='16' r='3' fill='%238FA8FF'/%3E%3Ccircle cx='16' cy='16' r='3' fill='%238FA8FF'/%3E%3Ccircle cx='24' cy='16' r='4.5' fill='%23FFCC00'/%3E%3C/svg%3E">
+  <link rel="alternate" type="application/rss+xml" title="EU ESG Tracker updates" href="feed.xml">
+  <link rel="alternate" type="text/calendar" title="EU ESG Tracker key dates" href="calendar.ics">
+  <link rel="preload" href="assets/fonts/schibsted-grotesk-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script>
+    try { const t = localStorage.getItem('esgTracker.theme'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#view">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="#/overview" aria-label="EU ESG Tracker, overview">
+        <svg class="brand-mark" viewBox="0 0 40 16" aria-hidden="true">
+          <path d="M4 8h32" />
+          <circle cx="5" cy="8" r="3.2" />
+          <circle cx="20" cy="8" r="3.2" />
+          <circle class="brand-now" cx="35" cy="8" r="4.6" />
+        </svg>
+        <span>EU ESG Tracker</span>
+      </a>
+      <div class="header-tools">
+        <p class="updated" id="updated">Loading…</p>
+        <a class="tool-link" href="feed.xml" title="Subscribe in Outlook, Feedly or any feed reader">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19a1.5 1.5 0 1 1 0-.01M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16"/></svg>
+          <span>Subscribe</span>
+        </a>
+        <button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch to dark mode">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="wrap tabs" aria-label="Sections">
+      <a href="#/overview" data-view="overview">Overview</a>
+      <a href="#/timeline" data-view="timeline">Timeline</a>
+      <a href="#/news" data-view="news">Updates <span class="tab-count" id="news-count" hidden></span></a>
+      <a href="#/learn" data-view="learn">Learn</a>
+      <a href="#/sources" data-view="sources">Sources</a>
+    </nav>
+  </header>
+
+  <main id="view" class="wrap" tabindex="-1">
+    <p class="loading">Loading regulations and updates…</p>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p id="footer-reviewed">For orientation only, not legal advice. The texts on EUR-Lex are authoritative.</p>
+    <p>Updates are collected automatically from official EU feeds and news sources. Edit regulations in <code>site/data/regulations.json</code>, learning pages in <code>site/data/learn/</code>, your profile in <code>site/data/profile.json</code> and sources in <code>config/sources.yml</code>.</p>
+  </footer>
+
+  <dialog class="drawer" id="drawer" aria-labelledby="drawer-title">
+    <div class="drawer-inner" id="drawer-content"></div>
+  </dialog>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

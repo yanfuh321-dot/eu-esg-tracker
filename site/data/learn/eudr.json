@@ -1,0 +1,293 @@
+{
+ "id": "eudr",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The EUDR bans seven commodities and products made from them from the EU market unless they are **deforestation-free, legally produced and covered by a due diligence statement**.",
+  "The commodities are **cattle, cocoa, coffee, oil palm, rubber, soya and wood**. The cut-off date for deforestation is **31 December 2020**.",
+  "Proof goes down to the **plot of land**: the operator must provide geolocation data for where the commodity was produced.",
+  "After two postponements it applies from **30 December 2026** for large and medium companies and from **30 June 2027** for micro and small ones."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Agricultural expansion drives most global deforestation, and EU consumption of a handful of commodities accounts for a significant share of it. The earlier EU Timber Regulation only covered wood and only legality. The EUDR, in force since June 2023, widens the list of commodities and adds a second test: a product can be perfectly legal in its country of origin and still be barred if the land was deforested after 2020."
+   ]
+  },
+  {
+   "title": "The three conditions",
+   "text": [
+    "A relevant product may be placed on the EU market, made available on it or exported from it only if all three conditions are met."
+   ],
+   "steps": [
+    "**Deforestation-free**: produced on land that was not converted from forest to agricultural use after 31 December 2020. For wood, harvesting must also not have caused forest degradation after that date.",
+    "**Legal**: produced in line with the relevant laws of the country of production, including land-use rights, environmental protection, labour rights and tax rules.",
+    "**Covered by a due diligence statement**: submitted to the EU information system before the product is placed on the market or exported."
+   ]
+  },
+  {
+   "title": "Who has to do what",
+   "text": [
+    "The 2025 revision (Regulation (EU) 2025/2650) concentrated the burden on the company that first brings a product onto the EU market."
+   ],
+   "table": {
+    "head": [
+     "Role",
+     "Who",
+     "Main duty"
+    ],
+    "rows": [
+     [
+      "Operator",
+      "The company that first places a relevant product on the EU market or exports it",
+      "Full due diligence and a due diligence statement in the information system"
+     ],
+     [
+      "Downstream operator",
+      "A company that processes or sells on products already covered by a statement",
+      "No own statement. Keeps records of suppliers and customers and the reference numbers received"
+     ],
+     [
+      "Trader",
+      "A company that makes products available without changing them",
+      "As for downstream operators: traceability records"
+     ],
+     [
+      "Micro and small primary operator in a low-risk country",
+      "For example a small forest owner or farmer selling their own produce",
+      "A one-off simplified declaration instead of statements for each shipment"
+     ]
+    ]
+   },
+   "after": [
+    "Larger downstream companies must still act when they receive substantiated concerns that a product does not comply."
+   ]
+  },
+  {
+   "title": "The due diligence in three steps",
+   "steps": [
+    "**Collect information**: product, quantity, country of production, supplier, and the **geolocation** of every plot where the commodity was produced. Plots of more than four hectares need a polygon; smaller ones a single point. For cattle, the locations where the animals were kept.",
+    "**Assess risk**: could the product be non-compliant? Criteria include the country's risk class, the presence of forests, the complexity of the supply chain and the risk of mixing with products of unknown origin.",
+    "**Mitigate risk**: where the risk is more than negligible, obtain more evidence, audits or satellite checks until it is negligible. Otherwise the product must not be placed on the market."
+   ],
+   "after": [
+    "The Commission classifies countries as **low, standard or high risk**. Sourcing from low-risk countries allows simplified due diligence without the assessment and mitigation steps, and determines how many checks authorities carry out."
+   ]
+  },
+  {
+   "title": "Scope of products",
+   "text": [
+    "Annex I lists the covered products by customs code. Besides the raw commodities it includes derived products such as chocolate, beef, palm oil derivatives, tyres, furniture, paper and plywood. A product not listed is out of scope even if it contains a listed commodity.",
+    "The list was adjusted in 2026 (Delegated Regulation (EU) 2026/2102). Cattle hides and leather, retreaded tyres and several rubber articles were removed with effect from 18 September 2026. Some products were added, including soluble coffee and further palm oil derivatives; for these the rules apply from 30 December 2027."
+   ]
+  },
+  {
+   "title": "Enforcement",
+   "text": [
+    "National competent authorities check operators and products, at a rate that depends on the risk class of the country of production, and customs verify that a valid statement reference accompanies each consignment. Penalties are set by Member States; the maximum fine must be at least 4% of the company's annual EU turnover. Authorities can also confiscate products and revenues and exclude companies from public procurement."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Relevant commodities",
+   "text": "Cattle, cocoa, coffee, oil palm, rubber, soya and wood."
+  },
+  {
+   "term": "Relevant products",
+   "text": "The products listed in Annex I that contain, were fed with or were made using relevant commodities."
+  },
+  {
+   "term": "Cut-off date",
+   "text": "31 December 2020. Land deforested after this date cannot supply the EU market."
+  },
+  {
+   "term": "Due diligence statement (DDS)",
+   "text": "The operator's formal declaration, filed in the information system, that due diligence found no or only negligible risk."
+  },
+  {
+   "term": "Geolocation",
+   "text": "Latitude and longitude of the plot of land, as a point or a polygon."
+  },
+  {
+   "term": "Country benchmarking",
+   "text": "The Commission's classification of countries or regions as low, standard or high risk."
+  },
+  {
+   "term": "Negligible risk",
+   "text": "The level at which, after full assessment, there is no cause for concern that a product is non-compliant."
+  },
+  {
+   "term": "Forest degradation",
+   "text": "Structural changes to forest cover, such as converting primary forest into plantation forest. Relevant for wood."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "7",
+   "label": "commodities covered"
+  },
+  {
+   "value": "31 Dec 2020",
+   "label": "cut-off date for deforestation"
+  },
+  {
+   "value": "30 Dec 2026",
+   "label": "application for large and medium companies"
+  },
+  {
+   "value": "30 June 2027",
+   "label": "application for micro and small operators"
+  },
+  {
+   "value": "4 hectares",
+   "label": "plot size above which a polygon is required for the geolocation"
+  },
+  {
+   "value": "4%",
+   "label": "of annual EU turnover: the minimum level of the maximum fine"
+  }
+ ],
+ "related": [
+  {
+   "id": "csddd",
+   "text": "General due diligence for the largest companies. The EUDR is narrower in products but much stricter on evidence, and applies whatever the company's size."
+  },
+  {
+   "id": "forced-labour",
+   "text": "Another market ban on products. The EUDR's legality condition already includes labour rights in the country of production."
+  },
+  {
+   "id": "csrd",
+   "text": "Deforestation and land use are reported under the biodiversity standard where material."
+  },
+  {
+   "id": "conflict-minerals",
+   "text": "The same idea for a different risk: an import-based due diligence duty for specific materials."
+  },
+  {
+   "id": "ppwr",
+   "text": "Packaging used only to support or carry another product is not treated as a relevant product under the EUDR."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Legally produced goods are compliant.",
+   "right": "Legality is only one of three conditions. Land deforested legally after 2020 still disqualifies the product."
+  },
+  {
+   "wrong": "Only importers from tropical countries are affected.",
+   "right": "The regulation applies to products from every country, including EU Member States, and to exports."
+  },
+  {
+   "wrong": "Every company in the chain files its own due diligence statement.",
+   "right": "Since the 2025 revision only the operator placing the product on the market for the first time does. Others keep traceability records."
+  },
+  {
+   "wrong": "A certificate such as FSC or RSPO proves compliance.",
+   "right": "Certification can support the risk assessment but does not replace due diligence or the geolocation data."
+  },
+  {
+   "wrong": "Leather goods are in scope.",
+   "right": "Cattle hides and leather were removed from Annex I in September 2026."
+  }
+ ],
+ "practice": [
+  "**Screen your product list against Annex I** by customs code, as amended in 2026.",
+  "**Determine your role** for each product flow: operator, downstream operator or trader.",
+  "As an operator, **collect geolocation data** from suppliers now. It is the part that takes longest.",
+  "**Register in the information system** and test how statements are filed, including through its interface for larger volumes.",
+  "**Define a risk assessment method** and what you do when risk is not negligible.",
+  "As a downstream company, **set up record-keeping** for reference numbers, suppliers and customers."
+ ],
+ "quiz": [
+  {
+   "q": "Which of these is NOT one of the seven EUDR commodities?",
+   "options": [
+    "Cocoa",
+    "Rubber",
+    "Cotton",
+    "Soya"
+   ],
+   "answer": 2,
+   "why": "The seven are cattle, cocoa, coffee, oil palm, rubber, soya and wood. Cotton is not covered."
+  },
+  {
+   "q": "What is the cut-off date after which land must not have been deforested?",
+   "options": [
+    "31 December 2015",
+    "31 December 2020",
+    "29 June 2023",
+    "30 December 2026"
+   ],
+   "answer": 1,
+   "why": "31 December 2020. The other dates are the entry into force (June 2023) and the start of application (December 2026)."
+  },
+  {
+   "q": "A shipment of soya was produced legally on land that was cleared of forest in 2022. Can it be placed on the EU market?",
+   "options": [
+    "Yes, because production was legal",
+    "Yes, if the supplier is certified",
+    "No, it is not deforestation-free",
+    "Only in quantities below 50 tonnes"
+   ],
+   "answer": 2,
+   "why": "All three conditions must be met. Legal deforestation after the cut-off date still bars the product."
+  },
+  {
+   "q": "Who must submit a due diligence statement after the 2025 revision?",
+   "options": [
+    "Every company handling the product",
+    "The operator that first places the product on the EU market or exports it",
+    "Only the retailer selling to consumers",
+    "The producer country's authorities"
+   ],
+   "answer": 1,
+   "why": "Downstream operators and traders no longer file their own statements; they keep traceability records."
+  },
+  {
+   "q": "What is required for a plot of land larger than four hectares?",
+   "options": [
+    "A single geolocation point",
+    "A polygon describing the perimeter of the plot",
+    "A satellite image certified by a notary",
+    "Only the name of the region"
+   ],
+   "answer": 1,
+   "why": "Plots above four hectares need polygons; for smaller ones a single point is sufficient."
+  },
+  {
+   "q": "From when does the EUDR apply to large and medium-sized companies?",
+   "options": [
+    "30 December 2024",
+    "30 December 2025",
+    "30 December 2026",
+    "30 June 2027"
+   ],
+   "answer": 2,
+   "why": "After two one-year postponements the date is 30 December 2026. Micro and small operators follow on 30 June 2027."
+  },
+  {
+   "q": "What does sourcing from a country classified as low risk allow?",
+   "options": [
+    "Exemption from the regulation",
+    "Simplified due diligence without risk assessment and mitigation",
+    "Placing products on the market without geolocation data",
+    "Lower customs duties"
+   ],
+   "answer": 1,
+   "why": "Information must still be collected, including geolocation, but the assessment and mitigation steps are not required."
+  },
+  {
+   "q": "What is the minimum level of the maximum fine Member States must provide for?",
+   "options": [
+    "€100,000",
+    "1% of worldwide turnover",
+    "4% of annual EU turnover",
+    "10% of the value of the goods"
+   ],
+   "answer": 2,
+   "why": "The regulation requires that the maximum fine be at least 4% of the operator's total annual turnover in the EU."
+  }
+ ]
+}

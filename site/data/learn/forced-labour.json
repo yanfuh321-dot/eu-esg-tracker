@@ -1,0 +1,212 @@
+{
+ "id": "forced-labour",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The regulation **bans products made with forced labour** from being sold in the EU or exported from it, wherever they were made.",
+  "It covers **every product and every company**, with no size threshold and no sector list.",
+  "It creates **no new due diligence procedure**. Authorities investigate; the burden of proof is on them.",
+  "The ban applies from **14 December 2027**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "The International Labour Organization estimates that around 28 million people are in forced labour worldwide. Due diligence laws address company behaviour; this regulation addresses the product itself. If forced labour was used at any stage of extraction, harvest, production or manufacture, the product is to be kept off the EU market."
+   ]
+  },
+  {
+   "title": "What is banned",
+   "text": [
+    "Forced labour is defined as in the ILO conventions: work exacted under the threat of a penalty and not offered voluntarily, including forced child labour. The ban covers placing a product on the EU market, making it available, including through online sales aimed at EU buyers, and exporting it. It applies to components too: a product is tainted if any part was made with forced labour."
+   ]
+  },
+  {
+   "title": "How an investigation works",
+   "steps": [
+    "**Leads**: authorities draw on a Commission database of risk areas and products, on submissions through a single portal open to anyone, and on their own information.",
+    "**Prioritisation**: cases are ranked by scale and severity, with state-imposed forced labour at the top, by the quantity of products on the market and by how large the tainted share of the product is.",
+    "**Preliminary phase**: the authority asks the company what it does to identify and address forced labour risks. A company with credible due diligence may avoid a full investigation.",
+    "**Investigation**: if concern remains, the authority investigates, including inspections where possible.",
+    "**Decision**: if forced labour is established, the product is banned and must be withdrawn and disposed of. Where the company can show the problem has been eliminated, the decision is reviewed."
+   ],
+   "after": [
+    "The lead authority is the Member State's when the suspected forced labour is on its territory, and the Commission's when it is outside the EU. A decision taken in one Member State is recognised in all."
+   ]
+  },
+  {
+   "title": "What it means for companies",
+   "points": [
+    "There is **no presumption of guilt** by region or sector. Unlike the US law on goods from Xinjiang, the EU regulation leaves the burden of proof with the authorities.",
+    "Still, where a company does not cooperate or a foreign government blocks the investigation, the authority may decide on the **available facts**.",
+    "The practical defence is **due diligence**: knowing the supply chain and being able to show what was done about risks. The Commission has to publish guidelines on this, including for smaller companies.",
+    "A banned product cannot simply be re-exported. It must be **withdrawn and donated, recycled or destroyed**, at the company's cost.",
+    "For products of strategic importance to the EU, the authority may order the product to be **withheld** until the forced labour is eliminated, instead of disposed of."
+   ]
+  },
+  {
+   "title": "Enforcement at the border",
+   "text": [
+    "Customs enforce decisions on imports and exports and can suspend the release of goods. Penalties for ignoring a decision are set by Member States."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Forced labour",
+   "text": "Work or service exacted from a person under the threat of a penalty and for which the person has not offered themselves voluntarily (ILO definition)."
+  },
+  {
+   "term": "State-imposed forced labour",
+   "text": "Forced labour organised by public authorities. Treated as the most serious case."
+  },
+  {
+   "term": "Making available on the market",
+   "text": "Supplying a product for distribution or use in the EU, including distance sales targeted at EU customers."
+  },
+  {
+   "term": "Forced Labour Single Portal",
+   "text": "The EU website for submitting information, with the database of risks, guidelines and decisions."
+  },
+  {
+   "term": "Database of risk areas and products",
+   "text": "The Commission's indicative list of regions and product groups with a high risk of forced labour."
+  },
+  {
+   "term": "Lead competent authority",
+   "text": "The authority responsible for a case: national for risks inside the Member State, the Commission for risks outside the EU."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "14 Dec 2027",
+   "label": "start of application of the ban"
+  },
+  {
+   "value": "13 Dec 2024",
+   "label": "entry into force"
+  },
+  {
+   "value": "0",
+   "label": "size threshold: every economic operator is covered"
+  },
+  {
+   "value": "28 million",
+   "label": "people in forced labour worldwide, according to ILO estimates"
+  }
+ ],
+ "related": [
+  {
+   "id": "csddd",
+   "text": "The process duty for the largest companies. Forced labour is among the adverse impacts they must address, and their due diligence is the best preparation for an investigation."
+  },
+  {
+   "id": "eudr",
+   "text": "Another product-based market ban, with a formal statement that the forced labour ban does not have."
+  },
+  {
+   "id": "conflict-minerals",
+   "text": "Due diligence for minerals where forced and child labour are known risks."
+  },
+  {
+   "id": "batteries",
+   "text": "Its raw-material due diligence covers labour rights for cobalt, lithium, nickel and graphite."
+  },
+  {
+   "id": "csrd",
+   "text": "Forced labour risks are reported under the standards on own workforce and value-chain workers."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The regulation obliges companies to carry out due diligence.",
+   "right": "It contains a product ban and an investigation procedure. Due diligence is the practical way to manage the risk, not a formal duty under this act."
+  },
+  {
+   "wrong": "Only large importers are covered.",
+   "right": "There is no threshold. Size matters only for how authorities prioritise and what they expect."
+  },
+  {
+   "wrong": "Products from listed high-risk regions are banned automatically.",
+   "right": "The database guides investigations. A ban requires a decision on a specific product."
+  },
+  {
+   "wrong": "It only concerns imports.",
+   "right": "It also covers products made in the EU and exports from the EU."
+  }
+ ],
+ "practice": [
+  "**Map your supply chains** beyond tier 1 for products and regions that appear in the risk database.",
+  "**Document** how you identify and address forced labour risks. This is what an authority asks for first.",
+  "**Add contractual rights** to obtain information from and audit suppliers.",
+  "**Prepare alternatives** for inputs from the highest-risk areas; re-sourcing takes time.",
+  "**Name a contact** who can answer an authority's request within its deadlines."
+ ],
+ "quiz": [
+  {
+   "q": "What does the Forced Labour Regulation prohibit?",
+   "options": [
+    "Employing workers from outside the EU",
+    "Placing on the EU market, making available or exporting products made with forced labour",
+    "Importing from countries without a minimum wage",
+    "Sourcing from suppliers without a social audit"
+   ],
+   "answer": 1,
+   "why": "It is a product ban covering the EU market and exports, regardless of where the product was made."
+  },
+  {
+   "q": "Which companies are covered?",
+   "options": [
+    "Companies with more than 1,000 employees",
+    "Importers above a volume threshold",
+    "All economic operators, regardless of size",
+    "Only manufacturers of textiles and electronics"
+   ],
+   "answer": 2,
+   "why": "There is no size or sector threshold. Any product and any operator can be affected."
+  },
+  {
+   "q": "Who has to prove that a product was made with forced labour?",
+   "options": [
+    "The company must prove that it was not",
+    "The competent authority",
+    "The supplier's government",
+    "The consumer who complains"
+   ],
+   "answer": 1,
+   "why": "The burden of proof lies with the authorities. There is no presumption based on origin, unlike under the US rules on Xinjiang."
+  },
+  {
+   "q": "Who leads the investigation when the suspected forced labour takes place outside the EU?",
+   "options": [
+    "The Member State of import",
+    "The European Commission",
+    "The ILO",
+    "The customs authority of the exporting country"
+   ],
+   "answer": 1,
+   "why": "The Commission leads for risks outside the EU; national authorities lead for risks on their own territory."
+  },
+  {
+   "q": "What happens to a product once a ban decision is taken?",
+   "options": [
+    "It may be re-exported to a non-EU country",
+    "It may be sold at a discount",
+    "It must be withdrawn and donated, recycled or destroyed",
+    "It is returned to the supplier"
+   ],
+   "answer": 2,
+   "why": "Banned products are withdrawn and disposed of. Export is covered by the ban as well."
+  },
+  {
+   "q": "From when does the ban apply?",
+   "options": [
+    "13 December 2024",
+    "30 December 2026",
+    "14 December 2027",
+    "1 January 2030"
+   ],
+   "answer": 2,
+   "why": "The regulation entered into force in December 2024 and applies three years later, on 14 December 2027."
+  }
+ ]
+}

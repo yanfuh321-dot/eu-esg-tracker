@@ -1,0 +1,251 @@
+{
+ "id": "esrs-revised",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The revised ESRS are the **simplified reporting standards** required by Omnibus I. They replace Set 1 from **financial year 2027**.",
+  "They cut **mandatory datapoints by about 61%** and remove voluntary datapoints from the standards altogether. The twelve-standard structure stays.",
+  "**Double materiality remains**, but the assessment may be done top-down, and non-material information must be left out rather than added for safety.",
+  "A second act creates a **voluntary standard** for companies outside the CSRD. It doubles as the ceiling for what reporters may ask from value-chain companies with up to 1,000 employees."
+ ],
+ "sections": [
+  {
+   "title": "Why the standards were revised",
+   "text": [
+    "The first reports under Set 1 showed two problems. Preparing them was expensive, with more than 1,000 datapoints to work through, and many statements became long compliance documents in which the important points were hard to find. Omnibus I therefore instructed the Commission to simplify the standards.",
+    "EFRAG delivered its technical advice in December 2025. The Commission consulted on a draft in May 2026 and adopted the revised ESRS on 3 July 2026 as Delegated Regulation (EU) 2026/1563. After the scrutiny period they were published in the Official Journal on 21 September 2026."
+   ]
+  },
+  {
+   "title": "What changes",
+   "points": [
+    "**Fewer datapoints.** Mandatory datapoints fall by about 61%; counting the removed voluntary ones, the total falls by more than 70%. The Commission expects reporting costs to drop by more than 30% per company.",
+    "**A lighter materiality assessment.** Companies may start top-down from the business model, sector and locations, and assess in depth only where materiality is not obvious. A conclusion can be reached at topic level.",
+    "**No padding.** Information that is not material is not to be reported. Under Set 1 many companies added it to be on the safe side.",
+    "**Fair presentation.** Applying the standards properly is presumed to give a fair picture of the company's sustainability matters.",
+    "**More reliefs.** Datapoints that would require undue cost or effort can be omitted with an explanation, and the quantification of anticipated financial effects can be replaced by a qualitative description where the company lacks the means.",
+    "**Closer to the global baseline.** Wording and boundaries, for example for greenhouse gas accounting, were moved closer to the ISSB standards."
+   ]
+  },
+  {
+   "title": "What stays the same",
+   "points": [
+    "The **architecture**: ESRS 1 and 2 plus ten topical standards.",
+    "**Double materiality** as the basis of reporting, despite calls to move to a purely financial view.",
+    "The **value chain** as part of the reporting boundary, limited by the value-chain cap.",
+    "The **four reporting areas**: governance, strategy, impact, risk and opportunity management, metrics and targets.",
+    "**Limited assurance** over the statement."
+   ]
+  },
+  {
+   "title": "The voluntary standard and the value-chain cap",
+   "text": [
+    "Delegated Regulation (EU) 2026/1560 sets up a voluntary reporting standard for companies that are not covered by the CSRD. It builds on EFRAG's earlier standard for small and medium-sized companies, known as the VSME. A company can use it to answer banks and customers with one consistent set of information.",
+    "Its second function is legal. Omnibus I ties the **value-chain cap** to this standard: from financial year 2027, a CSRD reporter may not require a value-chain company with up to 1,000 employees to provide information beyond what the voluntary standard contains. The standard has been in force since 24 September 2026."
+   ]
+  },
+  {
+   "title": "Timing and the choice for 2026",
+   "table": {
+    "head": [
+     "Financial year",
+     "Which standards"
+    ],
+    "rows": [
+     [
+      "2024 and 2025",
+      "Set 1, with the phase-ins and the 2025 quick-fix reliefs"
+     ],
+     [
+      "2026",
+      "A choice: stay on Set 1, with or without the new reliefs, or apply the revised ESRS early"
+     ],
+     [
+      "2027 onwards",
+      "Revised ESRS, mandatory for every CSRD reporter"
+     ]
+    ]
+   },
+   "after": [
+    "The revised ESRS enter into force on 10 November 2026. Early application means one change of method instead of two, but it has to be prepared during 2026 while Set 1 processes are still running."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Top-down approach",
+   "text": "Starting the materiality assessment from the business model, sector and geography, instead of scoring every possible impact, risk and opportunity one by one."
+  },
+  {
+   "term": "Undue cost or effort",
+   "text": "A relief: information may be omitted where obtaining it would be disproportionate, provided the company explains this."
+  },
+  {
+   "term": "Anticipated financial effects",
+   "text": "Expected future effects of sustainability risks and opportunities on the company's finances. The hardest datapoints to quantify, hence the extended reliefs."
+  },
+  {
+   "term": "Fair presentation",
+   "text": "The principle that the statement as a whole gives a faithful picture, familiar from financial reporting."
+  },
+  {
+   "term": "VSME",
+   "text": "EFRAG's voluntary standard for small and medium-sized companies, the basis of the new voluntary reporting standard."
+  },
+  {
+   "term": "Protected undertaking",
+   "text": "A value-chain company with up to 1,000 employees, which the value-chain cap shields from excessive information requests."
+  },
+  {
+   "term": "Scrutiny period",
+   "text": "The time in which Parliament and Council can object to a delegated act before it can be published."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "about 61%",
+   "label": "fewer mandatory datapoints than Set 1"
+  },
+  {
+   "value": "over 70%",
+   "label": "fewer datapoints in total, once the removed voluntary datapoints are counted"
+  },
+  {
+   "value": "over 30%",
+   "label": "expected reduction in reporting costs per company, according to the Commission"
+  },
+  {
+   "value": "FY 2027",
+   "label": "first financial year in which the revised ESRS are mandatory"
+  },
+  {
+   "value": "10 Nov 2026",
+   "label": "entry into force of the revised ESRS"
+  },
+  {
+   "value": "1,000",
+   "label": "employees: companies up to this size are protected by the value-chain cap"
+  }
+ ],
+ "related": [
+  {
+   "id": "esrs",
+   "text": "The standards being replaced. Knowing Set 1 makes it easier to see what was cut and why."
+  },
+  {
+   "id": "csrd",
+   "text": "Omnibus I, which amended the CSRD, created the mandate for the revision and for the value-chain cap."
+  },
+  {
+   "id": "taxonomy",
+   "text": "Taxonomy reporting was simplified separately, with effect from January 2026."
+  },
+  {
+   "id": "csddd",
+   "text": "Due diligence findings are reported through the revised standards on value-chain workers and affected communities."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The revised ESRS drop double materiality in favour of financial materiality.",
+   "right": "Double materiality stays. The process for assessing it became lighter."
+  },
+  {
+   "wrong": "Fewer datapoints means the materiality assessment matters less.",
+   "right": "It matters more: with non-material content excluded, the assessment is the justification for everything that is and is not in the report."
+  },
+  {
+   "wrong": "The voluntary standard is mandatory for suppliers of large companies.",
+   "right": "It remains voluntary. It caps what reporters may demand; it does not oblige anyone to report."
+  },
+  {
+   "wrong": "The revised standards already apply to reports on financial year 2026.",
+   "right": "They are optional for 2026 and mandatory from financial year 2027."
+  }
+ ],
+ "practice": [
+  "**Decide early** whether to adopt the revised ESRS for financial year 2026 or wait for 2027, and agree the choice with your assurance provider.",
+  "**Re-run the materiality assessment** under the revised rules and check whether the list of material topics changes.",
+  "**Map your Set 1 datapoints** to the revised set. Stop collecting what is no longer required unless you use it for management purposes.",
+  "**Document the use of reliefs**: where you omit information for undue cost or effort, the explanation has to stand up to assurance.",
+  "**Rewrite supplier questionnaires** so that requests to companies with up to 1,000 employees stay within the voluntary standard."
+ ],
+ "quiz": [
+  {
+   "q": "By roughly how much do the revised ESRS reduce the number of mandatory datapoints?",
+   "options": [
+    "About 25%",
+    "About 40%",
+    "About 61%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "why": "Mandatory datapoints fall by about 61%. Including the removed voluntary datapoints, the total reduction is more than 70%."
+  },
+  {
+   "q": "What happens to double materiality under the revised ESRS?",
+   "options": [
+    "It is replaced by financial materiality",
+    "It remains, with a lighter assessment process",
+    "It becomes optional for companies below 5,000 employees",
+    "It applies only to climate topics"
+   ],
+   "answer": 1,
+   "why": "The Commission kept double materiality. Companies may now assess top-down and conclude at topic level."
+  },
+  {
+   "q": "From which financial year are the revised ESRS mandatory?",
+   "options": [
+    "2025",
+    "2026",
+    "2027",
+    "2029"
+   ],
+   "answer": 2,
+   "why": "They apply from financial year 2027. Companies may opt to use them a year earlier."
+  },
+  {
+   "q": "How do the revised ESRS treat information that is not material?",
+   "options": [
+    "It may be added voluntarily in any amount",
+    "It is not to be reported",
+    "It must be reported in an annex",
+    "It must be reported if an investor asks"
+   ],
+   "answer": 1,
+   "why": "Non-material information is excluded, to keep statements focused. Set 1 only said it was not required."
+  },
+  {
+   "q": "What is the legal function of the voluntary reporting standard, besides being a template for smaller companies?",
+   "options": [
+    "It replaces the ESRS for listed companies",
+    "It sets the upper limit of what reporters may request from value-chain companies with up to 1,000 employees",
+    "It is the assurance standard for auditors",
+    "It defines the Taxonomy KPIs"
+   ],
+   "answer": 1,
+   "why": "The value-chain cap in Omnibus I refers to this standard. Requests beyond it can be refused."
+  },
+  {
+   "q": "A wave 1 company is preparing its report for financial year 2026. Which standards can it use?",
+   "options": [
+    "Only Set 1",
+    "Only the revised ESRS",
+    "Either Set 1 or the revised ESRS",
+    "The voluntary standard"
+   ],
+   "answer": 2,
+   "why": "2026 is a transition year with a choice. From 2027 the revised ESRS are the only option."
+  },
+  {
+   "q": "Which of these did the revision keep unchanged?",
+   "options": [
+    "The number of datapoints",
+    "The structure of two cross-cutting and ten topical standards",
+    "The voluntary datapoints",
+    "The move to reasonable assurance"
+   ],
+   "answer": 1,
+   "why": "The architecture was preserved. Datapoints were cut, voluntary ones removed, and assurance stays limited under Omnibus I."
+  }
+ ]
+}

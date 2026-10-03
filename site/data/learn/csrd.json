@@ -1,0 +1,283 @@
+{
+ "id": "csrd",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The CSRD makes large companies publish a **sustainability statement** inside their management report, prepared under the ESRS and checked by an auditor.",
+  "After **Omnibus I** it covers EU companies with **more than 1,000 employees and more than €450m net turnover**. Both criteria must be met.",
+  "Reporting follows **double materiality**: a company reports on its impacts on people and the environment and on the sustainability risks and opportunities for its own finances.",
+  "It is a **directive**. The binding rules are in national law, and the Omnibus changes must be transposed by 19 March 2027."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Investors, banks and civil society need comparable information about how companies affect the climate, the environment and people, and about how those issues affect companies. The predecessor, the **Non-Financial Reporting Directive (NFRD)** of 2014, covered around 11,700 companies and left them free to choose what and how to report. The results could not be compared and were rarely audited.",
+    "The CSRD replaced that with mandatory standards (the ESRS), a fixed place in the annual report, digital tagging and external assurance. The aim is to put sustainability information on a similar footing to financial information. It also feeds other rules: banks and funds need company data to meet their own obligations under the SFDR and the Taxonomy."
+   ]
+  },
+  {
+   "title": "Who is covered",
+   "text": [
+    "The scope changed twice. The original CSRD would have brought in around 50,000 companies in waves. In April 2025 a **stop-the-clock** directive postponed the later waves by two years. **Omnibus I**, in force since 18 March 2026, then removed the large majority of those companies from the scope for good."
+   ],
+   "table": {
+    "head": [
+     "Group",
+     "Original CSRD",
+     "After Omnibus I"
+    ],
+    "rows": [
+     [
+      "Large listed companies, banks and insurers with more than 500 employees (wave 1)",
+      "Report from financial year 2024",
+      "Keep reporting. Member States may exempt those below the new thresholds for financial years 2025 and 2026"
+     ],
+     [
+      "Other large EU companies",
+      "Two of three: 250 employees, €50m turnover, €25m balance sheet. From financial year 2025",
+      "Only with more than 1,000 employees **and** more than €450m net turnover. From financial year 2027"
+     ],
+     [
+      "Listed SMEs",
+      "From financial year 2026, with an opt-out",
+      "Out of scope. A voluntary standard is available"
+     ],
+     [
+      "Non-EU groups",
+      "More than €150m EU turnover",
+      "More than €450m EU turnover and an EU subsidiary or branch above €200m. From financial year 2028"
+     ]
+    ]
+   },
+   "after": [
+    "Thresholds are tested at group level for parent companies. A subsidiary is exempt if its parent publishes a consolidated sustainability statement that covers it."
+   ]
+  },
+  {
+   "title": "What a company has to do",
+   "points": [
+    "Carry out a **double materiality assessment** to decide which sustainability topics it must report on.",
+    "Publish a **sustainability statement** in a dedicated section of the management report. A separate sustainability report no longer satisfies the law.",
+    "Prepare it under the **ESRS**: from financial year 2027 the revised, simplified standards.",
+    "Cover the business model and strategy, targets, governance, policies, due diligence processes, the main impacts and risks, and indicators. Information on the **value chain** is included where relevant.",
+    "Report the **Taxonomy** figures required by Article 8 of the Taxonomy Regulation in the same statement.",
+    "Obtain **limited assurance** from the statutory auditor or, where the Member State allows it, another accredited assurance provider.",
+    "Publish in the single electronic reporting format, with digital tags once the tagging rules are in place."
+   ]
+  },
+  {
+   "title": "What Omnibus I changed besides the scope",
+   "points": [
+    "**Value-chain cap.** A reporting company may not demand more information from value-chain companies with up to 1,000 employees than the voluntary reporting standard contains. Those companies may refuse anything beyond it.",
+    "**Assurance stays limited.** The planned later move to reasonable assurance, the level used for financial statements, was dropped.",
+    "**No sector standards.** The Commission's mandate to adopt sector-specific ESRS was removed.",
+    "**Simpler standards.** The Commission had to revise the ESRS and cut datapoints; the revised set applies from financial year 2027.",
+    "**Transition for wave 1.** Member States may exempt wave 1 companies that fall below the new thresholds for financial years 2025 and 2026."
+   ]
+  },
+  {
+   "title": "Enforcement",
+   "text": [
+    "Because the CSRD amends the Accounting Directive, the sustainability statement is part of the management report and falls under the same responsibility: the board is collectively responsible for it, and the audit committee oversees the process. Penalties are set in national law and differ between Member States. Several Member States transposed the original CSRD late, so check the state of the national law in each country where a reporting entity is established."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Sustainability statement",
+   "text": "The dedicated section of the management report that contains the CSRD disclosures."
+  },
+  {
+   "term": "Double materiality",
+   "text": "The filter for what to report: impact materiality and financial materiality. A topic material from either perspective is reported."
+  },
+  {
+   "term": "Limited assurance",
+   "text": "The auditor states that nothing has come to their attention suggesting the statement is materially misstated. Less work and less certainty than reasonable assurance."
+  },
+  {
+   "term": "Wave 1",
+   "text": "The companies that already reported under the NFRD: large public-interest entities with more than 500 employees. First CSRD reports covered financial year 2024."
+  },
+  {
+   "term": "Stop-the-clock",
+   "text": "Directive (EU) 2025/794, which postponed the reporting start of waves 2 and 3 by two years while Omnibus I was negotiated."
+  },
+  {
+   "term": "Value-chain cap",
+   "text": "The limit on what reporting companies may request from value-chain companies with up to 1,000 employees."
+  },
+  {
+   "term": "NFRD",
+   "text": "Non-Financial Reporting Directive (2014/95/EU), the predecessor of the CSRD."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "1,000",
+   "label": "employees: the first scope threshold after Omnibus I (more than)"
+  },
+  {
+   "value": "€450m",
+   "label": "net turnover: the second threshold. Both must be exceeded"
+  },
+  {
+   "value": "FY 2027",
+   "label": "first financial year under the new scope, with reports published in 2028"
+  },
+  {
+   "value": "€200m",
+   "label": "turnover an EU subsidiary or branch of a non-EU group must exceed, in addition to €450m EU turnover of the group"
+  },
+  {
+   "value": "19 March 2027",
+   "label": "deadline for Member States to transpose the Omnibus I changes"
+  },
+  {
+   "value": "2 years",
+   "label": "the postponement of waves 2 and 3 under the stop-the-clock directive"
+  }
+ ],
+ "related": [
+  {
+   "id": "esrs",
+   "text": "The CSRD says who reports; the ESRS say what and how. Set 1 is used for reports up to financial year 2026."
+  },
+  {
+   "id": "esrs-revised",
+   "text": "The simplified standards that become mandatory from financial year 2027, plus the voluntary standard behind the value-chain cap."
+  },
+  {
+   "id": "taxonomy",
+   "text": "CSRD reporters disclose their Taxonomy-eligible and Taxonomy-aligned turnover, CapEx and OpEx in the same statement."
+  },
+  {
+   "id": "csddd",
+   "text": "Amended by the same Omnibus. The CSDDD requires due diligence; the CSRD requires reporting on it. In-scope companies report their due diligence through the CSRD statement."
+  },
+  {
+   "id": "sfdr",
+   "text": "Funds and banks depend on CSRD data for their own disclosures. A smaller CSRD scope means more estimates on their side."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "A company is in scope if it exceeds either 1,000 employees or €450m turnover.",
+   "right": "Both thresholds must be exceeded. A company with 3,000 employees and €300m turnover is out of scope."
+  },
+  {
+   "wrong": "The CSRD applies directly, so the EU text is all that matters.",
+   "right": "It is a directive. Obligations, options and penalties come from the national transposition law."
+  },
+  {
+   "wrong": "Companies below the thresholds are no longer affected.",
+   "right": "They still receive data requests from customers, banks and investors. The value-chain cap limits those requests but does not remove them."
+  },
+  {
+   "wrong": "Double materiality was dropped in the simplification.",
+   "right": "It remains the basis of reporting. What changed is the number of datapoints and how the assessment may be carried out."
+  },
+  {
+   "wrong": "The auditor confirms that the sustainability statement is correct.",
+   "right": "Limited assurance is a negative statement: nothing indicates a material misstatement. It is a lower level than the audit of the financial statements."
+  }
+ ],
+ "practice": [
+  "**Check scope at group level**: average employees and net turnover of the consolidated group, for two consecutive years.",
+  "If you are a **wave 1 reporter below the new thresholds**, find out whether your Member State uses the exemption for 2025 and 2026.",
+  "Run or refresh the **double materiality assessment** and document the reasoning. It determines everything else.",
+  "Decide which **standards to use for financial year 2026**: Set 1 or early use of the revised ESRS.",
+  "Set up **data ownership and controls** for each material topic so the figures can be assured.",
+  "For suppliers with up to 1,000 employees, align your **data requests with the voluntary standard**."
+ ],
+ "quiz": [
+  {
+   "q": "Which EU companies fall under the CSRD after Omnibus I?",
+   "options": [
+    "Companies with more than 250 employees",
+    "Companies with more than 1,000 employees or more than €450m net turnover",
+    "Companies with more than 1,000 employees and more than €450m net turnover",
+    "All companies listed on an EU regulated market"
+   ],
+   "answer": 2,
+   "why": "Both criteria must be met. The earlier definition of a large company (two of three size criteria) no longer decides the scope."
+  },
+  {
+   "q": "Where must the CSRD information be published?",
+   "options": [
+    "In a stand-alone sustainability report",
+    "In a dedicated section of the management report",
+    "On the company website within six months",
+    "In a filing with ESMA"
+   ],
+   "answer": 1,
+   "why": "The sustainability statement is part of the management report and published together with the financial statements."
+  },
+  {
+   "q": "What did the stop-the-clock directive of April 2025 do?",
+   "options": [
+    "It postponed the reporting start of waves 2 and 3 by two years",
+    "It suspended reporting for wave 1 companies",
+    "It raised the employee threshold to 1,000",
+    "It replaced the ESRS with a voluntary standard"
+   ],
+   "answer": 0,
+   "why": "It only moved dates, to give the co-legislators time to negotiate the content changes that later became Omnibus I."
+  },
+  {
+   "q": "What level of assurance does the CSRD require for the sustainability statement?",
+   "options": [
+    "None; assurance is voluntary",
+    "Limited assurance, with a move to reasonable assurance in 2028",
+    "Limited assurance; the move to reasonable assurance was dropped",
+    "Reasonable assurance, as for financial statements"
+   ],
+   "answer": 2,
+   "why": "Omnibus I kept limited assurance and removed the option of moving to reasonable assurance later."
+  },
+  {
+   "q": "What does the value-chain cap do?",
+   "options": [
+    "It limits Scope 3 reporting to tier 1 suppliers",
+    "It limits what reporting companies may request from value-chain companies with up to 1,000 employees",
+    "It caps the cost of assurance for suppliers",
+    "It exempts all value-chain information from the report"
+   ],
+   "answer": 1,
+   "why": "Reporting companies may not require more than the voluntary standard contains from such companies, which can decline further requests."
+  },
+  {
+   "q": "A non-EU group is covered by the CSRD if it has…",
+   "options": [
+    "any subsidiary in the EU",
+    "more than €150m turnover in the EU",
+    "more than €450m turnover in the EU and an EU subsidiary or branch above €200m",
+    "more than 1,000 employees worldwide"
+   ],
+   "answer": 2,
+   "why": "Omnibus I raised the thresholds for non-EU groups. The obligation starts with financial year 2028."
+  },
+  {
+   "q": "A company's biggest environmental impact is water pollution, but this poses no financial risk to the company. Does it report on it?",
+   "options": [
+    "No, only financially material topics are reported",
+    "Yes, a topic that is material from the impact perspective alone must be reported",
+    "Only if investors ask for it",
+    "Only if the topic is also material for the sector"
+   ],
+   "answer": 1,
+   "why": "Under double materiality either perspective is sufficient. Impact materiality alone triggers reporting."
+  },
+  {
+   "q": "By when must Member States transpose the Omnibus I changes to the CSRD?",
+   "options": [
+    "18 March 2026",
+    "19 March 2027",
+    "1 January 2027",
+    "26 July 2028"
+   ],
+   "answer": 1,
+   "why": "Omnibus I entered into force on 18 March 2026 and gives Member States one year. 26 July 2028 is the transposition deadline for the CSDDD."
+  }
+ ]
+}

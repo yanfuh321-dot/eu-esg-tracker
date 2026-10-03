@@ -1,0 +1,208 @@
+{
+ "id": "green-bond",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The European Green Bond Standard is a **voluntary label**: issuers who follow it may call their bond a ‘European green bond’ or ‘EuGB’.",
+  "The price of the label is strict: proceeds must finance **Taxonomy-aligned** activities, with at most 15% flexibility.",
+  "An **external reviewer registered with ESMA** checks the bond before and after issuance.",
+  "Other green bonds remain legal. The standard competes with market standards by offering more credibility."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "The green bond market grew on voluntary principles, mainly the Green Bond Principles of the International Capital Market Association. They leave the definition of ‘green’ to the issuer and rely on unregulated second-party opinions. The EuGB Regulation, in application since 21 December 2024, offers a gold standard: a legal definition of green through the Taxonomy and supervised reviewers."
+   ]
+  },
+  {
+   "title": "What an issuer has to do",
+   "steps": [
+    "**Before issuance**: publish a **factsheet** in the standard format describing the use of proceeds and the environmental strategy, and obtain a **pre-issuance review** from an external reviewer. A prospectus is required, except for sovereign issuers.",
+    "**Use of proceeds**: allocate all proceeds to Taxonomy-aligned assets or expenditure. Up to **15%** may go to activities for which no Taxonomy criteria exist yet or to certain other activities, under conditions.",
+    "**Every year until full allocation**: publish an **allocation report**.",
+    "**After full allocation**: obtain a **post-issuance review** of the allocation report.",
+    "**At least once**: publish an **impact report** on the environmental effect of the financed activities."
+   ],
+   "after": [
+    "Proceeds may also finance a path to alignment: under a **CapEx plan**, an activity can be funded that will become Taxonomy-aligned within a set period."
+   ]
+  },
+  {
+   "title": "External reviewers and supervision",
+   "text": [
+    "Reviewers must be registered with and supervised by ESMA, and must manage conflicts of interest and publish their methods. That is the main difference from the unregulated second-party opinions of the wider market. National authorities supervise the issuers' compliance with the disclosure duties and can suspend an offer or prohibit the use of the designation."
+   ]
+  },
+  {
+   "title": "What if the Taxonomy criteria change",
+   "text": [
+    "Bonds run for many years, criteria are revised regularly. The regulation protects issuers through **grandfathering**: if the technical screening criteria are amended after issuance, proceeds already allocated keep their status, and unallocated proceeds must be brought in line with the new criteria within seven years."
+   ]
+  },
+  {
+   "title": "The optional templates for other bonds",
+   "text": [
+    "The regulation also contains voluntary disclosure templates for bonds marketed as environmentally sustainable and for sustainability-linked bonds that do not use the EuGB designation. They let issuers show how far their bond goes towards the Taxonomy without meeting the full standard."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Use-of-proceeds bond",
+   "text": "A bond whose funds are earmarked for defined projects. The EuGB is of this type."
+  },
+  {
+   "term": "Flexibility pocket",
+   "text": "The up to 15% of proceeds that need not be fully Taxonomy-aligned."
+  },
+  {
+   "term": "Factsheet",
+   "text": "The pre-issuance document describing how the bond meets the standard."
+  },
+  {
+   "term": "Allocation report",
+   "text": "The yearly report showing where the proceeds went."
+  },
+  {
+   "term": "External reviewer",
+   "text": "An ESMA-registered firm that reviews the factsheet and the allocation report."
+  },
+  {
+   "term": "Grandfathering",
+   "text": "Protection of an existing bond against later changes of the Taxonomy criteria."
+  },
+  {
+   "term": "Sustainability-linked bond",
+   "text": "A bond whose terms, such as the coupon, depend on the issuer reaching sustainability targets. Proceeds are not earmarked."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "15%",
+   "label": "maximum share of proceeds in the flexibility pocket"
+  },
+  {
+   "value": "85%",
+   "label": "minimum share of proceeds that must be Taxonomy-aligned"
+  },
+  {
+   "value": "21 Dec 2024",
+   "label": "start of application"
+  },
+  {
+   "value": "7 years",
+   "label": "time to adapt unallocated proceeds to amended Taxonomy criteria"
+  }
+ ],
+ "related": [
+  {
+   "id": "taxonomy",
+   "text": "The yardstick of the standard. Without Taxonomy criteria for an activity, only the flexibility pocket is available."
+  },
+  {
+   "id": "sfdr",
+   "text": "Funds holding EuGBs can count them towards their Taxonomy-aligned share with confidence."
+  },
+  {
+   "id": "sfdr2",
+   "text": "Use-of-proceeds bonds are discussed as eligible investments in the new product categories."
+  },
+  {
+   "id": "esg-ratings",
+   "text": "A parallel case: ESMA also supervises ESG rating providers. External reviews of EuGBs fall under the bond standard, not the ratings regulation."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Every green bond issued in the EU must follow the standard.",
+   "right": "The standard is voluntary. Only the designation ‘European green bond’ or ‘EuGB’ is reserved."
+  },
+  {
+   "wrong": "All proceeds must be Taxonomy-aligned.",
+   "right": "At least 85%. The flexibility pocket allows up to 15% elsewhere under conditions."
+  },
+  {
+   "wrong": "A second-party opinion from any provider is sufficient.",
+   "right": "The reviewer must be registered with ESMA."
+  },
+  {
+   "wrong": "If the Taxonomy criteria tighten, the bond loses its status.",
+   "right": "Allocated proceeds are grandfathered, and unallocated proceeds have seven years to adapt."
+  }
+ ],
+ "practice": [
+  "**Build the pipeline first**: identify assets or expenditure that are demonstrably Taxonomy-aligned, with evidence for each criterion.",
+  "Decide whether to use the **flexibility pocket** or a **CapEx plan**.",
+  "Appoint an **ESMA-registered reviewer** early; the pre-issuance review takes time.",
+  "Set up **tracking of proceeds** so the annual allocation report is a by-product of treasury processes.",
+  "Compare the cost with the benefit: a wider investor base and stronger protection against greenwashing claims."
+ ],
+ "quiz": [
+  {
+   "q": "Is the European Green Bond Standard mandatory for green bonds in the EU?",
+   "options": [
+    "Yes, since December 2024",
+    "Yes, for issuers above €500m",
+    "No, it is voluntary; only the designation is protected",
+    "No, it applies only to sovereign issuers"
+   ],
+   "answer": 2,
+   "why": "Issuers may continue to use market standards. Only bonds that follow the regulation may be called European green bonds."
+  },
+  {
+   "q": "What must the proceeds of a European green bond finance?",
+   "options": [
+    "Any project the issuer describes as green",
+    "Taxonomy-aligned activities, with up to 15% flexibility",
+    "Only renewable energy",
+    "Activities approved by the European Investment Bank"
+   ],
+   "answer": 1,
+   "why": "The link to the Taxonomy is the core of the standard. The flexibility pocket covers up to 15% of proceeds."
+  },
+  {
+   "q": "Who supervises the external reviewers?",
+   "options": [
+    "The issuer's auditor",
+    "The European Central Bank",
+    "ESMA",
+    "EFRAG"
+   ],
+   "answer": 2,
+   "why": "Reviewers must be registered with and supervised by the European Securities and Markets Authority."
+  },
+  {
+   "q": "Which document is published before issuance?",
+   "options": [
+    "The impact report",
+    "The allocation report",
+    "The factsheet, with a pre-issuance review",
+    "The green asset ratio"
+   ],
+   "answer": 2,
+   "why": "The factsheet sets out the planned use of proceeds and is reviewed before the bond is issued. Allocation and impact reports follow later."
+  },
+  {
+   "q": "The Taxonomy criteria for an activity are tightened three years after a bond was issued and fully allocated. What happens?",
+   "options": [
+    "The bond loses the EuGB designation",
+    "The allocated proceeds keep their status",
+    "The issuer must repay the bond",
+    "The issuer must reallocate within one year"
+   ],
+   "answer": 1,
+   "why": "Proceeds already allocated are grandfathered. Only unallocated proceeds must be adapted, within seven years."
+  },
+  {
+   "q": "How does a sustainability-linked bond differ from a European green bond?",
+   "options": [
+    "Its proceeds are earmarked more strictly",
+    "Its terms depend on the issuer meeting targets; proceeds are not earmarked",
+    "It can only be issued by governments",
+    "It must be fully Taxonomy-aligned"
+   ],
+   "answer": 1,
+   "why": "The EuGB is a use-of-proceeds instrument. Sustainability-linked bonds tie financial terms to performance targets."
+  }
+ ]
+}

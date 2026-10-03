@@ -1,0 +1,259 @@
+{
+ "id": "sfdr",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The SFDR is a **disclosure regulation** for the financial sector: asset managers, insurers, pension providers and advisers must explain how they deal with sustainability risks and impacts.",
+  "It works at two levels: the **firm** (policies and adverse impacts) and the **product** (each fund or mandate).",
+  "Products are known by the article they disclose under: **Article 6** (no sustainability claim), **Article 8** (promotes environmental or social characteristics), **Article 9** (sustainable investment as objective).",
+  "These articles were never meant as labels, but the market uses them as such. That misuse is the main reason for the **SFDR 2.0** reform."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "The EU wants private capital to finance the transition. For that, investors must be able to tell which products take sustainability seriously. The SFDR, in application since March 2021, obliges providers to publish standardised information so that claims can be checked and compared.",
+    "It regulates what must be **said**, not how money must be **invested**. A fund may invest in anything; it just has to describe its approach truthfully in a prescribed format."
+   ]
+  },
+  {
+   "title": "Who is covered",
+   "points": [
+    "**Financial market participants**: managers of investment funds (UCITS and alternative funds), portfolio managers, insurers offering investment products, pension providers.",
+    "**Financial advisers**: firms that advise on investments or insurance-based investment products.",
+    "Non-EU managers are caught when they market funds in the EU."
+   ]
+  },
+  {
+   "title": "Firm-level disclosures",
+   "points": [
+    "**Sustainability risk policy** (Article 3): how the firm integrates sustainability risks into investment decisions or advice.",
+    "**Principal adverse impacts** (Article 4): whether the firm considers the negative effects of its investments on the environment and society. Firms with more than 500 employees must publish an annual statement with defined indicators; smaller firms may explain why they do not.",
+    "**Remuneration** (Article 5): how pay policies are consistent with the integration of sustainability risks."
+   ]
+  },
+  {
+   "title": "Product-level disclosures",
+   "table": {
+    "head": [
+     "Product",
+     "What it claims",
+     "What it must disclose"
+    ],
+    "rows": [
+     [
+      "Article 6",
+      "No sustainability claim",
+      "How sustainability risks are integrated and their likely effect on returns, or why they are not relevant"
+     ],
+     [
+      "Article 8",
+      "Promotes environmental or social characteristics; investee companies follow good governance",
+      "Which characteristics, how they are met, the planned asset allocation, any share of sustainable or Taxonomy-aligned investments"
+     ],
+     [
+      "Article 9",
+      "Has sustainable investment as its objective",
+      "The objective, how it is attained and measured, how investments do no significant harm"
+     ]
+    ]
+   },
+   "after": [
+    "The information appears in three places: **pre-contractual documents** such as the prospectus, the **website**, and **periodic reports**. The Level 2 rules that have applied since January 2023 prescribe templates for Article 8 and 9 products."
+   ]
+  },
+  {
+   "title": "The three building blocks behind the wording",
+   "points": [
+    "**Sustainable investment** (Article 2(17)): an investment in an activity that contributes to an environmental or social objective, does not significantly harm any such objective, in a company with good governance. The definition leaves much to the manager's own methodology.",
+    "**Principal adverse impact indicators**: a set of mandatory indicators, such as greenhouse gas emissions, fossil fuel exposure, board gender diversity and violations of international norms, plus optional ones.",
+    "**Taxonomy alignment**: Article 8 and 9 products with environmental aims disclose what share of their investments is Taxonomy-aligned. Zero is a permitted answer."
+   ]
+  },
+  {
+   "title": "Where it went wrong",
+   "text": [
+    "Article 8 is very broad. A fund that excludes a few sectors and a fund with a demanding strategy can both be Article 8. Because distributors and investors treated the articles as quality labels, large parts of the market were classified as Article 8, and the ‘sustainable investment’ definition was applied differently by every manager. In 2022 and 2023 many funds were moved from Article 9 to Article 8 after regulators clarified their expectations.",
+    "As a stop-gap, **ESMA's guidelines on fund names** require funds that use ESG or sustainability terms in their name to invest at least 80% in line with those terms and to apply defined exclusions. The structural answer is the SFDR revision."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Financial market participant (FMP)",
+   "text": "The product providers covered by the SFDR, such as fund managers and insurers."
+  },
+  {
+   "term": "Sustainability risk",
+   "text": "An environmental, social or governance event that could reduce the value of an investment. The outside-in view."
+  },
+  {
+   "term": "Principal adverse impact (PAI)",
+   "text": "The negative effect of investment decisions on sustainability factors. The inside-out view."
+  },
+  {
+   "term": "Article 8 product",
+   "text": "Promotes environmental or social characteristics. Often called ‘light green’, a term the regulation does not use."
+  },
+  {
+   "term": "Article 9 product",
+   "text": "Has sustainable investment as its objective. Often called ‘dark green’."
+  },
+  {
+   "term": "Level 2 / RTS",
+   "text": "Delegated Regulation (EU) 2022/1288, with the detailed templates and indicators."
+  },
+  {
+   "term": "Good governance",
+   "text": "Sound management structures, employee relations, staff remuneration and tax compliance at investee companies."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "10 March 2021",
+   "label": "start of application of the Level 1 rules"
+  },
+  {
+   "value": "1 Jan 2023",
+   "label": "start of application of the Level 2 templates and indicators"
+  },
+  {
+   "value": "500",
+   "label": "employees: above this, a firm must publish a principal adverse impact statement"
+  },
+  {
+   "value": "3",
+   "label": "places of disclosure: pre-contractual documents, website, periodic reports"
+  },
+  {
+   "value": "80%",
+   "label": "minimum share of investments matching the name, under ESMA's fund-name guidelines"
+  }
+ ],
+ "related": [
+  {
+   "id": "sfdr2",
+   "text": "The reform that would replace the Article 8 and 9 logic with defined product categories."
+  },
+  {
+   "id": "taxonomy",
+   "text": "Supplies the definition of environmentally sustainable activities used in product disclosures."
+  },
+  {
+   "id": "csrd",
+   "text": "The source of the company data that funds need for their indicators. The narrower CSRD scope leaves gaps to be filled with estimates."
+  },
+  {
+   "id": "esg-ratings",
+   "text": "Many managers rely on ESG ratings to build and describe their products."
+  },
+  {
+   "id": "green-bond",
+   "text": "A separate, voluntary standard for one asset class that uses the Taxonomy as its yardstick."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Article 8 and Article 9 are sustainability labels.",
+   "right": "They are disclosure categories. The regulation sets no minimum quality for either."
+  },
+  {
+   "wrong": "An Article 9 fund invests only in Taxonomy-aligned activities.",
+   "right": "It invests in ‘sustainable investments’ as defined by the SFDR, which is wider and partly defined by the manager. Its Taxonomy-aligned share can be low."
+  },
+  {
+   "wrong": "The SFDR tells managers what they may invest in.",
+   "right": "It only requires transparency about the approach taken."
+  },
+  {
+   "wrong": "Sustainability risk and adverse impact are the same thing.",
+   "right": "Risk is the effect of sustainability matters on the investment. Adverse impact is the effect of the investment on the world."
+  }
+ ],
+ "practice": [
+  "**Classify every product** and keep the reasoning on file. Supervisors ask why a product is Article 8 rather than 6 or 9.",
+  "Make sure the **three disclosures are consistent**: prospectus annex, website and periodic report must tell the same story.",
+  "Define and document your **sustainable investment methodology**: contribution, do no significant harm, good governance.",
+  "Check **fund names** against ESMA's guidelines before launch.",
+  "Map **data sources** for each adverse impact indicator and mark where estimates are used.",
+  "Follow the **SFDR 2.0** negotiations and test where each product would land under the new categories."
+ ],
+ "quiz": [
+  {
+   "q": "What kind of regulation is the SFDR?",
+   "options": [
+    "A labelling scheme for green funds",
+    "A disclosure regulation for financial market participants and advisers",
+    "A capital requirement for banks",
+    "A ban on investments in fossil fuels"
+   ],
+   "answer": 1,
+   "why": "It requires transparency at firm and product level. It neither labels products nor restricts investments."
+  },
+  {
+   "q": "What characterises an Article 9 product?",
+   "options": [
+    "It promotes environmental or social characteristics",
+    "It has sustainable investment as its objective",
+    "It makes no sustainability claim",
+    "It invests only in government bonds"
+   ],
+   "answer": 1,
+   "why": "Article 9 covers products whose objective is sustainable investment. Promoting characteristics is Article 8."
+  },
+  {
+   "q": "What are principal adverse impacts?",
+   "options": [
+    "Losses a fund suffers from climate events",
+    "Negative effects of investment decisions on the environment and society",
+    "Fees charged for sustainable products",
+    "The main risks listed in a prospectus"
+   ],
+   "answer": 1,
+   "why": "They describe the inside-out view: what the investments do to sustainability factors."
+  },
+  {
+   "q": "Which firms must publish a principal adverse impact statement, without the option to explain instead?",
+   "options": [
+    "All firms",
+    "Firms with more than 500 employees",
+    "Firms managing Article 9 products",
+    "Firms listed on a stock exchange"
+   ],
+   "answer": 1,
+   "why": "Above 500 employees the statement is mandatory. Smaller firms may explain why they do not consider adverse impacts."
+  },
+  {
+   "q": "Why is it misleading to call Article 8 a label?",
+   "options": [
+    "Because the article sets no minimum standard; very different strategies fit under it",
+    "Because Article 8 products are not allowed to mention sustainability",
+    "Because only ESMA may award labels",
+    "Because Article 8 applies only to insurers"
+   ],
+   "answer": 0,
+   "why": "Article 8 is a disclosure trigger. A light exclusion policy and a demanding strategy can both fall under it."
+  },
+  {
+   "q": "Where must product-level information be disclosed?",
+   "options": [
+    "Only in the annual report",
+    "In pre-contractual documents, on the website and in periodic reports",
+    "Only on request",
+    "In a filing to the European Central Bank"
+   ],
+   "answer": 1,
+   "why": "The SFDR prescribes all three, and they have to be consistent with one another."
+  },
+  {
+   "q": "Can an Article 8 fund report a Taxonomy-aligned share of 0%?",
+   "options": [
+    "No, at least 10% is required",
+    "No, Article 8 funds must be fully aligned",
+    "Yes, it must disclose the share, whatever it is",
+    "Yes, but only in the first year"
+   ],
+   "answer": 2,
+   "why": "The duty is to disclose the share, not to reach a minimum."
+  }
+ ]
+}

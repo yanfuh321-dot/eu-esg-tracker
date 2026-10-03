@@ -1,0 +1,278 @@
+{
+ "id": "batteries",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The Batteries Regulation covers the **whole life cycle** of every battery sold in the EU: sourcing, production, use, collection and recycling.",
+  "It is the first product law to combine **carbon footprint rules, recycled content targets, a digital passport and supply-chain due diligence**.",
+  "Obligations arrive in steps. The **battery passport** becomes mandatory on **18 February 2027**; **raw-material due diligence** on **18 August 2027**, after a two-year postponement.",
+  "It is a **regulation**, replacing the 2006 Batteries Directive, so the rules are identical across Member States."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Demand for batteries is rising fast with electric vehicles and energy storage. Their production is emission-intensive and relies on cobalt, lithium, nickel and graphite, which are linked to environmental damage and labour abuses in some mining regions. The regulation aims to make the batteries that power the transition sustainable themselves and to keep valuable materials in circulation."
+   ]
+  },
+  {
+   "title": "Five battery categories",
+   "points": [
+    "**Portable batteries**: sealed, up to 5 kg, for example in phones and tools.",
+    "**Light means of transport (LMT) batteries**: for e-bikes and e-scooters.",
+    "**Starting, lighting and ignition (SLI) batteries**: the classic car battery.",
+    "**Industrial batteries**: for industrial uses and energy storage.",
+    "**Electric vehicle batteries**: traction batteries for cars and vans."
+   ],
+   "after": [
+    "Which obligations apply, and when, depends on the category."
+   ]
+  },
+  {
+   "title": "The main obligations",
+   "table": {
+    "head": [
+     "Topic",
+     "What is required",
+     "Who and when"
+    ],
+    "rows": [
+     [
+      "Carbon footprint",
+      "A declaration of the battery's life-cycle carbon footprint, later performance classes and maximum thresholds",
+      "Electric vehicle, industrial and LMT batteries, phased in by category once the calculation rules are adopted"
+     ],
+     [
+      "Recycled content",
+      "Minimum shares of recycled cobalt, lead, lithium and nickel",
+      "From 18 August 2031 for large industrial, electric vehicle and SLI batteries"
+     ],
+     [
+      "Removability",
+      "Portable batteries must be removable and replaceable by the end user",
+      "From 18 February 2027"
+     ],
+     [
+      "Battery passport",
+      "A digital record reached through a QR code, with data on composition, carbon footprint, performance and recycling",
+      "From 18 February 2027 for electric vehicle, LMT and industrial batteries above 2 kWh"
+     ],
+     [
+      "Due diligence",
+      "A supply-chain policy for cobalt, natural graphite, lithium and nickel, verified by a notified body",
+      "From 18 August 2027 for operators above €40m turnover"
+     ],
+     [
+      "End of life",
+      "Producers finance collection and recycling; collection and material recovery targets rise over time",
+      "Extended producer responsibility since 18 August 2025"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "Due diligence in detail",
+   "text": [
+    "Companies that place batteries on the market and exceed €40m net turnover must adopt a due diligence policy for the four raw materials, covering social and environmental risks from child labour to water pollution. It follows the OECD guidance: management system, risk identification, risk response, third-party verification and public reporting. A notified body verifies the policy and audits it periodically.",
+    "The start was moved from August 2025 to **18 August 2027** because the verification bodies and guidelines were not yet in place."
+   ]
+  },
+  {
+   "title": "Collection and recycling",
+   "points": [
+    "**Collection of portable batteries**: 63% by the end of 2027 and 73% by the end of 2030.",
+    "**Collection of LMT batteries**: 51% by the end of 2028 and 61% by the end of 2031.",
+    "**Material recovery**: for lithium, 50% by the end of 2027 and 80% by the end of 2031; high rates for cobalt, copper, lead and nickel.",
+    "**No landfilling or incineration** of waste batteries."
+   ]
+  },
+  {
+   "title": "Who is responsible",
+   "text": [
+    "The regulation addresses **manufacturers**, **importers** and **distributors** as economic operators, and **producers** in the sense of whoever first makes a battery available in a Member State, who carry extended producer responsibility there. Batteries must bear the CE marking and, from 2027, a QR code. National market surveillance authorities enforce the rules."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Battery passport",
+   "text": "The digital record for an individual battery, accessible through a QR code. The first mandatory digital product passport in EU law."
+  },
+  {
+   "term": "Carbon footprint declaration",
+   "text": "A statement of the greenhouse gas emissions over the battery's life cycle, calculated by harmonised rules."
+  },
+  {
+   "term": "Recycled content",
+   "text": "The share of a material in a new battery that was recovered from waste."
+  },
+  {
+   "term": "Extended producer responsibility (EPR)",
+   "text": "The producer's duty to finance and organise collection and treatment of waste batteries."
+  },
+  {
+   "term": "Notified body",
+   "text": "An independent organisation designated to carry out conformity assessment and verification."
+  },
+  {
+   "term": "State of health",
+   "text": "A measure of a battery's remaining capacity and performance, to be accessible for second use and resale."
+  },
+  {
+   "term": "LMT battery",
+   "text": "Battery for light means of transport such as e-bikes."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "18 Feb 2027",
+   "label": "battery passport mandatory; portable batteries must be removable by the end user"
+  },
+  {
+   "value": "18 Aug 2027",
+   "label": "raw-material due diligence applies, postponed from 2025"
+  },
+  {
+   "value": "€40m",
+   "label": "net turnover above which the due diligence duty applies"
+  },
+  {
+   "value": "4",
+   "label": "raw materials under due diligence: cobalt, natural graphite, lithium, nickel"
+  },
+  {
+   "value": "16% / 6% / 6%",
+   "label": "minimum recycled cobalt, lithium and nickel from August 2031"
+  },
+  {
+   "value": "63%",
+   "label": "collection target for portable batteries by the end of 2027"
+  }
+ ],
+ "related": [
+  {
+   "id": "espr",
+   "text": "The general framework for product requirements and passports. Batteries have their own, earlier regime."
+  },
+  {
+   "id": "conflict-minerals",
+   "text": "Due diligence for tin, tantalum, tungsten and gold, on the same OECD basis."
+  },
+  {
+   "id": "csddd",
+   "text": "Company-wide due diligence for the largest companies; the battery duty is product-specific and applies at a much lower threshold."
+  },
+  {
+   "id": "forced-labour",
+   "text": "Cobalt and other battery materials are among the supply chains where forced and child labour risks are known."
+  },
+  {
+   "id": "cbam",
+   "text": "Battery materials are not CBAM goods, but the carbon footprint rules serve a similar purpose for this product."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The regulation concerns only electric vehicle batteries.",
+   "right": "It covers all batteries, including those built into products, with different rules by category."
+  },
+  {
+   "wrong": "The due diligence obligations are already in application.",
+   "right": "They were postponed to 18 August 2027."
+  },
+  {
+   "wrong": "Every battery needs a passport from 2027.",
+   "right": "Only electric vehicle, LMT and industrial batteries above 2 kWh."
+  },
+  {
+   "wrong": "Recycled content targets apply now.",
+   "right": "Documentation comes first; the minimum shares apply from August 2031."
+  }
+ ],
+ "practice": [
+  "**Classify your batteries** by category; this decides which duties and dates apply.",
+  "**Determine your role** for each market: manufacturer, importer, distributor, producer.",
+  "**Build the data flows for the passport** with cell and material suppliers before 2027.",
+  "If above €40m turnover, **prepare the due diligence policy** and engage a notified body.",
+  "**Register as a producer** and join a take-back scheme in each Member State where you sell.",
+  "For portable devices, **review the design** for user-replaceable batteries."
+ ],
+ "quiz": [
+  {
+   "q": "What is new about the scope of the Batteries Regulation compared with the old directive?",
+   "options": [
+    "It covers only waste batteries",
+    "It covers the whole life cycle, from raw materials to recycling",
+    "It applies only to batteries made in the EU",
+    "It is voluntary for importers"
+   ],
+   "answer": 1,
+   "why": "The 2006 directive focused on end of life. The regulation adds sourcing, carbon footprint, design and information."
+  },
+  {
+   "q": "For which batteries does the battery passport become mandatory on 18 February 2027?",
+   "options": [
+    "All batteries",
+    "Portable batteries",
+    "Electric vehicle, LMT and industrial batteries above 2 kWh",
+    "Only batteries imported from outside the EU"
+   ],
+   "answer": 2,
+   "why": "The passport applies to these three groups. Portable and SLI batteries are not covered."
+  },
+  {
+   "q": "Which raw materials are subject to due diligence?",
+   "options": [
+    "Tin, tantalum, tungsten and gold",
+    "Cobalt, natural graphite, lithium and nickel",
+    "Copper, aluminium and steel",
+    "Rare earths only"
+   ],
+   "answer": 1,
+   "why": "These four are the battery raw materials listed. The 3TG minerals fall under the Conflict Minerals Regulation."
+  },
+  {
+   "q": "From when do the due diligence obligations apply?",
+   "options": [
+    "18 August 2025",
+    "18 February 2027",
+    "18 August 2027",
+    "18 August 2031"
+   ],
+   "answer": 2,
+   "why": "The original date of August 2025 was postponed by two years."
+  },
+  {
+   "q": "What does the removability rule require from February 2027?",
+   "options": [
+    "Batteries in electric vehicles must be swappable",
+    "Portable batteries must be removable and replaceable by the end user",
+    "All batteries must be removable by robots",
+    "Batteries must be removed before export"
+   ],
+   "answer": 1,
+   "why": "End users must be able to remove and replace portable batteries in products, which affects product design."
+  },
+  {
+   "q": "Above which turnover does the due diligence duty apply?",
+   "options": [
+    "€10m",
+    "€40m",
+    "€450m",
+    "€1.5bn"
+   ],
+   "answer": 1,
+   "why": "€40m net turnover, far below the CSDDD threshold of €1.5bn."
+  },
+  {
+   "q": "Why do the rules not differ between Member States?",
+   "options": [
+    "Because Member States agreed informally",
+    "Because it is a regulation, directly applicable",
+    "Because batteries are only made in one country",
+    "Because the Commission enforces it alone"
+   ],
+   "answer": 1,
+   "why": "The 2006 directive needed transposition. The regulation applies directly, though national authorities enforce it."
+  }
+ ]
+}

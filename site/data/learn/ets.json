@@ -1,0 +1,290 @@
+{
+ "id": "ets",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The EU ETS is a **cap-and-trade** system: the EU fixes a shrinking total of emission allowances, and companies must hand in one allowance for every tonne of CO2 they emit.",
+  "It covers **power, heavy industry, aviation within Europe and shipping**, around 40% of EU emissions. The cap falls to **62% below 2005 levels by 2030**.",
+  "Allowances are mainly **auctioned**. Industry at risk of relocating still gets some for free, but that is being phased out for the sectors now covered by CBAM.",
+  "**ETS2**, a separate system for fuels used in buildings and road transport, starts pricing in **2028**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Putting a price on emissions makes polluters pay and leaves it to the market to find the cheapest reductions. The ETS, launched in 2005, is the EU's central climate instrument. Emissions from the installations it covers have fallen by roughly half since then, and the auction revenue funds climate and energy measures."
+   ]
+  },
+  {
+   "title": "How cap and trade works",
+   "steps": [
+    "**The cap**: the EU sets the total number of allowances for all covered installations together. It shrinks every year by a fixed amount, the linear reduction factor.",
+    "**Allocation**: most allowances are sold at auction. Some are given free of charge to industry, based on benchmarks of the most efficient installations.",
+    "**Trading**: companies that cut emissions cheaply can sell spare allowances; others buy. This produces the carbon price.",
+    "**Monitoring and reporting**: each operator monitors its emissions under an approved plan and submits a verified report by 31 March for the previous year.",
+    "**Surrender**: by 30 September the operator hands in allowances equal to its verified emissions.",
+    "**Penalty**: for each missing allowance a fine of €100 per tonne, adjusted for inflation, applies, and the allowance still has to be delivered."
+   ]
+  },
+  {
+   "title": "Who is covered",
+   "points": [
+    "**Electricity and heat generation.** No free allocation for power generation, with narrow exceptions.",
+    "**Energy-intensive industry**: steel, cement, refineries, chemicals, aluminium, glass, paper and others, above capacity thresholds.",
+    "**Aviation**: flights within the European Economic Area. Free allocation for airlines ended in 2026.",
+    "**Maritime transport**: ships above 5,000 gross tonnage, phased in since 2024. All emissions on voyages within the EU and half of those on voyages to and from non-EU ports are covered.",
+    "The regulated entity is the **operator** of the installation, aircraft or ship."
+   ]
+  },
+  {
+   "title": "Free allocation, carbon leakage and CBAM",
+   "text": [
+    "If EU producers pay a carbon price and competitors abroad do not, production and emissions may move abroad: **carbon leakage**. To prevent this, exposed sectors received free allowances. The drawback is a weaker incentive to decarbonise.",
+    "For cement, iron and steel, aluminium, fertilisers and hydrogen, the EU is replacing free allocation with the **Carbon Border Adjustment Mechanism**. Free allocation for these sectors falls step by step from 2026 and ends in 2034, while imports pay a matching carbon price."
+   ]
+  },
+  {
+   "title": "Keeping the market stable",
+   "text": [
+    "After the financial crisis a large surplus of allowances built up and the price collapsed. The **Market Stability Reserve**, in operation since 2019, removes allowances from auctions when too many are in circulation and releases them when there are too few. Together with the tighter cap it has kept the price at a level that influences investment decisions."
+   ]
+  },
+  {
+   "title": "ETS2: buildings and road transport",
+   "table": {
+    "head": [
+     "",
+     "ETS (ETS1)",
+     "ETS2"
+    ],
+    "rows": [
+     [
+      "Covers",
+      "Power, industry, aviation, shipping",
+      "Fuels used in buildings, road transport and smaller industry"
+     ],
+     [
+      "Who holds the obligation",
+      "The emitter: operator of the installation, aircraft or ship",
+      "The fuel supplier, upstream of the consumer"
+     ],
+     [
+      "Allocation",
+      "Auctioning plus declining free allocation",
+      "Auctioning only"
+     ],
+     [
+      "2030 target",
+      "62% below 2005",
+      "42% below 2005"
+     ],
+     [
+      "Start",
+      "2005",
+      "Monitoring and reporting since 2025, carbon pricing from 2028"
+     ]
+    ]
+   },
+   "after": [
+    "ETS2 was due to start in 2027 and was postponed by one year amid concern about heating and fuel costs. A price-stability mechanism releases additional allowances if the price exceeds €45 in 2020 prices, and it was strengthened in 2026. The **Social Climate Fund**, running from 2026 to 2032, supports vulnerable households and small businesses with part of the revenue."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Allowance (EUA)",
+   "text": "The right to emit one tonne of CO2 equivalent. The unit traded in the system."
+  },
+  {
+   "term": "Cap",
+   "text": "The total number of allowances issued in a year."
+  },
+  {
+   "term": "Linear reduction factor",
+   "text": "The yearly cut in the cap: 4.3% of the reference amount in 2024 to 2027 and 4.4% from 2028."
+  },
+  {
+   "term": "Free allocation",
+   "text": "Allowances given to industry without payment, based on product benchmarks."
+  },
+  {
+   "term": "Carbon leakage",
+   "text": "The shift of production and emissions to countries with weaker climate policy."
+  },
+  {
+   "term": "Market Stability Reserve (MSR)",
+   "text": "The mechanism that adjusts the supply of allowances to keep the market balanced."
+  },
+  {
+   "term": "MRV",
+   "text": "Monitoring, reporting and verification of emissions."
+  },
+  {
+   "term": "Social Climate Fund",
+   "text": "EU fund financed from allowance revenue to cushion the effect of ETS2 on vulnerable groups."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "62%",
+   "label": "reduction in emissions from ETS sectors by 2030, compared with 2005"
+  },
+  {
+   "value": "30 September",
+   "label": "yearly deadline for surrendering allowances"
+  },
+  {
+   "value": "€100 per tonne",
+   "label": "penalty for each missing allowance, adjusted for inflation"
+  },
+  {
+   "value": "5,000",
+   "label": "gross tonnage above which ships are covered"
+  },
+  {
+   "value": "2028",
+   "label": "start of carbon pricing under ETS2"
+  },
+  {
+   "value": "2034",
+   "label": "end of free allocation for the sectors covered by CBAM"
+  }
+ ],
+ "related": [
+  {
+   "id": "cbam",
+   "text": "The border counterpart of the ETS. CBAM certificates are priced from ETS auctions, and CBAM grows as free allocation shrinks."
+  },
+  {
+   "id": "csrd",
+   "text": "Emissions and exposure to carbon pricing are reported under the climate standard."
+  },
+  {
+   "id": "taxonomy",
+   "text": "Several Taxonomy thresholds for industrial activities are taken from the ETS product benchmarks."
+  },
+  {
+   "id": "foundations",
+   "text": "The ETS is a directive: national authorities issue permits and enforce compliance."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The ETS is a carbon tax.",
+   "right": "A tax fixes the price and leaves the quantity open. The ETS fixes the quantity and lets the market set the price."
+  },
+  {
+   "wrong": "Companies have an individual emissions limit.",
+   "right": "The cap applies to the system as a whole. Each operator may emit as much as it holds allowances for."
+  },
+  {
+   "wrong": "ETS2 makes households buy allowances.",
+   "right": "Fuel suppliers are the regulated entities. Households feel the price through fuel bills."
+  },
+  {
+   "wrong": "Free allowances mean industry has no incentive to reduce emissions.",
+   "right": "Allowances have a market value, so every tonne avoided can be sold. Benchmarks reward the most efficient plants."
+  },
+  {
+   "wrong": "Paying the penalty settles the obligation.",
+   "right": "The missing allowances must still be surrendered the following year."
+  }
+ ],
+ "practice": [
+  "**Check whether an installation or activity is covered** against the capacity thresholds in Annex I of the directive.",
+  "Keep the **monitoring plan** approved and up to date; it is the basis for every verified report.",
+  "Put the **compliance calendar** in place: verified report by 31 March, surrender by 30 September.",
+  "Develop a **purchasing strategy** for allowances as free allocation declines.",
+  "As a fuel supplier, make sure you hold an **ETS2 permit** and report, and plan how the cost is passed on from 2028.",
+  "As a user of fuels, **model the ETS2 price** in heating and fleet budgets."
+ ],
+ "quiz": [
+  {
+   "q": "What does ‘cap and trade’ mean?",
+   "options": [
+    "Each company has a fixed emissions limit it may not exceed",
+    "The total number of allowances is limited, and allowances can be traded",
+    "The carbon price is capped by law",
+    "Trading in allowances is limited to a maximum volume"
+   ],
+   "answer": 1,
+   "why": "The cap is on the system as a whole. Within it, operators trade allowances, which creates the price."
+  },
+  {
+   "q": "By how much must emissions in the ETS sectors fall by 2030 compared with 2005?",
+   "options": [
+    "42%",
+    "55%",
+    "62%",
+    "90%"
+   ],
+   "answer": 2,
+   "why": "62% for the ETS. 42% is the ETS2 target, 55% the EU's overall 2030 target against 1990."
+  },
+  {
+   "q": "Who is the regulated entity under ETS2?",
+   "options": [
+    "Households and drivers",
+    "Fuel suppliers",
+    "Car manufacturers",
+    "Municipalities"
+   ],
+   "answer": 1,
+   "why": "ETS2 regulates upstream: fuel suppliers surrender allowances for the fuels they put on the market."
+  },
+  {
+   "q": "From when does ETS2 put a price on emissions?",
+   "options": [
+    "2025",
+    "2027",
+    "2028",
+    "2034"
+   ],
+   "answer": 2,
+   "why": "The start was postponed from 2027 to 2028. Monitoring and reporting have been required since 2025."
+  },
+  {
+   "q": "Why do some industries receive free allowances?",
+   "options": [
+    "To reward them for past reductions",
+    "To limit the risk of carbon leakage",
+    "Because they are exempt from the ETS",
+    "To compensate for high electricity prices"
+   ],
+   "answer": 1,
+   "why": "Free allocation protects sectors exposed to international competition. For CBAM sectors it is phased out by 2034."
+  },
+  {
+   "q": "By which date must operators surrender allowances for the previous year's emissions?",
+   "options": [
+    "31 March",
+    "30 June",
+    "30 September",
+    "31 December"
+   ],
+   "answer": 2,
+   "why": "30 September. The verified emissions report is due earlier, by 31 March."
+  },
+  {
+   "q": "An operator fails to surrender enough allowances and pays the penalty. What else applies?",
+   "options": [
+    "Nothing; the fine replaces the allowances",
+    "It must still surrender the missing allowances",
+    "Its permit is withdrawn automatically",
+    "It receives fewer free allowances for ten years"
+   ],
+   "answer": 1,
+   "why": "The penalty comes on top. The shortfall has to be made up."
+  },
+  {
+   "q": "What does the Market Stability Reserve do?",
+   "options": [
+    "It sets a fixed carbon price",
+    "It adjusts the supply of allowances to avoid large surpluses or shortages",
+    "It funds renewable energy projects",
+    "It compensates households for higher energy bills"
+   ],
+   "answer": 1,
+   "why": "It withholds allowances from auctions when too many are in circulation and releases them when the market is tight."
+  }
+ ]
+}

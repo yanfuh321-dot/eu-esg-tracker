@@ -1,0 +1,276 @@
+{
+ "id": "ppwr",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The PPWR sets **directly applicable rules for all packaging** on the EU market, replacing a directive that Member States had implemented very differently.",
+  "By **2030 all packaging must be recyclable**, plastic packaging must contain **minimum shares of recycled material**, and empty space in shipping boxes is limited.",
+  "It applies in general since **12 August 2026**; most design requirements follow in **2030**.",
+  "Every company that packs products or sells packed products in the EU is affected, in different roles."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Packaging waste per person in the EU has kept growing, and recycling has not kept up. Under the 1994 Packaging Directive each Member State wrote its own rules, so companies faced 27 sets of labelling and registration requirements. The PPWR replaces this with one regulation covering the whole life cycle of packaging, from design to waste."
+   ]
+  },
+  {
+   "title": "Who is responsible for what",
+   "table": {
+    "head": [
+     "Role",
+     "Who",
+     "Main duties"
+    ],
+    "rows": [
+     [
+      "Manufacturer",
+      "The company that makes packaging or a packaged product under its own name",
+      "Design requirements, conformity assessment, technical documentation, declaration of conformity"
+     ],
+     [
+      "Importer",
+      "Brings packaging or packaged products from outside the EU",
+      "Checks that the manufacturer has done its part; shares responsibility"
+     ],
+     [
+      "Distributor",
+      "Makes packaging available further down the chain",
+      "Verifies labelling and documents"
+     ],
+     [
+      "Producer",
+      "First makes packaging available in a Member State, including online sellers",
+      "Extended producer responsibility: registration, fees, reporting, in each Member State"
+     ]
+    ]
+   },
+   "after": [
+    "One company often holds several roles. The producer role is defined per Member State, so a seller shipping to five countries may be a producer in each."
+   ]
+  },
+  {
+   "title": "Design requirements",
+   "points": [
+    "**Recyclability.** From 2030 packaging must be designed for recycling and is graded A, B or C. Packaging below grade C, that is less than 70% recyclable, may no longer be placed on the market. From 2035 it must also be recycled at scale in practice.",
+    "**Recycled content in plastic packaging.** From 2030: 30% for contact-sensitive packaging made of PET, 10% for other contact-sensitive plastic packaging, 30% for single-use plastic beverage bottles and 35% for other plastic packaging. The shares rise in 2040.",
+    "**Minimisation.** Weight and volume must be reduced to the minimum needed. For grouped, transport and e-commerce packaging the empty space may not exceed 50%.",
+    "**Substances.** Limits on heavy metals continue, and since 12 August 2026 food-contact packaging may not contain PFAS above set thresholds.",
+    "**Compostability.** Required for a few items such as tea bags and fruit stickers; otherwise not a route around recyclability."
+   ]
+  },
+  {
+   "title": "Reduction, reuse and bans",
+   "points": [
+    "**Waste reduction targets** for Member States: packaging waste per person down 5% by 2030, 10% by 2035 and 15% by 2040, compared with 2018.",
+    "**Reuse targets** for 2030, for example for transport packaging and beverages, with exemptions.",
+    "**Restricted formats** from 2030: certain single-use plastic packaging, such as for fresh fruit and vegetables under 1.5 kg, for food and drink consumed on the premises in restaurants, single portions of condiments, and miniature toiletries in hotels.",
+    "**Take-away**: businesses must let customers bring their own container.",
+    "**Deposit return systems** for single-use plastic bottles and metal cans by 2029, unless a Member State already reaches very high collection rates."
+   ]
+  },
+  {
+   "title": "Labelling and information",
+   "text": [
+    "Harmonised labels showing material composition, to help consumers sort waste, become mandatory in August 2028, with matching labels on waste bins. Reusable packaging gets its own label. National labelling requirements that conflict with the harmonised system have to go. Environmental claims about packaging are allowed only for features that exceed the legal minimum."
+   ]
+  },
+  {
+   "title": "Enforcement",
+   "text": [
+    "Manufacturers must hold technical documentation and issue an EU declaration of conformity for their packaging. Market surveillance authorities check compliance and can order non-compliant packaging off the market. Producers must be registered in each Member State where they sell; without registration, packaging may not be made available there. Penalties are set nationally."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Packaging",
+   "text": "Anything used to contain, protect, handle, deliver or present goods: sales, grouped and transport packaging."
+  },
+  {
+   "term": "Design for recycling",
+   "text": "Criteria that make packaging suitable for sorting and recycling, the basis for the recyclability grades."
+  },
+  {
+   "term": "Recyclability grades",
+   "text": "A (at least 95%), B (at least 80%) and C (at least 70%) recyclability by weight."
+  },
+  {
+   "term": "Contact-sensitive packaging",
+   "text": "Packaging for food, medicines, cosmetics and similar products with stricter safety requirements."
+  },
+  {
+   "term": "Empty space ratio",
+   "text": "The share of a package's volume not filled by the product, including filling material."
+  },
+  {
+   "term": "Extended producer responsibility (EPR)",
+   "text": "Producers finance the collection and treatment of the packaging waste they cause."
+  },
+  {
+   "term": "PFAS",
+   "text": "Per- and polyfluoroalkyl substances, persistent chemicals used for grease and water resistance."
+  },
+  {
+   "term": "Declaration of conformity",
+   "text": "The manufacturer's formal statement that the packaging meets the requirements."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "12 Aug 2026",
+   "label": "general start of application; PFAS limits for food-contact packaging apply"
+  },
+  {
+   "value": "2030",
+   "label": "all packaging recyclable; recycled content minimums; restricted formats banned"
+  },
+  {
+   "value": "70%",
+   "label": "minimum recyclability (grade C) to stay on the market from 2030"
+  },
+  {
+   "value": "35%",
+   "label": "minimum recycled content for general plastic packaging from 2030"
+  },
+  {
+   "value": "50%",
+   "label": "maximum empty space in grouped, transport and e-commerce packaging"
+  },
+  {
+   "value": "5 / 10 / 15%",
+   "label": "reduction of packaging waste per person by 2030, 2035 and 2040, against 2018"
+  }
+ ],
+ "related": [
+  {
+   "id": "espr",
+   "text": "The framework for product design. Packaging has its own regulation and is not regulated under the ESPR."
+  },
+  {
+   "id": "ecgt",
+   "text": "General rules on environmental claims to consumers apply alongside the PPWR's rules on packaging claims."
+  },
+  {
+   "id": "eudr",
+   "text": "Paper and wood packaging sold as such is a relevant product under the EUDR; packaging that merely carries another product is not."
+  },
+  {
+   "id": "csrd",
+   "text": "Packaging and waste are reported under the standard on resource use and circular economy."
+  },
+  {
+   "id": "batteries",
+   "text": "Uses the same toolbox: producer responsibility, recycled content, labelling."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The PPWR only concerns packaging manufacturers.",
+   "right": "Anyone who packs products, imports packed goods or sells online into a Member State has duties."
+  },
+  {
+   "wrong": "All requirements apply since August 2026.",
+   "right": "The general framework does. Recyclability, recycled content and format bans mostly start in 2030, labelling in 2028."
+  },
+  {
+   "wrong": "Compostable packaging is always compliant.",
+   "right": "Compostability is required only for a few items. Everything else must be recyclable."
+  },
+  {
+   "wrong": "One registration covers the whole EU.",
+   "right": "Producer registration and fees remain national."
+  },
+  {
+   "wrong": "Only plastic packaging is covered.",
+   "right": "All materials are covered. Some targets, such as recycled content, are specific to plastic."
+  }
+ ],
+ "practice": [
+  "**List all packaging** you use or sell, by material, weight and function.",
+  "**Determine your role** per product and per Member State.",
+  "**Check registration and EPR** in every country you sell into, including online sales.",
+  "**Test recyclability** against the design-for-recycling criteria as they are published, and plan redesigns before 2030.",
+  "**Secure recycled plastic supply**; demand will exceed supply as 2030 approaches.",
+  "**Measure empty space** in shipping packaging and adjust box sizes."
+ ],
+ "quiz": [
+  {
+   "q": "What is the main structural change of the PPWR compared with the old Packaging Directive?",
+   "options": [
+    "It applies directly in all Member States as a regulation",
+    "It covers only plastic",
+    "It is voluntary",
+    "It moves responsibility to consumers"
+   ],
+   "answer": 0,
+   "why": "The directive led to 27 national regimes. The regulation harmonises most rules, though producer registration stays national."
+  },
+  {
+   "q": "What applies to recyclability from 2030?",
+   "options": [
+    "Packaging must be at least 70% recyclable to be placed on the market",
+    "All packaging must be made of recycled material",
+    "Only glass and paper are allowed",
+    "Recyclability is voluntary"
+   ],
+   "answer": 0,
+   "why": "Packaging must reach at least grade C, 70% recyclable. Lower-performing packaging is barred from the market."
+  },
+  {
+   "q": "What is the minimum recycled content for general plastic packaging from 2030?",
+   "options": [
+    "10%",
+    "25%",
+    "35%",
+    "65%"
+   ],
+   "answer": 2,
+   "why": "35% for plastic packaging that is not contact-sensitive or a beverage bottle. Contact-sensitive packaging has lower minimums."
+  },
+  {
+   "q": "What is the maximum empty space allowed in e-commerce packaging?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "There is no limit"
+   ],
+   "answer": 2,
+   "why": "The empty space ratio for grouped, transport and e-commerce packaging may not exceed 50%."
+  },
+  {
+   "q": "Which restriction has applied since 12 August 2026?",
+   "options": [
+    "The ban on single-use plastic packaging for fruit",
+    "Limits on PFAS in food-contact packaging",
+    "Mandatory deposit systems",
+    "Harmonised sorting labels"
+   ],
+   "answer": 1,
+   "why": "PFAS limits apply from the general start date. Format bans follow in 2030, labels in 2028, deposit systems by 2029."
+  },
+  {
+   "q": "An online shop in one Member State ships packed goods to consumers in three others. Where is it a ‘producer’?",
+   "options": [
+    "Only in its home state",
+    "In each Member State where it first makes the packaging available",
+    "Nowhere; marketplaces are responsible",
+    "Only where it has a warehouse"
+   ],
+   "answer": 1,
+   "why": "The producer role is defined per Member State, so registration and fees can be due in each country served."
+  },
+  {
+   "q": "By how much must packaging waste per person fall by 2040, compared with 2018?",
+   "options": [
+    "5%",
+    "10%",
+    "15%",
+    "50%"
+   ],
+   "answer": 2,
+   "why": "5% by 2030, 10% by 2035 and 15% by 2040."
+  }
+ ]
+}

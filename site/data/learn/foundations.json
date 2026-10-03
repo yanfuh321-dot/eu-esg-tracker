@@ -1,0 +1,356 @@
+{
+ "id": "foundations",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "EU ESG law is a set of connected rules rather than one law: companies **report** (CSRD, ESRS, Taxonomy), investors **disclose** (SFDR), supply chains are **checked** (CSDDD, EUDR, Forced Labour), carbon gets a **price** (EU ETS, CBAM), and **products and claims** are regulated (ESPR, PPWR, Batteries, ECGT).",
+  "A **regulation** applies directly in every Member State. A **directive** has to be written into national law first, so details and dates can differ from country to country.",
+  "Every act has up to three different dates: **entry into force**, **date of application** and, for directives, the **transposition deadline**. Mixing them up is the most common mistake in this field.",
+  "Since 2025 the direction of travel is **simplification**. The Omnibus packages narrowed who is covered and moved dates back; they did not abolish the framework."
+ ],
+ "sections": [
+  {
+   "title": "What ESG means in EU law",
+   "text": [
+    "ESG stands for environmental, social and governance. It started as investor shorthand for the non-financial factors that affect a company's value and its effect on the world. EU law rarely uses the abbreviation itself. The CSRD speaks of **sustainability matters**: environmental, social and human-rights, and governance factors. The SFDR speaks of **sustainability factors** and **sustainability risks**.",
+    "The tracker marks each regulation with the pillars it mainly concerns. Many acts touch more than one: the CSDDD covers human rights (S) and the environment (E) and changes how boards oversee both (G)."
+   ]
+  },
+  {
+   "title": "How an EU law is made",
+   "text": [
+    "Almost every act in this tracker went through the **ordinary legislative procedure**. Knowing its steps tells you how far away a rule still is, and how likely it is to change."
+   ],
+   "steps": [
+    "**Proposal.** Only the European Commission can propose legislation. The proposal gets a COM number, for example COM(2023) 166.",
+    "**Positions.** The European Parliament works through a lead committee (such as JURI, ECON or ENVI) and then votes in plenary. The Council, where the Member States sit, agrees a ‘general approach’ or negotiating mandate.",
+    "**Trilogues.** Parliament, Council and Commission negotiate a common text. The result is a ‘provisional agreement’.",
+    "**Adoption.** Parliament and Council each formally approve the agreed text. Only now is the content final.",
+    "**Publication and entry into force.** The act is published in the Official Journal and enters into force, typically on the twentieth day after publication.",
+    "**Application.** Obligations start on the date of application, which is often months or years later and may differ by company size."
+   ],
+   "after": [
+    "The five stations on the tracker's rail follow this path: **Proposed**, **Negotiating**, **Adopted**, **In force**, **Applies**."
+   ]
+  },
+  {
+   "title": "Regulation or directive",
+   "text": [
+    "The type of act decides where you have to look for the rules that bind a company."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Regulation",
+     "Directive"
+    ],
+    "rows": [
+     [
+      "Effect",
+      "Binding in full and directly applicable in all Member States",
+      "Binding as to the result; each Member State chooses how to reach it"
+     ],
+     [
+      "Where the rules are",
+      "In the EU text on EUR-Lex",
+      "In 27 national laws that transpose the EU text"
+     ],
+     [
+      "Dates to watch",
+      "Entry into force and date of application",
+      "Entry into force, transposition deadline and the dates in national law"
+     ],
+     [
+      "Differences between countries",
+      "Few: mainly penalties and supervision",
+      "Common: options, stricter national rules, late transposition"
+     ],
+     [
+      "Examples",
+      "EUDR, CBAM, SFDR, Taxonomy, ESPR, PPWR",
+      "CSRD, CSDDD, ECGT, Pay Transparency, EU ETS"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "Three levels of rules",
+   "text": [
+    "The act adopted by Parliament and Council is only the first layer. Much of the practical detail sits below it."
+   ],
+   "points": [
+    "**Level 1: the basic act.** The directive or regulation itself. It sets the obligations, the scope and the dates.",
+    "**Level 2: delegated and implementing acts.** Adopted by the Commission on the basis of Level 1. The ESRS, the Taxonomy's technical screening criteria and the SFDR templates are all Level 2. Parliament and Council can object to a delegated act during a scrutiny period, usually two months and extendable.",
+    "**Level 3: guidance.** FAQs, guidelines and Q&As from the Commission and the supervisory authorities. Not legally binding, but supervisors and auditors work with them, so they matter in practice."
+   ]
+  },
+  {
+   "title": "Who does what",
+   "points": [
+    "**European Commission.** Proposes laws, adopts Level 2 acts, publishes guidance. Its departments are called DGs: FISMA handles reporting and sustainable finance, ENV and CLIMA the environmental and climate files, JUST consumer and company law, TAXUD the CBAM.",
+    "**European Parliament.** Co-legislator. Committees prepare its positions: JURI (legal affairs: CSRD, CSDDD), ECON (economic affairs: SFDR, Taxonomy), ENVI (environment: EUDR, ETS, CBAM, PPWR), EMPL (employment) and IMCO (internal market).",
+    "**Council of the EU.** Co-legislator, representing the governments of the Member States.",
+    "**EFRAG.** Private body that gives the Commission technical advice on the reporting standards.",
+    "**ESMA, EBA and EIOPA.** The European supervisory authorities for markets, banks and insurers. They draft technical standards for financial-sector rules and supervise ESG rating providers and green-bond reviewers.",
+    "**National competent authorities.** Enforce most rules on the ground: financial supervisors, customs, market surveillance and consumer authorities."
+   ]
+  },
+  {
+   "title": "The map: five families of rules",
+   "table": {
+    "head": [
+     "Family",
+     "The question it answers",
+     "Acts in the tracker"
+    ],
+    "rows": [
+     [
+      "Corporate reporting",
+      "What must a company tell the public about sustainability?",
+      "CSRD, ESRS, revised ESRS, EU Taxonomy"
+     ],
+     [
+      "Sustainable finance",
+      "What may the financial sector call sustainable, and what must it disclose?",
+      "SFDR, SFDR 2.0, EU Green Bond Standard, ESG Ratings, EU Taxonomy"
+     ],
+     [
+      "Due diligence and supply chains",
+      "What must a company do about harm in its supply chain?",
+      "CSDDD, EUDR, Forced Labour, Conflict Minerals, Batteries"
+     ],
+     [
+      "Climate and carbon",
+      "Who pays for emissions?",
+      "EU ETS and ETS2, CBAM"
+     ],
+     [
+      "Products, claims and people",
+      "How must products be made, and what may be said about them? How are workers paid?",
+      "ESPR, Batteries, PPWR, ECGT, Green Claims, Pay Transparency"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "Ideas that come up everywhere",
+   "points": [
+    "**Double materiality.** A topic matters if the company has a significant impact on people or the environment, or if the topic creates significant financial risks or opportunities for the company. Either is enough.",
+    "**Value chain.** Many rules look beyond the company itself to suppliers and, sometimes, customers. How far they reach differs from act to act.",
+    "**Due diligence.** An ongoing process: identify risks of harm, prevent and mitigate them, track whether that works, communicate, and remedy harm that happened. It is an obligation to make appropriate efforts, not a guarantee of results.",
+    "**Scope 1, 2 and 3 emissions.** Direct emissions, emissions from purchased energy, and all other emissions in the value chain.",
+    "**Reach beyond the EU.** Rules attach to placing products on the EU market or generating turnover in the EU, so they also bind companies based elsewhere.",
+    "**Greenwashing.** Presenting a product, fund or company as more sustainable than it is. Much of the framework exists to make such claims checkable."
+   ]
+  },
+  {
+   "title": "From the Green Deal to the Omnibus",
+   "text": [
+    "The **European Green Deal** of 2019 set the goal of climate neutrality by 2050, and between 2020 and 2024 most of the acts in this tracker were adopted. From late 2024 the political priority shifted to competitiveness and lower administrative burden.",
+    "The result is a series of **simplification packages**. Omnibus I, proposed in February 2025 and adopted in February 2026, cut the scope of the CSRD and the CSDDD to the largest companies. A ‘stop-the-clock’ directive postponed reporting waves in the meantime. Similar steps followed elsewhere: a mass threshold for CBAM, two postponements of the EUDR, later due diligence dates for batteries, and lighter Taxonomy reporting.",
+    "The pattern is consistent. Scope shrinks to the largest companies, dates move back, datapoints are cut. The core concepts, such as double materiality, risk-based due diligence and carbon pricing, stay in place."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Official Journal (OJ)",
+   "text": "The EU's gazette. An act exists legally once it is published there; the L series contains legislation."
+  },
+  {
+   "term": "Entry into force",
+   "text": "The day an act becomes part of EU law. Obligations for companies do not necessarily start on this day."
+  },
+  {
+   "term": "Date of application",
+   "text": "The day from which the obligations must actually be met. Often staggered by company size."
+  },
+  {
+   "term": "Transposition",
+   "text": "Writing a directive into national law. The directive sets a deadline; Member States regularly miss it."
+  },
+  {
+   "term": "Delegated act",
+   "text": "A Commission act that supplements or amends non-essential parts of a law, for example the ESRS."
+  },
+  {
+   "term": "Implementing act",
+   "text": "A Commission act that sets uniform conditions for applying a law, such as forms or IT systems."
+  },
+  {
+   "term": "Trilogue",
+   "text": "Informal negotiation between Parliament, Council and Commission on the final text."
+  },
+  {
+   "term": "Omnibus",
+   "text": "One act that amends several existing laws at once. Omnibus I amended the CSRD and the CSDDD."
+  },
+  {
+   "term": "Stop-the-clock",
+   "text": "A quick act that only postpones dates, to give time for negotiations on the substance."
+  },
+  {
+   "term": "Gold-plating",
+   "text": "A Member State going beyond what a directive requires when transposing it."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "27",
+   "label": "Member States, each transposing directives into its own law"
+  },
+  {
+   "value": "20 days",
+   "label": "the usual gap between publication in the Official Journal and entry into force"
+  },
+  {
+   "value": "2 months",
+   "label": "the usual scrutiny period in which Parliament and Council can object to a delegated act"
+  },
+  {
+   "value": "2050",
+   "label": "the year by which the EU must be climate-neutral under the European Climate Law"
+  },
+  {
+   "value": "55%",
+   "label": "the net greenhouse gas reduction the EU must reach by 2030 compared with 1990"
+  }
+ ],
+ "related": [
+  {
+   "id": "csrd",
+   "text": "The best place to start: it introduces double materiality and shows how a directive, its standards and an Omnibus interact."
+  },
+  {
+   "id": "csddd",
+   "text": "The model for due diligence obligations and a second example of how Omnibus I changed a directive."
+  },
+  {
+   "id": "ets",
+   "text": "The EU's main climate instrument and the system on which CBAM is built."
+  },
+  {
+   "id": "sfdr",
+   "text": "Shows how the financial-sector rules depend on the data that corporate reporting produces."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The act is in force, so companies have to comply now.",
+   "right": "Entry into force and application are different dates. The EUDR entered into force in June 2023 and applies from 30 December 2026."
+  },
+  {
+   "wrong": "A directive means the same rules in every Member State.",
+   "right": "Directives are transposed into national law. Options, stricter national rules and late transposition create real differences."
+  },
+  {
+   "wrong": "The Omnibus abolished sustainability reporting.",
+   "right": "It narrowed the scope to large companies and cut datapoints. Companies above the thresholds still report on a double-materiality basis."
+  },
+  {
+   "wrong": "These rules only concern companies based in the EU.",
+   "right": "Many attach to EU market access or EU turnover and bind non-EU companies and, indirectly, their suppliers."
+  },
+  {
+   "wrong": "A provisional agreement in trilogue is the final law.",
+   "right": "Both Parliament and Council still have to adopt it formally, and the text only counts once published in the Official Journal."
+  }
+ ],
+ "practice": [
+  "When a headline reports a change, find the **type of act and its number** first. A regulation changes the rules directly; a directive starts a transposition period.",
+  "Place it on the rail: is it a **proposal**, an **agreed text**, or **published**? Only published text is certain.",
+  "Write down the **three dates**: entry into force, application, and transposition where relevant.",
+  "Check the **scope thresholds** before reading anything else. Most questions end there.",
+  "Ask whether **Level 2 acts or guidance** are still missing. Obligations often cannot be met in practice until they exist.",
+  "For directives, read the **national law** of each country where the company operates."
+ ],
+ "quiz": [
+  {
+   "q": "What is the key difference between an EU regulation and an EU directive?",
+   "options": [
+    "A regulation applies directly in all Member States; a directive must be transposed into national law",
+    "A regulation is adopted by the Commission alone; a directive needs Parliament and Council",
+    "A regulation only binds companies; a directive only binds governments and public bodies",
+    "A directive applies immediately; a regulation needs a national implementing law"
+   ],
+   "answer": 0,
+   "why": "Regulations are directly applicable. Directives bind Member States as to the result and need national laws, which is why details can differ between countries."
+  },
+  {
+   "q": "An act ‘entered into force’ last month. What does that tell you about when companies must comply?",
+   "options": [
+    "They must comply from that day",
+    "Nothing certain: the date of application can be much later",
+    "They must comply 20 days later",
+    "They must comply once guidance is published"
+   ],
+   "answer": 1,
+   "why": "Entry into force makes the act part of EU law. Obligations start on the date of application, which is set separately and is often staggered."
+  },
+  {
+   "q": "Who can formally propose new EU legislation?",
+   "options": [
+    "The European Parliament",
+    "The Council of the EU",
+    "The European Commission",
+    "EFRAG"
+   ],
+   "answer": 2,
+   "why": "The Commission has the right of initiative. Parliament and Council then amend and adopt the proposal."
+  },
+  {
+   "q": "What is a trilogue?",
+   "options": [
+    "A vote of the three largest political groups in Parliament",
+    "Negotiations between Parliament, Council and Commission on a common text",
+    "A three-month scrutiny period for delegated acts",
+    "The three stages of transposition into national law"
+   ],
+   "answer": 1,
+   "why": "Trilogues are the informal negotiations in which the two co-legislators, with the Commission, agree a final text."
+  },
+  {
+   "q": "The ESRS and the Taxonomy's technical screening criteria are examples of what?",
+   "options": [
+    "Level 1 basic acts",
+    "Level 2 acts adopted by the Commission",
+    "Level 3 guidance",
+    "National transposition measures"
+   ],
+   "answer": 1,
+   "why": "Both are delegated acts: binding detail adopted by the Commission on the basis of a Level 1 directive or regulation."
+  },
+  {
+   "q": "What does double materiality mean?",
+   "options": [
+    "A topic must be both financially material and impact-material to be reported",
+    "A topic is material if it matters for the company's impact on people and the environment, or for its finances",
+    "Material topics must be reported twice, in the annual and the sustainability report",
+    "Materiality is assessed by the company and again by the auditor"
+   ],
+   "answer": 1,
+   "why": "The two perspectives are impact materiality and financial materiality. A topic that is material from either perspective has to be reported."
+  },
+  {
+   "q": "Which statement about the Omnibus I package is correct?",
+   "options": [
+    "It repealed the CSRD and the CSDDD",
+    "It narrowed the scope of the CSRD and the CSDDD to larger companies and moved dates back",
+    "It turned both directives into directly applicable regulations",
+    "It extended reporting obligations to listed SMEs"
+   ],
+   "answer": 1,
+   "why": "Omnibus I (Directive (EU) 2026/470) raised the thresholds and reduced obligations. The frameworks themselves remain."
+  },
+  {
+   "q": "Parliament and Council have reached a provisional agreement on a file. Which stage of the tracker is it in?",
+   "options": [
+    "Proposed",
+    "Negotiating",
+    "In force",
+    "Applies"
+   ],
+   "answer": 1,
+   "why": "A provisional agreement still needs formal adoption by both institutions. Until then the file counts as negotiating; ‘Adopted’ follows the formal votes."
+  }
+ ]
+}

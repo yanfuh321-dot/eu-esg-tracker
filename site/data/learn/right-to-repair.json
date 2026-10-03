@@ -1,0 +1,208 @@
+{
+ "id": "right-to-repair",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "The directive gives consumers a **right to have certain products repaired** by the manufacturer, also after the legal guarantee has run out.",
+  "The duty to repair covers only the product groups in **Annex II**, which mirror the ecodesign rules with repairability requirements. The list grows over time.",
+  "For **all consumer goods**, choosing repair under the legal guarantee **extends the seller's liability by 12 months**.",
+  "It applies through national law since **31 July 2026**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Products are often replaced when they could be repaired, because repair is expensive, slow or blocked by the maker. That wastes resources and costs consumers money. The directive makes repair the easier option: it obliges manufacturers to repair, removes obstacles for independent repairers and gives consumers an incentive to choose repair."
+   ]
+  },
+  {
+   "title": "The obligation to repair",
+   "points": [
+    "**What**: on a consumer's request the manufacturer must repair a listed product, free of charge or at a reasonable price and within a reasonable time. It may only refuse where repair is impossible.",
+    "**Which products**: those covered by the acts in Annex II. At the start these are household washing machines and washer-dryers, dishwashers, tumble dryers, refrigerating appliances, electronic displays, **welding equipment**, **vacuum cleaners**, servers and data storage, phones and tablets, and goods with batteries for light means of transport.",
+    "**How long**: for as long as the product-specific rules require spare parts to be available, typically several years after the last unit was sold.",
+    "**Who, if the manufacturer is outside the EU**: the duty passes to the authorised representative, then to the importer, then to the distributor. A company selling under its own brand counts as the manufacturer.",
+    "**Older products too**: the obligation covers listed products whenever they were bought."
+   ]
+  },
+  {
+   "title": "No obstacles to repair",
+   "points": [
+    "Manufacturers may not use contract terms, hardware or software techniques that impede repair, unless justified by legitimate reasons such as intellectual property.",
+    "They may not prevent independent repairers from using original, second-hand, compatible or 3D-printed spare parts that comply with the law.",
+    "Spare parts and tools must be offered at a reasonable price that does not deter repair.",
+    "Manufacturers must publish information on their repair services and indicative prices."
+   ]
+  },
+  {
+   "title": "Changes for every seller of consumer goods",
+   "text": [
+    "Two rules apply well beyond the Annex II list, because they amend the Sale of Goods Directive."
+   ],
+   "points": [
+    "When a product is defective within the legal guarantee and the consumer chooses **repair** instead of replacement, the liability period is **extended once by 12 months**.",
+    "Sellers must inform consumers of this choice and its consequence.",
+    "These changes apply to sales contracts concluded on or after 31 July 2026."
+   ]
+  },
+  {
+   "title": "Supporting tools",
+   "points": [
+    "The **European Repair Information Form**: a standard offer that a repairer may give a consumer, with price and time binding for 30 days.",
+    "A **European online repair platform** with national sections, where consumers find repairers; it is expected in 2027.",
+    "Each Member State must adopt at least one **measure promoting repair**, such as repair vouchers or support for repair initiatives."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Annex II",
+   "text": "The list of EU acts with repairability requirements. Only goods covered by them fall under the obligation to repair."
+  },
+  {
+   "term": "Legal guarantee",
+   "text": "The seller's statutory liability for defects, at least two years in the EU."
+  },
+  {
+   "term": "Commercial guarantee",
+   "text": "A voluntary promise by the manufacturer or seller that goes beyond the legal guarantee."
+  },
+  {
+   "term": "European Repair Information Form",
+   "text": "A standard form with the key conditions of a repair offer."
+  },
+  {
+   "term": "Authorised representative",
+   "text": "A person in the EU mandated by a non-EU manufacturer to act on its behalf."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "31 July 2026",
+   "label": "start of application through national law"
+  },
+  {
+   "value": "12 months",
+   "label": "extension of the seller's liability when the consumer chooses repair"
+  },
+  {
+   "value": "30 days",
+   "label": "validity of a repair offer made on the European form"
+  },
+  {
+   "value": "10",
+   "label": "product groups in Annex II at the start"
+  }
+ ],
+ "related": [
+  {
+   "id": "espr",
+   "text": "New repairability requirements under the ESPR add product groups to Annex II. This is how tools could come into scope."
+  },
+  {
+   "id": "ecgt",
+   "text": "Bans misleading claims about repairability and durability and requires information on them before purchase."
+  },
+  {
+   "id": "batteries",
+   "text": "Requires portable batteries to be removable and replaceable, which makes repair possible in the first place."
+  },
+  {
+   "id": "machinery",
+   "text": "Repairs must not compromise the safety requirements a machine was certified against."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The right to repair covers all products.",
+   "right": "The obligation to repair covers only the Annex II product groups. The 12-month liability extension covers all consumer goods."
+  },
+  {
+   "wrong": "Repair must be free.",
+   "right": "Outside the legal guarantee the manufacturer may charge a reasonable price."
+  },
+  {
+   "wrong": "The factory abroad is responsible.",
+   "right": "Where the manufacturer is outside the EU, the duty falls on its representative, the importer or the distributor. An own-brand seller is the manufacturer."
+  },
+  {
+   "wrong": "It only applies to products sold after July 2026.",
+   "right": "The obligation to repair also covers listed products bought earlier. Only the liability extension is limited to new contracts."
+  }
+ ],
+ "practice": [
+  "**Match your range against Annex II** by product type.",
+  "For listed products, **set up the repair service**: process, prices, turnaround, published information.",
+  "**Secure spare parts** from suppliers for the full required period, in the supply contract.",
+  "**Remove repair blockers**: part pairing, software locks, restrictive terms.",
+  "**Update guarantee handling** and customer information for the 12-month extension.",
+  "**Watch ecodesign developments** for new product groups."
+ ],
+ "quiz": [
+  {
+   "q": "Which products fall under the manufacturer's obligation to repair?",
+   "options": [
+    "All consumer goods",
+    "The product groups covered by the acts listed in Annex II",
+    "Only products above €500",
+    "Only products still under guarantee"
+   ],
+   "answer": 1,
+   "why": "The obligation is tied to Annex II, which lists ecodesign acts with repairability requirements."
+  },
+  {
+   "q": "A consumer chooses repair instead of replacement within the legal guarantee. What follows?",
+   "options": [
+    "Nothing changes",
+    "The liability period is extended by 12 months",
+    "The guarantee ends",
+    "The repair must be paid by the consumer"
+   ],
+   "answer": 1,
+   "why": "The one-off extension by 12 months is the incentive to choose repair. It applies to all consumer goods."
+  },
+  {
+   "q": "A vacuum cleaner is sold in the EU under a brand's own name and built by a factory in Asia. Who must offer repair?",
+   "options": [
+    "The factory",
+    "The brand, which counts as the manufacturer",
+    "Nobody, since the factory is outside the EU",
+    "The national consumer authority"
+   ],
+   "answer": 1,
+   "why": "Whoever markets a product under its own name is the manufacturer. For other non-EU manufacturers the duty passes to the representative, importer or distributor."
+  },
+  {
+   "q": "Since when does the directive apply?",
+   "options": [
+    "30 July 2024",
+    "31 July 2026",
+    "20 January 2027",
+    "It is still a proposal"
+   ],
+   "answer": 1,
+   "why": "It entered into force on 30 July 2024 and applies through national law from 31 July 2026."
+  },
+  {
+   "q": "May a manufacturer use software to stop independent repairers from fitting compatible spare parts?",
+   "options": [
+    "Yes, always",
+    "No, unless justified by legitimate reasons",
+    "Yes, during the guarantee period",
+    "Only for products made outside the EU"
+   ],
+   "answer": 1,
+   "why": "Techniques that impede repair are prohibited unless there is an objective justification."
+  },
+  {
+   "q": "How could cordless tools come under the obligation to repair?",
+   "options": [
+    "They already are, as electrical goods",
+    "If an ecodesign act with repairability requirements for them is adopted and added to Annex II",
+    "By a decision of each Member State",
+    "They cannot"
+   ],
+   "answer": 1,
+   "why": "Annex II follows the ecodesign rules. New repairability requirements extend the list."
+  }
+ ]
+}

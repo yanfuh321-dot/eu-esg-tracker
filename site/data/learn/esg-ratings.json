@@ -1,0 +1,211 @@
+{
+ "id": "esg-ratings",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "ESG ratings influence where billions are invested, yet until 2026 anyone could issue them without oversight. The regulation brings providers under **ESMA authorisation and supervision**.",
+  "It regulates **how ratings are produced and explained**, not what they should say. Methodologies are not harmonised.",
+  "Providers must **separate rating from conflicting businesses** such as consulting for rated companies.",
+  "It applies since **2 July 2026**."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "ESG ratings from different providers often disagree about the same company, because they measure different things: some rate the risk sustainability poses to the company, some the company's impact on the world, and they weight topics differently. Users frequently did not know which they were looking at. Some providers also sold advisory services to the companies they rated.",
+    "The regulation does not try to make ratings agree. It aims to make them **transparent, independent and supervised**, so that users understand what a rating means."
+   ]
+  },
+  {
+   "title": "Who is covered and who is not",
+   "points": [
+    "**Covered**: providers whose ESG ratings are published or distributed to regulated financial firms or public bodies in the EU.",
+    "**EU providers** need authorisation from ESMA.",
+    "**Non-EU providers** need one of three routes: an equivalence decision for their home country, endorsement of their ratings by an authorised EU provider, or recognition for smaller providers.",
+    "**Not covered**: private ratings produced for internal use, raw ESG data without a rating element, credit ratings, external reviews of European green bonds, and ratings by financial firms used only for their own products.",
+    "**Small providers** benefit from a lighter, temporary regime."
+   ]
+  },
+  {
+   "title": "What providers must do",
+   "points": [
+    "**Disclose methodology**: publish the methods, models and main assumptions, and give more detail to users and rated companies.",
+    "**Say what is being measured**: whether the rating covers environmental, social and governance factors together or separately, how they are weighted, and whether it addresses financial risk, impact, or both.",
+    "**Rate E, S and G separately** as the rule. Where a provider issues a single combined rating, it must disclose how the three are weighted, so that a strong score in one area cannot hide a weak one unnoticed.",
+    "**Manage conflicts of interest**: keep rating separate from consulting to rated entities, credit rating, audit and certain other activities.",
+    "**Give rated companies a chance to check facts** before a rating is issued, and handle complaints.",
+    "**Keep records and governance** fit for supervision."
+   ]
+  },
+  {
+   "title": "Supervision and penalties",
+   "text": [
+    "ESMA supervises providers directly, as it does credit rating agencies. It can request information, carry out inspections, withdraw authorisation and impose fines of up to 10% of a provider's annual net turnover."
+   ]
+  },
+  {
+   "title": "What it means for users of ratings",
+   "text": [
+    "Regulated financial firms in the EU can only rely on ratings from providers inside the regime. Firms that show an ESG rating in their marketing must also disclose information about its methodology. For companies being rated, the practical gain is a right to see the facts a rating is based on and a regulated channel for complaints."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "ESG rating",
+   "text": "An opinion or score on a company's or instrument's sustainability profile, based on an established methodology and ranking system."
+  },
+  {
+   "term": "Authorisation",
+   "text": "ESMA's permission for an EU provider to operate."
+  },
+  {
+   "term": "Equivalence",
+   "text": "A Commission decision that a non-EU country's rules and supervision match the EU's."
+  },
+  {
+   "term": "Endorsement",
+   "text": "An authorised EU provider vouches for ratings produced by a non-EU provider."
+  },
+  {
+   "term": "Recognition",
+   "text": "A route for smaller non-EU providers, granted by ESMA."
+  },
+  {
+   "term": "Separation of activities",
+   "text": "The rule that a rating provider may not also carry out certain conflicting businesses."
+  },
+  {
+   "term": "Double materiality (in ratings)",
+   "text": "A rating that covers both the risks to the company and the company's impacts. Providers must state which perspective they take."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "2 July 2026",
+   "label": "start of application"
+  },
+  {
+   "value": "3",
+   "label": "routes for non-EU providers: equivalence, endorsement, recognition"
+  },
+  {
+   "value": "10%",
+   "label": "of annual net turnover: the maximum fine"
+  },
+  {
+   "value": "3 years",
+   "label": "duration of the lighter regime for small providers"
+  }
+ ],
+ "related": [
+  {
+   "id": "sfdr",
+   "text": "Fund managers use ratings to select investments and describe products. The regulation adds a disclosure duty when ratings are used in marketing."
+  },
+  {
+   "id": "sfdr2",
+   "text": "Ratings may be used to show that products meet category criteria."
+  },
+  {
+   "id": "csrd",
+   "text": "Company reports are a main input for ratings. Standardised data should reduce one source of disagreement between providers."
+  },
+  {
+   "id": "green-bond",
+   "text": "Reviewers of European green bonds are supervised by ESMA under the bond standard instead."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The regulation harmonises rating methodologies.",
+   "right": "Providers remain free in their methods. They must be transparent about them."
+  },
+  {
+   "wrong": "Companies now need an ESG rating.",
+   "right": "The rules bind rating providers. No company is obliged to be rated."
+  },
+  {
+   "wrong": "ESG ratings and credit ratings fall under the same rules.",
+   "right": "Credit ratings have their own regulation. A provider may not combine the two businesses in one entity."
+  },
+  {
+   "wrong": "A high ESG rating means low environmental impact.",
+   "right": "Many ratings measure financial risk to the company, not its impact. The provider must now say which."
+  }
+ ],
+ "practice": [
+  "**Check your providers**: are they authorised by ESMA or covered by a third-country route?",
+  "**Read the methodology disclosure** and note whether each rating measures risk, impact or both.",
+  "Where you **quote ratings in marketing**, add the required methodology information.",
+  "If your company is rated, **use the fact-check window** and keep your public reporting accurate, since that is the main input.",
+  "Do not average ratings from different providers without understanding what each one measures."
+ ],
+ "quiz": [
+  {
+   "q": "What does the ESG Ratings Regulation mainly regulate?",
+   "options": [
+    "The methodology every provider must use",
+    "The authorisation, transparency and independence of rating providers",
+    "The minimum ESG score for listed companies",
+    "The price of ESG ratings"
+   ],
+   "answer": 1,
+   "why": "Methodologies stay free. The regulation makes providers supervised, transparent and independent."
+  },
+  {
+   "q": "Which authority authorises and supervises ESG rating providers in the EU?",
+   "options": [
+    "EFRAG",
+    "The European Commission",
+    "ESMA",
+    "National consumer authorities"
+   ],
+   "answer": 2,
+   "why": "ESMA supervises providers directly, as it does credit rating agencies."
+  },
+  {
+   "q": "A provider sells ESG ratings and also wants to sell consulting to the companies it rates. What does the regulation say?",
+   "options": [
+    "Permitted without conditions",
+    "Not permitted within the same entity; the activities must be separated",
+    "Permitted if disclosed on the website",
+    "Permitted for ratings of non-EU companies"
+   ],
+   "answer": 1,
+   "why": "Separation of activities is a core rule against conflicts of interest."
+  },
+  {
+   "q": "Which of these is NOT a route for a non-EU provider to operate in the EU?",
+   "options": [
+    "Equivalence",
+    "Endorsement",
+    "Recognition",
+    "Self-certification"
+   ],
+   "answer": 3,
+   "why": "The three routes are equivalence, endorsement and recognition. There is no self-certification."
+  },
+  {
+   "q": "Two providers give the same company very different ESG ratings. What does the regulation require?",
+   "options": [
+    "ESMA decides which rating is right",
+    "The providers must align their ratings",
+    "Each provider must disclose what its rating measures and how",
+    "The lower rating must be published"
+   ],
+   "answer": 2,
+   "why": "Divergence is accepted. Transparency lets users understand why ratings differ."
+  },
+  {
+   "q": "Since when does the regulation apply?",
+   "options": [
+    "2 January 2025",
+    "2 July 2026",
+    "1 January 2027",
+    "It has not been adopted yet"
+   ],
+   "answer": 1,
+   "why": "It entered into force on 2 January 2025 and applies from 2 July 2026."
+  }
+ ]
+}

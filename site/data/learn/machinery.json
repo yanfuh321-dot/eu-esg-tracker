@@ -1,0 +1,209 @@
+{
+ "id": "machinery",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "The Machinery Regulation sets the **safety requirements** for machinery sold in the EU, including power tools and garden machines.",
+  "It replaces the Machinery Directive of 2006 on **20 January 2027**, as a directly applicable regulation.",
+  "New are explicit duties for **importers and distributors**, rules for **digital instructions**, and requirements on **software, cybersecurity and AI** where they affect safety.",
+  "The basic logic stays: risk assessment, essential health and safety requirements, harmonised standards, **CE marking**."
+ ],
+ "sections": [
+  {
+   "title": "Why it was renewed",
+   "text": [
+    "The 2006 directive was transposed and applied differently across Member States and did not address connected, software-driven machines. The regulation removes national differences, aligns the rules with the EU's general framework for product law and deals with new risks."
+   ]
+  },
+  {
+   "title": "What changes",
+   "points": [
+    "**Regulation instead of directive**: the same text applies everywhere, with no national transposition.",
+    "**Economic operators**: manufacturers, authorised representatives, importers and distributors each get defined duties, as in other EU product laws.",
+    "**Digital documentation**: instructions and the declaration of conformity may be provided digitally. For machinery intended for consumers, the safety information needed to put the machine into service and use it safely must come on paper, and any buyer can ask for paper instructions free of charge within one month.",
+    "**Safety and security**: control systems must be protected against corruption, whether accidental or intentional, and safety functions that rely on software or self-learning behaviour are addressed.",
+    "**Substantial modification**: whoever modifies a machine in a way that affects its safety becomes its manufacturer.",
+    "**High-risk machinery**: the list in Annex I is split. Part A always needs a notified body; Part B can still be self-assessed where harmonised standards are applied in full."
+   ]
+  },
+  {
+   "title": "The conformity route for a typical power tool",
+   "steps": [
+    "**Risk assessment** covering the tool's whole life.",
+    "**Design** to meet the essential health and safety requirements in Annex III, usually by applying harmonised standards.",
+    "**Technical file** with drawings, risk assessment, test reports and instructions.",
+    "**Conformity assessment**: internal control for most tools; for Annex I machinery such as circular saws and chainsaws, a stricter procedure unless harmonised standards are fully applied.",
+    "**EU declaration of conformity** referring to the regulation, and **CE marking**."
+   ]
+  },
+  {
+   "title": "Duties of importers and distributors",
+   "points": [
+    "**Importers** place only compliant machinery on the market, check that the manufacturer has done the conformity assessment and drawn up the technical file, put their name and address on the product or packaging, and keep the declaration for ten years.",
+    "**Distributors** check the CE marking, the documents and the instructions in the right language.",
+    "Both must act and inform authorities if they believe a machine is unsafe.",
+    "An importer or distributor that sells under its own name or modifies the product takes on the manufacturer's duties."
+   ]
+  },
+  {
+   "title": "Timing",
+   "text": [
+    "The regulation entered into force in July 2023 and applies from **20 January 2027**. There is no general transition period: machinery placed on the market from that date must comply with the regulation, and declarations must refer to it. Machinery already placed on the market under the directive may continue to be sold down the chain. In practice this means switching documentation, labels and declarations for running production in the months before."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Essential health and safety requirements",
+   "text": "The mandatory safety objectives in Annex III that every machine must meet."
+  },
+  {
+   "term": "Harmonised standard",
+   "text": "A European standard cited in the Official Journal. Applying it gives a presumption of conformity."
+  },
+  {
+   "term": "Technical file",
+   "text": "The documentation that shows how the machine meets the requirements."
+  },
+  {
+   "term": "Notified body",
+   "text": "An independent organisation designated to carry out conformity assessment."
+  },
+  {
+   "term": "Placing on the market",
+   "text": "The first making available of an individual product in the EU. The date that decides which law applies."
+  },
+  {
+   "term": "Substantial modification",
+   "text": "A change not foreseen by the manufacturer that affects safety and creates a new hazard or increases a risk."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "20 Jan 2027",
+   "label": "start of application; the Machinery Directive is repealed"
+  },
+  {
+   "value": "10 years",
+   "label": "period for keeping the technical file and declaration of conformity"
+  },
+  {
+   "value": "1 month",
+   "label": "period after purchase in which a buyer can ask for paper instructions free of charge"
+  },
+  {
+   "value": "2006/42/EC",
+   "label": "the directive that is replaced"
+  }
+ ],
+ "related": [
+  {
+   "id": "rohs",
+   "text": "Covered by the same CE marking and declaration for electrical tools."
+  },
+  {
+   "id": "batteries",
+   "text": "The battery pack has its own conformity assessment and CE marking."
+  },
+  {
+   "id": "right-to-repair",
+   "text": "Repairs and spare parts must keep the machine within its certified safety design."
+  },
+  {
+   "id": "espr",
+   "text": "Future ecodesign requirements would be added to the same product documentation."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The directive and the regulation can be used side by side for a while.",
+   "right": "From 20 January 2027 only the regulation applies to machinery newly placed on the market."
+  },
+  {
+   "wrong": "Instructions can now be digital only.",
+   "right": "For consumer machinery the essential safety information must still be on paper, and paper instructions must be supplied on request."
+  },
+  {
+   "wrong": "The importer only handles logistics.",
+   "right": "Importers have their own legal duties and are the authorities' first contact in the EU."
+  },
+  {
+   "wrong": "Existing certificates carry over automatically.",
+   "right": "Declarations of conformity and technical files have to be updated to the regulation."
+  }
+ ],
+ "practice": [
+  "**List every model** that will be placed on the market after 20 January 2027.",
+  "**Check the standards**: which harmonised standards are cited under the regulation for each product.",
+  "**Update technical files and declarations**, and agree with suppliers from which production batch the new documents apply.",
+  "**Decide the format of instructions** and keep the paper safety sheet for consumer products.",
+  "**Put importer details** on products or packaging and set up document retention."
+ ],
+ "quiz": [
+  {
+   "q": "From when does the Machinery Regulation apply?",
+   "options": [
+    "19 July 2023",
+    "31 July 2026",
+    "20 January 2027",
+    "1 January 2030"
+   ],
+   "answer": 2,
+   "why": "It entered into force in July 2023 and applies from 20 January 2027, when the directive is repealed."
+  },
+  {
+   "q": "What is the main formal difference to the 2006 act?",
+   "options": [
+    "It is voluntary",
+    "It is a regulation and applies directly without national transposition",
+    "It covers only industrial machinery",
+    "It abolishes the CE marking"
+   ],
+   "answer": 1,
+   "why": "The change from directive to regulation removes national differences in the legal text."
+  },
+  {
+   "q": "A consumer buys a garden machine. In what form must the essential safety information be supplied?",
+   "options": [
+    "Digital only",
+    "On paper",
+    "Only on request",
+    "Through a mobile app"
+   ],
+   "answer": 1,
+   "why": "Digital instructions are allowed, but consumers must receive the safety information on paper."
+  },
+  {
+   "q": "A distributor rebuilds a machine in a way that adds a new hazard. What follows?",
+   "options": [
+    "Nothing, if the CE marking is kept",
+    "The distributor takes on the manufacturer's duties",
+    "The original manufacturer remains fully responsible",
+    "The machine may only be sold outside the EU"
+   ],
+   "answer": 1,
+   "why": "A substantial modification makes the modifier the manufacturer of the modified machine."
+  },
+  {
+   "q": "What must an importer of machinery do?",
+   "options": [
+    "Nothing beyond customs clearance",
+    "Check the manufacturer's conformity work, add its own contact details and keep the declaration for ten years",
+    "Repeat all safety tests itself",
+    "Register each machine with the Commission"
+   ],
+   "answer": 1,
+   "why": "The regulation gives importers explicit verification, labelling and record-keeping duties."
+  },
+  {
+   "q": "What gives a presumption that a machine meets the essential requirements?",
+   "options": [
+    "A supplier's promise",
+    "Applying harmonised standards cited in the Official Journal",
+    "A long sales history",
+    "A high price"
+   ],
+   "answer": 1,
+   "why": "Harmonised standards are the usual route to showing conformity."
+  }
+ ]
+}

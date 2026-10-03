@@ -1,0 +1,239 @@
+{
+ "id": "cn-csds",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "China is building a **national sustainability reporting system**, the Corporate Sustainability Disclosure Standards (CSDS), to be in place by **2030**.",
+  "The **Basic Standard** (2024), its application guidelines and the **Climate Standard** (2025) are published. They are **trial and voluntary** for now.",
+  "Separately, the **stock exchanges** already require reports from large listed companies, first due by 30 April 2026.",
+  "The standards follow the **ISSB** model and add the company's **impacts**, which brings them close to the EU's double materiality."
+ ],
+ "sections": [
+  {
+   "title": "Why it matters outside China",
+   "text": [
+    "Chinese suppliers are increasingly asked for sustainability data by foreign customers, each with their own format. A national standard gives them one framework to prepare data in, and it tells buyers what information will become available without asking. For foreign groups, subsidiaries in China may come under the rules as they move from voluntary to mandatory."
+   ]
+  },
+  {
+   "title": "The building blocks",
+   "table": {
+    "head": [
+     "Document",
+     "Published",
+     "Content"
+    ],
+    "rows": [
+     [
+      "Basic Standard (Trial)",
+      "December 2024",
+      "General principles: governance, strategy, risk and opportunity management, metrics and targets; materiality; reporting boundary including the value chain"
+     ],
+     [
+      "Application guidelines",
+      "September 2025",
+      "How to apply the Basic Standard in practice"
+     ],
+     [
+      "Climate Standard No. 1 (Trial)",
+      "December 2025",
+      "Climate risks, opportunities and impacts, including greenhouse gas emissions, closely following IFRS S2"
+     ],
+     [
+      "Further topical standards",
+      "Planned up to 2030",
+      "Other environmental, social and governance topics, and industry guidance"
+     ]
+    ]
+   },
+   "after": [
+    "The Ministry of Finance leads the work together with eight other authorities, among them the central bank, the securities regulator and the environment ministry."
+   ]
+  },
+  {
+   "title": "Voluntary now, mandatory in steps",
+   "text": [
+    "The ministry has described the path as moving from listed to unlisted companies, from large to small and medium-sized, from qualitative to quantitative information and from voluntary to mandatory disclosure. No general start date for mandatory application of the national standards has been set; regulators decide by sector and company type."
+   ]
+  },
+  {
+   "title": "The stock-exchange guidelines",
+   "points": [
+    "The exchanges in Shanghai, Shenzhen and Beijing issued sustainability reporting guidelines in 2024.",
+    "Reporting is **mandatory** for constituents of the main indices (SSE 180, STAR 50, SZSE 100, ChiNext) and for companies listed both in mainland China and abroad.",
+    "First reports, for financial year 2025, were due by **30 April 2026**.",
+    "The guidelines use **double materiality**: financial effects on the company and the company's effects on the economy, society and the environment."
+   ]
+  },
+  {
+   "title": "How it compares",
+   "table": {
+    "head": [
+     "",
+     "EU (CSRD and ESRS)",
+     "China (CSDS)",
+     "ISSB"
+    ],
+    "rows": [
+     [
+      "Materiality",
+      "Double",
+      "Financial, plus impact information",
+      "Financial"
+     ],
+     [
+      "Status",
+      "Mandatory for companies in scope",
+      "Trial and voluntary; exchange rules mandatory for some",
+      "Adopted by jurisdictions individually"
+     ],
+     [
+      "Assurance",
+      "Limited assurance required",
+      "Not yet required",
+      "Not part of the standards"
+     ],
+     [
+      "Detail",
+      "Topical standards for E, S and G",
+      "Basic and climate standards so far",
+      "General and climate standards"
+     ]
+    ]
+   }
+  }
+ ],
+ "terms": [
+  {
+   "term": "CSDS",
+   "text": "Corporate Sustainability Disclosure Standards, China's national standards issued by the Ministry of Finance."
+  },
+  {
+   "term": "Basic Standard",
+   "text": "The general standard that sets the framework for all topical standards."
+  },
+  {
+   "term": "ISSB",
+   "text": "International Sustainability Standards Board, which issues IFRS S1 and S2."
+  },
+  {
+   "term": "Trial",
+   "text": "Marks a standard as issued for testing and voluntary use, to be revised with experience."
+  },
+  {
+   "term": "Exchange guidelines",
+   "text": "The sustainability reporting rules of the Shanghai, Shenzhen and Beijing stock exchanges."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "2030",
+   "label": "target year for the unified national disclosure system"
+  },
+  {
+   "value": "30 April 2026",
+   "label": "first mandatory exchange reports due, for financial year 2025"
+  },
+  {
+   "value": "9",
+   "label": "authorities that issued the Basic Standard jointly"
+  },
+  {
+   "value": "19 Dec 2025",
+   "label": "publication of the Climate Standard"
+  }
+ ],
+ "related": [
+  {
+   "id": "csrd",
+   "text": "The EU counterpart. Data prepared under the Chinese standards can feed an EU customer's value-chain reporting."
+  },
+  {
+   "id": "esrs-revised",
+   "text": "Moved closer to the ISSB, the same baseline the Chinese standards use."
+  },
+  {
+   "id": "cn-ets",
+   "text": "Verified emissions data from the carbon market supports climate disclosures."
+  },
+  {
+   "id": "cn-audit-rules",
+   "text": "Sets limits on which supplier data can be collected and transferred abroad."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "All companies in China must already report under the CSDS.",
+   "right": "The national standards are voluntary for now. Only the exchange guidelines are mandatory, for certain listed companies."
+  },
+  {
+   "wrong": "The Chinese standards are a copy of the ISSB.",
+   "right": "They build on it but also require information on the company's impacts."
+  },
+  {
+   "wrong": "This has no relevance for foreign buyers.",
+   "right": "It determines what data suppliers will have and in which format."
+  }
+ ],
+ "practice": [
+  "**Identify listed suppliers** that already publish exchange reports and use those reports first.",
+  "**Align your data requests** with the Basic and Climate Standards where possible, so suppliers prepare data once.",
+  "**Watch announcements** on mandatory application by sector."
+ ],
+ "quiz": [
+  {
+   "q": "What is the status of China's national sustainability disclosure standards in 2026?",
+   "options": [
+    "Mandatory for all companies",
+    "Published on a trial, voluntary basis",
+    "Still unpublished",
+    "Mandatory for foreign companies only"
+   ],
+   "answer": 1,
+   "why": "The Basic and Climate Standards are trial standards for voluntary use, with a path towards mandatory application."
+  },
+  {
+   "q": "By when is the unified national system to be in place?",
+   "options": [
+    "2026",
+    "2027",
+    "2030",
+    "2060"
+   ],
+   "answer": 2,
+   "why": "The roadmap aims at 2030."
+  },
+  {
+   "q": "Which companies must already publish sustainability reports under the exchange guidelines?",
+   "options": [
+    "All manufacturers",
+    "Constituents of the main indices and dual-listed companies",
+    "All suppliers of foreign companies",
+    "State-owned enterprises only"
+   ],
+   "answer": 1,
+   "why": "The mandatory group covers large listed companies in the main indices and those listed in mainland China and abroad."
+  },
+  {
+   "q": "Which international model do the Chinese standards build on?",
+   "options": [
+    "GRI only",
+    "The ISSB standards",
+    "The German Sustainability Code",
+    "ISO 14001"
+   ],
+   "answer": 1,
+   "why": "Structure and climate content follow IFRS S1 and S2, with impact information added."
+  },
+  {
+   "q": "Which authority leads the standard-setting?",
+   "options": [
+    "The stock exchanges",
+    "The Ministry of Finance",
+    "The Ministry of Commerce",
+    "The ISSB"
+   ],
+   "answer": 1,
+   "why": "The Ministry of Finance issues the standards together with eight other authorities."
+  }
+ ]
+}

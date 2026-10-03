@@ -1,0 +1,311 @@
+{
+ "id": "esrs",
+ "reviewed": "2026-10-02",
+ "essentials": [
+  "The ESRS are the **mandatory standards** for CSRD reporting. They define what a sustainability statement contains, down to the individual datapoint.",
+  "Set 1 has **12 standards**: two cross-cutting ones and ten on environmental, social and governance topics.",
+  "Only **ESRS 2** (general disclosures) applies to everyone. All topical content depends on the company's **materiality assessment**.",
+  "Set 1 is in use for reports up to financial year 2026 and is **replaced by the revised ESRS from financial year 2027**."
+ ],
+ "sections": [
+  {
+   "title": "What the standards are for",
+   "text": [
+    "The CSRD only says that companies must report on sustainability matters. Without detailed standards, every company would again choose its own content, as under the NFRD. The ESRS fix the topics, the structure, the definitions and the metrics, so that reports can be compared and audited.",
+    "They were drafted by **EFRAG** and adopted by the Commission as a delegated act in July 2023 (Delegated Regulation (EU) 2023/2772). As a regulation, the standards apply directly: there are no national versions."
+   ]
+  },
+  {
+   "title": "The twelve standards",
+   "table": {
+    "head": [
+     "Standard",
+     "Topic",
+     "Typical content"
+    ],
+    "rows": [
+     [
+      "ESRS 1",
+      "General requirements",
+      "The rules of the game: materiality, value chain, time horizons, how to present information. Contains no disclosures itself"
+     ],
+     [
+      "ESRS 2",
+      "General disclosures",
+      "Governance, strategy, business model, the materiality process. Mandatory for every reporter"
+     ],
+     [
+      "E1",
+      "Climate change",
+      "Transition plan, energy use, Scope 1, 2 and 3 emissions, targets, climate risks"
+     ],
+     [
+      "E2",
+      "Pollution",
+      "Emissions to air, water and soil; substances of concern"
+     ],
+     [
+      "E3",
+      "Water and marine resources",
+      "Water consumption, withdrawals and discharges"
+     ],
+     [
+      "E4",
+      "Biodiversity and ecosystems",
+      "Impacts on sites and species, land use"
+     ],
+     [
+      "E5",
+      "Resource use and circular economy",
+      "Material inflows, waste, product design"
+     ],
+     [
+      "S1",
+      "Own workforce",
+      "Headcount, pay, health and safety, diversity, collective bargaining"
+     ],
+     [
+      "S2",
+      "Workers in the value chain",
+      "Working conditions and human rights at suppliers"
+     ],
+     [
+      "S3",
+      "Affected communities",
+      "Land rights, indigenous peoples, local impacts"
+     ],
+     [
+      "S4",
+      "Consumers and end-users",
+      "Product safety, privacy, responsible marketing"
+     ],
+     [
+      "G1",
+      "Business conduct",
+      "Anti-corruption, lobbying, payment practices, whistleblowing"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "How the materiality assessment works",
+   "text": [
+    "The assessment decides which topical standards and datapoints a company reports. It looks at **impacts, risks and opportunities**, usually shortened to IROs."
+   ],
+   "steps": [
+    "**Understand the context**: activities, business relationships, locations, affected stakeholders, across the company's own operations and its value chain.",
+    "**Identify** actual and potential impacts on people and the environment, and the risks and opportunities that sustainability matters create for the company.",
+    "**Assess impact materiality** by severity (scale, scope and how hard the harm is to remedy) and, for potential impacts, likelihood.",
+    "**Assess financial materiality** by the size and likelihood of financial effects over the short, medium and long term.",
+    "**Decide and document** which topics are material, and report the process itself under ESRS 2."
+   ],
+   "after": [
+    "If a company concludes that climate change is not material, Set 1 requires a detailed explanation. For other topics a brief explanation may be given."
+   ]
+  },
+  {
+   "title": "How a disclosure is built",
+   "text": [
+    "Every topical standard follows the same four areas, mirroring the structure used by the international climate disclosure frameworks:"
+   ],
+   "points": [
+    "**Governance**: who oversees the topic.",
+    "**Strategy**: how the topic interacts with the business model.",
+    "**Impact, risk and opportunity management**: the policies and actions in place.",
+    "**Metrics and targets**: measurable results and goals."
+   ],
+   "after": [
+    "A useful shorthand is **policies, actions, targets, metrics**. If a company has no policy or target for a material topic, it says so; the ESRS require transparency, not a particular level of performance."
+   ]
+  },
+  {
+   "title": "Reliefs for the first years",
+   "text": [
+    "Set 1 phases in the hardest datapoints, such as anticipated financial effects and parts of the value-chain information. A ‘quick fix’ delegated act of July 2025 extended these reliefs for wave 1 companies, so that they do not have to add new datapoints for financial years 2025 and 2026 just before the standards are replaced.",
+    "For financial year 2026, companies may keep using Set 1 or move early to the revised ESRS. From financial year 2027 only the revised standards apply."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "IRO",
+   "text": "Impacts, risks and opportunities: the three things the materiality assessment identifies for each sustainability matter."
+  },
+  {
+   "term": "Impact materiality",
+   "text": "The company's actual or potential effects on people and the environment, judged by severity and likelihood. The inside-out view."
+  },
+  {
+   "term": "Financial materiality",
+   "text": "Sustainability matters that trigger financial effects on the company. The outside-in view."
+  },
+  {
+   "term": "Datapoint",
+   "text": "A single item of information required by a standard, narrative or numeric. Set 1 has more than 1,000."
+  },
+  {
+   "term": "Disclosure requirement",
+   "text": "A group of datapoints on one subject, such as E1-6 on gross greenhouse gas emissions."
+  },
+  {
+   "term": "Cross-cutting standards",
+   "text": "ESRS 1 and ESRS 2, which apply regardless of topic."
+  },
+  {
+   "term": "Entity-specific disclosure",
+   "text": "Information on a material matter that no standard covers, which the company must still report."
+  },
+  {
+   "term": "EFRAG",
+   "text": "The body that drafts the standards as technical adviser to the Commission."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "12",
+   "label": "standards in Set 1: 2 cross-cutting, 5 environmental, 4 social, 1 governance"
+  },
+  {
+   "value": "1,000+",
+   "label": "datapoints in Set 1, most of them subject to materiality"
+  },
+  {
+   "value": "3",
+   "label": "factors of severity: scale, scope and irremediable character"
+  },
+  {
+   "value": "FY 2024",
+   "label": "first financial year reported under Set 1, by wave 1 companies"
+  },
+  {
+   "value": "FY 2026",
+   "label": "last financial year for which Set 1 may be used"
+  }
+ ],
+ "related": [
+  {
+   "id": "csrd",
+   "text": "The directive that makes the ESRS mandatory and decides who has to apply them."
+  },
+  {
+   "id": "esrs-revised",
+   "text": "The successor. Same architecture, far fewer datapoints, mandatory from financial year 2027."
+  },
+  {
+   "id": "taxonomy",
+   "text": "Taxonomy figures are reported in the environmental part of the same statement, but under their own rules."
+  },
+  {
+   "id": "sfdr",
+   "text": "Many ESRS datapoints exist because financial institutions need them for their SFDR indicators."
+  },
+  {
+   "id": "csddd",
+   "text": "S2, S3 and the due diligence disclosures in ESRS 2 are where a company reports what its due diligence found."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "Every company reports all datapoints.",
+   "right": "Apart from ESRS 2, a company reports only on topics its assessment found material, and within them only material information."
+  },
+  {
+   "wrong": "The ESRS oblige companies to have a climate target or a human-rights policy.",
+   "right": "They are disclosure standards. A company without a policy or target reports that fact. Obligations to act come from other laws."
+  },
+  {
+   "wrong": "The ESRS and the CSRD are the same thing.",
+   "right": "The CSRD is the directive that creates the duty to report. The ESRS are the delegated act with the content of the report."
+  },
+  {
+   "wrong": "Financial materiality is what matters most; impact materiality is optional.",
+   "right": "Both count equally. Impact materiality alone makes a topic reportable."
+  }
+ ],
+ "practice": [
+  "Start every reporting cycle with the **list of material IROs** and map each to the disclosure requirements that follow from it.",
+  "Treat **ESRS 2** as the backbone: it explains governance, strategy and the materiality process and links to the topical sections.",
+  "For each material topic, write down **policy, action, target, metric**, and state openly where one is missing.",
+  "Keep an **evidence file** for every material judgement. The assurance provider will ask how you reached it.",
+  "Plan the **move to the revised ESRS**: for financial year 2026 compare the effort of staying on Set 1 with switching early."
+ ],
+ "quiz": [
+  {
+   "q": "Which ESRS standard must every reporting company apply, whatever its materiality assessment says?",
+   "options": [
+    "E1 Climate change",
+    "ESRS 2 General disclosures",
+    "S1 Own workforce",
+    "G1 Business conduct"
+   ],
+   "answer": 1,
+   "why": "ESRS 2 is mandatory for all. The topical standards apply only where the topic is material."
+  },
+  {
+   "q": "How many standards does ESRS Set 1 contain?",
+   "options": [
+    "10",
+    "12",
+    "17",
+    "22"
+   ],
+   "answer": 1,
+   "why": "Two cross-cutting standards (ESRS 1 and 2), five environmental, four social and one governance standard."
+  },
+  {
+   "q": "Which three factors determine the severity of an impact?",
+   "options": [
+    "Cost, duration and visibility",
+    "Scale, scope and irremediable character",
+    "Likelihood, exposure and cost",
+    "Size of company, sector and region"
+   ],
+   "answer": 1,
+   "why": "Severity is judged by how grave the impact is (scale), how widespread (scope) and how hard it is to put right (irremediable character)."
+  },
+  {
+   "q": "A company has no biodiversity policy, although biodiversity is a material topic. What do the ESRS require?",
+   "options": [
+    "It must adopt a policy before publishing the report",
+    "It must disclose that it has no policy",
+    "It may leave the topic out of the report",
+    "It must commission an external biodiversity audit"
+   ],
+   "answer": 1,
+   "why": "The ESRS require transparency. Where no policy, action or target exists, the company states that."
+  },
+  {
+   "q": "Who drafted the ESRS, and who adopted them?",
+   "options": [
+    "Drafted by ESMA, adopted by Parliament",
+    "Drafted by EFRAG, adopted by the Commission as a delegated act",
+    "Drafted by the Commission, adopted by the Member States",
+    "Drafted by the ISSB, adopted by EFRAG"
+   ],
+   "answer": 1,
+   "why": "EFRAG provides technical advice; the Commission adopts the standards as a delegated regulation."
+  },
+  {
+   "q": "What does ‘IRO’ stand for?",
+   "options": [
+    "Impacts, risks and opportunities",
+    "Internal reporting obligations",
+    "Investor relations officer",
+    "Indicators, results and outcomes"
+   ],
+   "answer": 0,
+   "why": "The materiality assessment identifies impacts on people and the environment and the risks and opportunities for the company."
+  },
+  {
+   "q": "For which financial year do the revised ESRS replace Set 1 for all reporters?",
+   "options": [
+    "2025",
+    "2026",
+    "2027",
+    "2028"
+   ],
+   "answer": 2,
+   "why": "The revised standards are mandatory from financial year 2027. For 2026, companies may choose between Set 1 and early use of the revised set."
+  }
+ ]
+}

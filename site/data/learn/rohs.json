@@ -1,0 +1,241 @@
+{
+ "id": "rohs",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "RoHS **limits ten hazardous substances** in electrical and electronic equipment sold in the EU.",
+  "The limits apply to each **homogeneous material**, not to the product as a whole: 0.1% by weight, and 0.01% for cadmium.",
+  "Compliance is part of the **CE marking** and has to be shown in technical documentation.",
+  "**Exemptions** allow specific uses for a limited time; they expire unless renewed."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "Electrical and electronic equipment is one of the fastest-growing waste streams. Hazardous substances in it endanger recycling workers and the environment and contaminate recycled material. RoHS removes them at the design stage. It works together with the WEEE Directive, which governs collection and recycling."
+   ]
+  },
+  {
+   "title": "The restricted substances",
+   "table": {
+    "head": [
+     "Substance",
+     "Limit",
+     "Typical place in a tool"
+    ],
+    "rows": [
+     [
+      "Lead",
+      "0.1%",
+      "Solder, brass and aluminium alloys, PVC stabilisers"
+     ],
+     [
+      "Mercury",
+      "0.1%",
+      "Switches and lamps in older designs"
+     ],
+     [
+      "Cadmium",
+      "0.01%",
+      "Pigments, contacts, plating"
+     ],
+     [
+      "Hexavalent chromium",
+      "0.1%",
+      "Corrosion protection on screws and housings"
+     ],
+     [
+      "PBB and PBDE flame retardants",
+      "0.1% each",
+      "Plastic housings, circuit boards"
+     ],
+     [
+      "DEHP, BBP, DBP, DIBP (phthalates)",
+      "0.1% each",
+      "Cable insulation, soft grips, seals"
+     ]
+    ]
+   },
+   "after": [
+    "The four phthalates were added in 2019. They migrate, so a compliant part can be contaminated by contact with a non-compliant one during production or storage."
+   ]
+  },
+  {
+   "title": "What is covered",
+   "points": [
+    "All electrical and electronic equipment, in eleven categories. **Category 6** is electrical and electronic tools.",
+    "Cables and spare parts are covered too.",
+    "**Excluded**: among others large-scale stationary industrial tools, and batteries, which have their own regulation.",
+    "The limit applies to every **homogeneous material**: a material that cannot be mechanically separated into different materials, such as the insulation of a single wire."
+   ]
+  },
+  {
+   "title": "Exemptions",
+   "text": [
+    "Annex III lists uses that are exempt because no reliable substitute exists, for example lead as an alloying element in steel, aluminium and copper, and lead in high-melting-temperature solder. Each exemption has an expiry date. Industry can apply for renewal; the exemption stays valid until the Commission decides. A product that relies on an exemption becomes non-compliant when the exemption ends."
+   ]
+  },
+  {
+   "title": "Who must do what",
+   "points": [
+    "**Manufacturers** (including own-brand sellers) ensure compliance, draw up technical documentation and the EU declaration of conformity, and affix the CE marking.",
+    "**Importers** check that the manufacturer has done so and keep the declaration for ten years.",
+    "**Distributors** verify the marking and documents.",
+    "The accepted method is the standard EN IEC 63000: assess how likely each material is to contain a restricted substance and how reliable the supplier is, then collect declarations or test reports accordingly."
+   ],
+   "after": [
+    "RoHS is a directive. Germany transposed it in the ElektroStoffV; penalties are national."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Homogeneous material",
+   "text": "A material of uniform composition that cannot be mechanically disjointed into different materials."
+  },
+  {
+   "term": "EEE",
+   "text": "Electrical and electronic equipment: equipment that depends on electric current or electromagnetic fields to work."
+  },
+  {
+   "term": "Annex III exemption",
+   "text": "A time-limited permission to use a restricted substance in a defined application."
+  },
+  {
+   "term": "EN IEC 63000",
+   "text": "The harmonised standard for the technical documentation needed to show RoHS compliance."
+  },
+  {
+   "term": "WEEE",
+   "text": "The directive on waste electrical and electronic equipment, the end-of-life counterpart to RoHS."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "10",
+   "label": "restricted substances"
+  },
+  {
+   "value": "0.1%",
+   "label": "limit by weight in homogeneous material; 0.01% for cadmium"
+  },
+  {
+   "value": "22 July 2019",
+   "label": "date from which the four phthalates are restricted"
+  },
+  {
+   "value": "10 years",
+   "label": "period for keeping the declaration of conformity and technical documentation"
+  }
+ ],
+ "related": [
+  {
+   "id": "reach",
+   "text": "The general chemicals law. Some substances are limited under both; REACH also brings information duties that RoHS does not have."
+  },
+  {
+   "id": "batteries",
+   "text": "Batteries are excluded from RoHS and have their own substance limits."
+  },
+  {
+   "id": "machinery",
+   "text": "A power tool carries one CE marking that declares conformity with both the machinery rules and RoHS."
+  },
+  {
+   "id": "espr",
+   "text": "Future ecodesign acts can add requirements on substances of concern beyond RoHS."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "The limit applies to the weight of the whole product.",
+   "right": "It applies to each homogeneous material, so a tiny non-compliant part makes the product non-compliant."
+  },
+  {
+   "wrong": "A supplier's declaration is sufficient proof.",
+   "right": "The documentation must be plausible for the risk. For high-risk materials and less reliable suppliers, test reports are expected."
+  },
+  {
+   "wrong": "An exemption is permanent.",
+   "right": "Exemptions expire. Designs that rely on them need a substitution plan."
+  },
+  {
+   "wrong": "RoHS and REACH are interchangeable.",
+   "right": "They are separate laws with different substances, limits and duties. Both apply."
+  }
+ ],
+ "practice": [
+  "**Hold a material declaration** for every component, down to homogeneous materials.",
+  "**Rank parts by risk** and test the risky ones: cables, grips, solder, alloys, coloured plastics.",
+  "**List the exemptions** each product relies on and track their expiry.",
+  "**Control changes**: any new material or sub-supplier triggers a new declaration.",
+  "**Prevent cross-contamination** with phthalates in the factory."
+ ],
+ "quiz": [
+  {
+   "q": "To what does the 0.1% limit apply?",
+   "options": [
+    "The whole product",
+    "Each component",
+    "Each homogeneous material",
+    "The packaging"
+   ],
+   "answer": 2,
+   "why": "The concentration is measured in each homogeneous material, such as a wire's insulation or a solder joint."
+  },
+  {
+   "q": "Which substance has a stricter limit of 0.01%?",
+   "options": [
+    "Lead",
+    "Mercury",
+    "Cadmium",
+    "DEHP"
+   ],
+   "answer": 2,
+   "why": "Cadmium is limited to 0.01% by weight; the others to 0.1%."
+  },
+  {
+   "q": "Are the batteries of a cordless tool covered by RoHS?",
+   "options": [
+    "Yes, as part of the tool",
+    "No, batteries are covered by the Batteries Regulation",
+    "Only lithium batteries",
+    "Only if removable"
+   ],
+   "answer": 1,
+   "why": "Batteries are excluded from RoHS and regulated separately."
+  },
+  {
+   "q": "A product uses brass with lead above 0.1% under an Annex III exemption. What must the company watch?",
+   "options": [
+    "Nothing, exemptions are permanent",
+    "The expiry date of the exemption",
+    "The price of lead",
+    "The WEEE registration number"
+   ],
+   "answer": 1,
+   "why": "Exemptions are time-limited. When one ends without renewal, the product no longer complies."
+  },
+  {
+   "q": "How is RoHS compliance declared?",
+   "options": [
+    "With a separate RoHS logo",
+    "Through the CE marking and the EU declaration of conformity",
+    "By registration with ECHA",
+    "By a customs certificate"
+   ],
+   "answer": 1,
+   "why": "RoHS is a CE-marking directive. There is no official RoHS logo."
+  },
+  {
+   "q": "Which group of substances was added in 2019?",
+   "options": [
+    "Four phthalates",
+    "PFAS",
+    "Bisphenols",
+    "Rare earths"
+   ],
+   "answer": 0,
+   "why": "DEHP, BBP, DBP and DIBP, used as plasticisers in cables and soft plastics."
+  }
+ ]
+}

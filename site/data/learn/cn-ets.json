@@ -1,0 +1,225 @@
+{
+ "id": "cn-ets",
+ "reviewed": "2026-10-03",
+ "essentials": [
+  "China runs the **world's largest carbon market** by emissions covered. It started with power generation in 2021.",
+  "Since the 2025 expansion it also covers **steel, cement and aluminium smelting**; further industrial sectors are planned by 2027.",
+  "Allowances are given **free of charge against benchmarks per unit of output**. The system limits carbon intensity, not yet total emissions.",
+  "For buyers it matters through **CBAM** and through better emissions data at material suppliers."
+ ],
+ "sections": [
+  {
+   "title": "Why it exists",
+   "text": [
+    "China has pledged to peak its carbon emissions before 2030 and reach carbon neutrality before 2060. After regional pilot markets, the national system was launched to put a price on emissions in the sectors that emit most."
+   ]
+  },
+  {
+   "title": "How it works",
+   "points": [
+    "**Allocation**: each company receives allowances based on its output and a sector benchmark. A plant that is cleaner than the benchmark has allowances to sell; a dirtier one must buy.",
+    "**No fixed cap yet**: because allocation follows output, total emissions can grow with production. A move to absolute caps is planned.",
+    "**Compliance**: companies report emissions, have them verified and surrender allowances.",
+    "**Offsets**: certified voluntary emission reductions can cover a small share of the obligation.",
+    "**Legal basis**: State Council regulations in force since 2024 strengthened the rules and penalties for data fraud."
+   ]
+  },
+  {
+   "title": "Coverage",
+   "table": {
+    "head": [
+     "Step",
+     "Sectors"
+    ],
+    "rows": [
+     [
+      "Since 2021",
+      "Power generation"
+     ],
+     [
+      "Since the 2025 expansion",
+      "Steel, cement, aluminium smelting"
+     ],
+     [
+      "Planned by 2027",
+      "Other major industrial emitters, such as petrochemicals, chemicals, paper, glass and aviation"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "Comparison with the EU ETS",
+   "table": {
+    "head": [
+     "",
+     "EU ETS",
+     "China ETS"
+    ],
+    "rows": [
+     [
+      "Limit",
+      "Absolute cap that falls each year",
+      "Intensity benchmarks; absolute caps planned"
+     ],
+     [
+      "Allocation",
+      "Mainly auctioning",
+      "Free allocation"
+     ],
+     [
+      "Price level",
+      "High",
+      "Considerably lower"
+     ],
+     [
+      "Regulated entity",
+      "Operator of the installation",
+      "Large emitting company"
+     ]
+    ]
+   }
+  },
+  {
+   "title": "Why a buyer should know it",
+   "points": [
+    "**CBAM deduction**: a carbon price effectively paid in the country of origin can be deducted from the CBAM obligation, with evidence. The lower Chinese price means the deduction is small, but it exists.",
+    "**Data quality**: steel and aluminium producers under the system have verified emissions data, which your suppliers can request for product footprints.",
+    "**Cost signal**: as free allocation tightens, carbon cost will appear in material prices."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "CEA",
+   "text": "China Emission Allowance, the unit traded in the national system."
+  },
+  {
+   "term": "Intensity-based allocation",
+   "text": "Allowances granted per unit of output, so that only emissions above the benchmark carry a cost."
+  },
+  {
+   "term": "CCER",
+   "text": "China Certified Emission Reduction, the national offset credit."
+  },
+  {
+   "term": "Dual carbon goals",
+   "text": "Peaking emissions before 2030 and carbon neutrality before 2060."
+  },
+  {
+   "term": "MRV",
+   "text": "Monitoring, reporting and verification of emissions."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "16 July 2021",
+   "label": "start of trading"
+  },
+  {
+   "value": "4",
+   "label": "sectors covered after the 2025 expansion: power, steel, cement, aluminium smelting"
+  },
+  {
+   "value": "2027",
+   "label": "planned coverage of the major industrial sectors"
+  },
+  {
+   "value": "2030 / 2060",
+   "label": "China's targets for peaking emissions and reaching carbon neutrality"
+  }
+ ],
+ "related": [
+  {
+   "id": "ets",
+   "text": "The EU system it is most often compared with."
+  },
+  {
+   "id": "cbam",
+   "text": "The link for importers: the carbon price paid in China can be deducted."
+  },
+  {
+   "id": "cn-csds",
+   "text": "Verified market data feeds climate disclosures under the Chinese standards."
+  },
+  {
+   "id": "csrd",
+   "text": "Supplier emissions data ends up in the group's Scope 3 figures."
+  }
+ ],
+ "mistakes": [
+  {
+   "wrong": "China's carbon market caps total emissions like the EU's.",
+   "right": "It currently limits emissions per unit of output. Absolute caps are planned."
+  },
+  {
+   "wrong": "A carbon price paid in China removes the CBAM obligation.",
+   "right": "It can be deducted, but the price is much lower than in the EU, so most of the obligation remains."
+  },
+  {
+   "wrong": "Factories that assemble tools are covered.",
+   "right": "Only large emitters in the listed sectors are. Assemblers are affected through material and power costs."
+  }
+ ],
+ "practice": [
+  "**Ask suppliers which of their material suppliers are covered** by the national carbon market.",
+  "**Request verified emissions data** for steel and aluminium where it exists.",
+  "**Keep evidence of carbon costs paid**, in case your products come into the CBAM scope."
+ ],
+ "quiz": [
+  {
+   "q": "How are allowances allocated in China's national carbon market?",
+   "options": [
+    "By auction",
+    "Free of charge against output-based benchmarks",
+    "By lottery",
+    "Based on historical profits"
+   ],
+   "answer": 1,
+   "why": "Allocation follows output and a sector benchmark, which makes it an intensity-based system."
+  },
+  {
+   "q": "Which sectors were added in the 2025 expansion?",
+   "options": [
+    "Aviation and shipping",
+    "Steel, cement and aluminium smelting",
+    "Agriculture and buildings",
+    "Textiles and electronics"
+   ],
+   "answer": 1,
+   "why": "These three joined power generation, which has been covered since 2021."
+  },
+  {
+   "q": "Why can total emissions still rise under the current design?",
+   "options": [
+    "Because companies can leave the system",
+    "Because allocation grows with output",
+    "Because offsets are unlimited",
+    "Because there is no reporting"
+   ],
+   "answer": 1,
+   "why": "With output-based allocation there is no fixed total. More production means more allowances."
+  },
+  {
+   "q": "How does the Chinese carbon price interact with CBAM?",
+   "options": [
+    "It replaces CBAM",
+    "A carbon price effectively paid can be deducted from the CBAM obligation",
+    "It doubles the CBAM cost",
+    "There is no link"
+   ],
+   "answer": 1,
+   "why": "CBAM allows deduction of a carbon price paid in the country of origin, with evidence."
+  },
+  {
+   "q": "When did national trading start?",
+   "options": [
+    "2005",
+    "2013",
+    "2021",
+    "2025"
+   ],
+   "answer": 2,
+   "why": "Trading started on 16 July 2021 with the power sector, after regional pilots from 2013."
+  }
+ ]
+}
