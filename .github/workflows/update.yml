@@ -54,13 +54,16 @@ jobs:
         run: python scripts/fetch_feeds.py
 
       - name: Review with AI (skipped without a GEMINI_API_KEY secret)
+        # The review is an extra: if it hangs or fails, the update and the website go ahead.
+        timeout-minutes: 12
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # A run started by hand writes a fresh briefing; scheduled runs do so once a day.
           AI_FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: |
           export AI_PR_OPEN="$(gh pr list --head "$PROPOSAL_BRANCH" --state open --json number --jq 'length' 2>/dev/null || echo '')"
-          python scripts/ai_review.py
+          python -u scripts/ai_review.py
 
       - name: Save collected updates to the repository
         run: |
