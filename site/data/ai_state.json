@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.8-flash",
+ "model": "gemini-3.5-flash-lite",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -8,10 +8,23 @@
   "esrs-revised": {
    "hash": "0d1c3347d01c",
    "date": "2026-10-03"
+  },
+  "csrd": {
+   "hash": "53a3635fb552",
+   "date": "2026-10-03"
+  },
+  "taxonomy": {
+   "hash": "fe987fe74629",
+   "date": "2026-10-03"
+  },
+  "sfdr": {
+   "hash": "ee9875e57734",
+   "date": "2026-10-03"
   }
  },
  "last_daily": "2026-10-03",
  "pending": [],
  "dismissed": {},
- "learn_edits": []
+ "learn_edits": [],
+ "search_refused": "2026-10-03"
 }
