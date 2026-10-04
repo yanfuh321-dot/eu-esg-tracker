@@ -1,40 +1,52 @@
 {
- "generated_at": "2026-10-03T06:09:15Z",
- "model": "gemini-3.8-flash",
+ "generated_at": "2026-10-04T11:06:29Z",
+ "model": "gemini-3.5-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "Green claims ban begins as Machinery and EUDR updates emerge",
- "summary": "The EU's Empowering Consumers directive has begun applying, restricting generic environmental claims on consumer tools and batteries. Technical updates were also published for the Machinery Regulation and upcoming EUDR enforcement. Sustainability teams should review product marketing and verify whether garden tools contain regulated wood.",
+ "headline": "New EU greenwashing rules active; Chinese supply chain risks rise",
+ "summary": "The EU's anti-greenwashing directive has entered into force, impacting consumer product marketing. Meanwhile, labour complaints from China highlight supply chain risks, and member states are rapidly transposing pay transparency rules. You must also prepare for upcoming CSRD and Machinery Regulation deadlines.",
  "items": [
   {
-   "title": "EU anti-greenwashing rules enter into application",
+   "title": "EU anti-greenwashing rules enter into force",
    "regs": [
     "ecgt"
    ],
-   "what": "The Empowering Consumers for the Green Transition rules have begun applying, banning generic environmental claims, unverified sustainability labels, and unsubstantiated climate-neutrality claims.",
-   "meaning": "As an EU consumer brand, all environmental statements on power tools, packaging, and battery platforms now require recognized certification or demonstrable substantiation.",
-   "action": "Audit consumer packaging, manuals, and marketing copy to remove generic green claims lacking robust verification.",
+   "what": "The Empowering Consumers for the Green Transition Directive has entered into force, banning misleading environmental claims and unsubstantiated sustainability labels.",
+   "meaning": "As a consumer brand, you must ensure all environmental claims on your power tools and packaging are fully substantiated and compliant.",
+   "action": "Audit all current marketing and packaging claims for compliance.",
    "sources": [
     {
      "title": "New EU Anti-Greenwashing Rules Enter into Force",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwNUp2VjhyZU9ac0RHOXYzUEp0WkM3UE1abzFwWVBYclgxT0ZHZ2ZjVlFpdF92d0tTTTgzT3NyNTR4eGRFNHpLYmhWeGc2eFFHNURBbUZ6QWxmMHdGTVc5TndielVjZmpUZDNVM0QzQnQ0MUhfc0dOVzZPUGlsUQ?oc=5",
      "origin": "ESG Today"
-    },
-    {
-     "title": "What Europe’s New Anti-Greenwashing Rules Change From Sunday",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQm5tZFJJR20xeG1aa1oxZUNmX2ZiRFFOcDhwRGNBQnZUcmdpRDZiMklIcnB0YzFrbGRpQ25Ma1hFdGkxY2ZRM0k4bER5TmJ5TDlZejg0NkJlSE84MHNBWHE3cHpoX1NGWl9kSA?oc=5",
-     "origin": "EU Today"
     }
    ]
   },
   {
-   "title": "Corrigendum published for Machinery Regulation implementation rules",
+   "title": "Chinese workers raise labour complaints to EU",
+   "regs": [
+    "forced-labour",
+    "csddd"
+   ],
+   "what": "Chinese workers submitted complaints to the EU regarding severe overtime, highlighting systemic labour risks in Chinese manufacturing.",
+   "meaning": "With 200 Chinese suppliers, you face increased reputational and compliance risks under EU import and reporting rules.",
+   "action": "Review supplier audit reports specifically for working hours and overtime compliance.",
+   "sources": [
+    {
+     "title": "Brutale Überstunden-Kultur: Chinas Arbeiter beschweren sich bei der EU",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTVV3YzRCa0h1cHZVMjg4OE1PbUpnUEhsRE9RRE05RF9GQlZDUmpkcDA0Vm1Ud28wS1dwOU44SEdLWjdYcTU2ZE1RUWxoMFA2OWV6RDgwU3NzQmJ5WXVhb0habElpcUxLNE1DbUhBMU5yREFwWGR5V1hVTUgxWVZlLUdMTkJDSVZma0lPMVBtS0FIbHc?oc=5",
+     "origin": "n-tv.de"
+    }
+   ]
+  },
+  {
+   "title": "EU clarifies Machinery Regulation implementation rules",
    "regs": [
     "machinery"
    ],
-   "what": "The EU published a corrigendum amending Regulation (EU) 2026/1744 regarding the implementation of harmonised rules under the Machinery Regulation (EU) 2023/1230.",
-   "meaning": "Power tools and garden equipment technical files must align with the updated Machinery framework before it replaces the Machinery Directive on 20 January 2027.",
-   "action": "Confirm that engineering leads and Chinese OEMs have incorporated the latest Machinery Regulation specifications into product roadmaps.",
+   "what": "The EU published a corrigendum to Machinery Regulation (EU) 2023/1230, clarifying harmonised rules ahead of its January 2027 application.",
+   "meaning": "As the legal manufacturer of power tools, you must ensure your products and technical files align with these clarified requirements.",
+   "action": "Review technical documentation against the updated regulation.",
    "sources": [
     {
      "title": "CELEX:32026R1744R(01): Berichtigung der Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli 2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche…",
@@ -44,18 +56,44 @@
    ]
   },
   {
-   "title": "Commission updates EUDR customs codes and IT guidance",
+   "title": "Member states accelerate Pay Transparency transposition",
+   "regs": [
+    "pay-transparency"
+   ],
+   "what": "Slovakia, Greece, and Malta have transposed the EU Pay Transparency Directive into national law.",
+   "meaning": "With over 1,000 employees, you must prepare for strict gender pay gap reporting as national rollouts progress.",
+   "action": "Assess HR readiness for gender pay gap reporting.",
+   "sources": [
+    {
+     "title": "Greece transposes the EU Pay Transparency Directive: what employers need to know",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNG95Q0o3cVN3UWE5bWkxM3lYcnVackFBS2I1MTQwRVBEZWpMaEhQd2pzWlF4ZWpEVlhrbDl2NnRwN1g4T0lDSDdGZG1fX2lLSUVMY3MydjA0dGxvTzlQMVViWnhYTFVqcjBybWE3NHVuMzNTSjhfWUNzS0dwdWV2OWRfclRFNFVKLWRnczl0bWt1STkweFo2NHF3RkE2d3VYNXBrVjJXeWphbTNmeGdZTnRwcGpyR0FuMC1fNGhKTUF0aF9tSmc?oc=5",
+     "origin": "Lewis Silkin"
+    },
+    {
+     "title": "Malta surprises with last-minute transposition of the Pay Transparency Directive: what employers need to know",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNXZZVGZwaU90VGdIMU5YVV9rRE9lM3AyQWxBUU5mUEpFZWtydFVHa256OXczdEhuOUloNDZDSjdWSXlSUV9DVW9PcFd0S0MzU2t6aVBiRzFFZ09oRnlqTTRsRlczWWJJZWR4RHJ1OE0yOXZoTDU5eVhCd0Q0UHctZDkyc25kSnEzX2NRazZhZkE0eDRiUXp5VElKTk42M0JnXzNzQldsbk43cm00cFF4dkZfbHNaQjBnc0VqaWJraFdOTHUyV0FMTU0zZUM2NXJkZzBxOThuMTU?oc=5",
+     "origin": "Lewis Silkin"
+    },
+    {
+     "title": "First past the post: Slovakia becomes the first EU Member State to transpose the Pay Transparency Directive",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa251VjN3ZE12VnRfYmd4NGJMSTZ2LWVtc1lzY0tLaWlNNHBxdUJLeGdJZVpidjY2b1lPYk1lczFrY0pTV3VRVkozdzdZNGpxTklGVnAzYWZrQzhjZGtKcnY1bl92YVZ3VERfYUhWVE4tQ3E2ZEJYaUpMZGdnOC1sdW15eDZLbC1fMVVCSUs2NXpWY0czMTRycWZEVkVhb3hWc0szbHpSY2oyQ05YbkNBMVNTOUNFQXp3ajFSVmNkMDJMWHhBYnBoVUxkLTIwUFE?oc=5",
+     "origin": "Lewis Silkin"
+    }
+   ]
+  },
+  {
+   "title": "EU updates EUDR customs codes and guidance",
    "regs": [
     "eudr"
    ],
-   "what": "The EU issued updated customs codes and Information System guidance ahead of the deforestation regulation's scheduled 30 December 2026 application date.",
-   "meaning": "If any garden tools incorporate regulated timber parts, such as wooden handles, imports will require full supply-chain geolocation data and due diligence filings.",
-   "action": "Screen bills of materials for timber components to determine if any product lines require EUDR supplier due diligence.",
+   "what": "The EU updated customs codes and Information System guidance for the Deforestation Regulation, which applies from late December 2026.",
+   "meaning": "You must ensure any wood or paper packaging used for your imported finished goods complies with EUDR.",
+   "action": "Verify EUDR compliance for all product packaging with suppliers.",
    "sources": [
     {
      "title": "EU updates EUDR customs codes and Information System guidance ahead of December application",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweTB3RlZCcjlRNjVEUDRTRzJLY0hjcVRkTkJCdDZnZXl2Zm9YWVdMOUJrSHdEMkl4LXJzelM5UEZJTm5wSU53TVBZRmdEVVZXa3VQd2RmTzZmN29abXpWU2NOMEoxY3ZESDIwbFVJYTVLVm9LVlhmRw?oc=5",
-     "origin": "fordaq.com"
+     "origin": "Fordaq"
     },
     {
      "title": "New January 1 EU deforestation regulations launch looks set in stone",
@@ -66,9 +104,9 @@
   }
  ],
  "watch": [
-  "Entry into force of the revised ESRS on 10 November 2026 ahead of CSRD application for financial year 2027.",
-  "System testing and portal readiness for the EUDR Information System before the 30 December 2026 compliance date.",
-  "Publication of further delegated acts under the Ecodesign for Sustainable Products Regulation."
+  "The entry into force of the revised European Sustainability Reporting Standards (ESRS) on 10 November 2026.",
+  "The application of the CSRD to your company size starting 1 January 2027.",
+  "The transition to the new Machinery Regulation on 20 January 2027."
  ],
- "based_on": 25
+ "based_on": 29
 }
