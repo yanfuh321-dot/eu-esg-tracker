@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.5-flash",
+ "model": "gemini-3.6-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -30,20 +30,18 @@
    "hash": "39b292d4813f",
    "date": "2026-10-04",
    "model": "gemini-3.5-flash"
+  },
+  "csddd": {
+   "hash": "f8338d2c01fd",
+   "date": "2026-10-05",
+   "model": "gemini-3.6-flash"
   }
  },
  "pending": [],
  "dismissed": {},
- "learn_edits": [
-  {
-   "id": "sfdr2",
-   "old": "**Narrower scope.** The Commission proposed to take financial advisers and portfolio management out of the regulation.",
-   "new": "**Same scope.** The proposal covers the same population of financial market participants and advisers as the current SFDR.",
-   "reason": "The curated data states that the scope is the same population as the SFDR, contradicting the learning page's claim of a narrower scope."
-  }
- ],
+ "learn_edits": [],
  "search_refused": "2026-10-03",
- "last_briefing": "2026-10-04",
- "last_proposals": "2026-10-04",
- "pr_seen_open": true
+ "last_briefing": "2026-10-05",
+ "last_proposals": "2026-10-05",
+ "pr_seen_open": false
 }
