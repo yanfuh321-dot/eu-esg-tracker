@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-10-05T22:00:55Z",
+ "generated_at": "2026-10-06T12:01:38Z",
  "items": [
+  {
+   "id": "6743a9bd59e8",
+   "group": "decision",
+   "sources": [
+    {
+     "item": "dc76eac8746578d5",
+     "title": "European Parliament Backs Tougher, Wider-Reaching Carbon Border Adjustment Mechanism",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OdWRYZTJTb1J6UEVBT18yMHY5YUluSjBQR0JHV3VWYTJLcUZYNm9WSFUwNFh1WEVnRkR5UnV1TkV0ZXpQWU9mdlRlcGlFRnhfeHlWd25PQzU5LVZSbnVPVmdn?oc=5",
+     "origin": "HKTDC Research",
+     "published": "2026-10-05T08:44:18Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "cbam"
+     ],
+     "mentions": []
+    },
+    {
+     "item": "fe3314aefca5e4a5",
+     "title": "CELEX:32026D2240: Council Decision (EU) 2026/2240 of 24 September 2026 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee concerning an amendment to Annex XX (Environment) to the EEA Agreement (CBAM) (Text with EEA relevance)",
+     "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2240",
+     "origin": "EUR-Lex, new Parliament and Council legislation",
+     "published": "2026-10-05T22:00:00Z",
+     "official": true,
+     "strong": true,
+     "regs": [
+      "cbam"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-10-06T12:01:38Z",
+   "updated": "2026-10-06T12:01:38Z",
+   "date": "2026-10-05",
+   "regs": [
+    "cbam"
+   ],
+   "title": "CELEX:32026D2240: Council Decision (EU) 2026/2240 of 24 September 2026 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee concerning an amendment to Annex XX (Environment) to the EEA Agreement (CBAM) (Text with EEA relevance)",
+   "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2240",
+   "origin": "EUR-Lex, new Parliament and Council legislation",
+   "official": true,
+   "publishers": 2,
+   "mentions": [],
+   "visible": true
+  },
   {
    "id": "f1d1cd0f1155",
    "group": "guidance",
