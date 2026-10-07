@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-06T12:01:41Z",
+ "generated_at": "2026-10-07T20:37:21Z",
  "model": "gemini-3.5-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU Regulatory Updates: CSRD, Green Claims, and Supply Chain Risks",
- "summary": "Germany has finalised its CSRD transposition negotiations, preparing the ground for your 2027 reporting obligations. Meanwhile, the EU's ban on vague green claims has entered into force, and discussions on extending CBAM to finished goods are intensifying. You must also monitor labor risks in China and prepare for upcoming deforestation rules.",
+ "headline": "CSRD Progress, EUDR Penalties, and Green Claims Ban Take Centre Stage",
+ "summary": "Germany is close to finalising its CSRD transposition, which will apply to you from 2027. Meanwhile, severe national EUDR penalties are being proposed, and the EU's ban on vague green claims has entered into force, requiring immediate marketing audits.",
  "items": [
   {
-   "title": "German CSRD Transposition Negotiations Concluded",
+   "title": "Germany nears finalisation of CSRD transposition law",
    "regs": [
     "de-csrd",
     "csrd"
    ],
-   "what": "The German SPD announced that negotiations on the national CSRD transposition law are complete, clearing the path for final legislative adoption.",
-   "meaning": "As a listed EU brand with over 1,000 employees, you will fall under the CSRD scope starting financial year 2027. German implementation details are now finalised.",
-   "action": "Review the final German draft to align your 2027 reporting preparation with specific national requirements.",
+   "what": "The German SPD announced that negotiations on the national CSRD transposition law are complete, paving the way for final legislative adoption.",
+   "meaning": "As a listed brand with over 1,000 employees, you must prepare for mandatory CSRD reporting starting in financial year 2027.",
+   "action": "Ensure your sustainability data collection systems are ready for the upcoming German requirements.",
    "sources": [
     {
      "title": "CSRD-Umsetzungsgesetz: SPD sieht Verhandlungen als abgeschlossen",
@@ -24,76 +24,17 @@
    ]
   },
   {
-   "title": "EU Ban on Vague Green Claims Enters into Force",
-   "regs": [
-    "ecgt"
-   ],
-   "what": "The EU ban on vague environmental claims has officially entered into force, targeting greenwashing practices across consumer products.",
-   "meaning": "Your consumer-facing marketing for power tools and garden equipment must avoid unsubstantiated claims like 'eco-friendly' or 'green' without detailed proof.",
-   "action": "Audit all product packaging, manuals, and marketing materials to remove or substantiate generic environmental claims.",
-   "sources": [
-    {
-     "title": "Goodbye greenwashing? EU ban on vague claims comes into force",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTFMcHdYdHd3Uy10aUtDQ2NIQzNZNmNPZkluYWR5bzEzLUVRNFFVOU50YUVHTmVBSmpnVE8wX25WUENrUGpGTDNHd1FmVjBlZnp0U2lmd1g5YXcwa3ZUSkFEYkltVGtPb05MY0JMbDRBQWNCTXFzSWlfekpKNy1oX2p2RkFZV05RQ1U4ZlV1aEFZdUtzdktYV1hvVmNjWWhVa3c?oc=5",
-     "origin": "Ingredients Network"
-    }
-   ]
-  },
-  {
-   "title": "Proposed CBAM Extension to Downstream Products",
-   "regs": [
-    "cbam"
-   ],
-   "what": "Industry associations and the European Parliament are debating proposals to extend the Carbon Border Adjustment Mechanism to finished and semi-finished downstream products.",
-   "meaning": "While you currently import finished goods exempt from CBAM, a downstream extension would subject your steel- and aluminium-heavy power tools to carbon tariffs.",
-   "action": "Monitor these policy debates and assess the carbon intensity of your suppliers' manufacturing processes.",
-   "sources": [
-    {
-     "title": "Joint statement on the proposed downstream extension of the Carbon Border Adjustment Mechanism (CBAM)",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmdnQV9WWk9yRmRKMElVQUZ3UjNxaVREdU1zN3pGejJBQmpFRTF3YTdua19kbmFNanF1NHFHSGtHZ280WUhManFYYTRXTWxqZDh2SjlKR0NOU1c0WXhtZHhvY1A5UURwQTJpZ05hTUhQaEJjbDBfemgwU2Q4aGN2WDdKaEtDX3FhT09kS2x0MEtMeUtwWmF1RkE2MDFYWi1xRlFtcjQyRHFPWXR2V0Z2LUZFU3RZVkZ5YngxekVlUzdjVlZZdnc?oc=5",
-     "origin": "ACEA - European Automobile Manufacturers' Association"
-    },
-    {
-     "title": "European Parliament Backs Tougher, Wider-Reaching Carbon Border Adjustment Mechanism",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OdWRYZTJTb1J6UEVBT18yMHY5YUluSjBQR0JHV3VWYTJLcUZYNm9WSFUwNFh1WEVnRkR5UnV1TkV0ZXpQWU9mdlRlcGlFRnhfeHlWd25PQzU5LVZSbnVPVmdn?oc=5",
-     "origin": "HKTDC Research"
-    },
-    {
-     "title": "CLEPA joins call for workable CBAM rules that protect the entire automotive value chain",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHBrbENURmprWl9pRXRtRkJqWlhNUHZmb2xTOGw2ZUdpQVVYUEVLbWdWVUhpSzU3dXVpcG82Ri1ReVdoM2dwNy1ZdDNlREV5S3ZYc0tycS04Y2ZIbVdGOUhwNEdfeXFycFRzNHNQWUpsZVNoempoczdSZzQ0a3cwcXFPTEpMVGM3X2RkR2xnN09tX3R3Y1YwR0trR1VMekxqODBhazEydGczT3ZDRkdHRXM4RDIxSVZSb01VeU12dF90REJ3QnlJRURHYw?oc=5",
-     "origin": "CLEPA | European Association of Automotive Suppliers"
-    }
-   ]
-  },
-  {
-   "title": "Chinese Workers File Overtime Complaints to EU",
-   "regs": [
-    "forced-labour",
-    "de-lksg"
-   ],
-   "what": "Chinese factory workers have submitted complaints to the EU regarding severe overtime, highlighting systemic labor risks in Chinese manufacturing sectors.",
-   "meaning": "With 200 suppliers in mainland China, your brand faces heightened reputational and regulatory scrutiny regarding working hours and labor conditions.",
-   "action": "Engage with Chinese suppliers to audit working hours and ensure compliance with local labor laws.",
-   "sources": [
-    {
-     "title": "Brutale Überstunden-Kultur: Chinas Arbeiter beschweren sich bei der EU",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTVV3YzRCa0h1cHZVMjg4OE1PbUpnUEhsRE9RRE05RF9GQlZDUmpkcDA0Vm1Ud28wS1dwOU44SEdLWjdYcTU2ZE1RUWxoMFA2OWV6RDgwU3NzQmJ5WXVhb0habElpcUxLNE1DbUhBMU5yREFwWGR5V1hVTUgxWVZlLUdMTkJDSVZma0lPMVBtS0FIbHc?oc=5",
-     "origin": "n-tv.de"
-    }
-   ]
-  },
-  {
-   "title": "EU Updates EUDR Customs Codes as Penalties Formulate",
+   "title": "Severe national EUDR penalties proposed alongside customs updates",
    "regs": [
     "eudr"
    ],
-   "what": "The EU updated customs codes and Information System guidance for the Deforestation Regulation, while Germany and Ireland proposed severe non-compliance penalties.",
-   "meaning": "If your packaging or product components contain wood or paper, you must comply with EUDR. National laws propose heavy fines and prison terms.",
-   "action": "Verify if any imported packaging or product elements trigger EUDR, and prepare due diligence statements.",
+   "what": "Germany and Ireland proposed severe penalties for EUDR breaches, including €10m fines and prison sentences. The EU also updated customs codes.",
+   "meaning": "If your power tools contain rubber, wood, or paper packaging, compliance before the December deadline is critical to avoid severe penalties.",
+   "action": "Map supply chains for rubber and packaging with Chinese suppliers immediately.",
    "sources": [
     {
-     "title": "EU updates EUDR customs codes and Information System guidance ahead of December application",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweTB3RlZCcjlRNjVEUDRTRzJLY0hjcVRkTkJCdDZnZXl2Zm9YWVdMOUJrSHdEMkl4LXJzelM5UEZJTm5wSU53TVBZRmdEVVZXa3VQd2RmTzZmN29abXpWU2NOMEoxY3ZESDIwbFVJYTVLVm9LVlhmRw?oc=5",
+     "title": "German EUDR draft sets turnover-linked fines and criminal penalties for serious breaches",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3pUQTNxM0NYZnRGVkdidUs2THVWaThJd0UwM3BkRmtjNUJDY3dXUFc4X0g0SU8xbkJONDAzRTJRS3A3VGRROWE0MzdRekhIOExoYXVraVZ1c245TWRqVldnVnBPNERFQ0puUGtWWFExREdiQnB2UEhXQzdlZjVXdk9wWFI?oc=5",
      "origin": "Fordaq"
     },
     {
@@ -105,14 +46,72 @@
      "title": "Companies that fail to meet Ireland's Deforestation Regulations could be fined up to 10 million euros",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdzc4cVo5NEE5ajNCdVgwY296ZEszX3NEek4yT0p4dkZUb2VpVUM1T2E2RTl6OGNRRkZvMEROVktFOGkwbGZidlNkdXJYLUc3SFJaSF9IVjA0RXJPdHVER3MwVEsxUkExVEswU21xNmtCNUJ5UXlycFpPLU1tZGVTcjhmMVI0NkstU1N6bFdPVVFjNDFINmJoTkNwMEZvWUxiS1luQ0FKM2IwdllxSzllWW5KazRkQjZOUGNHRG5LVEZMYllkczY1WkVTMC1NMzdGdFhnSDVsUjg4cFhqOU1ESDN3aExxaVhQ?oc=5",
      "origin": "Fashion United"
+    },
+    {
+     "title": "EU updates EUDR customs codes and Information System guidance ahead of December application",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweTB3RlZCcjlRNjVEUDRTRzJLY0hjcVRkTkJCdDZnZXl2Zm9YWVdMOUJrSHdEMkl4LXJzelM5UEZJTm5wSU53TVBZRmdEVVZXa3VQd2RmTzZmN29abXpWU2NOMEoxY3ZESDIwbFVJYTVLVm9LVlhmRw?oc=5",
+     "origin": "Fordaq"
+    }
+   ]
+  },
+  {
+   "title": "EU ban on vague green claims enters into force",
+   "regs": [
+    "ecgt"
+   ],
+   "what": "The EU ban on vague environmental claims has officially entered into force, targeting unsubstantiated greenwashing in consumer marketing.",
+   "meaning": "Your consumer-facing brand must ensure all environmental claims on power tools and packaging are backed by verified evidence.",
+   "action": "Audit product packaging and marketing materials to remove unverified claims.",
+   "sources": [
+    {
+     "title": "Goodbye greenwashing? EU ban on vague claims comes into force",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTFMcHdYdHd3Uy10aUtDQ2NIQzNZNmNPZkluYWR5bzEzLUVRNFFVOU50YUVHTmVBSmpnVE8wX25WUENrUGpGTDNHd1FmVjBlZnp0U2lmd1g5YXcwa3ZUSkFEYkltVGtPb05MY0JMbDRBQWNCTXFzSWlfekpKNy1oX2p2RkFZV05RQ1U4ZlV1aEFZdUtzdktYV1hvVmNjWWhVa3c?oc=5",
+     "origin": "Ingredients Network"
+    }
+   ]
+  },
+  {
+   "title": "Industry groups oppose proposed downstream CBAM extensions",
+   "regs": [
+    "cbam"
+   ],
+   "what": "Automotive and supplier associations issued joint statements calling for workable rules and opposing proposed downstream extensions of CBAM to finished products.",
+   "meaning": "Although you currently import finished goods exempt from CBAM, downstream extensions could bring your imported power tools into scope.",
+   "action": "Monitor policy debates regarding downstream CBAM extensions closely.",
+   "sources": [
+    {
+     "title": "Joint statement on the proposed downstream extension of the Carbon Border Adjustment Mechanism (CBAM)",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmdnQV9WWk9yRmRKMElVQUZ3UjNxaVREdU1zN3pGejJBQmpFRTF3YTdua19kbmFNanF1NHFHSGtHZ280WUhManFYYTRXTWxqZDh2SjlKR0NOU1c0WXhtZHhvY1A5UURwQTJpZ05hTUhQaEJjbDBfemgwU2Q4aGN2WDdKaEtDX3FhT09kS2x0MEtMeUtwWmF1RkE2MDFYWi1xRlFtcjQyRHFPWXR2V0Z2LUZFU3RZVkZ5YngxekVlUzdjVlZZdnc?oc=5",
+     "origin": "ACEA - European Automobile Manufacturers' Association"
+    },
+    {
+     "title": "CLEPA joins call for workable CBAM rules that protect the entire automotive value chain",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWHBrbENURmprWl9pRXRtRkJqWlhNUHZmb2xTOGw2ZUdpQVVYUEVLbWdWVUhpSzU3dXVpcG82Ri1ReVdoM2dwNy1ZdDNlREV5S3ZYc0tycS04Y2ZIbVdGOUhwNEdfeXFycFRzNHNQWUpsZVNoempoczdSZzQ0a3cwcXFPTEpMVGM3X2RkR2xnN09tX3R3Y1YwR0trR1VMekxqODBhazEydGczT3ZDRkdHRXM4RDIxSVZSb01VeU12dF90REJ3QnlJRURHYw?oc=5",
+     "origin": "CLEPA | European Association of Automotive Suppliers"
+    }
+   ]
+  },
+  {
+   "title": "First digital battery passports emerge ahead of EU deadlines",
+   "regs": [
+    "batteries"
+   ],
+   "what": "An e-bike brand launched a digital battery passport, demonstrating early market readiness for upcoming EU battery regulation requirements.",
+   "meaning": "As a brand with its own battery platform, you will face similar digital passport requirements for your power tool batteries.",
+   "action": "Engage with your Chinese battery suppliers to develop digital passport capabilities.",
+   "sources": [
+    {
+     "title": "TENWAYS unveils digital passport for eBike batteries ahead of EU deadline",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHZqRkVwNV84SlFYS21DYVhfbENQZ2pseDlPUnIxWFVubkE3ZUJydXBDNFk2akNnQnJZOGJ4TnZ4eXUyVklMeDJtR3B1blNJN1NCWUQ2akFOQjNpdU9ZRk1HdnV6T2k0ajE5bHM4SXBfTERva2ItT0J4VGFOank0bUVZOElPbXhrVlk0eTRfM3FxdjF2UTdzMEFrRTNyV2M4aDFQam1n?oc=5",
+     "origin": "Cycling Industry News"
     }
    ]
   }
  ],
  "watch": [
-  "Final adoption of the German CSRD transposition law by the parliament.",
-  "Developments in the European Parliament regarding the downstream extension of CBAM.",
-  "The application of the EU Deforestation Regulation on 30 December 2026."
+  "The entry into force of the revised ESRS on 10 November 2026, which will govern your CSRD reporting.",
+  "The application of the EUDR on 30 December 2026, requiring strict supply chain tracing for wood and rubber.",
+  "The application of the new Machinery Regulation on 20 January 2027, replacing the current Machinery Directive."
  ],
- "based_on": 41
+ "based_on": 42
 }
