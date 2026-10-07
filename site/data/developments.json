@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-10-06T20:19:33Z",
+ "generated_at": "2026-10-07T11:47:11Z",
  "items": [
+  {
+   "id": "fad9efe032fc",
+   "group": "legal",
+   "sources": [
+    {
+     "item": "01f0ec7e59cc39e0",
+     "title": "Farmers urged to secure 75% of fertiliser before CBAM takes effect in 2027",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3lEM0stem12a19mQkg4RU9hYkxlMjJfRFZTTjR4d2VRTlA5by15bDFFSV9DVzNSZlgwbkdsa0Q0dXpEM2JlQ1F0clFvdF9XS1JBWkZwU0ZMbk50MUg0ODVHeFpFS2VPcmI2emp5WXpqcm5MRk1CVTNpU2RoYWlFalBDMl9ZNnhQNURjSGRoX3NpdUo5QVZIYVpOYWZoUG9vSTZBZnY0THhVYVp0N3NyUEg3WHBBYm11ZTk0Rm90LUtBQQ?oc=5",
+     "origin": "Farmers Guide",
+     "published": "2026-10-07T11:04:59Z",
+     "official": false,
+     "strong": false,
+     "regs": [
+      "cbam"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-10-07T11:47:11Z",
+   "updated": "2026-10-07T11:47:11Z",
+   "date": "2026-10-07",
+   "regs": [
+    "cbam"
+   ],
+   "title": "Farmers urged to secure 75% of fertiliser before CBAM takes effect in 2027",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3lEM0stem12a19mQkg4RU9hYkxlMjJfRFZTTjR4d2VRTlA5by15bDFFSV9DVzNSZlgwbkdsa0Q0dXpEM2JlQ1F0clFvdF9XS1JBWkZwU0ZMbk50MUg0ODVHeFpFS2VPcmI2emp5WXpqcm5MRk1CVTNpU2RoYWlFalBDMl9ZNnhQNURjSGRoX3NpdUo5QVZIYVpOYWZoUG9vSTZBZnY0THhVYVp0N3NyUEg3WHBBYm11ZTk0Rm90LUtBQQ?oc=5",
+   "origin": "Farmers Guide",
+   "official": false,
+   "publishers": 1,
+   "mentions": [],
+   "visible": false
+  },
   {
    "id": "52ebca53c66a",
    "group": "delay",
@@ -32,6 +64,38 @@
    "publishers": 1,
    "mentions": [],
    "visible": false
+  },
+  {
+   "id": "4694d205fc49",
+   "group": "legal",
+   "sources": [
+    {
+     "item": "87710243cfb5abc5",
+     "title": "CELEX:32024L1799R(03): Corrigendum to Directive (EU) 2024/1799 of the European Parliament and of the Council of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (OJ L, 2024/1799, 10.7.2024)",
+     "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1799R(03)",
+     "origin": "EUR-Lex, new Parliament and Council legislation",
+     "published": "2026-10-06T22:00:00Z",
+     "official": true,
+     "strong": true,
+     "regs": [
+      "right-to-repair"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-10-07T11:47:11Z",
+   "updated": "2026-10-07T11:47:11Z",
+   "date": "2026-10-06",
+   "regs": [
+    "right-to-repair"
+   ],
+   "title": "CELEX:32024L1799R(03): Corrigendum to Directive (EU) 2024/1799 of the European Parliament and of the Council of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (OJ L, 2024/1799, 10.7.2024)",
+   "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1799R(03)",
+   "origin": "EUR-Lex, new Parliament and Council legislation",
+   "official": true,
+   "publishers": 1,
+   "mentions": [],
+   "visible": true
   },
   {
    "id": "6743a9bd59e8",
