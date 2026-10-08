@@ -1,5 +1,18 @@
 {
- "generated_at": "2026-10-07T20:37:21Z",
+ "generated_at": "2026-10-08T12:01:41Z",
  "items": [],
- "learn_edits": []
+ "learn_edits": [
+  {
+   "id": "eudr",
+   "old": "After two postponements it applies from **30 December 2026**",
+   "new": "After a one-year postponement it applies from **30 December 2026**",
+   "reason": "The curated timeline shows application was postponed once by one year (adopted 18 December 2025), not twice."
+  },
+  {
+   "id": "eudr",
+   "old": "After two one-year postponements the date is 30 December 2026.",
+   "new": "After a one-year postponement the date is 30 December 2026.",
+   "reason": "The curated timeline records a single one-year postponement, not two."
+  }
+ ]
 }

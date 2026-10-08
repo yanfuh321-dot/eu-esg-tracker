@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.5-flash",
+ "model": "gemini-3.8-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -35,13 +35,36 @@
    "hash": "f8338d2c01fd",
    "date": "2026-10-05",
    "model": "gemini-3.6-flash"
+  },
+  "cbam": {
+   "hash": "9b67a0afd383",
+   "date": "2026-10-08",
+   "model": "gemini-3.5-flash"
+  },
+  "eudr": {
+   "hash": "88327ab11f76",
+   "date": "2026-10-08",
+   "model": "gemini-3.8-flash"
   }
  },
  "pending": [],
  "dismissed": {},
- "learn_edits": [],
+ "learn_edits": [
+  {
+   "id": "eudr",
+   "old": "After two postponements it applies from **30 December 2026**",
+   "new": "After a one-year postponement it applies from **30 December 2026**",
+   "reason": "The curated timeline shows application was postponed once by one year (adopted 18 December 2025), not twice."
+  },
+  {
+   "id": "eudr",
+   "old": "After two one-year postponements the date is 30 December 2026.",
+   "new": "After a one-year postponement the date is 30 December 2026.",
+   "reason": "The curated timeline records a single one-year postponement, not two."
+  }
+ ],
  "search_refused": "2026-10-03",
- "last_briefing": "2026-10-07",
- "last_proposals": "2026-10-05",
+ "last_briefing": "2026-10-08",
+ "last_proposals": "2026-10-08",
  "pr_seen_open": false
 }
