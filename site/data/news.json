@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T11:53:48Z",
+ "generated_at": "2026-10-09T20:06:30Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -15,8 +15,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 4,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 4
   },
   {
@@ -29,10 +29,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 98,
+   "fetched": 99,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 1
   },
   {
@@ -47,8 +47,8 @@
    "empty": false,
    "fetched": 9,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 0
   },
   {
@@ -63,8 +63,8 @@
    "empty": false,
    "fetched": 3,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 0
   },
   {
@@ -79,8 +79,8 @@
    "empty": false,
    "fetched": 27,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 3
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
    "last_ok": null,
    "stored": 0
   },
@@ -110,9 +110,9 @@
    "via": "feed",
    "empty": false,
    "fetched": 20,
-   "kept": 3,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "kept": 4,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 4
   },
   {
@@ -126,10 +126,10 @@
    "via": "feed",
    "empty": false,
    "fetched": 10,
-   "kept": 1,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
-   "stored": 5
+   "kept": 2,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
+   "stored": 6
   },
   {
    "id": "gn-reporting",
@@ -141,11 +141,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 19,
-   "kept": 19,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
-   "stored": 48
+   "fetched": 21,
+   "kept": 21,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
+   "stored": 51
   },
   {
    "id": "gn-csddd",
@@ -157,10 +157,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 8,
-   "kept": 8,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 19
   },
   {
@@ -173,11 +173,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 20,
-   "kept": 20,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
-   "stored": 34
+   "fetched": 21,
+   "kept": 21,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
+   "stored": 35
   },
   {
    "id": "gn-cbam",
@@ -189,11 +189,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 94,
-   "kept": 94,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
-   "stored": 151
+   "fetched": 100,
+   "kept": 100,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
+   "stored": 158
   },
   {
    "id": "gn-eudr",
@@ -205,10 +205,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 34,
-   "kept": 34,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "fetched": 32,
+   "kept": 32,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 65
   },
   {
@@ -223,8 +223,8 @@
    "empty": false,
    "fetched": 11,
    "kept": 11,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 26
   },
   {
@@ -237,10 +237,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 21,
-   "kept": 21,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "fetched": 20,
+   "kept": 20,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 36
   },
   {
@@ -255,9 +255,9 @@
    "empty": false,
    "fetched": 18,
    "kept": 18,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
-   "stored": 38
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
+   "stored": 39
   },
   {
    "id": "gn-repair",
@@ -269,10 +269,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 9,
-   "kept": 9,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 19
   },
   {
@@ -287,8 +287,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 2
   },
   {
@@ -303,8 +303,8 @@
    "empty": false,
    "fetched": 1,
    "kept": 1,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 1
   },
   {
@@ -317,11 +317,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 6,
-   "kept": 6,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
-   "stored": 11
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
+   "stored": 12
   },
   {
    "id": "gn-de-csrd",
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 1
   },
   {
@@ -351,8 +351,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 1
   },
   {
@@ -365,10 +365,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 5,
-   "kept": 5,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "fetched": 6,
+   "kept": 6,
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 12
   },
   {
@@ -383,33 +383,73 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-09T11:53:48Z",
-   "last_ok": "2026-10-09T11:53:48Z",
+   "checked_at": "2026-10-09T20:06:30Z",
+   "last_ok": "2026-10-09T20:06:30Z",
    "stored": 1
   }
  ],
  "items": [
   {
-   "id": "5dfa3b7b81b55962",
-   "title": "ETS2: Council signs off on rules strengthening the market stability reserve",
-   "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/ets2-council-signs-off-on-rules-strengthening-the-market-stability-reserve/",
-   "summary": "The Council adopted targeted amendments to the market stability reserve (MSR) under the EU’s emissions trading system for the buildings, road transport and additional sectors (ETS2).",
-   "published": "2026-10-09T11:55:00Z",
-   "source": "council-press",
-   "publisher": null,
-   "kind": "official",
+   "id": "11f934b31fff1d4d",
+   "title": "Meet the CSRD’s 2026 Area B director candidates: Emma Sutton",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXcxS3pPemlpcDluWVhVU2w1aUNoalVvOUpGWUZBclBqR2w5VG1rcmZUOFNVckdfbkw5cGpPSkc1S0gyenhUVEVPTW95TFE5ckM1Y1JJeU9ONGU0QlFnNHZ1LThRNkxQRkhZTTBmX2VLT3FFb0JLX1h6d3U4V0hRaVE4RjFUV0JoT1pOdnJOZ3gxU0NPSWlaVnRVT01PTl84?oc=5",
+   "summary": "",
+   "published": "2026-10-09T20:00:49Z",
+   "source": "gn-reporting",
+   "publisher": "Revelstoke Review",
+   "kind": "news",
    "tags": [
-    "ets"
+    "csrd"
    ],
    "weak": false,
-   "first_seen": "2026-10-09T11:53:48Z",
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "af1906fe06565ffe",
+   "title": "Meet the CSRD’s 2026 Area B director candidates: David Brooks-Hill",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVhqVkNWVFE4QmNEYXVsSzRFb2NKZmN3SENYaUxHdTFONUZSX21RTFhBeGxOdDBqeng2Q2llLXdxRnVOT3JUOTlobERkZW9zS2wyd0pFWl93b1FMTEZwMS02X2lTSEtJeXphZHBmWmNRUGxpREZnLXJwOGJoZzl6NDR1TnZ1UzBhNlVlSFhTaW9UaHhUVmJXVE5kbzZ3a3VWbEJscXpPMlI?oc=5",
+   "summary": "",
+   "published": "2026-10-09T19:30:15Z",
+   "source": "gn-reporting",
+   "publisher": "Revelstoke Review",
+   "kind": "news",
+   "tags": [
+    "csrd"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "4b9e3655f06f58b3",
+   "title": "EU reshapes carbon market rules with stricter controls ahead of 2028 launch",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS284SmkxeE9UOUtvZlJaTTFfS1Ezc0FQLWhnQnhNUXZVWVlXYUp0U3hnZ2l6MmVhWndHVm96Uk5yOUhOMld6MUYzUk9TT1hDeDlXZm05NDFnYlZHc3V5OE1RaDdScHNnb2s2MWE2RG9qc0pGLVZ6ZS1kSV9CNGZWelI2Q0RVRGdkMmxzckNOVEF0dERlVXBVVlNnaDRxQjJjNG0xQ3pkMW9EeTN5NWMtUXE3bWhFN0lnd1M2LXd4Q000QQ?oc=5",
+   "summary": "",
+   "published": "2026-10-09T17:55:32Z",
+   "source": "gn-cbam",
+   "publisher": "The Brussels Times",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-09T20:06:30Z",
    "ai": {
     "relevant": true,
     "importance": 2,
     "regs": [
      "ets"
     ],
-    "note": "The EU Council has approved rules to strengthen the market stability reserve for the ETS2 emissions trading system."
+    "note": "The EU is tightening carbon market rules ahead of the 2028 launch of the ETS2 emissions trading system."
    }
   },
   {
@@ -417,7 +457,7 @@
    "title": "Position paper: ETS2 and the Social Climate Fund",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGIxODdPY0JMZGE2LU40czNuMHhuZV9abEpMNkdhUVlQcXRxTEp4ZUFnMC1HZnhtVmN1ZUNUUlBGT2REb1FsRkhpemczbFYxaUhrQkJBY1ROVU9ndnVrUXFsN1VLOXNwcXRMb0l5cFdGazNITlZuYzhwLUp0cFRFVDVB?oc=5",
    "summary": "",
-   "published": "2026-10-09T11:31:03Z",
+   "published": "2026-10-09T17:05:52Z",
    "source": "gn-cbam",
    "publisher": "WWF EU",
    "kind": "news",
@@ -436,17 +476,153 @@
    }
   },
   {
-   "id": "61aa30df4393c3b7",
-   "title": "Media advisory - Environment Council of 12 October 2026",
-   "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/media-advisory-environment-council-of-12-october-2026/",
-   "summary": "Main agenda items, approximate timing, public sessions and press opportunities.",
-   "published": "2026-10-09T11:20:00Z",
+   "id": "cc50197a8dd69b0c",
+   "title": "CSRD Readiness for EHS Professionals: How To Prepare",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXlNVWhvWmVRaHo3MkhMVEdEQUpQVE15dFZHc1lkejM5NmhDRHJ1bWZMLUMzV2Z4UExSZ0ZzQm5MYTVqTVBTckxMQkpuejB0OUhBXzJwNUtCZWFoeG1TNTFQbU1xQWU0SEF3c056aGRWZ0d2eG9FakgzSmZGLTdOUlJSOGRxamszNkFkZ09nbzBaeGdZN1lvbmVzOGd5YTJfOUJVY2Y0emlPcjNuZHVZY2otTlYyTVktZkc3MC1fTUVxckJfMzVKQ0dHMG5ubjhtQV9n?oc=5",
+   "summary": "",
+   "published": "2026-10-09T16:51:10Z",
+   "source": "gn-reporting",
+   "publisher": "ACCESS Newswire",
+   "kind": "news",
+   "tags": [
+    "csrd"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "csrd"
+    ],
+    "note": "An article providing guidance for environmental, health, and safety professionals preparing for the EU Corporate Sustainability Reporting Directive."
+   }
+  },
+  {
+   "id": "c6f9ab3642807596",
+   "title": "Forward look: 12 - 25 October 2026",
+   "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/forward-look-2026/",
+   "summary": "Overview of the main subjects to be discussed at meetings of the Council of the EU over the next two weeks and upcoming media events.",
+   "published": "2026-10-09T16:45:00Z",
    "source": "council-press",
    "publisher": null,
    "kind": "official",
    "tags": [],
    "weak": false,
-   "first_seen": "2026-10-09T11:53:48Z",
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "01a6eb66ab8ae4b3",
+   "title": "EU steel prices to rise as CBAM cost could reach €5B/y, says Trasteel CEO",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3JEMUJqUlUyX1hvT01ka0NVcmdhOWYwcFVZNXVuZGhPaVNvdVI1RnBNNmdFcVlRMXp5Rlp2OTIxNTB5d0FXSjhyNVlBMTZsd096RU9vVmYzV3NqV2hmSDd5SmY3RldiZ3NEc3Z3M1NRRG9MN0lGdl9oWDF4NG0xQ0ItaERldk8ycTB3RkoxUzZQbkR1bmFuOEpsRQ?oc=5",
+   "summary": "",
+   "published": "2026-10-09T15:52:40Z",
+   "source": "gn-cbam",
+   "publisher": "EUROMETAL",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "The CEO of Trasteel warns that EU steel prices could rise significantly due to CBAM costs."
+   }
+  },
+  {
+   "id": "365c7cf475108001",
+   "title": "Down to Agribusiness: diesel reserves, budget and how CBAM works",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNndaRFZ4c08xb3pDVkR2dnptS3dFX2FCZG8zWEtma1VkSGxoZGh1bFk2M1pnUEdpeWYzbG4tM2Z1Vi0wQkkzcGFOTzU0OHdwOFFPYmp1RjVaYTBHZDd0Q2xCVlBwbGFmMXY3UUVQOE80RnNjdURHOTRRdnlBY0ZlN0hBVXUyR0NrbS1TV2pKWW9NczdjYmVPR3FjRElnUk1vQkJPdzJyLXlsU1N0U0E?oc=5",
+   "summary": "",
+   "published": "2026-10-09T14:32:57Z",
+   "source": "gn-cbam",
+   "publisher": "Irish Farmers Journal",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "An article explaining how the Carbon Border Adjustment Mechanism works alongside agribusiness topics."
+   }
+  },
+  {
+   "id": "c5ee8eb657aac2ca",
+   "title": "ETS2: Council signs off on rules strengthening the market stability reserve",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUxMSWNRbmtISkpkYjFienZ3TEVhZV9KNkpsUWRXbllsTWs1QTNmQWJiQzVvb0JvWktpN0hYMkgxMTRDTTd1c3czN1VNZHdRc3REaHByNEZPTC1ieVZKMGlPTTA0eS1xTzJiQ3pmRWpTWnNWTmxiNTBpbW84eU9JTk1jVnRRNUVOYkdRSkpfX2s1OHkxU045YV82MzJfSV9hd0l0VF9KR1RtVDVJa05ja3o2dktlbm5JcGRtTjkyZVJqZ3EybmJ4Zkd3?oc=5",
+   "summary": "",
+   "published": "2026-10-09T13:36:52Z",
+   "source": "gn-cbam",
+   "publisher": "PubAffairs Bruxelles",
+   "kind": "news",
+   "tags": [
+    "ets"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "ets"
+    ],
+    "note": "The EU Council has approved rules to strengthen the market stability reserve for the upcoming ETS2 emissions trading system."
+   }
+  },
+  {
+   "id": "0419fccad15ec025",
+   "title": "Council adopts targeted amendment to the ETS2 market stability reserve",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2wzb2Z4NFBpb0NLdlFnVElEU2U1emFGb3BwODNKbUlRS19FVWNlejJLbFpiUThmOFFCbmhTZ0FGaHlFSno1d0V5ZFZuNzFseV9sd2RhZGhtaHUxSG4wd0NxUjNrODFLbVZPZm16YV9EOHd3Z2hfaFBQS0ZVNG02cERzNjNlbXFtcGF4RE96VVQwd1NwRFlOVg?oc=5",
+   "summary": "",
+   "published": "2026-10-09T13:30:28Z",
+   "source": "gn-cbam",
+   "publisher": "EU Law Live",
+   "kind": "news",
+   "tags": [
+    "ets"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "ets"
+    ],
+    "note": "The EU Council formally adopted a targeted amendment to the market stability reserve for the ETS2."
+   }
+  },
+  {
+   "id": "7a5e219ad7a07f36",
+   "title": "Pulpex Opens its First Commercial Scale Paper-Based Bottle Manufacturing Plant",
+   "link": "https://www.esgtoday.com/pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant",
+   "summary": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle […]",
+   "published": "2026-10-09T12:26:24Z",
+   "source": "esgtoday",
+   "publisher": null,
+   "kind": "industry",
+   "tags": [
+    "ppwr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
    "ai": {
     "relevant": false,
     "importance": 0,
@@ -459,13 +635,32 @@
    "title": "UK Carbon Border Tax Will Put Indian Steel and Aluminium Exports Under New Scrutiny",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlFnRE9BMjhXdG9PdEc5VjItT2NaQ3h0Vko1V2VYRnM4VHhoNlZBdG5vOEcwcE5QVVhpeUNFdlkwSW1FMHNnTzB1Nkc1RUdPQWN1NXN0WHA3YXpkQy1xWHdiOVJPc0NBTzdRR0dGRzhWemUxZHVnbi1WX3dzamx6U3lBNDFmWjFGRHo3MzVTcXFudlhraHZpQmZZVWdya3Q2ZUVQNkpiWmJ4aEdDbHZCeg?oc=5",
    "summary": "",
-   "published": "2026-10-09T11:15:45Z",
+   "published": "2026-10-09T12:01:35Z",
    "source": "gn-cbam",
    "publisher": "The Policy Edge",
    "kind": "news",
    "tags": [
     "cbam"
    ],
+   "weak": false,
+   "first_seen": "2026-10-09T11:53:48Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "61aa30df4393c3b7",
+   "title": "Media advisory - Environment Council of 12 October 2026",
+   "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/media-advisory-environment-council-of-12-october-2026/",
+   "summary": "Main agenda items, approximate timing, public sessions and press opportunities.",
+   "published": "2026-10-09T11:20:00Z",
+   "source": "council-press",
+   "publisher": null,
+   "kind": "official",
+   "tags": [],
    "weak": false,
    "first_seen": "2026-10-09T11:53:48Z",
    "ai": {
@@ -526,7 +721,7 @@
    "title": "Steel, aluminium, cement: the UK’s new carbon tax hits imports in January. Who pays, and when?",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQkN6Zm84Y2ZoanFlTExoVnVPQUJEb3VRMDNWMG1oM3NhSWktcXV6dWM3QUVuQ1NpNmFfMy1aRUk0UzhSWVJQTzZ1cnpjdy1YSFU2bE5SVFJoTTBNUHJfRw?oc=5",
    "summary": "",
-   "published": "2026-10-09T09:58:23Z",
+   "published": "2026-10-09T09:58:04Z",
    "source": "gn-cbam",
    "publisher": "Trans.INFO",
    "kind": "news",
@@ -541,8 +736,29 @@
    }
   },
   {
+   "id": "5413f0f3a3ca4e4c",
+   "title": "Ohne Zuwanderung gerät Deutschlands Exportmotor ins Stocken",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjloeXJfSDQtV1hraC1ZT2huanpUcjVZeDRGV1R0b2k5TWY1QXlhbVpPenUzcGkxTmcwYjhmVnllblNoMlRGUTBkdkVobFEwdWNVVHVzX2t2RjdMbndfVzZGZU1wX0I3ZFMyX3c0LWxtTzNUeldzcE1JTF9ZOURQVmw5U1JVVFpURVlscw?oc=5",
+   "summary": "",
+   "published": "2026-10-09T09:25:00Z",
+   "source": "gn-de-lieferkette",
+   "publisher": "MiGAZIN",
+   "kind": "news",
+   "tags": [
+    "de-lksg"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "716187baa6a97aca",
-   "title": "Oxygen launches „Speaking Green”, a practical guide to responsible sustainability communication",
+   "title": "Oxygen launches \"Speaking Green”, a practical guide to responsible sustainability communication",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdHNaLW9xd2xtTTNHOGdxajdlUEZYQlpPTFhlX3ZrdlJXN2ZqVlJ2eDJ1NmMtREc5WXJhNG5yc011Q0lPWGpLY2VUb3Y1dG9hc1E1RFpWLVRNUGVBdUJWM2huYS1RY2FQUExyTXlnWUdKRlNfejRTU3dubGc2dExsdENaRU45Zi1pdFdKWHU0QzRTWGNwaEhPc1lNR3JfSXRlcFZSakdNWWU4ZWJ3TEZabFhTdGFEUnVzZUFtQnNLOFJMSk1nQTdXX0tpaVVpWmFnYzFDdEV4VTVXeUU?oc=5",
    "summary": "",
    "published": "2026-10-09T09:13:54Z",
@@ -739,6 +955,29 @@
      "cbam"
     ],
     "note": "BRICS nations are urged to address the economic consequences of the EU's Carbon Border Adjustment Mechanism."
+   }
+  },
+  {
+   "id": "6a64908658a6acc7",
+   "title": "Bill on the implementation of the EU Pay Transparency Directive",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHpROVN1QlVOaVRzWkI5RWpuMTh2VzY0c0IydmRYd0JEUmFXOHdaOHVoU3RsZC1ISi1iSzQzck9YcEdtMk1MbjVtS1RxVk1xQjMxUkZFcDREWkwxWHVOczJyUkduVWNheEtvb0pRMFNaWEZDbVRFWGJ0MExMRG15LWtUT1Qta2o5NUNIc2tBU3VrY0x2dmFqMHAtekhDcmNmcnhWZmVaQ0w5Ml9VQ2VV?oc=5",
+   "summary": "",
+   "published": "2026-10-08T22:00:00Z",
+   "source": "gn-social",
+   "publisher": "Bech-Bruun | Law firm",
+   "kind": "news",
+   "tags": [
+    "pay-transparency"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "pay-transparency"
+    ],
+    "note": "A draft bill has been introduced to implement the EU Pay Transparency Directive."
    }
   },
   {
@@ -1047,6 +1286,29 @@
     "importance": 0,
     "regs": [],
     "note": ""
+   }
+  },
+  {
+   "id": "acc464a70224af76",
+   "title": "US probes EU carbon border tax over potential trade barriers",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcldBNGpxaUVJSmh5QklsX0E1eElyVk1sNmVFUF8xNEtVa1NjOElkM3hjUWFZeE5EbnVUMFY2TFF6WVN2NU5fWkpTdElCaHBETnBiZnRZcklYdnIyU2NXNkFqM0NLOVlhYVJQMTVIUHpDb1lrM0ZHNFZNRGZTWkNWQlpUZzh0aGotczU0MVlwcWhhZHVEUDZXLUhndUQ?oc=5",
+   "summary": "",
+   "published": "2026-10-08T09:50:58Z",
+   "source": "gn-cbam",
+   "publisher": "Euronews.com",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "The United States is investigating the EU's Carbon Border Adjustment Mechanism over concerns it creates trade barriers."
    }
   },
   {
@@ -2636,6 +2898,52 @@
     "importance": 0,
     "regs": [],
     "note": ""
+   }
+  },
+  {
+   "id": "78bb41d9ff21c18d",
+   "title": "The CBAM fertiliser exemption that never was",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDVaVGlIUFhtUkExNG0yTGpHTjB1bDJDZ2xpcTN6Ny1xVURCa2VYaTVfcGU3NHk4clRXanNqM285SXNyR1paeHpVa2Y5NkEwdzdpMWd4Q2lwVDdGVXd5VHE2S21iTEJlcjF6b3VoaE1KWWNsUldTQXpxLWJzRURWQUdVT1hCUkhsNEJPVGliOVd3b2FYeDV2T19B?oc=5",
+   "summary": "",
+   "published": "2026-10-06T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "Contexte",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "An analysis discusses the absence of exemptions for fertilisers under the EU Carbon Border Adjustment Mechanism."
+   }
+  },
+  {
+   "id": "2f43041a0fac2d1c",
+   "title": "CBAM Certificate Index rises to €82.32/tCO2e in third quarter",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFdMQVpUQUhrWFNQd1Q5VDlHbVMxQ1AteVBYQnpIeWtwM29WaXpBZ2JScVQtNHozcTVxbTFJMjdZQ2NTRkxkM2dDUWZHdHJNdllsWmlxSmdRNE9kM0h2OVE2dlRhTFgySU14X19CYTNnNERpUGRtdzJpQzVua3dPSGRTMDI4S1lrS2FPZUJ4eTZuakJPOTBKMzgtUERudlM3?oc=5",
+   "summary": "",
+   "published": "2026-10-06T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "Fastmarkets",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "The CBAM Certificate Index increased to eighty-two point thirty-two euros per tonne of CO2 equivalent in the third quarter."
    }
   },
   {
@@ -4733,29 +5041,6 @@
    }
   },
   {
-   "id": "01217a178bba70f5",
-   "title": "CBAM reporting: Reducing the administrative burden for European manufacturer",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG9zQi0yNmNWaXF4dWdrLVRuZDVrZkFHUGw5QUlUSm9MNHctUFZEbTdjcUZQWGFpTTJ6ZU9GeDZhdzVoZ3RXcVR0WmUzMlJKYk5DWEtLUzFuUnVLNWxJZDIwV05KU0RldzZYVHpaNWxyZ05SSHVDcDVQTVgtbEE0OFdjWDdnRXNndGg4LXZITEg1V3l2cFJsNzEzNW4xTDYwdE9FVGVn?oc=5",
-   "summary": "",
-   "published": "2026-10-01T15:25:55Z",
-   "source": "gn-cbam",
-   "publisher": "ACEA - European Automobile Manufacturers' Association",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "European auto association ACEA calls on the EU to reduce reporting complexity and administrative burdens under CBAM."
-   }
-  },
-  {
    "id": "697e04b899effb58",
    "title": "DPP – the electronic passport for anchors",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb08zTUEwT1phdGY4dmhvUGFTUUwwN3QtNEVCbEpHaTdpN1phVlRGNy02Nk9MSlRINE1FVFRJYTVidGNzUzh0blluUzdOazNtblFETXdFV3dhT2tvQ1otb2xtWFNmVnFSNGpJMzIzVi1MQndkZUZib2Q5elZmaVlaeUkySDBwdWxfXzYtY0xVN3I4NW8zZnc?oc=5",
@@ -5224,6 +5509,29 @@
      "eudr"
     ],
     "note": "Argentine meal premiums have risen due to buying activity driven by the EU Deforestation Regulation."
+   }
+  },
+  {
+   "id": "01217a178bba70f5",
+   "title": "CBAM reporting: Reducing the administrative burden for European manufacturer",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG9zQi0yNmNWaXF4dWdrLVRuZDVrZkFHUGw5QUlUSm9MNHctUFZEbTdjcUZQWGFpTTJ6ZU9GeDZhdzVoZ3RXcVR0WmUzMlJKYk5DWEtLUzFuUnVLNWxJZDIwV05KU0RldzZYVHpaNWxyZ05SSHVDcDVQTVgtbEE0OFdjWDdnRXNndGg4LXZITEg1V3l2cFJsNzEzNW4xTDYwdE9FVGVn?oc=5",
+   "summary": "",
+   "published": "2026-10-01T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "ACEA - European Automobile Manufacturers' Association",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "European auto association ACEA calls on the EU to reduce reporting complexity and administrative burdens under CBAM."
    }
   },
   {
@@ -5986,6 +6294,25 @@
      "forced-labour"
     ],
     "note": "An article discusses how the EU Forced Labour Regulation is increasing scrutiny on global supply chains."
+   }
+  },
+  {
+   "id": "580fb0b4444835bd",
+   "title": "CESAR - 2024",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xM3MwZXpSNG5XUGUtdVNfVFZqQnNzUGRRWVVHLURndGRpTUdOTGJKRTFMbkliUFJBaEtzWTl3SlZwek96SmJmX2haT0xNVVc1eWc?oc=5",
+   "summary": "",
+   "published": "2026-09-30T07:00:00Z",
+   "source": "gn-finance",
+   "publisher": "JLL",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
    }
   },
   {
@@ -8594,29 +8921,6 @@
      "ets"
     ],
     "note": "The WTO established a dispute panel to examine Russia's claims against the EU's CBAM and Emissions Trading System."
-   }
-  },
-  {
-   "id": "78bb41d9ff21c18d",
-   "title": "The CBAM fertiliser exemption that never was",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDVaVGlIUFhtUkExNG0yTGpHTjB1bDJDZ2xpcTN6Ny1xVURCa2VYaTVfcGU3NHk4clRXanNqM285SXNyR1paeHpVa2Y5NkEwdzdpMWd4Q2lwVDdGVXd5VHE2S21iTEJlcjF6b3VoaE1KWWNsUldTQXpxLWJzRURWQUdVT1hCUkhsNEJPVGliOVd3b2FYeDV2T19B?oc=5",
-   "summary": "",
-   "published": "2026-09-25T07:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "Contexte",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "An analysis discusses the absence of exemptions for fertilisers under the EU Carbon Border Adjustment Mechanism."
    }
   },
   {
