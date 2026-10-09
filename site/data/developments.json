@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-10-08T20:41:48Z",
+ "generated_at": "2026-10-09T11:53:48Z",
  "items": [
+  {
+   "id": "2ad107cd9d83",
+   "group": "decision",
+   "sources": [
+    {
+     "item": "4999114e160aaf1c",
+     "title": "European Commission approves measures to stabilise ETS2 allowance prices in Czechia",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaTFZUVZzczhPRzdKX3Z3M0RDblhYUjhWRDZFOWdSWnkxTnFnSjBZdl8xekpZMHBkQzFoZ3JZZERnZThTOU5Cdk9HNTA2cU5LZHAtcE1FV2w2cmVvNVAwZ2Q5aThBWERMOWVldjM0dG0xdWc2RzgxcS1BbEZPaWd1anBkb0ZQd2dyMFlQUmtkUVV1TG1kNmRNLXBZdU0yNk5peUhkbzQwd0VfVUUxTEVuTHlicUZHeUhSbjl6OGNnRGYxNTVWTlFzUDczTQ?oc=5",
+     "origin": "oEnergetice.cz",
+     "published": "2026-10-08T09:24:23Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    },
+    {
+     "item": "5dfa3b7b81b55962",
+     "title": "ETS2: Council signs off on rules strengthening the market stability reserve",
+     "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/ets2-council-signs-off-on-rules-strengthening-the-market-stability-reserve/",
+     "origin": "Council of the EU, press releases",
+     "published": "2026-10-09T11:55:00Z",
+     "official": true,
+     "strong": true,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-10-08T12:01:37Z",
+   "updated": "2026-10-09T11:53:48Z",
+   "date": "2026-10-09",
+   "regs": [
+    "ets"
+   ],
+   "title": "ETS2: Council signs off on rules strengthening the market stability reserve",
+   "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/ets2-council-signs-off-on-rules-strengthening-the-market-stability-reserve/",
+   "origin": "Council of the EU, press releases",
+   "official": true,
+   "publishers": 2,
+   "mentions": [],
+   "visible": true
+  },
   {
    "id": "52ebca53c66a",
    "group": "delay",
@@ -43,38 +88,6 @@
    "origin": "Sustainability Online",
    "official": false,
    "publishers": 2,
-   "mentions": [],
-   "visible": false
-  },
-  {
-   "id": "2ad107cd9d83",
-   "group": "decision",
-   "sources": [
-    {
-     "item": "4999114e160aaf1c",
-     "title": "European Commission approves measures to stabilise ETS2 allowance prices in Czechia",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaTFZUVZzczhPRzdKX3Z3M0RDblhYUjhWRDZFOWdSWnkxTnFnSjBZdl8xekpZMHBkQzFoZ3JZZERnZThTOU5Cdk9HNTA2cU5LZHAtcE1FV2w2cmVvNVAwZ2Q5aThBWERMOWVldjM0dG0xdWc2RzgxcS1BbEZPaWd1anBkb0ZQd2dyMFlQUmtkUVV1TG1kNmRNLXBZdU0yNk5peUhkbzQwd0VfVUUxTEVuTHlicUZHeUhSbjl6OGNnRGYxNTVWTlFzUDczTQ?oc=5",
-     "origin": "oEnergetice.cz",
-     "published": "2026-10-08T09:24:23Z",
-     "official": false,
-     "strong": true,
-     "regs": [
-      "ets"
-     ],
-     "mentions": []
-    }
-   ],
-   "first_seen": "2026-10-08T12:01:37Z",
-   "updated": "2026-10-08T12:01:37Z",
-   "date": "2026-10-08",
-   "regs": [
-    "ets"
-   ],
-   "title": "European Commission approves measures to stabilise ETS2 allowance prices in Czechia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaTFZUVZzczhPRzdKX3Z3M0RDblhYUjhWRDZFOWdSWnkxTnFnSjBZdl8xekpZMHBkQzFoZ3JZZERnZThTOU5Cdk9HNTA2cU5LZHAtcE1FV2w2cmVvNVAwZ2Q5aThBWERMOWVldjM0dG0xdWc2RzgxcS1BbEZPaWd1anBkb0ZQd2dyMFlQUmtkUVV1TG1kNmRNLXBZdU0yNk5peUhkbzQwd0VfVUUxTEVuTHlicUZHeUhSbjl6OGNnRGYxNTVWTlFzUDczTQ?oc=5",
-   "origin": "oEnergetice.cz",
-   "official": false,
-   "publishers": 1,
    "mentions": [],
    "visible": false
   },
@@ -252,6 +265,19 @@
      "mentions": []
     },
     {
+     "item": "a8ba0dae9ba48493",
+     "title": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSldWZXhJcUZDZG9BRlRtazdUZDVPZnpweDRpX0hQTkMzOFZKYTNkT1A0bUhGZXhCN2lUSnRTbnhJOEIyMDdaTGNtb0JlMW55eDh1b1YzTjVNLW93Y201OG9HZnY5OE1ydWE2RFBqdGRqeTBtSm8wZ1dZRjRIS29vM2VTbUhVN2pBajN2bmt3bjROM3ZvNjk4QnJiVUY0Q2NkY3FyRnBmbHU1OTdRbmwzYU1wQm1KbGtIdjZMdkU1WlV6NWR0NXBMQUZMbWdxazZlZk1lM3o3bGR4ZDQ3?oc=5",
+     "origin": "Mayer Brown",
+     "published": "2026-10-07T22:01:19Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "cbam"
+     ],
+     "mentions": []
+    },
+    {
      "item": "c47e58e8319ce818",
      "title": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue | Insights | Mayer Brown",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHJRQjRZUVhVeHAtZVRCUDd4QXBxQUozNHIzd2F3ekFyNHNOWXJTbGtSTWw3a3lmdVNzZmFGbnBlcmhYVWcwaDl1VXdDem1jbHZOMlZUdHRSRDBvMjBKeWF3cjJDdXJqV2JSaFVDMnpBQjNpdTRiVE1mVmdaNndMM0ZQeHNCVnZmLVE?oc=5",
@@ -266,7 +292,7 @@
     }
    ],
    "first_seen": "2026-10-06T12:01:38Z",
-   "updated": "2026-10-08T12:01:37Z",
+   "updated": "2026-10-09T11:53:48Z",
    "date": "2026-10-05",
    "regs": [
     "cbam"
@@ -275,7 +301,7 @@
    "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2240",
    "origin": "EUR-Lex, new Parliament and Council legislation",
    "official": true,
-   "publishers": 3,
+   "publishers": 4,
    "mentions": [],
    "visible": true
   },

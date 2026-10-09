@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.6-flash",
+ "model": "gemini-3.5-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -45,11 +45,62 @@
    "hash": "88327ab11f76",
    "date": "2026-10-08",
    "model": "gemini-3.8-flash"
+  },
+  "ecgt": {
+   "hash": "a8ce8187d395",
+   "date": "2026-10-09",
+   "model": "gemini-3.5-flash"
+  },
+  "green-claims": {
+   "hash": "c518323a8182",
+   "date": "2026-10-09",
+   "model": "gemini-3.5-flash"
+  },
+  "espr": {
+   "hash": "42b81a1778a7",
+   "date": "2026-10-09",
+   "model": "gemini-3.5-flash"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "reg": "sfdr2",
+   "type": "change_date",
+   "reason": "The European Parliament adopted its negotiating mandate in plenary on 8 October 2026, clearing the way for trilogue negotiations to begin.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekNHQXBGQ2hKS0NqNjlhUmRKcldrTG1wa0M4elVfNWE5WHBUZUcwU2k1czFhc2JBdjJEZEhCeG80eVNUcXFxV2FVY1hTZkVwUHh5WTc1QVhsYkgwWFU0NEdZSVJqeVM1M21xbGdWQzZTM2VMWHJLYlFXMElQN3pOYVF5LV9aVnZLUTdWVWg0R1kzc3Q3Z1o1a2lUX0VfTGxXRG5OTFhKZ2dRTlBUQmVVT3ExYkU3VnJTbUhWa1l6ejNQejVjWEgwSnltd1IzcEY2?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-10-08",
+   "label": "Parliament adopts its negotiating mandate in plenary",
+   "approx": false,
+   "old_date": "2026-10",
+   "checked_with_search": false,
+   "fp": "38a1de9cb16dc4",
+   "proposed_on": "2026-10-09"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "set_status",
+   "reason": "Update status to reflect that Parliament has adopted its negotiating mandate, allowing trilogues to start.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekNHQXBGQ2hKS0NqNjlhUmRKcldrTG1wa0M4elVfNWE5WHBUZUcwU2k1czFhc2JBdjJEZEhCeG80eVNUcXFxV2FVY1hTZkVwUHh5WTc1QVhsYkgwWFU0NEdZSVJqeVM1M21xbGdWQzZTM2VMWHJLYlFXMElQN3pOYVF5LV9aVnZLUTdWVWg0R1kzc3Q3Z1o1a2lUX0VfTGxXRG5OTFhKZ2dRTlBUQmVVT3ExYkU3VnJTbUhWa1l6ejNQejVjWEgwSnltd1IzcEY2?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Council mandate agreed on 24 June 2026. Parliament adopted its negotiating mandate on 8 October 2026, clearing the way for trilogue negotiations.",
+   "checked_with_search": false,
+   "fp": "9823c392d611d3",
+   "proposed_on": "2026-10-09"
+  }
+ ],
  "dismissed": {},
  "learn_edits": [
+  {
+   "id": "ecgt",
+   "old": "For now, the ECGT and the general rules on misleading practices are what applies.",
+   "new": "For now, the general rules on misleading practices are what applies.",
+   "reason": "The ECGT directive is in force but does not apply until 27 September 2026."
+  },
   {
    "id": "eudr",
    "old": "After two postponements it applies from **30 December 2026**",
@@ -64,7 +115,7 @@
   }
  ],
  "search_refused": "2026-10-03",
- "last_briefing": "2026-10-08",
- "last_proposals": "2026-10-08",
+ "last_briefing": "2026-10-09",
+ "last_proposals": "2026-10-09",
  "pr_seen_open": true
 }

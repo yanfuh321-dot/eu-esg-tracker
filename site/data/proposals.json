@@ -1,7 +1,36 @@
 {
- "generated_at": "2026-10-08T20:41:51Z",
- "items": [],
+ "generated_at": "2026-10-09T11:53:50Z",
+ "items": [
+  {
+   "reg": "sfdr2",
+   "text": "Move the date 2026-10 to 2026-10-08: “SFDR 2.0 Parliament adopts its negotiating mandate in plenary”",
+   "reason": "The European Parliament adopted its negotiating mandate in plenary on 8 October 2026, clearing the way for trilogue negotiations to begin.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekNHQXBGQ2hKS0NqNjlhUmRKcldrTG1wa0M4elVfNWE5WHBUZUcwU2k1czFhc2JBdjJEZEhCeG80eVNUcXFxV2FVY1hTZkVwUHh5WTc1QVhsYkgwWFU0NEdZSVJqeVM1M21xbGdWQzZTM2VMWHJLYlFXMElQN3pOYVF5LV9aVnZLUTdWVWg0R1kzc3Q3Z1o1a2lUX0VfTGxXRG5OTFhKZ2dRTlBUQmVVT3ExYkU3VnJTbUhWa1l6ejNQejVjWEgwSnltd1IzcEY2?oc=5"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-10-09"
+  },
+  {
+   "reg": "sfdr2",
+   "text": "New status text: “Council mandate agreed on 24 June 2026. Parliament adopted its negotiating mandate on 8 October 2026, clearing the way for trilogue negotiations.”",
+   "reason": "Update status to reflect that Parliament has adopted its negotiating mandate, allowing trilogues to start.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekNHQXBGQ2hKS0NqNjlhUmRKcldrTG1wa0M4elVfNWE5WHBUZUcwU2k1czFhc2JBdjJEZEhCeG80eVNUcXFxV2FVY1hTZkVwUHh5WTc1QVhsYkgwWFU0NEdZSVJqeVM1M21xbGdWQzZTM2VMWHJLYlFXMElQN3pOYVF5LV9aVnZLUTdWVWg0R1kzc3Q3Z1o1a2lUX0VfTGxXRG5OTFhKZ2dRTlBUQmVVT3ExYkU3VnJTbUhWa1l6ejNQejVjWEgwSnltd1IzcEY2?oc=5"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-10-09"
+  }
+ ],
  "learn_edits": [
+  {
+   "id": "ecgt",
+   "old": "For now, the ECGT and the general rules on misleading practices are what applies.",
+   "new": "For now, the general rules on misleading practices are what applies.",
+   "reason": "The ECGT directive is in force but does not apply until 27 September 2026."
+  },
   {
    "id": "eudr",
    "old": "After two postponements it applies from **30 December 2026**",
