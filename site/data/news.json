@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T11:10:42Z",
+ "generated_at": "2026-10-10T19:16:45Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -15,8 +15,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 4,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 4
   },
   {
@@ -29,10 +29,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 91,
+   "fetched": 84,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 1
   },
   {
@@ -47,8 +47,8 @@
    "empty": false,
    "fetched": 9,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 0
   },
   {
@@ -63,8 +63,8 @@
    "empty": false,
    "fetched": 4,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 0
   },
   {
@@ -77,10 +77,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 31,
+   "fetched": 29,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 3
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
    "last_ok": null,
    "stored": 0
   },
@@ -111,8 +111,8 @@
    "empty": false,
    "fetched": 20,
    "kept": 4,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 4
   },
   {
@@ -127,8 +127,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 2,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 6
   },
   {
@@ -143,8 +143,8 @@
    "empty": false,
    "fetched": 22,
    "kept": 22,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 52
   },
   {
@@ -159,8 +159,8 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 20
   },
   {
@@ -173,11 +173,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 20,
-   "kept": 20,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
-   "stored": 38
+   "fetched": 19,
+   "kept": 19,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
+   "stored": 39
   },
   {
    "id": "gn-cbam",
@@ -191,9 +191,9 @@
    "empty": false,
    "fetched": 100,
    "kept": 100,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
-   "stored": 162
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
+   "stored": 163
   },
   {
    "id": "gn-eudr",
@@ -205,10 +205,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 33,
-   "kept": 33,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "fetched": 30,
+   "kept": 30,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 67
   },
   {
@@ -221,11 +221,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 13,
-   "kept": 13,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
-   "stored": 27
+   "fetched": 14,
+   "kept": 14,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
+   "stored": 28
   },
   {
    "id": "gn-products",
@@ -237,11 +237,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 19,
-   "kept": 19,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
-   "stored": 36
+   "fetched": 18,
+   "kept": 18,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
+   "stored": 37
   },
   {
    "id": "gn-social",
@@ -253,11 +253,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 17,
-   "kept": 17,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
-   "stored": 39
+   "fetched": 16,
+   "kept": 16,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
+   "stored": 40
   },
   {
    "id": "gn-repair",
@@ -269,10 +269,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 6,
-   "kept": 6,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 19
   },
   {
@@ -284,11 +284,11 @@
    "error": null,
    "note": null,
    "via": "feed",
-   "empty": true,
-   "fetched": 0,
-   "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "empty": false,
+   "fetched": 1,
+   "kept": 1,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 2
   },
   {
@@ -303,8 +303,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 1
   },
   {
@@ -317,11 +317,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 9,
-   "kept": 9,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
-   "stored": 16
+   "fetched": 10,
+   "kept": 10,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
+   "stored": 17
   },
   {
    "id": "gn-de-csrd",
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 1
   },
   {
@@ -351,8 +351,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 1
   },
   {
@@ -365,10 +365,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 6,
-   "kept": 6,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 12
   },
   {
@@ -383,12 +383,55 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-10T11:10:42Z",
-   "last_ok": "2026-10-10T11:10:42Z",
+   "checked_at": "2026-10-10T19:16:45Z",
+   "last_ok": "2026-10-10T19:16:45Z",
    "stored": 1
   }
  ],
  "items": [
+  {
+   "id": "2d68e77ec0211f55",
+   "title": "Lies will auf Lieferkettengesetz verzichten",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DdWVRQllBZTBHZDdfZG43enBfZVc4aURjaHJvRkZNVnpmQk9VU3BQNjJRc1RGdF9aMXNtbi0xOXoyal81MVJnRTFwNnpFVmdDRkt5NWJmaVhVaERFY1FHQ1pkSjU2NElwUWN5WlpQTmxPeUh6V3RYUDg3TQ?oc=5",
+   "summary": "",
+   "published": "2026-10-10T13:22:05Z",
+   "source": "gn-de-lieferkette",
+   "publisher": "Hasepost",
+   "kind": "news",
+   "tags": [
+    "de-lksg"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-10T19:16:45Z"
+  },
+  {
+   "id": "145192db81065c45",
+   "title": "US probe into EU carbon border tax: How Indian exporters could benefit",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXJEYml4M3BqVzdrdHBrcDhudnhFT2E1bkY4bVhjRE9GX1ZiRzlEZ21FQnJZUUp4cVpYQkRTbVVlV29ZdE5FUUhfWG1oLXhOVVp1dnFHNFBFeW5QUFRqLVAwUHZrb2dMcE5mVjVETVlPTmlMOWJTLUEzQWVmbXhwbUR6V2xidGpOdFQ1RTl6RWtmdmREMkp3ZlFGWWRRTV81X2oyWDVZVUhXWWF3NHJ5aVVOMXExODVDX0hUUE9LcF9iQjdOMndoUg?oc=5",
+   "summary": "",
+   "published": "2026-10-10T13:09:00Z",
+   "source": "gn-cbam",
+   "publisher": "Financial Express",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-10T19:16:45Z"
+  },
+  {
+   "id": "75e429a803d1e4e9",
+   "title": "Government announces plans to limit non-competes in new legislation",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnBmWlFIcnpNWnVhakNsSGxNZTZKWWdrR3lNRW1MXzBCdFpLWmZXTUk0eUFoeFVuWTQ0UmZqNk5maXFJX2syQVp0ejh0dzBiTXNpMy1INm1fdG85SXBxcURLTktXVmtlNWoyWTRqS0FSRW91WlI4TFVLaU9uV3NpdFUzMlF0cG9wb29HTnF3aVdyVkZleG5yRG0tLWVBZ2tzelVDeFFSX2E1SGl4bDdiMGM1bk9TZw?oc=5",
+   "summary": "",
+   "published": "2026-10-10T08:55:08Z",
+   "source": "gn-social",
+   "publisher": "Lewis Silkin",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-10T19:16:45Z"
+  },
   {
    "id": "6720e0d665a59662",
    "title": "Lies will für Wachstum auf SPD-Projekte verzichten",
@@ -472,6 +515,19 @@
     ],
     "note": "An article highlights debates surrounding the inclusion of nuclear energy and fossil gas in green taxonomies ahead of COP31."
    }
+  },
+  {
+   "id": "d01e064078763232",
+   "title": "Turkey's Green Taxonomy paradox ahead of COP31: ‘Nuclear energy and fossil gas are unacceptable’",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0xPWUJtejdlNHc5aTM0dDM3TjU1emJBQWZLR3ZHeDZuaEl0bkdlUl9iUFFDXzJiVnBsd2FZbWFaRUw3bTRGcEZrenVrTmZKUjljb29TTi10UEpOX2VxaDg1NGl6dnh3d1dwN09JZGlYNUxGR2pHdGZTNTdKSktBSWdWOG9UUlJETjhxald2bGIzSkM0TW1RY3I4c1Z2TEZnZGgxNEh0czlrdk1kZ0dObERHaDEtUmNyYmdibWVoXzZObGs?oc=5",
+   "summary": "",
+   "published": "2026-10-10T03:00:00Z",
+   "source": "gn-finance",
+   "publisher": "Bianet",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-10T19:16:45Z"
   },
   {
    "id": "14a9d5da4cc4b492",
@@ -856,6 +912,19 @@
     "regs": [],
     "note": ""
    }
+  },
+  {
+   "id": "344931bb050a1d45",
+   "title": "ESG: key updates and developments (26 Sep - 8 Oct)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjhmWXRPdHdmekpNTzY1blZ6Q2xyc0VnRFdWUzU1QXFZN1hrcTNrMHluTnFfdDhFeHVxZ3lHZzZWeU5tZmRXU3l4ejRKa19UT0l2ZVV4SWZFNFRILS1sNmRlbmNjZW1peG0yOEx5RktkcGdyQVl6SlpLV2VMbm9DUnBLMS1QNW5LUXc?oc=5",
+   "summary": "",
+   "published": "2026-10-09T10:53:44Z",
+   "source": "gn-products",
+   "publisher": "Lexology",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-10T19:16:45Z"
   },
   {
    "id": "ca5aea347787c15c",
@@ -1896,6 +1965,21 @@
     ],
     "note": "This article details legislative progress toward trilogue negotiations regarding the EU CBAM downstream extension and anti-circumvention amendments."
    }
+  },
+  {
+   "id": "19602acdd022bbae",
+   "title": "Green claims under scrutiny: Italy’s new rules on greenwashing",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3JXek9TZ1FCcFotM0lZSXlzMnBQNGtTbkFIaVlVaWwtOS0yWmNOMm1fd2lpMTVndXpQb3gyb3c4QnBaSXd1NTZvMU5kTWhMREpCMDlGdGNuTjBaeVNXZU9HcFB6eWNvMGt4dTR1ZGZhMnNFOVNxTEsyM1BTTEFudWpvMXJJRURjZlloRW5iOGRKeGp3V0ROZ2tOY29UX1RQ?oc=5",
+   "summary": "",
+   "published": "2026-10-07T22:17:39Z",
+   "source": "gn-claims",
+   "publisher": "McDermott Will & Schulte",
+   "kind": "news",
+   "tags": [
+    "green-claims"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-10T19:16:45Z"
   },
   {
    "id": "a8ba0dae9ba48493",
@@ -3573,6 +3657,29 @@
    }
   },
   {
+   "id": "4a0212203eba8992",
+   "title": "Mullooly demands immediate €46m fertiliser support and review of CBAM",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWC0xV0t2V0pLUzVUZVZiQ3p1TmpZbGo2RnVIUHlWVmdFSzFydXFUSGdIUWxBbWdXT2lGUGtxQWpJbnFFbVZ1MDVBU3pJOWxQSzhyT1VidkJod0lQb1YxMURlNmZhcUkwbkdrZDg5X2NtNFFQaXFZOFlhOXhZYlIwNE9RVWpQRExzSzhuRGhSWkU3eWtaZnIzRnNTZjFyYy1CLXEtb0FkTFZuM055OFNVa3Z4aHZ0QQ?oc=5",
+   "summary": "",
+   "published": "2026-10-05T20:38:19Z",
+   "source": "gn-cbam",
+   "publisher": "Irish Farmers Journal",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-05T22:00:55Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "An Irish politician calls for a review of CBAM and €46m in support due to fertilizer cost pressures."
+   }
+  },
+  {
    "id": "92d42019ba0e0b8e",
    "title": "Australia’s low CBAM iron ore default creates an indirect trade advantage",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTZwM0R6amgtMnZsRW5vTllQUllNWjB6UG1pN3pTaE9KOEFtNUNUTUpPd1g1VmFIQ0lSUnZRd2t5ZWhNeDA5UVUtYjZlT0RBdlRwdDc5U1QzWW8wRW5WWGM0R2ROUUhLcTB1U2wtNFl1cGZOSk5vZVdqWWVHLUR2QllGczJQNHZDLXVNaVlPNXB3Tk4zU1E4aklPRUdsUGpMalBWM3ZuQzE3NkRHNHdZ?oc=5",
@@ -3593,29 +3700,6 @@
      "cbam"
     ],
     "note": "Analysis discusses how Australia's low default values under CBAM affect iron ore trade competitiveness."
-   }
-  },
-  {
-   "id": "4a0212203eba8992",
-   "title": "Mullooly demands immediate €46m fertiliser support and review of CBAM",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWC0xV0t2V0pLUzVUZVZiQ3p1TmpZbGo2RnVIUHlWVmdFSzFydXFUSGdIUWxBbWdXT2lGUGtxQWpJbnFFbVZ1MDVBU3pJOWxQSzhyT1VidkJod0lQb1YxMURlNmZhcUkwbkdrZDg5X2NtNFFQaXFZOFlhOXhZYlIwNE9RVWpQRExzSzhuRGhSWkU3eWtaZnIzRnNTZjFyYy1CLXEtb0FkTFZuM055OFNVa3Z4aHZ0QQ?oc=5",
-   "summary": "",
-   "published": "2026-10-05T18:03:18Z",
-   "source": "gn-cbam",
-   "publisher": "Irish Farmers Journal",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-05T22:00:55Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "An Irish politician calls for a review of CBAM and €46m in support due to fertilizer cost pressures."
    }
   },
   {
@@ -6648,6 +6732,30 @@
     "importance": 0,
     "regs": [],
     "note": ""
+   }
+  },
+  {
+   "id": "d2cc5817057d1858",
+   "title": "CSRD, “Stop-the-clock” and Omnibus I: Implementation tracker",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE5PTXBXM21aTW1ZbDNoVEFPU2cwaDA4YklPMHlKbVE4Z3BjcVFGU0l0aEVGNERYek5EVGsxQUtaX0pyeUdqVFI5UzJvWFljSm04YTBUQ1owVDFIdzJKWGd4eExPZ1lweHk0bDFZUU90MV9iQTZ0cnlxTTVZSjFCUDRaMkFUaHM1UndLUG9yamZmUXVmWlZPeV9HNHUzMXpvd2c?oc=5",
+   "summary": "",
+   "published": "2026-09-30T07:00:00Z",
+   "source": "gn-reporting",
+   "publisher": "Freshfields",
+   "kind": "news",
+   "tags": [
+    "csrd",
+    "csddd"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": true,
+    "importance": 3,
+    "regs": [
+     "csrd"
+    ],
+    "note": "Freshfields published an implementation tracker covering the CSRD, stop-the-clock measures, and Omnibus I."
    }
   },
   {
@@ -11150,30 +11258,6 @@
      "esrs"
     ],
     "note": "An article discusses the new case for double materiality moving from a reporting checkbox to strategy input."
-   }
-  },
-  {
-   "id": "d2cc5817057d1858",
-   "title": "CSRD, “Stop-the-clock” and Omnibus I: Implementation tracker",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE5PTXBXM21aTW1ZbDNoVEFPU2cwaDA4YklPMHlKbVE4Z3BjcVFGU0l0aEVGNERYek5EVGsxQUtaX0pyeUdqVFI5UzJvWFljSm04YTBUQ1owVDFIdzJKWGd4eExPZ1lweHk0bDFZUU90MV9iQTZ0cnlxTTVZSjFCUDRaMkFUaHM1UndLUG9yamZmUXVmWlZPeV9HNHUzMXpvd2c?oc=5",
-   "summary": "",
-   "published": "2026-09-21T07:00:00Z",
-   "source": "gn-reporting",
-   "publisher": "Freshfields",
-   "kind": "news",
-   "tags": [
-    "csrd",
-    "csddd"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 3,
-    "regs": [
-     "csrd"
-    ],
-    "note": "Freshfields published an implementation tracker covering the CSRD, stop-the-clock measures, and Omnibus I."
    }
   },
   {
