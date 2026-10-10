@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.5-flash",
+ "model": "gemini-3.7-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -60,6 +60,21 @@
    "hash": "42b81a1778a7",
    "date": "2026-10-09",
    "model": "gemini-3.5-flash"
+  },
+  "batteries": {
+   "hash": "238b937632a9",
+   "date": "2026-10-10",
+   "model": "gemini-3.7-flash"
+  },
+  "forced-labour": {
+   "hash": "3aba5484a298",
+   "date": "2026-10-10",
+   "model": "gemini-3.7-flash"
+  },
+  "ets": {
+   "hash": "ac91a5ed1c82",
+   "date": "2026-10-10",
+   "model": "gemini-3.7-flash"
   }
  },
  "pending": [
@@ -115,7 +130,7 @@
   }
  ],
  "search_refused": "2026-10-03",
- "last_briefing": "2026-10-09",
- "last_proposals": "2026-10-09",
+ "last_briefing": "2026-10-10",
+ "last_proposals": "2026-10-10",
  "pr_seen_open": true
 }
