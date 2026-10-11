@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T11:24:15Z",
+ "generated_at": "2026-10-11T19:33:34Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -15,8 +15,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 4,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 4
   },
   {
@@ -29,10 +29,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 78,
+   "fetched": 74,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 1
   },
   {
@@ -45,10 +45,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 8,
+   "fetched": 7,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 0
   },
   {
@@ -61,10 +61,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 4,
+   "fetched": 3,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 0
   },
   {
@@ -77,10 +77,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 30,
+   "fetched": 31,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 3
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
    "last_ok": null,
    "stored": 0
   },
@@ -111,8 +111,8 @@
    "empty": false,
    "fetched": 20,
    "kept": 4,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 4
   },
   {
@@ -127,8 +127,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 3,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 7
   },
   {
@@ -141,10 +141,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 23,
-   "kept": 23,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "fetched": 22,
+   "kept": 22,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 54
   },
   {
@@ -159,9 +159,9 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
-   "stored": 20
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
+   "stored": 21
   },
   {
    "id": "gn-finance",
@@ -173,11 +173,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 18,
-   "kept": 18,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
-   "stored": 39
+   "fetched": 17,
+   "kept": 17,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
+   "stored": 40
   },
   {
    "id": "gn-cbam",
@@ -189,11 +189,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 97,
-   "kept": 97,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
-   "stored": 167
+   "fetched": 92,
+   "kept": 92,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
+   "stored": 169
   },
   {
    "id": "gn-eudr",
@@ -205,11 +205,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 29,
-   "kept": 29,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
-   "stored": 68
+   "fetched": 28,
+   "kept": 28,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
+   "stored": 70
   },
   {
    "id": "gn-claims",
@@ -221,10 +221,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 14,
-   "kept": 14,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "fetched": 13,
+   "kept": 13,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 29
   },
   {
@@ -237,10 +237,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 15,
-   "kept": 15,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "fetched": 11,
+   "kept": 11,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 38
   },
   {
@@ -255,8 +255,8 @@
    "empty": false,
    "fetched": 15,
    "kept": 15,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 40
   },
   {
@@ -271,8 +271,8 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 20
   },
   {
@@ -287,8 +287,8 @@
    "empty": false,
    "fetched": 1,
    "kept": 1,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 2
   },
   {
@@ -303,8 +303,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 1
   },
   {
@@ -319,8 +319,8 @@
    "empty": false,
    "fetched": 11,
    "kept": 11,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 17
   },
   {
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 1
   },
   {
@@ -351,8 +351,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 1
   },
   {
@@ -365,10 +365,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 6,
-   "kept": 6,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "fetched": 5,
+   "kept": 5,
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 12
   },
   {
@@ -383,12 +383,33 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T11:24:15Z",
-   "last_ok": "2026-10-11T11:24:15Z",
+   "checked_at": "2026-10-11T19:33:34Z",
+   "last_ok": "2026-10-11T19:33:34Z",
    "stored": 1
   }
  ],
  "items": [
+  {
+   "id": "c6005c97b1f28930",
+   "title": "UPSC KEY: Delhi protest, RBI measures to curb speculation, and CBAM",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZi1lYmpsX2VLTWxtOTdlNXlOdFdpQjlyeldIYXNQdDlPQThIMHVteExwaVh6bW9hQ3RhaU8wdWk2NE44R092NVRqNk5HX0JiTWpJbXZJWUdEZUp0UWxqMHpfalo1VDVTMnFEMGMyaDlNd2ZRN0trU1R0UTZOZ1l0RndjOGt1N05ORjVfcGRXQjlESDJPWkFJSVk5dVVnbS1XaTcxZWFMWWRscHAtWUk0azdaV0NaM29yQlE?oc=5",
+   "summary": "",
+   "published": "2026-10-11T13:10:11Z",
+   "source": "gn-cbam",
+   "publisher": "The Indian Express",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-11T19:33:34Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
   {
    "id": "12d3b5a0be36b571",
    "title": "October 2026 Global Sources Hong Kong Shows Phase I Opens Today",
@@ -448,6 +469,29 @@
     "importance": 0,
     "regs": [],
     "note": ""
+   }
+  },
+  {
+   "id": "ff734da31267a707",
+   "title": "Germany Eases EUDR Paperwork for Forest Owners but Not Jail Terms",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ySXY3YnJETDhhU0VCeFVpSm11Tmo2bjdlb2c1V1RfdzMwT2dVUHBTMVM0SnQ2bTY1WkxhLVV0M051TWJfMzh3aXBodE5iaU5uYll0Rjh0YU9qR1Q1ZUp4dmRjN0I?oc=5",
+   "summary": "",
+   "published": "2026-10-11T07:21:21Z",
+   "source": "gn-eudr",
+   "publisher": "Wood Central",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-11T19:33:34Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "eudr"
+    ],
+    "note": "Germany is reportedly easing national EUDR administrative paperwork for domestic forest owners while maintaining non-compliance criminal penalties."
    }
   },
   {
@@ -575,6 +619,27 @@
    ],
    "weak": true,
    "first_seen": "2026-10-11T11:24:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "d23c54f45f60f796",
+   "title": "osapiens Emphasizes EUDR Audit Readiness Through Compliance Dry Runs",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0QxQ2FzY0gtUTJnUUh6SHhGTUlZRjBVbks0emw2Nnh4SDFwRVMzVkhQMU5oVHRzNTh0aTQ0T1dmNVhwWFRlcXpFOHRMMzBwN1hsVHJYRGpWUjNpRGxhSzNKQTE0LWJvSTdzeFFSbnJvdmN2c0huUTFIZXhwSDJNaFZoV3ltclFzVnJGV1REWmZtNXJZX0lBR3pzWHp6N2IyTE1lWHJOdm5SNTl4N1E1M1lsWThOQlE?oc=5",
+   "summary": "",
+   "published": "2026-10-10T09:39:43Z",
+   "source": "gn-eudr",
+   "publisher": "TipRanks",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-11T19:33:34Z",
    "ai": {
     "relevant": false,
     "importance": 0,
@@ -2190,6 +2255,27 @@
    }
   },
   {
+   "id": "feebb214ab651e05",
+   "title": "Faster energy transition, decarbonisation vital to protect RMG export markets: Industry leaders",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEFDbjRXNUtQRnVGZEZlSmZlZ1VSYXNwLThRaUFHaWpIVG1nRUZDVjVoQVBDemxzMXgwaG5ETDdfdzZfS0ZRS0M1bEVra2phSXI4UjZQdUVDbm9wWjVHcTNSV1ozbWNObFltV0Rad2dtVmV1OUd2UGpwMl9vLVJnRmw1QXBIVDM5ajZaOExEV2tzSnF0Sl9aUWRZRFlYdw?oc=5",
+   "summary": "",
+   "published": "2026-10-08T02:45:35Z",
+   "source": "gn-csddd",
+   "publisher": "The Financial Express",
+   "kind": "news",
+   "tags": [
+    "csddd"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-11T19:33:34Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "c47e58e8319ce818",
    "title": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue | Insights | Mayer Brown",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHJRQjRZUVhVeHAtZVRCUDd4QXBxQUozNHIzd2F3ekFyNHNOWXJTbGtSTWw3a3lmdVNzZmFGbnBlcmhYVWcwaDl1VXdDem1jbHZOMlZUdHRSRDBvMjBKeWF3cjJDdXJqV2JSaFVDMnpBQjNpdTRiVE1mVmdaNndMM0ZQeHNCVnZmLVE?oc=5",
@@ -2584,7 +2670,7 @@
    "summary": "",
    "published": "2026-10-07T11:42:48Z",
    "source": "gn-cbam",
-   "publisher": "Steel Orbis",
+   "publisher": "SteelOrbis",
    "kind": "news",
    "tags": [
     "cbam"
@@ -5461,6 +5547,25 @@
    }
   },
   {
+   "id": "b753e96faeb66fcc",
+   "title": "Luxembourg’s fund industry is evolving. EY’s “Fund Bible” is back.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnJYa18yRW5zZmFJamd0Y1ViU2JQNWkyNWFBMk5jdERGc2ZVdHUxSWdnVzBKSDZBVnlGM0g0MVItaE90eFloRkx0RVVjSkNpWWtFNUZEN3JqM2h6Ykg0R3BlYmJWWmF3dkVEazNlaGNYeFZHNk00RWdieURUam9qc2M4X3JQdlllMWZ2MzJaYjFwRjU0OUlxMXlCUXlfUzBJLVNN?oc=5",
+   "summary": "",
+   "published": "2026-10-02T07:00:00Z",
+   "source": "gn-finance",
+   "publisher": "EY",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-11T19:33:34Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "b461b825b323995e",
    "title": "[Carbon market] Almost half of ETS2 credits auctioned in 2027 will support Social Climate Fund",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0ZPYk9zdnRaT3A5QjYzYzA3UXJnSzlmR0RaSXFlTUljQXBHZDdweEZJdGI4MDM1dGZtaXNyVk9oTWR2UHg4R01vOGphVW5aZk9UeE9VVzB0R1N3SHItZ0pIanpBR3BPdlNZdnZvQklLYmRzUGJGUVlqdG9TeXFnczZFa0tuM1U2UEN5OW4wS0ZxcFcwZXNtOHpDOVJueHlIdDQ2Q05Dd2FnOGt2MlFzYXRFZkVqOXhWY0FDdlZvbXFZaTA?oc=5",
@@ -6270,6 +6375,29 @@
     "importance": 0,
     "regs": [],
     "note": ""
+   }
+  },
+  {
+   "id": "684e1f626b8adf06",
+   "title": "Revised 2027 EU ETS1 and initial 2027 EU ETS2 auction calendars published",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVhkWFBIdUI0cjNYYVJ4a0RxMGhUOFdxazVaci1ERk9HdHBsdGVGMUpubUd6b2pLYmtTWmxCcGNEZXhfSVEwZ29yRDR1T3hKSThrNm1VcmpnMFVaRFk5SzY1QTh5b1UwS1B5Ni1pZVlsUUh6eTRPTmtDRmJrQ1M4U21KazhlQzRTS1RBWkQ3MGJlRXNkZjRlamhJZGszYlZmRm0wcWhRdUpMWG9mV2JTWnl3YVZmS2VTYUdRZEVWQmxSanVBYzVNNlUySkFCYnlsRWE5Uw?oc=5",
+   "summary": "",
+   "published": "2026-10-01T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "climate.ec.europa.eu",
+   "kind": "news",
+   "tags": [
+    "ets"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-11T19:33:34Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "ets"
+    ],
+    "note": "The European Commission published the revised 2027 EU ETS1 and initial 2027 EU ETS2 auction calendars."
    }
   },
   {
@@ -8770,6 +8898,25 @@
    }
   },
   {
+   "id": "3de9cbbbd42aadad",
+   "title": "Commission takes action to ensure complete and timely transposition of EU directives",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3ZKM042eDktYldBWGwyejdnVHZrVGlDOFNrdThfdUIwNjNqZm9PTVlQSTlOaVk1TlY2SkcwNUVwUl9rTi1xQ3paUVI4TmR1VFBQZEJOOEs4ZkVUSHg0SENZRE1Ca3YzdzJETU5EUUI2em9ic1RfV29fVXZLc1VuYmFFU2ozN0tQNG5EWjlvc2tsSFJNb0tZM1VpTjVHRE9yMVg2ejJOS2ROeTJoVTZtaGVKaFpZWUFvUkxhUjBVQnpyaUU?oc=5",
+   "summary": "",
+   "published": "2026-09-28T07:00:00Z",
+   "source": "gn-repair",
+   "publisher": "The European Sting",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "9f29f60e719f3030",
    "title": "New January 1 EU deforestation regulations launch looks set in stone",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmZKQTlkYmswcXNWMFRfcmM5YkJsV2VjRl9CNEZDN0ktMXJ3OWd1anJyMnlZamZTLThmVkVsQTNtcWZXdTBlME9KTVF1b25pZmxsNmdEa2N5bUN6aWp5UXlzS0tabGRvQmpWZVcwTmJCdk16bGcwSDJnNjZ6eUd0TFNsRFlQZXVaekdrTXphcUd3bGNyVk5fR3B3?oc=5",
@@ -8790,25 +8937,6 @@
      "eudr"
     ],
     "note": "Reports indicate the EU Deforestation Regulation remains scheduled to take effect on 1 January without further delays."
-   }
-  },
-  {
-   "id": "3de9cbbbd42aadad",
-   "title": "Commission takes action to ensure complete and timely transposition of EU directives",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3ZKM042eDktYldBWGwyejdnVHZrVGlDOFNrdThfdUIwNjNqZm9PTVlQSTlOaVk1TlY2SkcwNUVwUl9rTi1xQ3paUVI4TmR1VFBQZEJOOEs4ZkVUSHg0SENZRE1Ca3YzdzJETU5EUUI2em9ic1RfV29fVXZLc1VuYmFFU2ozN0tQNG5EWjlvc2tsSFJNb0tZM1VpTjVHRE9yMVg2ejJOS2ROeTJoVTZtaGVKaFpZWUFvUkxhUjBVQnpyaUU?oc=5",
-   "summary": "",
-   "published": "2026-09-28T05:18:39Z",
-   "source": "gn-repair",
-   "publisher": "The European Sting",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
    }
   },
   {
