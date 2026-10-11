@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T19:33:34Z",
+ "generated_at": "2026-10-11T23:56:52Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -8,14 +8,14 @@
    "name": "EUR-Lex, new Parliament and Council legislation",
    "kind": "official",
    "url": "https://eur-lex.europa.eu/EN/display-feed.rss?rssId=162",
-   "ok": true,
-   "error": null,
+   "ok": false,
+   "error": "The server answered (HTTP 200, text/html, 13692 bytes) but did not send a feed. It is probably turning away automated requests.",
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 100,
-   "kept": 4,
-   "checked_at": "2026-10-11T19:33:34Z",
+   "fetched": 0,
+   "kept": 0,
+   "checked_at": "2026-10-11T23:56:52Z",
    "last_ok": "2026-10-11T19:33:34Z",
    "stored": 4
   },
@@ -29,10 +29,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 74,
+   "fetched": 77,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 1
   },
   {
@@ -45,10 +45,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 7,
+   "fetched": 6,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 0
   },
   {
@@ -63,8 +63,8 @@
    "empty": false,
    "fetched": 3,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 0
   },
   {
@@ -79,8 +79,8 @@
    "empty": false,
    "fetched": 31,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 3
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
    "last_ok": null,
    "stored": 0
   },
@@ -111,8 +111,8 @@
    "empty": false,
    "fetched": 20,
    "kept": 4,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 4
   },
   {
@@ -127,8 +127,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 3,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 7
   },
   {
@@ -141,10 +141,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 22,
-   "kept": 22,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "fetched": 24,
+   "kept": 24,
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 54
   },
   {
@@ -159,8 +159,8 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 21
   },
   {
@@ -173,11 +173,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 17,
-   "kept": 17,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
-   "stored": 40
+   "fetched": 18,
+   "kept": 18,
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
+   "stored": 41
   },
   {
    "id": "gn-cbam",
@@ -189,11 +189,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 92,
-   "kept": 92,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
-   "stored": 169
+   "fetched": 91,
+   "kept": 91,
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
+   "stored": 170
   },
   {
    "id": "gn-eudr",
@@ -205,10 +205,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 28,
-   "kept": 28,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "fetched": 29,
+   "kept": 29,
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 70
   },
   {
@@ -223,8 +223,8 @@
    "empty": false,
    "fetched": 13,
    "kept": 13,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 29
   },
   {
@@ -237,10 +237,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 11,
-   "kept": 11,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "fetched": 12,
+   "kept": 12,
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 38
   },
   {
@@ -255,8 +255,8 @@
    "empty": false,
    "fetched": 15,
    "kept": 15,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 40
   },
   {
@@ -271,8 +271,8 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 20
   },
   {
@@ -287,8 +287,8 @@
    "empty": false,
    "fetched": 1,
    "kept": 1,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 2
   },
   {
@@ -303,8 +303,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 1
   },
   {
@@ -319,8 +319,8 @@
    "empty": false,
    "fetched": 11,
    "kept": 11,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 17
   },
   {
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 1
   },
   {
@@ -351,8 +351,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 1
   },
   {
@@ -367,8 +367,8 @@
    "empty": false,
    "fetched": 5,
    "kept": 5,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 12
   },
   {
@@ -383,8 +383,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-11T19:33:34Z",
-   "last_ok": "2026-10-11T19:33:34Z",
+   "checked_at": "2026-10-11T23:56:52Z",
+   "last_ok": "2026-10-11T23:56:52Z",
    "stored": 1
   }
  ],
@@ -3083,6 +3083,25 @@
    }
   },
   {
+   "id": "293f7a6daa76cf69",
+   "title": "WALLENIUS WILHELMSEN ASA - PRIVATE PLACEMENT SUCCESSFULLY COMPLETED",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ1RvR1VDZE1td3dnMnUwVlJqX21OUTVIUFVGa0otOVNyVjJydVVYWlZ4YWdoQ2t4NlRGUHMyZ1hHMEJCSUM0Y2JiMXhvNFdUbkcwTDN3bHJSUGVjc0Z1ekQ3aUJTZHUwTk5lRWJxNzBPdlhUN3hIbXQ1cjI0V0p2d0lIVGdwY3dmUWNLVzJmOG1HaU9NM2hQS0JZUWd0TzFNRzRHeTMxeFhfVERlRDZNd2FIRkVvV3RNQnVscnNKRTR5eTdkaHZEV0tJT3d5S2JkUkh6bDE2QUVJLUVSTjFDd1VnVzc5ZXRUb0FN?oc=5",
+   "summary": "",
+   "published": "2026-10-06T21:40:28Z",
+   "source": "gn-finance",
+   "publisher": "Finansavisen",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-11T23:56:52Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "105d00711f87782c",
    "title": "Datanomics: How India measures up on electoral integrity, public trust",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWk1RkdkNEhxZWlZNFc4UldibVlmaXhUUUNRY1NoM0YwbER6Znh4X1RZWS1qczZ5NlhxeWVieFN4bkN5bEp1SExpZ1cyaVNMM3lfU1VBeXpfMXY1ZnVWdjAtNzNfdC1zMHppd1RMVGY3VkMxMGFCckotRkJLQlo0NEl2bEp3RFNXQVRMVEF2cWdVd1pQel9MdjlWQUNnSU1yMTIxZTlnOUNpUHNEZURJS1VsVDh4OThQanFEeXlHWFhMdGtMTmRFNktLZ3RJTEx1dlc40gHTAUFVX3lxTFAtaTVGR2Q0SHFlaVk0VzhSV2JtWWZpeFRRQ1FjU2gzRjBsRHpmeHhfVFlZLWpzNnk2WHF5ZWJ4U3huQ3lsSnVITGlnVzJpU0wzeV9TVUF5el8xdjVmdVZ2MC03M190LXMweml3VExUZjdWQzEwYUJySi1GQktCWjQ0SXZsSndEU1dBVExUQXZxZ1V3WlB6X0x2OVZBQ2dJTXIxMjFlOWc5Q2lQc0RlRElLVWxUOHg5OFBqcUR5eUdYWEx0a0xOZEU2S0tndElMTHV2Vzg?oc=5",
@@ -5566,6 +5585,25 @@
    }
   },
   {
+   "id": "c8feb35797264d5e",
+   "title": "ATS 1.61 — NORTH AMERICA MAP COMBO #2 | More Maps & South Dakota DLC Compatible!",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DdnhRRFVQTjVBU3J1dEpkdUltX1JndlRoSThkd1lpbTRpV0Q2Xy1Vbm5Sbk5BM3k5SlZQanVsYUxMVFVFSzZTdGJjMVo0NVBIVEgybFlhVmljWkl4?oc=5",
+   "summary": "",
+   "published": "2026-10-02T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "YouTube",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-11T23:56:52Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "b461b825b323995e",
    "title": "[Carbon market] Almost half of ETS2 credits auctioned in 2027 will support Social Climate Fund",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0ZPYk9zdnRaT3A5QjYzYzA3UXJnSzlmR0RaSXFlTUljQXBHZDdweEZJdGI4MDM1dGZtaXNyVk9oTWR2UHg4R01vOGphVW5aZk9UeE9VVzB0R1N3SHItZ0pIanpBR3BPdlNZdnZvQklLYmRzUGJGUVlqdG9TeXFnczZFa0tuM1U2UEN5OW4wS0ZxcFcwZXNtOHpDOVJueHlIdDQ2Q05Dd2FnOGt2MlFzYXRFZkVqOXhWY0FDdlZvbXFZaTA?oc=5",
@@ -5995,25 +6033,6 @@
    }
   },
   {
-   "id": "87fb4c9c53081138",
-   "title": "The Collective Quarterly – Issue 11",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEt2STFyOE5hdksxNG5QbGhaanRmUUM1OVhvWGc2T0FKd2s4M0JQakstdUZQRnJUbWtxV3lyQmVlRVItTEJ0YmdBb3ZKWFBnWFEtaEVxX2tIZWxOUkhJWGdYWVZXcnA2clNVb1pMandKTDVFQUZxWko3MjNDUDliOFpGUkZCUEt4YmJ6TnRuNFRmaTI0bU1ZMmJvTnd1RkZNRGl2U05tVDI1QU1EUFE?oc=5",
-   "summary": "",
-   "published": "2026-10-01T12:46:54Z",
-   "source": "gn-social",
-   "publisher": "Lewis Silkin",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-04T11:06:26Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
    "id": "b4f82ef60523e2b2",
    "title": "CBAM Costs From 2026 Imports Need a 2027 Cash Plan",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzJPb1Q1WWZSYV9Vb3JZME1tT2RmSC1LM0cxVEJRcnViRllQdTBpWGM5aE5Bamx1UnN3bEZZMVZPb1RYVmowUGI1LTRkTk9LZGZzSl9jN0o4SVI5VVRrYVU2RmdtNENJNmkyaF84cldNdFBIakR4NWZ5cnVrcU9hZ0JmYUtOUFFkdjlqZW1KNGl2cWZIVnN0TDBnakRlM3N1d0VJV2VVYzc?oc=5",
@@ -6058,29 +6077,6 @@
      "eudr"
     ],
     "note": "A new study analyzes the potential impacts of upcoming European Union environmental regulations on Brazil's exports."
-   }
-  },
-  {
-   "id": "e771de431ca54a8a",
-   "title": "Compliance im Mittelstand: Diese Pflichten bringen NIS2, AI Act und LkSG mit sich",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDgwY0ZmUXl2TFdzVDlPck9SUDBFT292NzloZy1pUTVWN2hiU1RraUxjWGxhbXVFYW1UYVd0bkxpZlcwNEZoS0U0VUw1STdJSVZvZkgwR3RDckVpV2xMS3dlaGVyeDRvdjVaNGJ0QWxUTWh5QlBYYXo1UUxXSG9EX0dsdEg1MWIxUGUybWY1cDJmcF9MUXZ6aWthNk5ZM3hvS0UwMWV3U0l6NVRrdnRyY0xWX0hWc0luWFZ3NU9kNzVVMVFwdGdzdUdnQWo0VVQ4eExrTXlNWTlzSUo2S2tQb9IB_AFBVV95cUxQWVRmaVF1NmZNZFYyTzN0YmhnM3J3ZWtLRjA5bFZQbHhuRzNNUE9zUkxKMjNsNWMtMlFfaGZlTGNDajNwUHRnV29kblZXWkMxZW1rOHhDVWE2SEJzdENyaW9kX0xBcnM1Rld3SFpUdmZLeE5BTlQ5Zm12NGJRZFZtWENlZmZMcm9MTllOVGpMZ2U3Yjk5RlBTUk1qT01ub0VXNGd6UFQ1LU9zQWk5TGtCYjg4eWZPYzEwdEFmSnA5LUNNNnV5SHJOczZ6Qjl6YUxqSkFsZ1AySGs3RW5GcjBNUm9NaE9aaVNLSFZhVldFT2pJV25kOW14Sk1DRVQ?oc=5",
-   "summary": "",
-   "published": "2026-10-01T11:49:29Z",
-   "source": "gn-de-lieferkette",
-   "publisher": "Sächsische Zeitung",
-   "kind": "news",
-   "tags": [
-    "de-lksg"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "de-lksg"
-    ],
-    "note": "Article outlines legal obligations for German mid-sized businesses under the German Supply Chain Due Diligence Act."
    }
   },
   {
@@ -6312,6 +6308,48 @@
      "eudr"
     ],
     "note": "Argentine meal premiums have risen due to buying activity driven by the EU Deforestation Regulation."
+   }
+  },
+  {
+   "id": "87fb4c9c53081138",
+   "title": "The Collective Quarterly – Issue 11",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEt2STFyOE5hdksxNG5QbGhaanRmUUM1OVhvWGc2T0FKd2s4M0JQakstdUZQRnJUbWtxV3lyQmVlRVItTEJ0YmdBb3ZKWFBnWFEtaEVxX2tIZWxOUkhJWGdYWVZXcnA2clNVb1pMandKTDVFQUZxWko3MjNDUDliOFpGUkZCUEt4YmJ6TnRuNFRmaTI0bU1ZMmJvTnd1RkZNRGl2U05tVDI1QU1EUFE?oc=5",
+   "summary": "",
+   "published": "2026-10-01T07:00:00Z",
+   "source": "gn-social",
+   "publisher": "Lewis Silkin",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-04T11:06:26Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "e771de431ca54a8a",
+   "title": "Compliance im Mittelstand: Diese Pflichten bringen NIS2, AI Act und LkSG mit sich",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDgwY0ZmUXl2TFdzVDlPck9SUDBFT292NzloZy1pUTVWN2hiU1RraUxjWGxhbXVFYW1UYVd0bkxpZlcwNEZoS0U0VUw1STdJSVZvZkgwR3RDckVpV2xMS3dlaGVyeDRvdjVaNGJ0QWxUTWh5QlBYYXo1UUxXSG9EX0dsdEg1MWIxUGUybWY1cDJmcF9MUXZ6aWthNk5ZM3hvS0UwMWV3U0l6NVRrdnRyY0xWX0hWc0luWFZ3NU9kNzVVMVFwdGdzdUdnQWo0VVQ4eExrTXlNWTlzSUo2S2tQb9IB_AFBVV95cUxQWVRmaVF1NmZNZFYyTzN0YmhnM3J3ZWtLRjA5bFZQbHhuRzNNUE9zUkxKMjNsNWMtMlFfaGZlTGNDajNwUHRnV29kblZXWkMxZW1rOHhDVWE2SEJzdENyaW9kX0xBcnM1Rld3SFpUdmZLeE5BTlQ5Zm12NGJRZFZtWENlZmZMcm9MTllOVGpMZ2U3Yjk5RlBTUk1qT01ub0VXNGd6UFQ1LU9zQWk5TGtCYjg4eWZPYzEwdEFmSnA5LUNNNnV5SHJOczZ6Qjl6YUxqSkFsZ1AySGs3RW5GcjBNUm9NaE9aaVNLSFZhVldFT2pJV25kOW14Sk1DRVQ?oc=5",
+   "summary": "",
+   "published": "2026-10-01T07:00:00Z",
+   "source": "gn-de-lieferkette",
+   "publisher": "Sächsische Zeitung",
+   "kind": "news",
+   "tags": [
+    "de-lksg"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "de-lksg"
+    ],
+    "note": "Article outlines legal obligations for German mid-sized businesses under the German Supply Chain Due Diligence Act."
    }
   },
   {
@@ -7437,27 +7475,6 @@
    }
   },
   {
-   "id": "42af9ca560961330",
-   "title": "Resilinc Extends its Supply Chain Risk and Compliance Intelligence Platform with Compliance for EUDR",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeVd5dHo3dHRGSms0cVpZVlRDNjBibi0zLU9mLXprZDNDcjB5a294a1RVMnpHZWRvVV9VYmFGNm44MVRYTW41MG84SFcyUUt4NVVORUVOaVBPZlpCQk9hVk05UDF2anN5VFZBc0h4M1BDN0xxNkxLNC1MTU9EaVAwY1JWMVViZVI3YWpZZm9sc3l1T3BrcmtMSEYxN0R4bHNNb3lXZkgzeXRvVVE0VTJWS0JIZ0QzSmRjRXJTUThyMHkydFllamJrWnhEajFJWWYtSldMM2R3NFd3Nm1zWGRoSkZTTmZza3ZYWi1SbnpHaDhfTzFYNUhHT09Hd1M1QVZ1Nnc?oc=5",
-   "summary": "",
-   "published": "2026-09-29T15:05:00Z",
-   "source": "gn-eudr",
-   "publisher": "GlobeNewswire",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
    "id": "349fc5855e9d3dd8",
    "title": "EUDR rules could require tens of thousands of coordinates per timber container",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3VXdzBzVDAzUTJuaHlTRzhMaF9vRzU3ZVBmY3lQaFlvbjhVUlFrXzFoa2VmTWFCYmRfWUI3Q25Zc21YalFMZlh4c0NjeWVhRHl0bnZ5d3JyOHFRVkJwSGNLbUVoTmREY1cwa0RjdmJfRU9VOHBzbkxIajVYOTI0NXlNVHA3UU40NXBENmxvUjJhQ1IxNUdLR0NrLVc1azltSjVwOGxJSEhTVFpwSi1QOHJnREJ5VFkxeWdwRERHdlVnNUU?oc=5",
@@ -7768,6 +7785,27 @@
      "eudr"
     ],
     "note": "The EU Deforestation Regulation is entering its final implementation phase, putting global supply chains under closer scrutiny."
+   }
+  },
+  {
+   "id": "42af9ca560961330",
+   "title": "Resilinc Extends its Supply Chain Risk and Compliance Intelligence Platform with Compliance for EUDR",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeVd5dHo3dHRGSms0cVpZVlRDNjBibi0zLU9mLXprZDNDcjB5a294a1RVMnpHZWRvVV9VYmFGNm44MVRYTW41MG84SFcyUUt4NVVORUVOaVBPZlpCQk9hVk05UDF2anN5VFZBc0h4M1BDN0xxNkxLNC1MTU9EaVAwY1JWMVViZVI3YWpZZm9sc3l1T3BrcmtMSEYxN0R4bHNNb3lXZkgzeXRvVVE0VTJWS0JIZ0QzSmRjRXJTUThyMHkydFllamJrWnhEajFJWWYtSldMM2R3NFd3Nm1zWGRoSkZTTmZza3ZYWi1SbnpHaDhfTzFYNUhHT09Hd1M1QVZ1Nnc?oc=5",
+   "summary": "",
+   "published": "2026-09-29T07:00:00Z",
+   "source": "gn-eudr",
+   "publisher": "GlobeNewswire",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
    }
   },
   {
