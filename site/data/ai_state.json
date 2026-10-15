@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.8-flash",
+ "model": "gemini-3.7-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -27,9 +27,9 @@
    "model": "gemini-3.5-flash"
   },
   "sfdr2": {
-   "hash": "39b292d4813f",
-   "date": "2026-10-04",
-   "model": "gemini-3.5-flash"
+   "hash": "d0ef5f302a43",
+   "date": "2026-10-15",
+   "model": "gemini-3.7-flash"
   },
   "csddd": {
    "hash": "f8338d2c01fd",
@@ -79,9 +79,22 @@
  },
  "pending": [],
  "dismissed": {},
- "learn_edits": [],
+ "learn_edits": [
+  {
+   "id": "sfdr2",
+   "old": "**Next**: once the plenary has confirmed the committee position, trilogues begin.",
+   "new": "**Next**: with Parliament having adopted its negotiating mandate on 8 October 2026, trilogue negotiations can begin.",
+   "reason": "Parliament adopted its negotiating mandate in plenary on 8 October 2026."
+  },
+  {
+   "id": "sfdr2",
+   "old": "The Council agreed its mandate in June 2026 and Parliament's ECON committee its position in September 2026. Trilogues follow.",
+   "new": "The Council agreed its mandate in June 2026 and Parliament adopted its plenary mandate in October 2026. Trilogues follow.",
+   "reason": "Parliament adopted its negotiating mandate on 8 October 2026."
+  }
+ ],
  "search_refused": "2026-10-11",
- "last_briefing": "2026-10-14",
- "last_proposals": "2026-10-13",
+ "last_briefing": "2026-10-15",
+ "last_proposals": "2026-10-15",
  "pr_seen_open": false
 }

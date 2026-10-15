@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-14T19:22:54Z",
- "model": "gemini-3.8-flash",
+ "generated_at": "2026-10-15T09:54:12Z",
+ "model": "gemini-3.7-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU forced labour guidelines, revised ESRS, and battery passport preparations",
- "summary": "The European Commission has published official guidelines under the Forced Labour Regulation, while streamlined ESRS reporting standards and supplier data limits were finalised. Technical preparations for the Digital Battery Passport continue to advance, and EU lawmakers are progressing discussions to potentially extend CBAM to downstream finished goods.",
+ "headline": "Forced labour guidance, supplier data caps, and national right-to-repair moves",
+ "summary": "The European Commission has published official guidelines under the Forced Labour Regulation, providing critical criteria for supply-chain risk assessments. Simultaneously, Brussels finalised streamlined ESRS standards alongside limits on data demands placed on mid-sized suppliers. National implementation of the Right to Repair Directive is also progressing, with Italy enforcing rules this month.",
  "items": [
   {
    "title": "Commission publishes official Forced Labour Regulation guidelines",
    "regs": [
     "forced-labour"
    ],
-   "what": "The European Commission has released official implementation guidelines for the EU Forced Labour Regulation, detailing due diligence expectations and enforcement criteria for international supply chains.",
-   "meaning": "Critical for your Chinese manufacturing base. Authorities will use these benchmarks to investigate forced labour risks, requiring robust evidence of supply chain tracing.",
-   "action": "Audit Chinese Tier-1 and component suppliers against the new guidance to identify labour compliance vulnerabilities.",
+   "what": "The European Commission released official guidelines detailing risk-based implementation and enforcement criteria under the EU Forced Labour Regulation.",
+   "meaning": "Provides official reference criteria for auditing and engaging your 200 mainland Chinese suppliers, where trade and labour scrutiny is most acute.",
+   "action": "Benchmark current Chinese supplier audit protocols against the Commission's newly published guidance criteria.",
    "sources": [
     {
      "title": "Update on the EU Forced Labour Regulation: The European Commission's Guidelines Have Been Published",
@@ -23,15 +23,15 @@
    ]
   },
   {
-   "title": "EU finalises revised ESRS and caps supplier data requests",
+   "title": "EU finalises streamlined ESRS and caps supplier sustainability data requests",
    "regs": [
-    "esrs-revised",
+    "csrd",
     "esrs",
-    "csrd"
+    "esrs-revised"
    ],
-   "what": "The EU finalised streamlined reporting standards, with rules introduced allowing suppliers with up to 1,000 staff to reject excessive sustainability data demands exceeding standard metrics.",
-   "meaning": "Ahead of your financial year 2027 CSRD reporting, you must ensure data requests sent to Chinese manufacturing partners remain strictly within standardised limits.",
-   "action": "Align your supply chain ESG data requests with the final streamlined ESRS and voluntary SME standards.",
+   "what": "The EU finalised streamlined reporting standards and introduced limits permitting suppliers with under 1,000 staff to refuse excessive sustainability data requests.",
+   "meaning": "Restricts the volume of custom ESG data you can contractually demand from smaller Chinese manufacturers for CSRD compliance.",
+   "action": "Align supplier data collection sheets with the new voluntary standards to minimise refusal risks.",
    "sources": [
     {
      "title": "Brussels Sets a Data Ceiling: Suppliers With Up to 1,000 Staff Can Now Refuse Extra Sustainability R",
@@ -46,52 +46,43 @@
    ]
   },
   {
-   "title": "Digital Battery Passport certification rolls out ahead of deadlines",
+   "title": "Italy enacts EU Right to Repair Directive from 22 October",
    "regs": [
-    "batteries"
+    "right-to-repair"
    ],
-   "what": "TÜV SÜD launched Digital Battery Passport certification services, and industry brands are accelerating implementation ahead of mandatory EU requirements.",
-   "meaning": "Your proprietary battery platform will require certified digital passports covering raw material sources, recycled content, and lifecycle emissions.",
-   "action": "Map battery pack technical data with Chinese cell suppliers to ensure readiness for battery passport verification.",
+   "what": "Italy announced the entry into force of national measures implementing the EU Right to Repair Directive on 22 October 2026.",
+   "meaning": "As the brand owner and legal manufacturer, your power tools and garden equipment marketed in Italy must meet national repairability obligations.",
+   "action": "Review spare parts availability, pricing, and repair documentation access for Italian distribution channels.",
    "sources": [
     {
-     "title": "TÜV SÜD launches Digital Battery Passport certification",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTJoVGRSQzc2Yy1Uem5TOTRkR3h3ZTZBeUxLdzF0MGdfVTJBcHRkUnNveXNFNEx6SF9PZTR2aWMzbEhmOGZrUTQ4VWVzTjJndmI1bFdWdWwwQThEOHFRTzlFTFZkdnBfTFF3WndaMkJteloxUERvVjl6R3dSeS1xOUc1Z1QxRUhsV3FTeUhjTHJEamN0WnJQZw?oc=5",
-     "origin": "Automotive World"
-    },
-    {
-     "title": "Minespider and Tenways partner on e-bike battery passports ahead of EU regulation",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclBqY1dZUWdNdWwxY2xzeC1mNENZODZ1WUc0XzA3TkNTV1FJWjdIZTlERXhlY0pxcVl4NlRiQjY1TVQ0WE4wNlBaOXlTVm1FWmlCakxiN2N1LTFPQzVucXBtZTdEUEdaNjZVWURwdUdrTUN2d0FGVTU2WG56MHF4cWlrN0VKZW9FbFZfYWZsWnZxNG81SlJ6QmJadlBndS1Ld1BRX2szVzNlZjZUbHFEcQ?oc=5",
-     "origin": "Bike Europe"
+     "title": "Repair of goods: in Italia, the EU directive will come into force on 22 October",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdmsxMndVOF9pSENyVHV4Mk5tVlNBTmlqcGhUR3BtZEVSbEJGWjNTWm5pWmhDTVVHcjhqMlVnbl9neUNTUVhLRVN6c0pQbHZZTlFGbnNhYm9pVVAxZTR3UzdCdWNjWjJIaExUU1ZwVy13cFdWRE9NWVBYb0VVSmhNcEJCZEdfb0NSU3BoOFg3eUMwcEV5MUdoanc4NFZLUHBFdVhicUZTNEptd0pDck1zNVEwM1ZMWE1XcUE?oc=5",
+     "origin": "Il Sole 24 ORE"
     }
    ]
   },
   {
-   "title": "Proposed CBAM downstream extension advances toward trilogue talks",
+   "title": "Regulators highlight ESMA 2026 recommendations for CSRD preparation",
    "regs": [
-    "cbam"
+    "csrd",
+    "esrs"
    ],
-   "what": "Draft proposals to extend CBAM to downstream finished products and enforce anti-circumvention provisions are progressing toward EU inter-institutional trilogue negotiations.",
-   "meaning": "Currently only proposed, but if adopted, importing finished metal tools could eventually fall within scope despite your current exemption from basic material imports.",
-   "action": "Track downstream tariff codes under discussion to assess potential long-term cost exposure on finished power tools.",
+   "what": "Securities regulators including France's AMF urged listed issuers to align reporting preparations with ESMA's 2026 sustainability statement recommendations.",
+   "meaning": "Signals supervisory expectations on value-chain data quality and materiality ahead of your mandatory FY2027 CSRD reporting scope.",
+   "action": "Review ESMA's focal points to ensure value chain due diligence systems meet audit expectations.",
    "sources": [
     {
-     "title": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue | Insights | Mayer Brown",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHJRQjRZUVhVeHAtZVRCUDd4QXBxQUozNHIzd2F3ekFyNHNOWXJTbGtSTWw3a3lmdVNzZmFGbnBlcmhYVWcwaDl1VXdDem1jbHZOMlZUdHRSRDBvMjBKeWF3cjJDdXJqV2JSaFVDMnpBQjNpdTRiVE1mVmdaNndMM0ZQeHNCVnZmLVE?oc=5",
-     "origin": "JDSupra"
-    },
-    {
-     "title": "EU CBAM expansion planned for downstream products, Norway, and Iceland",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzNtbnRaNTFBU0dRS1VXbGJVX1JxbkcyV08xazRhQlhzb09UQVZIb2FnTlkwT0ZmT1pETzFtcW8xcE52alQ2YWxkMmRZcnpyRHN4eVhhZWNDazJpeVJXdzFLYU9LZ2drNEF3dG1Wbk9iYzdfYVQtdDlaemYwcHRMOWN5Z1pjUFUwaHlLR2pWdFRmY2VDYzR3ZGJ6TTRSVTNwRFE?oc=5",
-     "origin": "Yieh Corp."
+     "title": "Preparing upcoming sustainability statements: the AMF draws listed companies’ attention to ESMA’s 2026 recommendations",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUpidmRFcktSVWFaUjRnaEZWdVRxcjBXaGJ0OEhWRUlrQ2xWQTFWekU1UDZiby1pcE1lMjFBbDBRdVdRVDRRQU9JRUtkM1hISlo3RExUcXhRNm9iSHVPSU1lYWx3LTZGNEZsbzZlZE5OcW5PdTNYUi1lQTdqdGxhbjVxbnZSTDdUaFgwU01kNWF3bzJjVDFocUtodGVXRkgxa3JLRWZiZGNFTUxDMlR2UmtiVHUxQVdQWXpiRHJBNFhIVVE4NG50SF9DV2V6ZDNCVll6WkZTQno1ZU5hMlE?oc=5",
+     "origin": "Autorité des marchés financiers (AMF)"
     }
    ]
   }
  ],
  "watch": [
-  "The entry into force of the streamlined, revised ESRS scheduled for 10 November 2026.",
-  "Trilogue negotiations on proposed CBAM anti-circumvention rules and downstream product inclusion.",
-  "National enforcement developments under the Right to Repair Directive following Italy's transposition on 22 October."
+  "The formal entry into force of the revised ESRS on 10 November 2026.",
+  "The 30 December 2026 application of EUDR for packaging, timber, and rubber inputs.",
+  "Further member state transpositions of the Right to Repair Directive ahead of 2026 deadlines."
  ],
- "based_on": 42
+ "based_on": 40
 }
