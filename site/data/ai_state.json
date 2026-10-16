@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.8-flash",
+ "model": "gemini-3.6-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -75,6 +75,21 @@
    "hash": "ac91a5ed1c82",
    "date": "2026-10-10",
    "model": "gemini-3.7-flash"
+  },
+  "pay-transparency": {
+   "hash": "1310e82ff06b",
+   "date": "2026-10-16",
+   "model": "gemini-3.8-flash"
+  },
+  "green-bond": {
+   "hash": "5d86cacb4068",
+   "date": "2026-10-16",
+   "model": "gemini-3.6-flash"
+  },
+  "esg-ratings": {
+   "hash": "94ebbca740c9",
+   "date": "2026-10-16",
+   "model": "gemini-3.6-flash"
   }
  },
  "pending": [],
@@ -95,6 +110,6 @@
  ],
  "search_refused": "2026-10-11",
  "last_briefing": "2026-10-16",
- "last_proposals": "2026-10-15",
+ "last_proposals": "2026-10-16",
  "pr_seen_open": true
 }
