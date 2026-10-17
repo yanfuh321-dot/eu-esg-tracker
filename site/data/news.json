@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T16:06:07Z",
+ "generated_at": "2026-10-17T17:51:36Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -15,8 +15,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 3,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 4
   },
   {
@@ -31,8 +31,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 1
   },
   {
@@ -47,8 +47,8 @@
    "empty": false,
    "fetched": 7,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 0
   },
   {
@@ -63,8 +63,8 @@
    "empty": false,
    "fetched": 7,
    "kept": 1,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 0
   },
   {
@@ -77,10 +77,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 81,
+   "fetched": 79,
    "kept": 5,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 8
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
    "last_ok": null,
    "stored": 0
   },
@@ -111,8 +111,8 @@
    "empty": false,
    "fetched": 20,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 5
   },
   {
@@ -127,8 +127,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 1,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 9
   },
   {
@@ -143,8 +143,8 @@
    "empty": false,
    "fetched": 24,
    "kept": 24,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 76
   },
   {
@@ -157,11 +157,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 8,
-   "kept": 8,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
-   "stored": 29
+   "fetched": 9,
+   "kept": 9,
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
+   "stored": 30
   },
   {
    "id": "gn-finance",
@@ -175,8 +175,8 @@
    "empty": false,
    "fetched": 22,
    "kept": 22,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 65
   },
   {
@@ -191,8 +191,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 100,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 253
   },
   {
@@ -205,11 +205,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 50,
-   "kept": 50,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
-   "stored": 126
+   "fetched": 52,
+   "kept": 52,
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
+   "stored": 127
   },
   {
    "id": "gn-claims",
@@ -223,8 +223,8 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 36
   },
   {
@@ -239,8 +239,8 @@
    "empty": false,
    "fetched": 15,
    "kept": 15,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 51
   },
   {
@@ -255,8 +255,8 @@
    "empty": false,
    "fetched": 12,
    "kept": 12,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 51
   },
   {
@@ -271,8 +271,8 @@
    "empty": false,
    "fetched": 8,
    "kept": 8,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 25
   },
   {
@@ -287,8 +287,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 2
   },
   {
@@ -303,8 +303,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 1
   },
   {
@@ -319,8 +319,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 10,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 23
   },
   {
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 1
   },
   {
@@ -351,8 +351,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 1
   },
   {
@@ -367,8 +367,8 @@
    "empty": false,
    "fetched": 2,
    "kept": 2,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 15
   },
   {
@@ -383,8 +383,8 @@
    "empty": false,
    "fetched": 1,
    "kept": 1,
-   "checked_at": "2026-10-17T16:06:07Z",
-   "last_ok": "2026-10-17T16:06:07Z",
+   "checked_at": "2026-10-17T17:51:36Z",
+   "last_ok": "2026-10-17T17:51:36Z",
    "stored": 2
   }
  ],
@@ -1278,6 +1278,29 @@
    }
   },
   {
+   "id": "6337cd278effbedd",
+   "title": "BRICS must rejig CBAM",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzdlUm55MjBibGRTeV9uV1dXMTZKNEFSSTVsQlhPRXpkd3JMa3lpMzZLVEduTFo3RU9HLVJ0S2N2NUdWQUZFOTlhOE5hUVlpeWFoTkZSS0JERm42X0ZsbFBudmFOR19MTkNNZFpjZ08wVU0zTnJfdzl6ZUVPN2Q3R3VOTnRuU3VXTWc4X3Y3c9IBlgFBVV95cUxPTWJGaXZlejNmRjZocU1VZGVHN2ZIS0lZNC1Od1hvLWlwQkNkbmxZazlRU2dZdWlldkpNSEZRcEpjYkU5OExYaWJhaFpWR2FrWkl4N0tZRGNkWjVTVGp3UkNvXzQtVEU3d1BTbThxZ1oxRWJnenRDMUhUdWpyS01aUTNOY0VHZGc4LWQ5QlJXMDg4RFVMUEE?oc=5",
+   "summary": "",
+   "published": "2026-10-16T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "BusinessLine",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-15T09:54:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "Commentary discusses how BRICS nations should coordinate their trade response to the EU's Carbon Border Adjustment Mechanism."
+   }
+  },
+  {
    "id": "0e0ddda4d3fc361f",
    "title": "[Europe] Obligations under the EU’s Carbon Border Adjustment Mechanism",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUxuMEZ5MWt1VG5QQXYwdEw2Ykc1bHFCOE5GVUFJVWRpdk5YcXc0YlhOWjB6c1UxcE9FUDNQQm9Mc0RfdFFPb1NqMnRrbHIydjA5QzBFYkxwUUdPc3NBanVNWm1FVGJST0o0RHo4YjNubnhEM0FUeS1idWZWOW9vejRLcENJVEo2UnZ6MmdHbUhXZXhVajhIb2pNUi14aDdocEtZb05yaGNvYktDUElGWE1EeWg5aU12S2hiQTVnRE9oTTVlVlIxVHpKM3YxY3c3anV5bmxvZ2padw?oc=5",
@@ -1751,6 +1774,21 @@
     ],
     "note": "Pakistani textile producers are upgrading operations to align with EU circular economy and ecodesign requirements."
    }
+  },
+  {
+   "id": "215b69baf382e080",
+   "title": "Few major apparel brands pay garment workers a living wage: report",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlBPUlk0UENoSGlPQ0E0b1VXQVVnZC12Yzk4WkpqS0k4alZENmJWOTlFYnIzVE1iZG8tRWlrTzZEaDFZek9oNXlsaGRteF9jNHZJQ0lxX09pS2lmVDBRckpROFJUM0JTTnI5TzFIOGM3dWo0ZF9MblFtWmczNDBhX3p6RkplMnFtNTVZSG8ydGZBMmI0eEpUOF9n?oc=5",
+   "summary": "",
+   "published": "2026-10-15T15:02:26Z",
+   "source": "gn-csddd",
+   "publisher": "ESG Dive",
+   "kind": "news",
+   "tags": [
+    "csddd"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-17T17:51:36Z"
   },
   {
    "id": "5064c83e4fba2990",
@@ -2298,29 +2336,6 @@
    }
   },
   {
-   "id": "6337cd278effbedd",
-   "title": "BRICS must rejig CBAM",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzdlUm55MjBibGRTeV9uV1dXMTZKNEFSSTVsQlhPRXpkd3JMa3lpMzZLVEduTFo3RU9HLVJ0S2N2NUdWQUZFOTlhOE5hUVlpeWFoTkZSS0JERm42X0ZsbFBudmFOR19MTkNNZFpjZ08wVU0zTnJfdzl6ZUVPN2Q3R3VOTnRuU3VXTWc4X3Y3c9IBlgFBVV95cUxPTWJGaXZlejNmRjZocU1VZGVHN2ZIS0lZNC1Od1hvLWlwQkNkbmxZazlRU2dZdWlldkpNSEZRcEpjYkU5OExYaWJhaFpWR2FrWkl4N0tZRGNkWjVTVGp3UkNvXzQtVEU3d1BTbThxZ1oxRWJnenRDMUhUdWpyS01aUTNOY0VHZGc4LWQ5QlJXMDg4RFVMUEE?oc=5",
-   "summary": "",
-   "published": "2026-10-15T02:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "BusinessLine",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-15T09:54:09Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "Commentary discusses how BRICS nations should coordinate their trade response to the EU's Carbon Border Adjustment Mechanism."
-   }
-  },
-  {
    "id": "9c0d3fcb417ee774",
    "title": "Commerzbank Publishes Allocation & Impact Report",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlhsd3VFNVNyZndSQk5ldlpLanplYkJLQ2I3S242SHpkY1hiN3d1N2xpTXlrdlpLazNQNmpyQUVQNDJpeWdSQ2hlVUlsUzdpaWsxeFlZejQwSXc5MHpvQkxxeW5zdVZYR0ZhMG9hUzBLTkM0ZlpyVGJGVGFfT3RLVTZJR0VwdnhKQ2htWVplRWhmdVdlREduUmRTWEJXZVpUeFFlOVZlaGhGeW5CSXVNR2xmT0U?oc=5",
@@ -2556,6 +2571,21 @@
     ],
     "note": "An explainer reviews how digital product passport obligations under the EU Batteries Regulation will impact manufacturers by 2027."
    }
+  },
+  {
+   "id": "a6b22c1af7e72141",
+   "title": "Brazil Drives the Sharpest Fall in Global Deforestation This Decade",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nck1XdVRDQ3lxbHVEaVVhN2Z2Rm9DQTMzMmYyZ2FnOXgtT1hLXzh5YzNyTFE2WUNobmJrNkhQdDVBNUV3UHZfR3BIQjViNU1IbTNpVnpRV0tLdVVoSVlsTndWYw?oc=5",
+   "summary": "",
+   "published": "2026-10-14T16:22:44Z",
+   "source": "gn-eudr",
+   "publisher": "Wood Central",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-17T17:51:36Z"
   },
   {
    "id": "91312291eb8db282",
@@ -6723,29 +6753,6 @@
    }
   },
   {
-   "id": "acc464a70224af76",
-   "title": "US probes EU carbon border tax over potential trade barriers",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcldBNGpxaUVJSmh5QklsX0E1eElyVk1sNmVFUF8xNEtVa1NjOElkM3hjUWFZeE5EbnVUMFY2TFF6WVN2NU5fWkpTdElCaHBETnBiZnRZcklYdnIyU2NXNkFqM0NLOVlhYVJQMTVIUHpDb1lrM0ZHNFZNRGZTWkNWQlpUZzh0aGotczU0MVlwcWhhZHVEUDZXLUhndUQ?oc=5",
-   "summary": "",
-   "published": "2026-10-08T09:50:58Z",
-   "source": "gn-cbam",
-   "publisher": "Euronews.com",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-09T20:06:30Z",
-   "ai": {
-    "relevant": true,
-    "importance": 2,
-    "regs": [
-     "cbam"
-    ],
-    "note": "The United States is investigating the EU's Carbon Border Adjustment Mechanism over concerns it creates trade barriers."
-   }
-  },
-  {
    "id": "715a8b02eff27e35",
    "title": "CBAM turns inward: What developing countries need to look out for",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2Y4cERnUHhMZVJuVjZFQnpVa3o2ZUZrMUN6YVZnRjJOUUEydEMtSEFNYUctNks4WnhSVmtiM0dqYTVBTVJVdlRFMnZ3Qld3UDBOX0wtdTlRZ3MtYmNyUVlWMGlrNTV6MTczTzMyVW5xU2NrSEs2b1hrcHd3Ym1xcjFCYk9uUjg1RUZLLXBFdm83ZG1Wd2VTN1FVaTk2dTA2VmFadzFodk01SHd1TUdZd081aENsV05l?oc=5",
@@ -6922,6 +6929,29 @@
      "cbam"
     ],
     "note": "Plans are underway to expand the EU Carbon Border Adjustment Mechanism to downstream products, Norway, and Iceland."
+   }
+  },
+  {
+   "id": "acc464a70224af76",
+   "title": "US probes EU carbon border tax over potential trade barriers",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcldBNGpxaUVJSmh5QklsX0E1eElyVk1sNmVFUF8xNEtVa1NjOElkM3hjUWFZeE5EbnVUMFY2TFF6WVN2NU5fWkpTdElCaHBETnBiZnRZcklYdnIyU2NXNkFqM0NLOVlhYVJQMTVIUHpDb1lrM0ZHNFZNRGZTWkNWQlpUZzh0aGotczU0MVlwcWhhZHVEUDZXLUhndUQ?oc=5",
+   "summary": "",
+   "published": "2026-10-08T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "Euronews.com",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-09T20:06:30Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "The United States is investigating the EU's Carbon Border Adjustment Mechanism over concerns it creates trade barriers."
    }
   },
   {
@@ -8451,6 +8481,27 @@
    }
   },
   {
+   "id": "7e777ee66c2d2f50",
+   "title": "Slow progress on equal pay rules leaves Cyprus employees in uncertainty",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmxnb09ZdFRIazdDN0NVR2kyZFhMZlF2cjRfb3ZIZkU2bVF4RGl2TERUVjRZZlJackV2T1lzX0FLek81X05YWE1ZdWFrNWYyNFZ1b2FaMDZ3a1VCb2xsUFV3MC03N0tWNjdyamdpNHlLMk1wb2lpVE5WTDVzcEVjSnJZMXJHS1d0N1NvZHptQV9CVno2bHBtUzdadm45M1FFa0gyMWtEZ2ZIdw?oc=5",
+   "summary": "",
+   "published": "2026-10-06T10:21:50Z",
+   "source": "gn-social",
+   "publisher": "Cyprus Mail",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-06T12:01:38Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "pay-transparency"
+    ],
+    "note": "Cyprus is making slow progress on implementing the EU Pay Transparency Directive, leaving local employees in uncertainty."
+   }
+  },
+  {
    "id": "f3b3436b0e06e6af",
    "title": "Indonesia monitors non-tariff barriers on plantation, forestry goods",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDg5M2RRZFhVZ0tOV05HYXhXRzhNUktCTDRQUVdiRVp5cWkwZ3hDRnZyU1N4QnRYZ2Y0bnVmS0tPN0t3RlJyTGRwb012VEdHRng4UHJxY1hMTDV2Vm9iclc1TDlYeGw2QnpxSTZ4bU0zNzFwbU1jc3NQeUg0RE8zQjhEcmhmajh2bGlIa1kxb3FsMllXMkRid0xzMjB0MHQ5LXRDTVRQaDF0M2lqcFHSAa4BQVVfeXFMTlA4OTNkUWRYVWdLTldOR2F4V0c4TVJLQkw0UFFXYkVaeXFpMGd4Q0Z2clNTeEJ0WGdmNG51ZktLTzdLd0ZSckxkcG9NdlRHR0Z4OFBycWNYTEw1dlZvYnJXNUw5WHhsNkJ6cUk2eG1NMzcxcG1NY3NzUHlINERPM0I4RHJoZmo4dmxpSGtZMW9xbDJZVzJEYndMczIwdDB0OS10Q01UUGgxdDNpanBR?oc=5",
@@ -8622,27 +8673,6 @@
      "cbam"
     ],
     "note": "The EU carbon price for CBAM certificates rose to 82.32 euros per tonne, affecting carbon border adjustment mechanism costs."
-   }
-  },
-  {
-   "id": "7e777ee66c2d2f50",
-   "title": "Slow progress on equal pay rules leaves Cyprus employees in uncertainty",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmxnb09ZdFRIazdDN0NVR2kyZFhMZlF2cjRfb3ZIZkU2bVF4RGl2TERUVjRZZlJackV2T1lzX0FLek81X05YWE1ZdWFrNWYyNFZ1b2FaMDZ3a1VCb2xsUFV3MC03N0tWNjdyamdpNHlLMk1wb2lpVE5WTDVzcEVjSnJZMXJHS1d0N1NvZHptQV9CVno2bHBtUzdadm45M1FFa0gyMWtEZ2ZIdw?oc=5",
-   "summary": "",
-   "published": "2026-10-06T07:00:00Z",
-   "source": "gn-social",
-   "publisher": "Cyprus Mail",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-06T12:01:38Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "pay-transparency"
-    ],
-    "note": "Cyprus is making slow progress on implementing the EU Pay Transparency Directive, leaving local employees in uncertainty."
    }
   },
   {
@@ -9544,29 +9574,6 @@
    }
   },
   {
-   "id": "96f5df5d8c6a5705",
-   "title": "CBAM price rises 9% to EUR 82.32/t in third quarter",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVl83NFFXeFAwUjhuX3p2eXZJMWg5T0k0RUdBODZnZ2NldGxoQmlWeGV4cHhheFZpZTFvRnNzUHZieHpkSXBBZmN6UVNOLUZBUVUxbEtJZlp2d01yNktWeHk2dUxNcE9QNEExTVd3cG5JdTR5U0R4dEc1RFVxdTYwVkwyOV9EenNnbE9sTzYzd1hxWlF2ZFVuNXh0WV8xSXNHM3FQa29sdFlFM0RwWW5xVlhVSEVXUQ?oc=5",
-   "summary": "",
-   "published": "2026-10-05T12:30:25Z",
-   "source": "gn-cbam",
-   "publisher": "Montel News",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-05T22:00:55Z",
-   "ai": {
-    "relevant": true,
-    "importance": 3,
-    "regs": [
-     "cbam"
-    ],
-    "note": "The official EU CBAM carbon price has risen 9% to €82.32 per tonne for Q3."
-   }
-  },
-  {
    "id": "a237d6debc9d3439",
    "title": "EU share of Kazakhstan aluminium exports reaches 54% in 2025",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oclNraHRDSUJOM3I4akkzVXZYaFg5STN2bEFrdk1CQVJOUlVSNWJyR3gxck9TQ1EtMzZaYlV4b295a2VyeE0teGtXelJaZXhsSFNuN3ZickpxZzEzbE53?oc=5",
@@ -9743,29 +9750,6 @@
    }
   },
   {
-   "id": "dc76eac8746578d5",
-   "title": "European Parliament Backs Tougher, Wider-Reaching Carbon Border Adjustment Mechanism",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OdWRYZTJTb1J6UEVBT18yMHY5YUluSjBQR0JHV3VWYTJLcUZYNm9WSFUwNFh1WEVnRkR5UnV1TkV0ZXpQWU9mdlRlcGlFRnhfeHlWd25PQzU5LVZSbnVPVmdn?oc=5",
-   "summary": "",
-   "published": "2026-10-05T08:44:01Z",
-   "source": "gn-cbam",
-   "publisher": "HKTDC Research",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-06T12:01:38Z",
-   "ai": {
-    "relevant": true,
-    "importance": 2,
-    "regs": [
-     "cbam"
-    ],
-    "note": "The European Parliament has expressed support for a stronger and broader Carbon Border Adjustment Mechanism."
-   }
-  },
-  {
    "id": "11e0b7faf947ea02",
    "title": "Gulf wealth favours SFDR-backed Shariah investment solutions",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX3dERmhvYl8yV3hNRGQ2eXFrclZPM0h1RzJiMTFJVVJIRE9PYzVFRHJRZUpPM2Z3bWd3bk9XS1BoT0hJUVp2NXhHalF6YmFfM1lfaUtxRjNqMW9HeEJzNXBDWUNleE42cmJ0MWJxM01keWdkSjhqeWlfODJiY3V4dnBZendiZHFpWEVVei1mVF9famc5WVhNTGNtdTVLMm9FcG9zcUp4bw?oc=5",
@@ -9830,6 +9814,52 @@
      "cbam"
     ],
     "note": "Commentary criticizes the European Commission's timing and data availability for reviewing the CBAM de minimis threshold."
+   }
+  },
+  {
+   "id": "96f5df5d8c6a5705",
+   "title": "CBAM price rises 9% to EUR 82.32/t in third quarter",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVl83NFFXeFAwUjhuX3p2eXZJMWg5T0k0RUdBODZnZ2NldGxoQmlWeGV4cHhheFZpZTFvRnNzUHZieHpkSXBBZmN6UVNOLUZBUVUxbEtJZlp2d01yNktWeHk2dUxNcE9QNEExTVd3cG5JdTR5U0R4dEc1RFVxdTYwVkwyOV9EenNnbE9sTzYzd1hxWlF2ZFVuNXh0WV8xSXNHM3FQa29sdFlFM0RwWW5xVlhVSEVXUQ?oc=5",
+   "summary": "",
+   "published": "2026-10-05T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "Montel News",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-05T22:00:55Z",
+   "ai": {
+    "relevant": true,
+    "importance": 3,
+    "regs": [
+     "cbam"
+    ],
+    "note": "The official EU CBAM carbon price has risen 9% to €82.32 per tonne for Q3."
+   }
+  },
+  {
+   "id": "dc76eac8746578d5",
+   "title": "European Parliament Backs Tougher, Wider-Reaching Carbon Border Adjustment Mechanism",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OdWRYZTJTb1J6UEVBT18yMHY5YUluSjBQR0JHV3VWYTJLcUZYNm9WSFUwNFh1WEVnRkR5UnV1TkV0ZXpQWU9mdlRlcGlFRnhfeHlWd25PQzU5LVZSbnVPVmdn?oc=5",
+   "summary": "",
+   "published": "2026-10-05T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "HKTDC Research",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-06T12:01:38Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "The European Parliament has expressed support for a stronger and broader Carbon Border Adjustment Mechanism."
    }
   },
   {
