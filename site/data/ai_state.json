@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.6-flash",
+ "model": "gemini-3.8-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -105,13 +105,28 @@
    "hash": "942d1456ea85",
    "date": "2026-10-17",
    "model": "gemini-3.6-flash"
+  },
+  "rohs": {
+   "hash": "60f382ffd212",
+   "date": "2026-10-18",
+   "model": "gemini-3.8-flash"
+  },
+  "reach": {
+   "hash": "b9a44d2621d7",
+   "date": "2026-10-18",
+   "model": "gemini-3.8-flash"
+  },
+  "machinery": {
+   "hash": "ce7a9a4c25ee",
+   "date": "2026-10-18",
+   "model": "gemini-3.8-flash"
   }
  },
  "pending": [],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-10-11",
- "last_briefing": "2026-10-17",
- "last_proposals": "2026-10-17",
+ "last_briefing": "2026-10-18",
+ "last_proposals": "2026-10-18",
  "pr_seen_open": false
 }
