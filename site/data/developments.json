@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T09:37:17Z",
+ "generated_at": "2026-10-18T18:04:58Z",
  "items": [
   {
    "id": "a2a8dc865476",
@@ -597,6 +597,51 @@
    "visible": true
   },
   {
+   "id": "a6dd3904498b",
+   "group": "delay",
+   "sources": [
+    {
+     "item": "192da7e71c9ab372",
+     "title": "Delayed, simplified, but not off the table: the EUDR is coming",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3QtOTJsekU1SlZXSnhhWlJHTXFfNXQwQ1hkOUE1STZILWl1ckFPU2t0RFFhY3hxb0gyaTB6Q1Q1UnNUTExEemp1eDJDWkZyZ0VjOGVsRmFLTFIyenE2LTFqN1kzZnlZVGUzV2MzaWwyWUl6aHE3TkZuSDZvV3VMWWhtV1RVb21hTU5CWGU3MHhMZw?oc=5",
+     "origin": "easynewsweb.com",
+     "published": "2026-09-30T14:14:28Z",
+     "official": false,
+     "strong": false,
+     "regs": [
+      "eudr"
+     ],
+     "mentions": []
+    },
+    {
+     "item": "f1f5a47b9482a848",
+     "title": "Deforestation: Council Presidency proposes new EUDR postponement",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXlhSkc1WTlMVkF2N1lOMzVWcWwzNjZnb3ZSOU5wTXZfZWJtVTg2OVphWldzNzRfUEV2QmNRSnpiT0hJS09tUnQxd1JPNV9nSUJPRUEyeTVFMmhGcnBPN2c3dHRHQ0EtaDE1NUVUZmJYc3B1Y25paVViS3dhTl9pX29lTG5VdjAzQXRnb0g3TlhiTGlIdnJXajVuU0RjbWpVYldWcS11Rk1DeTd3?oc=5",
+     "origin": "Table.Briefings",
+     "published": "2026-10-06T12:28:59Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "eudr"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-10-03T02:29:23Z",
+   "updated": "2026-10-18T18:04:58Z",
+   "date": "2026-10-06",
+   "regs": [
+    "eudr"
+   ],
+   "title": "Deforestation: Council Presidency proposes new EUDR postponement",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXlhSkc1WTlMVkF2N1lOMzVWcWwzNjZnb3ZSOU5wTXZfZWJtVTg2OVphWldzNzRfUEV2QmNRSnpiT0hJS09tUnQxd1JPNV9nSUJPRUEyeTVFMmhGcnBPN2c3dHRHQ0EtaDE1NUVUZmJYc3B1Y25paVViS3dhTl9pX29lTG5VdjAzQXRnb0g3TlhiTGlIdnJXajVuU0RjbWpVYldWcS11Rk1DeTd3?oc=5",
+   "origin": "Table.Briefings",
+   "official": false,
+   "publishers": 2,
+   "mentions": [],
+   "visible": false
+  },
+  {
    "id": "6743a9bd59e8",
    "group": "decision",
    "sources": [
@@ -739,38 +784,6 @@
    "title": "EU updates EUDR customs codes and Information System guidance ahead of December application",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBweTB3RlZCcjlRNjVEUDRTRzJLY0hjcVRkTkJCdDZnZXl2Zm9YWVdMOUJrSHdEMkl4LXJzelM5UEZJTm5wSU53TVBZRmdEVVZXa3VQd2RmTzZmN29abXpWU2NOMEoxY3ZESDIwbFVJYTVLVm9LVlhmRw?oc=5",
    "origin": "Fordaq",
-   "official": false,
-   "publishers": 1,
-   "mentions": [],
-   "visible": false
-  },
-  {
-   "id": "a6dd3904498b",
-   "group": "delay",
-   "sources": [
-    {
-     "item": "192da7e71c9ab372",
-     "title": "Delayed, simplified, but not off the table: the EUDR is coming",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3QtOTJsekU1SlZXSnhhWlJHTXFfNXQwQ1hkOUE1STZILWl1ckFPU2t0RFFhY3hxb0gyaTB6Q1Q1UnNUTExEemp1eDJDWkZyZ0VjOGVsRmFLTFIyenE2LTFqN1kzZnlZVGUzV2MzaWwyWUl6aHE3TkZuSDZvV3VMWWhtV1RVb21hTU5CWGU3MHhMZw?oc=5",
-     "origin": "easynewsweb.com",
-     "published": "2026-09-30T14:14:28Z",
-     "official": false,
-     "strong": false,
-     "regs": [
-      "eudr"
-     ],
-     "mentions": []
-    }
-   ],
-   "first_seen": "2026-10-03T02:29:23Z",
-   "updated": "2026-10-03T02:29:23Z",
-   "date": "2026-09-30",
-   "regs": [
-    "eudr"
-   ],
-   "title": "Delayed, simplified, but not off the table: the EUDR is coming",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3QtOTJsekU1SlZXSnhhWlJHTXFfNXQwQ1hkOUE1STZILWl1ckFPU2t0RFFhY3hxb0gyaTB6Q1Q1UnNUTExEemp1eDJDWkZyZ0VjOGVsRmFLTFIyenE2LTFqN1kzZnlZVGUzV2MzaWwyWUl6aHE3TkZuSDZvV3VMWWhtV1RVb21hTU5CWGU3MHhMZw?oc=5",
-   "origin": "easynewsweb.com",
    "official": false,
    "publishers": 1,
    "mentions": [],
