@@ -120,13 +120,28 @@
    "hash": "ce7a9a4c25ee",
    "date": "2026-10-18",
    "model": "gemini-3.8-flash"
+  },
+  "de-lksg": {
+   "hash": "b56b9473c64e",
+   "date": "2026-10-19",
+   "model": "gemini-3.8-flash"
+  },
+  "de-csrd": {
+   "hash": "4a48f4eae052",
+   "date": "2026-10-19",
+   "model": "gemini-3.8-flash"
+  },
+  "cn-csds": {
+   "hash": "5c9325a0d1cc",
+   "date": "2026-10-19",
+   "model": "gemini-3.8-flash"
   }
  },
  "pending": [],
  "dismissed": {},
  "learn_edits": [],
- "search_refused": "2026-10-11",
- "last_briefing": "2026-10-18",
- "last_proposals": "2026-10-18",
+ "search_refused": "2026-10-19",
+ "last_briefing": "2026-10-19",
+ "last_proposals": "2026-10-19",
  "pr_seen_open": false
 }
