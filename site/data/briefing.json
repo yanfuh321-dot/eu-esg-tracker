@@ -1,59 +1,35 @@
 {
- "generated_at": "2026-10-19T10:46:07Z",
- "model": "gemini-3.8-flash",
+ "generated_at": "2026-10-20T10:03:56Z",
+ "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "Forced labour guidelines published; ESMA details 2026 sustainability reporting priorities",
- "summary": "The European Commission published official guidelines for the Forced Labour Regulation, carrying significant implications for Chinese supply chains. Simultaneously, EU bodies detailed sustainability enforcement priorities and proposed caps on supplier data burdens. Member states also intensified debates over potential ETS2 implementation delays.",
+ "headline": "ESMA details CSRD enforcement priorities as EU maintains battery targets",
+ "summary": "ESMA and national regulators have highlighted double materiality and negative impact disclosure as primary enforcement priorities for upcoming CSRD statements. Meanwhile, the EU reaffirmed its battery recycling targets, and member states continue implementing right-to-repair rules. Listed importers must ensure supply chain impact data is audit-ready.",
  "items": [
   {
-   "title": "Commission publishes EU Forced Labour Regulation guidelines",
-   "regs": [
-    "forced-labour"
-   ],
-   "what": "The European Commission has published official implementation guidelines detailing how competent authorities will apply the EU Forced Labour Regulation across import supply chains.",
-   "meaning": "As an EU brand importing finished tools from China, you face structured enforcement scrutiny regarding labour practices and component traceability across your supplier network.",
-   "action": "Benchmark current Chinese factory audit protocols and supply chain traceability against the newly published Commission guidelines.",
-   "sources": [
-    {
-     "title": "Update on the EU Forced Labour Regulation: The European Commission's Guidelines Have Been Published",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1ZlR1VVc1ZyVE1qYThraFMzY21VM1BtX1hIUS1xOGhkNzlrdmFWdHBDaFg0WTkyMTNrc1g1SlBVYkc1Tkh3d0FjT2VJZ2gtR3N2Rkc3WkZMZlExcGF2eFFVaEwxRnpEODdDSHlzdEd2eDJuT09zNmJlM21WYzBXQTA1U3AwREZ3eU5sb3JQbXlNSUNpa3RHUWpwOXgwTDVndU5OUnJscGZIWXhGLVZqSmVqN2pSby1ib3hqUkNBTlNQTmZsUGN3bENIQUg?oc=5",
-     "origin": "RÖDL"
-    }
-   ]
-  },
-  {
-   "title": "Data limits reported for sustainability requests to mid-sized suppliers",
-   "regs": [
-    "csrd",
-    "csddd",
-    "esrs"
-   ],
-   "what": "Rules were reported establishing data ceilings that permit suppliers with up to 1,000 employees to refuse excessive sustainability data requests from corporate buyers.",
-   "meaning": "Your Chinese and component suppliers may legally resist bespoke sustainability questionnaires, complicating the Scope 3 and social data collection required for your CSRD reporting.",
-   "action": "Rationalise supplier data requests to align strictly with standard ESRS datapoints, avoiding custom inquiries that invite refusal.",
-   "sources": [
-    {
-     "title": "Brussels Sets a Data Ceiling: Suppliers With Up to 1,000 Staff Can Now Refuse Extra Sustainability R",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ2g0YUZ2SXZObkFWa3JiVm9EWnoxMmJkWTNmN01XdVdfMURfN2tEQWpkNFZRNUpQYTh4WVBEWERTdnhDUnlCbGNTMGlJVS1vdG45R0NTSGppd2k3TnNPdXN0V1NuaTZjNEtNdnVBX05vNFlTOHdNLWI0UUx2UkpmT1pncGVVQlNyOFRVeFpnQUpjMUJ6SkNVVmM0ODFIdXB2VUttSi1vNmJhQWduMlJrOGIydlRlMDRpRXd3SFdES01IeVExSzhuanZBenZWd0lmUlplUE9ZOTI?oc=5",
-     "origin": "ad-hoc-news.de"
-    }
-   ]
-  },
-  {
-   "title": "ESMA establishes 2026 priorities for sustainability reporting enforcement",
+   "title": "ESMA publishes 2026 CSRD reporting enforcement priorities",
    "regs": [
     "csrd",
     "esrs"
    ],
-   "what": "ESMA issued its 2026 enforcement priorities, focusing strictly on double materiality determinations and connectivity between sustainability statements and financial disclosures.",
-   "meaning": "National regulators will examine whether your CSRD reporting demonstrates verifiable double materiality logic and consistent integration with published financial figures.",
-   "action": "Ensure your double materiality assessment documentation explicitly ties supplier-related ESG risks to financial accounting impacts.",
+   "what": "ESMA set 2026 enforcement priorities for CSRD reporting, targeting double materiality, connectivity, and risk disclosures. Regulators like France's AMF highlighted the recommendations, explicitly warning listed companies against underreporting negative sustainability impacts.",
+   "meaning": "As a listed importer within CSRD scope, your reporting will face scrutiny regarding negative environmental and social impacts across your Chinese supplier network.",
+   "action": "Ensure your double materiality assessment thoroughly documents negative supplier impacts and aligns with financial disclosures.",
    "sources": [
+    {
+     "title": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities",
+     "link": "https://www.esgtoday.com/esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities/?utm_source=rss&utm_medium=rss&utm_campaign=esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities",
+     "origin": "esgtoday"
+    },
     {
      "title": "EU Sustainability reporting – ESMA sets 2026 common enforcement priorities – materiality and providing connected information remain firmly in focus",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZRmVnb3J6Y3lfNEhFaWs3UTdfa2hPMFBTbEFOb1g4UWV0SV9qTWZRcHlMQktKOXlmQnJGMGU1b3hqMm8yWThRUEdvX0VVU3VoM0JuQWZseXBzZ29PMjNlc3BHWlZCczMtU0toSFQzX1I?oc=5",
      "origin": "Hogan Lovells Cadwalader"
+    },
+    {
+     "title": "ESMA cracks down on underreporting of negative sustainability impacts",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFFVdm5PNl9CYjFUdmNueERLc3Y1UkxBUFRacF9YUk1hRmx0SVZTQUVlaW1wOTg3aGxtQS14SEZ6WktjMVNfakFnNkZQZl9HeXJ5LXB2a283TXBOY0NfQ0lnX1Z5aThReTczOS1sVjE2cG1PbHo5QjJiZFRpb084Wi1YbzZsdm1BTm4wb0RfTnZHaW5JU00xUU0ydzI5aDd5bVlqX3dnYUlPUE0?oc=5",
+     "origin": "Responsible Investor"
     },
     {
      "title": "Preparing upcoming sustainability statements: the AMF draws listed companies’ attention to ESMA’s 2026 recommendations",
@@ -61,12 +37,54 @@
      "origin": "Autorité des marchés financiers (AMF)"
     }
    ]
+  },
+  {
+   "title": "EU confirms commitment to battery recycling targets",
+   "regs": [
+    "batteries"
+   ],
+   "what": "EU institutions reaffirmed their commitment to current battery recycling targets and waste rules under the EU Batteries Regulation, maintaining established circular economy expectations.",
+   "meaning": "Compliance timelines for your proprietary battery platform remain firm, requiring verified supplier data on material recovery, recycled content, and collection performance.",
+   "action": "Audit Chinese battery cell suppliers to confirm readiness for material recovery and recycled content documentation.",
+   "sources": [
+    {
+     "title": "EU sticks to battery recycling targets",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlHekhIZjBYLWRKUkx6MHMtTXhRdUNRRnc2eGRrcXcxNFN0ek5DWW9JRHlIWGl4UlVEZzJkN2hBNmdXSzZYNUFwUkRIczF6QldBOEQ2bUhieUVsVnMzVXQ4aFhEamVZUGdNS2RneHZvNS1uX2FhaUFMT1hQQlVINFU1OF80Zk1EMHc?oc=5",
+     "origin": "RECYCLING magazin"
+    },
+    {
+     "title": "The circular economy and waste rules for packaging, batteries and textiles | 19-10-2026 | News",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzllX3ExNXd0c1ZFXzBoUGpMWTNBYnhfTHFyZlFZT28ySDk5U0dNTUtUenBPR2dDdzQ1aTc4ZXUyX01vREd0V1RFQmJvaXpuWUhTNC1PN3dFS2JGcmNZZW02WktMWnRvekN4eGg1U0dLaFdvZUVjdGt6UWFpeXBiRGVmTFBBQTRYWVotRmVJTFByTHRkNTI5VkJKaGtZaEwtemVPVVBoNkt6U0lmSUZBMW9lQTE5bGJ2Z0Y3RjdwVnBzaThDeWltcmVVUjJaWVZRZDh1RTRWNllTWHlWa3pV?oc=5",
+     "origin": "European Parliament"
+    }
+   ]
+  },
+  {
+   "title": "Member states advance right-to-repair implementation",
+   "regs": [
+    "right-to-repair"
+   ],
+   "what": "EU member states are advancing right-to-repair provisions. Belgium launched a consumer repairer platform, while Spain reported delays transposing rules that extend warranties when consumers choose repair over replacement.",
+   "meaning": "As the legal manufacturer of consumer power tools, national rollouts will govern your obligations regarding spare parts availability, repair access, and warranty obligations.",
+   "action": "Assess spare parts availability and repair documentation across your primary EU consumer distribution networks.",
+   "sources": [
+    {
+     "title": "EU offers extra year of warranty on phones, but Spain faces delays",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHdwM0FOMTFkZ1BTZXYtSVlURUVmanNMcmhHdzVVekYxOF9lbWFVZlAwVl92OWVGb0ZneDdVdkRGcGlEclR1MVAtdXAtOUZpWlk2MzlJVVZVcGJGTGhlb19tcmo0MHh1cFNVRmFoNDNETUVSVWJzOEp5S0lYM3N4X2NuMmtheXBwUWY0NnNRQ2hWVEFXX1k1dmNtWnM3WVpnb1JtM2ZXNA?oc=5",
+     "origin": "Euro Weekly News"
+    },
+    {
+     "title": "New online tool helps Belgians find repairers for electronic devices",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWlBX1JGNzQtcks2QUxBVEVqZVlrLThoeUxKb2xkYU9fa2U4UjR5VEFYYWhzaF9veng3ZmcyZ2NaUEY2NFhGcmN2ZTdJR3J0Wm5HSm5hR09ISmR5bTMxV0dvQzdSVlVjMngyMzRqN3JIUDA5bzhtRUN0Wklhd3gyYVNER09VUWtJbzEwZUZoLXdwSFBHQ2ZjMTlEcl9DT1FuRG9YZ1NNeTJsQQ?oc=5",
+     "origin": "The Brussels Times"
+    }
+   ]
   }
  ],
  "watch": [
-  "The formal entry into force of the revised ESRS standards expected on 10 November 2026.",
-  "EU Council negotiations over member-state demands to reassess or postpone ETS2 carbon pricing.",
-  "Operational readiness for EUDR obligations applying to packaging and timber-derived components by 30 December 2026."
+  "Entry into force of revised ESRS standards in November 2026 ahead of mandatory 2027 application.",
+  "The 30 December 2026 EUDR compliance deadline for large and medium operators.",
+  "Political negotiations among EU leaders regarding potential reviews or delays to the ETS2 system."
  ],
- "based_on": 45
+ "based_on": 40
 }
