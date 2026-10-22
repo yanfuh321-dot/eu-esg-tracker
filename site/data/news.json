@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T10:10:09Z",
+ "generated_at": "2026-10-22T19:13:15Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -15,8 +15,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 3,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 4
   },
   {
@@ -31,8 +31,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 0,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 1
   },
   {
@@ -45,10 +45,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 11,
+   "fetched": 13,
    "kept": 1,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 0
   },
   {
@@ -61,10 +61,10 @@
    "note": "The feed could not be used: The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 6,
+   "fetched": 8,
    "kept": 1,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 2
   },
   {
@@ -79,8 +79,8 @@
    "empty": false,
    "fetched": 100,
    "kept": 5,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 6
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
    "last_ok": null,
    "stored": 0
   },
@@ -111,8 +111,8 @@
    "empty": false,
    "fetched": 20,
    "kept": 4,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 9
   },
   {
@@ -126,10 +126,10 @@
    "via": "feed",
    "empty": false,
    "fetched": 10,
-   "kept": 3,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 13
+   "kept": 1,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 14
   },
   {
    "id": "gn-reporting",
@@ -141,11 +141,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 21,
-   "kept": 21,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 76
+   "fetched": 30,
+   "kept": 30,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 79
   },
   {
    "id": "gn-csddd",
@@ -157,10 +157,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 9,
-   "kept": 9,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "fetched": 10,
+   "kept": 10,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 24
   },
   {
@@ -173,11 +173,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 31,
-   "kept": 31,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 77
+   "fetched": 34,
+   "kept": 34,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 80
   },
   {
    "id": "gn-cbam",
@@ -191,9 +191,9 @@
    "empty": false,
    "fetched": 100,
    "kept": 100,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 261
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 258
   },
   {
    "id": "gn-eudr",
@@ -207,9 +207,9 @@
    "empty": false,
    "fetched": 55,
    "kept": 55,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 132
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 128
   },
   {
    "id": "gn-claims",
@@ -221,11 +221,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 8,
-   "kept": 8,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 32
+   "fetched": 9,
+   "kept": 9,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 31
   },
   {
    "id": "gn-products",
@@ -237,11 +237,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 15,
-   "kept": 15,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 53
+   "fetched": 17,
+   "kept": 17,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 52
   },
   {
    "id": "gn-social",
@@ -253,11 +253,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 13,
-   "kept": 13,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 47
+   "fetched": 16,
+   "kept": 16,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 50
   },
   {
    "id": "gn-repair",
@@ -271,9 +271,9 @@
    "empty": false,
    "fetched": 10,
    "kept": 10,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 22
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 21
   },
   {
    "id": "gn-chemicals",
@@ -287,8 +287,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 1
   },
   {
@@ -303,8 +303,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 1
   },
   {
@@ -317,10 +317,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 10,
-   "kept": 10,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "fetched": 9,
+   "kept": 9,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 21
   },
   {
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 1
   },
   {
@@ -351,8 +351,8 @@
    "empty": false,
    "fetched": 2,
    "kept": 2,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
    "stored": 3
   },
   {
@@ -365,11 +365,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 4,
-   "kept": 4,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 13
+   "fetched": 5,
+   "kept": 5,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 12
   },
   {
    "id": "gn-cn-supply",
@@ -380,15 +380,277 @@
    "error": null,
    "note": null,
    "via": "feed",
-   "empty": true,
-   "fetched": 0,
-   "kept": 0,
-   "checked_at": "2026-10-22T10:10:09Z",
-   "last_ok": "2026-10-22T10:10:09Z",
-   "stored": 1
+   "empty": false,
+   "fetched": 2,
+   "kept": 2,
+   "checked_at": "2026-10-22T19:13:15Z",
+   "last_ok": "2026-10-22T19:13:15Z",
+   "stored": 2
   }
  ],
  "items": [
+  {
+   "id": "a023b2cb47416c50",
+   "title": "Automated vehicle marketing rules: advertisers have around ten weeks to get ready",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHRGVzRSdEtfMm1kZ2k5VUZhQWtsTUEyY0c5T1lTMk9vZURXa256Z3psaXZBS3ZPeHoyTmkwbTd6WmV5RW8wd2lQajY3WFYtSEM4VXBOTE5Ra2MxNFBVTkNMaTdyTVJuNzZkeHl1Wl85WVF5YUpHSVNoLUdCX0l0Q0lxSm1IZlMyaUdqc2FRYkdsdnQ5S0tPWGVKMEVYS1B2RWNGQllTWVdMcEtkWEloZ1BOZ21pd1lhOU05dU9ZZmoya0R5UjFFcGN5ek90a0JDSUE?oc=5",
+   "summary": "",
+   "published": "2026-10-22T17:27:18Z",
+   "source": "gn-social",
+   "publisher": "Lewis Silkin",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "a342ba3fc6182d21",
+   "title": "'Who did most harm to Ozone layer?': Piyush Goyal holds up the mirror to Europe on climate change",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX1AyYW5uTTdDZ2JXUC1JQjFDalhxV1J6UEJzTlo4clpjS2hIVUhvYmxOVWNxLWFSSHNJaXN2ZVBMY2tpS3I3bXJiYmRkUHY1SmUydUZLZmlZUFdrbVJjTjRUNmstdTlfZGp0TWdCMVB3dWpUdXB4cU5nUlJWUVNfdzlka2ZsMEJxOFVNdGtEQ0QwNkFuNVlCY01NcHhMbW5XNi0zZU5sTzZWSTZETC1CZTJuQXpKN2FMZC1pMTlvU3M1ZXNEZkMzLVd0S3ZlR0laZkNEdXVHRmRwX18wSUp3NlhkUEVjYlFRZnJ4d1kwelJwUdIB8gFBVV95cUxQX1AyYW5uTTdDZ2JXUC1JQjFDalhxV1J6UEJzTlo4clpjS2hIVUhvYmxOVWNxLWFSSHNJaXN2ZVBMY2tpS3I3bXJiYmRkUHY1SmUydUZLZmlZUFdrbVJjTjRUNmstdTlfZGp0TWdCMVB3dWpUdXB4cU5nUlJWUVNfdzlka2ZsMEJxOFVNdGtEQ0QwNkFuNVlCY01NcHhMbW5XNi0zZU5sTzZWSTZETC1CZTJuQXpKN2FMZC1pMTlvU3M1ZXNEZkMzLVd0S3ZlR0laZkNEdXVHRmRwX18wSUp3NlhkUEVjYlFRZnJ4d1kwelJwUQ?oc=5",
+   "summary": "",
+   "published": "2026-10-22T17:10:00Z",
+   "source": "gn-eudr",
+   "publisher": "The Economic Times",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "bf203fc971abc858",
+   "title": "Navigating Europe's regulatory maze",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVo1eUI4RmxldDJndHZMWXRaZmFBaHFjeTZXaFYyNmpxem4wam5aVGdCcGVmR1F3UXRMcWQ5MFR2WWprVEhrWkRRNjJkOWFJOFNTS1FqYmVVQk1nSEU3YlFMYTlQVDJJRU5zanJ6SHg4bDc0YVpLRWgwY1ZvMnY4VVdIaHRrcVo3QVlOY0pLSzU3cTVmSjNaTlNVSl9UZnV6TnNxU1VfTDA?oc=5",
+   "summary": "",
+   "published": "2026-10-22T17:07:48Z",
+   "source": "gn-products",
+   "publisher": "Business Standard",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "a0d5a00b5ce3d993",
+   "title": "Sorrento cabins in compliance with CSRD approved variances",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWFpT0xJZzRqbmNNWG4yU0piT1JEVC1sOF9JaHZVSTl1Sm5nZl9lX002NENndGJOd25nVEgybDFfTWU0V3ZDYzJiWkd5NG00U3lQUGpGQVA5UEx5dXUxTGxkdm1Ea2swVnFVZGkzbFlha0pGTUs3a1dVWW1haDhrZVlOTXRUdEV6WEJSVHRvcGNLbTg2d3VLVQ?oc=5",
+   "summary": "",
+   "published": "2026-10-22T17:01:22Z",
+   "source": "gn-reporting",
+   "publisher": "Salmon Arm Observer",
+   "kind": "news",
+   "tags": [
+    "csrd"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "8e52e9eaae53c777",
+   "title": "ESMA Guidance on Impact and Climate Transition Claims",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVpjWHd1VE5lWDJybHZ4QnpfOUNiSXJGMXVGX1MxMFJzUTQ3a1Fpak5wLUZzRS14NWttU0tISHNqbE85b3hPNHp4Y01tcWVzbktiTFhuUWRldDNlbGUyekFfbVZnM1NJR2ZRaURYb01Ca1NaXzdkYWhXZHRtMzhTclA2NmoyNTNNX0FpUXJ2cWjSAZABQVVfeXFMTkVaY1h3dVROZVgycmx2eEJ6XzlDYklyRjF1Rl9TMTBSc1E0N2tRaWpOcC1Gc0UteDVrbVNLSEhzamxPOW94TzR6eGNNbXFlc25LYkxYblFkZXQzZWxlMnpBX21WZzNTSUdmUWlEWG9NQmtTWl83ZGFoV2R0bTM4U3JQNjZqMjUzTV9BaVFydnFo?oc=5",
+   "summary": "",
+   "published": "2026-10-22T14:27:11Z",
+   "source": "gn-finance",
+   "publisher": "The National Law Review",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "green-claims"
+    ],
+    "note": "ESMA published guidance on impact and climate transition claims relevant to green marketing rules."
+   }
+  },
+  {
+   "id": "24b5eebd032362b2",
+   "title": "Right to Repair in Europe, Country by Country, What Is Law Now",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0NRRWxvMVZPUEpoT0ZFYzNXX25RUmNYckdEWkJDN0puWk9kQUhuVWpmdGRtcnhmZHA5Z2lUcnZkUjgxdjZYd2YtZ1A5WHUyM21LdlJOdmJETmdHTUIzNHprVXBKbTFsOEtucjUwQUZVZnNJLWEzYkp1Y0RxOUk5X3Q1QXNDWVpJVE5pbkl3?oc=5",
+   "summary": "",
+   "published": "2026-10-22T14:10:11Z",
+   "source": "gn-repair",
+   "publisher": "Pasquale Pillitteri",
+   "kind": "news",
+   "tags": [
+    "right-to-repair"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "right-to-repair"
+    ],
+    "note": "An overview details the current country-by-country status of the Right to Repair legislation in Europe."
+   }
+  },
+  {
+   "id": "3b152eddf0e5f4e4",
+   "title": "NFU Scotland Urges UK Government to Provide Clarity on CBAM and Addres",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTXE5REZJY0FwUEZJVnpGdjZoaW5FLWFPVDFfZW4tVERWaWtmQWJLZ1ZGT0pNVzVQU2tCWmNyUHVwcFV0SGdQVUlhOWtqNzRSeWZudUF6TURXaE11aXE2SlVTUV9wUmxzWEtZQXRhelpha2dTS091cFQyRGQ5dlJMZmJGblJhM1lDS2IwQTFLWlIzMllyQWdNd0Y1UHo0QlRIM3pyaVVDVVdJNWM0dFcwXzBVY1RubFc3LWhLRkxNQ2l5NHJpLVhnYlJXSlhMNXM?oc=5",
+   "summary": "",
+   "published": "2026-10-22T13:57:12Z",
+   "source": "gn-cbam",
+   "publisher": "NFU Scotland",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "NFU Scotland urges the UK government to provide clarity on CBAM implementation."
+   }
+  },
+  {
+   "id": "267db863f4fe9a12",
+   "title": "CSRD burden reduction measures not fit for purpose, say UK companies",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnR2SjRpUEd4bzFJbi1rSXd3VkkwNTRvOC04V1N6SFY1NjY5eUQxaW9jdlA2a21rYjhRWXdBZTdWeV9FQWdKTlM1bEI4eGVNbmhVVVpCeHFJejhvTTRLa2daTXQ3WWpoZ1lQc2tldWJBc2xRZG1SclIwT2dCWVYtaEtFMGhOejlQUXd2TGNkc2M0Nmdmdm1FMm12S0FZT2c0dndKZWdrd08?oc=5",
+   "summary": "",
+   "published": "2026-10-22T13:50:02Z",
+   "source": "gn-reporting",
+   "publisher": "Responsible Investor",
+   "kind": "news",
+   "tags": [
+    "csrd"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "csrd"
+    ],
+    "note": "UK companies state that CSRD burden reduction measures are not fit for purpose."
+   }
+  },
+  {
+   "id": "e9d8832ab565f974",
+   "title": "EFAMA calls for changes to SFDR 2.0 proposals as trilogues kick off",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUlmYWlPeEVSdUI0UUtxa0h4NEJwOGZNRkVsVXltb1VueFBQRmJXY3lWcm0xcnNNOVpLSkpuWk9CWGRzeUptQVRta1JOeHRjZFpFWVVwVVl1RnBCNzdfX2V3YzY0aGt3TG02WG4zVWE3aGRXVjRqLUd2WU9NSm1mek5BeVVBNk1uVEl5aV9XWnJYcVFPdmpmRmJpZ29xNXU4NFVzM2RzM0RKLUxQ?oc=5",
+   "summary": "",
+   "published": "2026-10-22T11:40:46Z",
+   "source": "gn-finance",
+   "publisher": "Investment & Pensions Europe",
+   "kind": "news",
+   "tags": [
+    "sfdr",
+    "sfdr2"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "sfdr2"
+    ],
+    "note": "EFAMA calls for changes to SFDR 2.0 proposals as trilogue negotiations begin."
+   }
+  },
+  {
+   "id": "be99ac3efe07f98d",
+   "title": "Efama calls for SFDR 2.0 rules to ensure categories are investable and avoid unnecessary bureaucracy",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1BWbUo4QS00MkpwRk1IU0hfRUg4QUpSd1VVc193c0t2UEZveDVMNEFpcG1wc3lhQkNET3BRNEw1YmZQdDBfb0hxMlEzN3lXMWZEamozYWxRZ1B6eVdsQng1VllDSEtRQ3dvN0h1cTV6Z1R0ZTZ4RkdFS1dkRmRPSzd0OVBJOUhLOU5VYnBwcTVEanEtQ3RTN2RVdTFFanBJaTR6cmVEbGo1ajdGRGpweXhINER5VmtZX0FQX3FKel9Xb0RJ?oc=5",
+   "summary": "",
+   "published": "2026-10-22T10:59:04Z",
+   "source": "gn-finance",
+   "publisher": "Funds Europe",
+   "kind": "news",
+   "tags": [
+    "sfdr",
+    "sfdr2"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "sfdr2"
+    ],
+    "note": "Efama calls for SFDR 2.0 rules to ensure investment categories remain investable and avoid bureaucracy."
+   }
+  },
+  {
+   "id": "0bcd91344b3d4682",
+   "title": "Sri Lanka prepares rubber sector for EU deforestation rules",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXE2VGpsT25CN1FYR3F3ZTBVaDAyQlpXcXpRQTBkM2s3RXM4YmVxQXgwWnpOR3lHS0lUY29ONEJaUmpZWDRmdk9UdTYxazBDdjBESGE1eGNQRTItRmpIdjNJYTlqZzZBak82cy1Mb3kxY0pHY2RGcm1WellVVTBoV1V4c0tJSnVYazB0SVBjOGRXNFVFTHc?oc=5",
+   "summary": "",
+   "published": "2026-10-22T10:46:00Z",
+   "source": "gn-eudr",
+   "publisher": "EconomyNext",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "eudr"
+    ],
+    "note": "Sri Lanka is preparing its rubber sector to comply with EU deforestation regulations."
+   }
+  },
+  {
+   "id": "14bc2d5ca7965ed3",
+   "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
+   "link": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
+   "summary": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft […]",
+   "published": "2026-10-22T10:33:49Z",
+   "source": "esgtoday",
+   "publisher": null,
+   "kind": "industry",
+   "tags": [
+    "esrs"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
   {
    "id": "664b73be68dce031",
    "title": "Remarks by Mr Stefan Liller at 2026 SINA Sustainability Global Leaders Conference",
@@ -402,14 +664,20 @@
     "cn-ets"
    ],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "4023871c200b7eb4",
    "title": "Pay Transparency and SAP HR: What the Directive Asks of Payroll and SuccessFactors Data",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNUGNwNmd6QkZEbWlNVmEtS1FlNUg3Qm8yUFM1Z04xeUQ0RGtPS3dFUy13dGl0NVdFS29zVFBkZ3lZel8yeWhiYmRTVmR3X0tkcUctdkRnOXprX21HRjVFMktBcm1CcmhSWXRB?oc=5",
    "summary": "",
-   "published": "2026-10-22T09:10:07Z",
+   "published": "2026-10-22T09:10:38Z",
    "source": "gn-social",
    "publisher": "IgniteSAP",
    "kind": "news",
@@ -417,14 +685,45 @@
     "pay-transparency"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "pay-transparency"
+    ],
+    "note": "An analysis explains what the Pay Transparency Directive requires from payroll and HR data systems."
+   }
+  },
+  {
+   "id": "a493aef24c5be59d",
+   "title": "Congressman Wants Europe to Stand Up to Trump’s Push to Gut the EUDR",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wWENrMGl6bExXRFVIVTBHMHZpaXFZcWFjb3FUY2pTX1J5TGJ2TnRyRVBYVlZJMUd6dGNjR3E4OVI1YmpyVVFDWEdkLVlXckRLU2liMzN4cHVSZw?oc=5",
+   "summary": "",
+   "published": "2026-10-22T09:05:14Z",
+   "source": "gn-eudr",
+   "publisher": "Wood Central",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "eudr"
+    ],
+    "note": "A US Congressman urges Europe to resist efforts to weaken the EU Deforestation Regulation."
+   }
   },
   {
    "id": "9d5422631e44d833",
    "title": "UK CBAM from 1 January 2027: HMRC guidance explained",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnU3ZC1WdXV2RnVuUVNLZmxBSnY1TV81bFpGakxJcGhHeTlxZWRjT2F5N19KUElHellfVVF2dVFwMFNmRnVvd3FyLVUtWmE3N1l0dHF0dVduZTVHNWZQSzRjVFBGdGdjX0ZBWGpfUmVHS3p0dXBjMlYtdkU1NXgzXw?oc=5",
    "summary": "",
-   "published": "2026-10-22T08:48:45Z",
+   "published": "2026-10-22T08:49:20Z",
    "source": "gn-cbam",
    "publisher": "Trans.INFO",
    "kind": "news",
@@ -432,7 +731,38 @@
     "cbam"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "HMRC guidance explains the UK CBAM taking effect from 1 January 2027."
+   }
+  },
+  {
+   "id": "133d69adc1eb1fa0",
+   "title": "Digital Product Passport in Adhesives: The Invisible Component Becomes Visible",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUFtdnpvZnJkTTFQTEE3U3ZCZ0dHYzZXYU0zanJHVkgtenR2bGVfWUIwV2xaemdibElZdm1mcWtBSW5jbWJ1Y2V3LV9nVE9QcmsxMGJnLUUybGtOR1ZpMkMwZ25ScDNPcTZPZTYwdTNzNW9heUcyczN3VndkVWNwVUNGbG9pelZRM3JGWE02MmpCMjF6R1VIUkRpdE1DQlc5WFJoQTR2TW1DRmp3UFE?oc=5",
+   "summary": "",
+   "published": "2026-10-22T08:46:00Z",
+   "source": "gn-products",
+   "publisher": "Turkchem.net",
+   "kind": "news",
+   "tags": [
+    "espr"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "espr"
+    ],
+    "note": "An article discusses the implementation of Digital Product Passports for adhesives under EU rules."
+   }
   },
   {
    "id": "46d51ffbd3065283",
@@ -447,7 +777,15 @@
     "cbam"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "An article provides guidance on how businesses can prepare for the UK CBAM."
+   }
   },
   {
    "id": "88c76fce41cdad57",
@@ -462,7 +800,15 @@
     "eudr"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "eudr"
+    ],
+    "note": "The EU and Sri Lanka have strengthened their official dialogue regarding the EU Deforestation Regulation."
+   }
   },
   {
    "id": "60d162252fc69dac",
@@ -477,22 +823,15 @@
     "eudr"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
-  },
-  {
-   "id": "a493aef24c5be59d",
-   "title": "Congressman Wants Europe to Stand Up to Trump’s Push to Gut the EUDR",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wWENrMGl6bExXRFVIVTBHMHZpaXFZcWFjb3FUY2pTX1J5TGJ2TnRyRVBYVlZJMUd6dGNjR3E4OVI1YmpyVVFDWEdkLVlXckRLU2liMzN4cHVSZw?oc=5",
-   "summary": "",
-   "published": "2026-10-22T05:00:58Z",
-   "source": "gn-eudr",
-   "publisher": "Wood Central",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "eudr"
+    ],
+    "note": "Sri Lanka focuses on safeguarding rubber exports to meet upcoming EU deforestation requirements."
+   }
   },
   {
    "id": "323cc667dcefc912",
@@ -507,7 +846,15 @@
     "cbam"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "cbam"
+    ],
+    "note": "An analysis examines the impact of extending CBAM to downstream products on smaller enterprises."
+   }
   },
   {
    "id": "4f256a508c98c657",
@@ -520,22 +867,13 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
-  },
-  {
-   "id": "0bcd91344b3d4682",
-   "title": "Sri Lanka prepares rubber sector for EU deforestation rules",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXE2VGpsT25CN1FYR3F3ZTBVaDAyQlpXcXpRQTBkM2s3RXM4YmVxQXgwWnpOR3lHS0lUY29ONEJaUmpZWDRmdk9UdTYxazBDdjBESGE1eGNQRTItRmpIdjNJYTlqZzZBak82cy1Mb3kxY0pHY2RGcm1WellVVTBoV1V4c0tJSnVYazB0SVBjOGRXNFVFTHc?oc=5",
-   "summary": "",
-   "published": "2026-10-22T04:32:27Z",
-   "source": "gn-eudr",
-   "publisher": "EconomyNext",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "3ac7b9426e6d5e11",
@@ -550,7 +888,15 @@
     "eudr"
    ],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "eudr"
+    ],
+    "note": "Brazil's pulp trade faces potential trade hurdles under EU and US rules."
+   }
   },
   {
    "id": "b5452b382dc5d29b",
@@ -565,14 +911,20 @@
     "cn-csds"
    ],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "a29c9264ebdd085f",
    "title": "UK CBAM: What Hong Kong Traders Need to Know",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lXzBGQUJ6bkt5RDZlR0lsdWNTRW5Ha2w5cFBaZ3ozYl9UTWxwM2huOExHbDNSaS1OMnFTNkJiWmZBaE1jeXBZSDB0a2J3cjlvNFAyZ28xZDRwTjNIV2I1X2x3?oc=5",
    "summary": "",
-   "published": "2026-10-22T00:50:50Z",
+   "published": "2026-10-22T00:50:40Z",
    "source": "gn-cbam",
    "publisher": "HKTDC Research",
    "kind": "news",
@@ -580,7 +932,15 @@
     "cbam"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam"
+    ],
+    "note": "An advisory details what Hong Kong traders need to know about the UK CBAM."
+   }
   },
   {
    "id": "bdea63cc63562fcf",
@@ -595,7 +955,15 @@
     "eudr"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "eudr"
+    ],
+    "note": "Ethiopia faces significant coffee export revenue risks under the EU Deforestation Regulation."
+   }
   },
   {
    "id": "e7fd14d984432aee",
@@ -608,7 +976,16 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "ecgt",
+     "green-claims"
+    ],
+    "note": "An analysis covers which cosmetic packaging claims become prohibited now that EU green transition rules are in force."
+   }
   },
   {
    "id": "7e60608166c34f7a",
@@ -644,7 +1021,13 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "fdc060264863801c",
@@ -680,7 +1063,15 @@
     "espr"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "espr"
+    ],
+    "note": "An explainer details how the Digital Product Passport works for products sold in the EU."
+   }
   },
   {
    "id": "ee21ca673c3d5de6",
@@ -712,7 +1103,13 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "bc994533996bce5f",
@@ -788,7 +1185,13 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "39d794a992000a10",
@@ -887,7 +1290,13 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "6ebedf0955ae8dfd",
@@ -919,7 +1328,13 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "ea60228bd0cb26c3",
@@ -1097,6 +1512,25 @@
      "cn-ets"
     ],
     "note": "China's expanding carbon market could increase demand for overseas carbon credits."
+   }
+  },
+  {
+   "id": "359804ea4b0b624f",
+   "title": "Europe’s conservatives have 2 new targets in their campaign to weaken EU climate laws",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEJOWGxiMWJNckItME5uSnh4cHFwSWs2M3M0Y3M1MTlDaXczR0hVYXFsMk1MdTMtWGJYZkd2UkJQX1BkdHBCcHczV01TaW5LNXBzRFpVTl9lZFRPcVdIWnQyWnloT01GWnEtZDRncmxId0h2czh3eFRjQzFpUGpxbnRTTjNLSm1DZGZWTm5xdnQ4c1V0SlByZ3ZCZlNsUQ?oc=5",
+   "summary": "",
+   "published": "2026-10-20T20:15:00Z",
+   "source": "gn-cbam",
+   "publisher": "POLITICO.eu",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [],
+    "note": "Political developments regarding conservative efforts to weaken EU climate laws."
    }
   },
   {
@@ -1607,7 +2041,13 @@
     "de-lksg"
    ],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "22f500ef1f07d4d4",
@@ -1775,7 +2215,15 @@
     "pay-transparency"
    ],
    "weak": false,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "pay-transparency"
+    ],
+    "note": "Proposed legislation on pay transparency is being discussed in the Chamber of Deputies."
+   }
   },
   {
    "id": "c73e18851af95965",
@@ -2012,7 +2460,7 @@
   },
   {
    "id": "8cbad15ef99dab4f",
-   "title": "Switch 2’s EU Fix Adds 10g, Retires Switch 1 in 2027 [2026]",
+   "title": "Nintendo Switch 2 EU Battery: Switch 1 Retires 2027",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15U1FNanRLd3dRVkxoZjZFTFFwaGgxclFuZVk5dGRzT1dCWHhDTEdOMk9WS01EYm9lbFVPSUFBSkJSeEEzSUxhTFBUaTA0djNpX0tjSmhkTnhUVklpQ3VpOEc0M3dGdUFQb0E?oc=5",
    "summary": "",
    "published": "2026-10-19T16:24:45Z",
@@ -2088,6 +2536,27 @@
     "importance": 0,
     "regs": [],
     "note": ""
+   }
+  },
+  {
+   "id": "71aaa1c7ed421a2b",
+   "title": "Corporate Accountability by Algorithm: AI and the Interpretation of Human Rights Due Diligence",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPZHVCa3ZucFk1N3ZMem1kaUFBTUFpMkMzWE4zQU9TNXBVZWQ5bVo5R1d0czljVVA2N3J1eFlqXzJkbGNHSXlsSnd6ZktwZ045aW5sVld4c2tQa0YxclVvMHNzZWp2N0dkLUZfMktvWGxVb3ZmVkVXdGZxemkzUEIxd3pCWUw1aEFtM1ViYjBwVFdMekZTWGM5VnFZUkVJOGN1dVl1dFJoQk1fMi1heWlkU2xYeU5WcWZ6Tnh2NzBmUGhJYkF4c016cnVLSG5ocUQtNUFmNXVGTGtBUy1HUDFkZHQ3TjB1NG5rUnRYZHNjaUNGODZEVGZvc3pfZ2ZkNzBoYkRTdFhQOFdSVnhpZllkcFBjVjN3SDBpUnF3clROQk5aSDM0cmhRVHdjcFE1czhnZmc?oc=5",
+   "summary": "",
+   "published": "2026-10-19T12:43:18Z",
+   "source": "gn-cn-supply",
+   "publisher": "Cambridge University Press & Assessment",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "csddd"
+    ],
+    "note": "An academic paper discusses algorithmic accountability in human rights due diligence interpretations."
    }
   },
   {
@@ -2438,6 +2907,27 @@
    }
   },
   {
+   "id": "a6fe2d81899c68e4",
+   "title": "Finance (No. 2) Bill 2026: Transfer Pricing | Deloitte Ireland",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1c0YWlPcjBOSmg2MXRjMHlFYnlwWVptc01oU3hTZzFBbE4zTzEzcGEwa3BUcXF1a29HRDN0aktSSW02bkdKbGhCeGN2ZkljekRHZU5OZTlWVk1jVWJ2RzdnaGp4b2VuVzRtN2hzWWFvRTFZbEVJbXN4b2k2QjN0eVh4QTN3WWFseDRTUFJ1OGF4TnRlUlE?oc=5",
+   "summary": "",
+   "published": "2026-10-19T07:00:00Z",
+   "source": "gn-reporting",
+   "publisher": "Deloitte",
+   "kind": "news",
+   "tags": [
+    "csrd"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "d48d41ee8085c883",
    "title": "Natural rubber imports a virtual 'no-show' in EUDR impact analysis",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzN2eDRLeWtLcXpGZU90aGN5bXJ5a2ZIeDY4RHFTVXhrZmh5LVZHVzJkZktWSHBCLUlNNE45QmNGRHdMbU1udjlnemk5b2RpVU1sMlA1RXRielpGTkhWWnJfOEJkUXlEbU5hWTBrbG1vTFR3NmpnU1Qxdi1LdF96SUNmUFhmS0Q5dVZlRnZPUDdaRkRTMlBtanRjdWxLeFFMODN0YjduS2YxWGlxblJV?oc=5",
@@ -2528,7 +3018,7 @@
    "title": "ISS STOXX report finds strong Australia-EU taxonomy overlap for sustainable finance assessments",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUFIZFlnemJfVlNpQ2M4eDlRYWp1Smp2M2hYNERKR1RXNzhtcDRySTl2YTh2ZmpHcHFramlrUkZFT1BoWkhKNzNCdy0tektaTnhnU1prcHZnRkNJcy1CaFNBT2NnVGZnYURUWjB0WFA0Skg3R09rcWEzRTg3b0pPZGxmZ2JNUzRlaHdKTDhTRktQMnA5cW9sYVREaw?oc=5",
    "summary": "",
-   "published": "2026-10-18T22:18:20Z",
+   "published": "2026-10-18T22:22:34Z",
    "source": "gn-finance",
    "publisher": "Traders Union",
    "kind": "news",
@@ -2892,29 +3382,6 @@
     "importance": 0,
     "regs": [],
     "note": ""
-   }
-  },
-  {
-   "id": "c5732d88be330004",
-   "title": "Delaying ETS2 would leave Europe unprepared for future price shocks, say industry and NGOs",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDMtYXZ0Y012VjFWRzB4UkxIV3NQZWxWSVRVMnM3SGRlUlRkQzJZMzFSNzZJdWFIX004eHRyS3dFczVuTW1FRVIzRklFN1cweU9oakxaSnIyT2NEeVZkUGpid2gzbU5wNHJwelM4d05XN25LVWVvbXFLNXZFcWVwVk54bjA4dzlUT0JZRTNvSEc1OUd5a2VXRVA0dW9sSFpfRGotOFBaMkgxNVVjN3p4R25PVjNNZEpvWm9KdTZjU01meE9JS1ZfZTloME5FUzRq?oc=5",
-   "summary": "",
-   "published": "2026-10-17T10:34:09Z",
-   "source": "gn-cbam",
-   "publisher": "Transport & Environment",
-   "kind": "news",
-   "tags": [
-    "ets"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-06T20:19:33Z",
-   "ai": {
-    "relevant": true,
-    "importance": 2,
-    "regs": [
-     "ets"
-    ],
-    "note": "Industry groups and NGOs argue that delaying ETS2 would leave Europe unprepared for future price shocks."
    }
   },
   {
@@ -3471,6 +3938,30 @@
    }
   },
   {
+   "id": "93adfb5961714276",
+   "title": "SFDR 2.0: what the proposed reform means for private assets",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0gtOUljZkNVTm14eklpV2I2SG52Q2tGTUsxQ0JURlJObXBtZUlzUldLT2FqdWVtMGpKdjFqUmRNSm9JVTlqWWJHLXZnUjNwNlljcFM4S2Rpd3VsYzU0XzNVZ3B1SkYtVVB1TFl2TjdDTDlhSUpQTFh5ajlCUDFfa1ZQVl8wVEZaZG5jenBPNkc4Slk?oc=5",
+   "summary": "",
+   "published": "2026-10-16T13:02:06Z",
+   "source": "gn-finance",
+   "publisher": "Paperjam",
+   "kind": "news",
+   "tags": [
+    "sfdr",
+    "sfdr2"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "sfdr2"
+    ],
+    "note": "An analysis breaks down what the proposed SFDR 2.0 reform means for private assets."
+   }
+  },
+  {
    "id": "41462aa74fe9e73e",
    "title": "UK publishes first illustrative CBAM rates",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNF9OdXRXa3ZfZU1SajBoOVhiYjMxRGVrU1JfYmRZMUZwTGZjMFdaTWRVR0ZOaXFISm9IeWdxZnZ2d2NGNG5YWjZHWFRkQlBDTVhnNS0wWGthWnk4ZjFOdGlZZ2F1d1dwN0xrdnV3UkZxQ3dYeGV2QmVQYjRxQTBHd1o2bmRfRERGbEZwVEZfVzA?oc=5",
@@ -3823,6 +4314,29 @@
    }
   },
   {
+   "id": "c5732d88be330004",
+   "title": "Delaying ETS2 would leave Europe unprepared for future price shocks, say industry and NGOs",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDMtYXZ0Y012VjFWRzB4UkxIV3NQZWxWSVRVMnM3SGRlUlRkQzJZMzFSNzZJdWFIX004eHRyS3dFczVuTW1FRVIzRklFN1cweU9oakxaSnIyT2NEeVZkUGpid2gzbU5wNHJwelM4d05XN25LVWVvbXFLNXZFcWVwVk54bjA4dzlUT0JZRTNvSEc1OUd5a2VXRVA0dW9sSFpfRGotOFBaMkgxNVVjN3p4R25PVjNNZEpvWm9KdTZjU01meE9JS1ZfZTloME5FUzRq?oc=5",
+   "summary": "",
+   "published": "2026-10-16T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "Transport & Environment",
+   "kind": "news",
+   "tags": [
+    "ets"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-06T20:19:33Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "ets"
+    ],
+    "note": "Industry groups and NGOs argue that delaying ETS2 would leave Europe unprepared for future price shocks."
+   }
+  },
+  {
    "id": "6337cd278effbedd",
    "title": "BRICS must rejig CBAM",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzdlUm55MjBibGRTeV9uV1dXMTZKNEFSSTVsQlhPRXpkd3JMa3lpMzZLVEduTFo3RU9HLVJ0S2N2NUdWQUZFOTlhOE5hUVlpeWFoTkZSS0JERm42X0ZsbFBudmFOR19MTkNNZFpjZ08wVU0zTnJfdzl6ZUVPN2Q3R3VOTnRuU3VXTWc4X3Y3c9IBlgFBVV95cUxPTWJGaXZlejNmRjZocU1VZGVHN2ZIS0lZNC1Od1hvLWlwQkNkbmxZazlRU2dZdWlldkpNSEZRcEpjYkU5OExYaWJhaFpWR2FrWkl4N0tZRGNkWjVTVGp3UkNvXzQtVEU3d1BTbThxZ1oxRWJnenRDMUhUdWpyS01aUTNOY0VHZGc4LWQ5QlJXMDg4RFVMUEE?oc=5",
@@ -4025,11 +4539,11 @@
    }
   },
   {
-   "id": "a755053a1bf2dead",
+   "id": "4d73ef72771e72c1",
    "title": "US probes EU's CBAM over potential trade barriers",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVm9Cai1RZUcwT1dWSmJkUGJaVkRyZWpmM21ObDNrUGVMVWhWWjMtazB2RVBHVnZRakNLMFVmY2RkNExnV3RTN0NkeUVqMGtqTEtaQkpOOFpxNmRWSWQwd2NRRS1mVEVfSVRncHFpNXJKeFdab3c0Zm9YUklfY3lWT0xWWXVQV28?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTFia2lmSTRmNUE3d0UzXzB1RU5ITG9iQ1dRcGZKbFA0RTJRZXFXQXgyN0dhNFBGVTNwc0VCSEZIZkZ6YV9RZkFrdmxjbnYxN0pWaWtXMlBfdjE5dHQyZzBfWC1ENDFnX1pYQnBNeS11aGc3YWxoUFI1emRQRU1wNktmcDlXVUpZYncxdA?oc=5",
    "summary": "",
-   "published": "2026-10-16T03:18:08Z",
+   "published": "2026-10-16T03:30:12Z",
    "source": "gn-cbam",
    "publisher": "Yieh Corp.",
    "kind": "news",
@@ -4037,14 +4551,14 @@
     "cbam"
    ],
    "weak": false,
-   "first_seen": "2026-10-16T09:48:10Z",
+   "first_seen": "2026-10-22T19:13:15Z",
    "ai": {
     "relevant": true,
     "importance": 2,
     "regs": [
      "cbam"
     ],
-    "note": "The US has launched a probe into the EU CBAM over potential barriers to trade."
+    "note": "The US initiates a probe into the EU's CBAM over potential trade barrier concerns."
    }
   },
   {
@@ -4347,27 +4861,6 @@
    }
   },
   {
-   "id": "b6a5397b599f55bb",
-   "title": "EU circular fashion shift gives Pakistan’s textile industry fresh impetus to upgrade-INP",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUpNQjM3T1lLbDhJNVh4WkZOS0NVODcwdlV5bDg0Rk54NFUyN0JMYVc3NWVYVG9YRm1yc3R1YlFUVkRmVG9oMUtHcnRreVJNMzZzcVpMVVBia0VaU3luVmItN2FuMTRQdUY4ZkxfOXQ4UXlaTGVuTUdMMlN1V0RXQzZVQVlqUi1yck1EaUVBTjZ2R19CbGJIcGRGWW85Z2hyQjlnV3pWSHhsaTdtU2JCU3NqQ196R1IzYlpPOGJMMklkUUNvMUxtaVdmUTM1STg?oc=5",
-   "summary": "",
-   "published": "2026-10-15T15:03:16Z",
-   "source": "gn-products",
-   "publisher": "Independent News Pakistan",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-16T18:48:34Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "espr"
-    ],
-    "note": "Pakistani textile producers are upgrading operations to align with EU circular economy and ecodesign requirements."
-   }
-  },
-  {
    "id": "215b69baf382e080",
    "title": "Few major apparel brands pay garment workers a living wage: report",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlBPUlk0UENoSGlPQ0E0b1VXQVVnZC12Yzk4WkpqS0k4alZENmJWOTlFYnIzVE1iZG8tRWlrTzZEaDFZek9oNXlsaGRteF9jNHZJQ0lxX09pS2lmVDBRckpROFJUM0JTTnI5TzFIOGM3dWo0ZF9MblFtWmczNDBhX3p6RkplMnFtNTVZSG8ydGZBMmI0eEpUOF9n?oc=5",
@@ -4409,6 +4902,27 @@
      "cbam"
     ],
     "note": "Industry stakeholders advocate that a portion of EU CBAM revenues should be allocated to affected non-EU companies."
+   }
+  },
+  {
+   "id": "b6a5397b599f55bb",
+   "title": "EU circular fashion shift gives Pakistan’s textile industry fresh impetus to upgrade-INP",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUpNQjM3T1lLbDhJNVh4WkZOS0NVODcwdlV5bDg0Rk54NFUyN0JMYVc3NWVYVG9YRm1yc3R1YlFUVkRmVG9oMUtHcnRreVJNMzZzcVpMVVBia0VaU3luVmItN2FuMTRQdUY4ZkxfOXQ4UXlaTGVuTUdMMlN1V0RXQzZVQVlqUi1yck1EaUVBTjZ2R19CbGJIcGRGWW85Z2hyQjlnV3pWSHhsaTdtU2JCU3NqQ196R1IzYlpPOGJMMklkUUNvMUxtaVdmUTM1STg?oc=5",
+   "summary": "",
+   "published": "2026-10-15T14:25:46Z",
+   "source": "gn-products",
+   "publisher": "Independent News Pakistan",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-16T18:48:34Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "espr"
+    ],
+    "note": "Pakistani textile producers are upgrading operations to align with EU circular economy and ecodesign requirements."
    }
   },
   {
@@ -4637,7 +5151,7 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3ZVd0ljS25LUUROUEJDTWZkcnQwNmttbTJ2Vl9nVnJnYkI1cXRSek1BeHQ1WlNidE53TEhoQml3WVJEODM2NTZHTmtUdHc4RGV2SHRrYklEbVh0aEVMM19GZmg5NkpsOHRwWGZhSUhteXBwNEVzX1doRXBDQkNtTDVJMnZvYzB6THo5aHpTZU9OeFlueW9lRGJR?oc=5",
    "summary": "",
    "published": "2026-10-15T09:21:57Z",
-   "source": "gn-products",
+   "source": "gn-finance",
    "publisher": "Lexology",
    "kind": "news",
    "tags": [],
@@ -4901,6 +5415,25 @@
    ],
    "weak": true,
    "first_seen": "2026-10-17T09:20:36Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "f1fee358498f97f1",
+   "title": "Electronic Equipment Repair Service Market Size, Share, Trends 2036",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUlwdmxYNVFCY3ZZeE9JcllXMFpyWVdCbTdpcHNsM3ZqbzU3M2NXVlZtbUxmbjhneWM5SG9YSXphM3phTTctMEo2SDdMQzlRd0Z0cWNuTnAwNlc0bF9scHl1cFRFcFRvbk9RMUp4VkhwbE8taXdieW45dzJzSTdYVlRmSUhCd1JrQndPVUp5VlI?oc=5",
+   "summary": "",
+   "published": "2026-10-15T07:00:00Z",
+   "source": "gn-repair",
+   "publisher": "Future Market Insights",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
    "ai": {
     "relevant": false,
     "importance": 0,
@@ -5404,7 +5937,7 @@
    "summary": "",
    "published": "2026-10-14T12:00:00Z",
    "source": "gn-eudr",
-   "publisher": "Fundação Getulio Vargas",
+   "publisher": "Portal FGV - Fundação Getulio Vargas",
    "kind": "news",
    "tags": [
     "eudr"
@@ -5504,19 +6037,17 @@
    }
   },
   {
-   "id": "58d4f9573447506d",
-   "title": "UK considering reforms to its upcoming CBAM framework",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVlvYnFGUnJWUnNKWUc4LWlXVVMyZXVBZ2Q1Q01TcS1qNVBvaTg3NlhOMzlMVnV5MmpkaFpuLVFVN2xVeXEyYUMtS1QwRmROVWhfSnVyeEFMVGJrblI2OE9UbEtqNTM1MkZPQm5FU3BPUXhieGxEVjBkbTJkZ0xIU3VR?oc=5",
+   "id": "b05ef0b0e10f32fb",
+   "title": "ESG Knowledge Update | October 2026",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pTnd3YVZKR0ZtamdXaFg0R2hsMW5DNmdCcVBEbVVsR0hfX1A0blZLc25nOWVoMzJPSFF1SGtmQjZ3U1NNelJDRXczSmU5dktLb2laWFRHM1c4NDhpdTVTTmlSaG1oZG1xTlJvN0d5RXJUd0lzaVJsM3pBd2M?oc=5",
    "summary": "",
-   "published": "2026-10-14T10:50:51Z",
-   "source": "gn-cbam",
-   "publisher": "EUROMETAL",
+   "published": "2026-10-14T10:47:47Z",
+   "source": "gn-claims",
+   "publisher": "Osborne Clarke",
    "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-14T19:22:48Z",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
    "ai": {
     "relevant": false,
     "importance": 0,
@@ -5721,27 +6252,6 @@
    }
   },
   {
-   "id": "2950fc9360e247d2",
-   "title": "Malaysia and Indonesia: A tale of two palm oil producers",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODRlRkNXeEhTNW1mbjNFeWNONW9BUklEaWZCb0tSR2t2WVJxQmR2aW9tUnZ3Um56R05RNUVEYnhLZUZwbkV3bGE1SWs3bGcwcFZkX1JJTkZXSFpwcVpsTmtmQzZQZ050U1ViZFZINEtTOWFZQkhFNWdybFlNdTFwRGJrM25GWTNpNk1rM001MXdDV3dTMUJFM24waWpnWE1YZ2NUOHVmZm9TWXVWZ2MzM2RtSWE4VEVFUGxPR3BHcmxBaHZza1RhNQ?oc=5",
-   "summary": "",
-   "published": "2026-10-14T08:00:00Z",
-   "source": "gn-eudr",
-   "publisher": "Reuters",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": true,
-   "first_seen": "2026-10-14T10:11:51Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
    "id": "68c75e26ffee012e",
    "title": "US Probe into EU Carbon Border Tax Could Benefit India",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejNQOFdZWGJ1MFhmejBjTlN3cmpRZnVaMFFSdkJ0dmRUQTlGeTUzY2s0SWh6el9NMDZNeS1IN2dfWktwY0hyZkxyd1RhQTJKOWloOThpamc1M3FPX29qUnhUTjVwT2d1SldYWHRBQy1DT1NLaUFWSnNIdjM1b3RhVHVDR0lfTTkz?oc=5",
@@ -5786,6 +6296,48 @@
    }
   },
   {
+   "id": "58d4f9573447506d",
+   "title": "UK considering reforms to its upcoming CBAM framework",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVlvYnFGUnJWUnNKWUc4LWlXVVMyZXVBZ2Q1Q01TcS1qNVBvaTg3NlhOMzlMVnV5MmpkaFpuLVFVN2xVeXEyYUMtS1QwRmROVWhfSnVyeEFMVGJrblI2OE9UbEtqNTM1MkZPQm5FU3BPUXhieGxEVjBkbTJkZ0xIU3VR?oc=5",
+   "summary": "",
+   "published": "2026-10-14T07:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "EUROMETAL",
+   "kind": "news",
+   "tags": [
+    "cbam"
+   ],
+   "weak": false,
+   "first_seen": "2026-10-14T19:22:48Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "2950fc9360e247d2",
+   "title": "Malaysia and Indonesia: A tale of two palm oil producers",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODRlRkNXeEhTNW1mbjNFeWNONW9BUklEaWZCb0tSR2t2WVJxQmR2aW9tUnZ3Um56R05RNUVEYnhLZUZwbkV3bGE1SWs3bGcwcFZkX1JJTkZXSFpwcVpsTmtmQzZQZ050U1ViZFZINEtTOWFZQkhFNWdybFlNdTFwRGJrM25GWTNpNk1rM001MXdDV3dTMUJFM24waWpnWE1YZ2NUOHVmZm9TWXVWZ2MzM2RtSWE4VEVFUGxPR3BHcmxBaHZza1RhNQ?oc=5",
+   "summary": "",
+   "published": "2026-10-14T07:00:00Z",
+   "source": "gn-eudr",
+   "publisher": "Reuters",
+   "kind": "news",
+   "tags": [
+    "eudr"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-14T10:11:51Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "bb79e7717e222f06",
    "title": "Enhancing the capacity for surveying and collecting data on coffee growing areas compliant with EUDR regulations in Muoi Noi commune.",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3JSdlg5RlpBQnpwWWE3dkVObWh3YlVRU1RnUkNVVDZvbE5zNDd6YXZpeDdLOXpxNE9jRDZMNkYzZ0JXSi00MW5sOVZDOWFZZkVpVzR2cFBaaEdGV1BBLXVPQXI1Qk91TTgxV1YxRER6cmYwUlExRzZySmVNd1o5TzllcVF6bmwwNUc5bE9XRG14STRyRGlqa3ByblNUUy1WbWJwdDd2Y3A3Y2laRjkwdTZ0d1NSejF1QTIycEVqeGsyTEJn?oc=5",
@@ -5820,6 +6372,25 @@
    "tags": [],
    "weak": true,
    "first_seen": "2026-10-18T09:37:17Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "59c76271e5c3c4f8",
+   "title": "[Webinar] Risk and Reward: What Talent Teams Need to Know About Using AI - October 28th, 2:00 pm - 3:00 pm EDT",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFlNZFNHdWpjOEg4TTdaNE9abDc0U2dNOFNNSTAteFhiZlMtbGVFcTF2aFAwZkM1QWREMW9VdG4yeElsN3Y1WkhCRzd6dlNPLUxSQkdkUHFscE83aUJzekQyUXFNNEJyYzBuTzgyVVAxOUxOMkx3RlRZVGt2OHBib1JlTF8?oc=5",
+   "summary": "",
+   "published": "2026-10-14T07:00:00Z",
+   "source": "gn-social",
+   "publisher": "JD Supra",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
    "ai": {
     "relevant": false,
     "importance": 0,
@@ -6680,14 +7251,20 @@
    "kind": "news",
    "tags": [],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "670b88ed4db9a6c5",
    "title": "Tyres Europe warns CBAM expansion could shift carbon-leakage risk to tire makers",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNER6cTh3enFKUElUYUNHTGRQd2NfQ0wxa2I2bWdXaUY5OVZoNk9hb09BNWhGdFlIWVFtRDRyZGFuREVILWJ6NTdjV2QwOVBKMEVpb2ZOemd1S1NIQ3c0bWFKbEg0NnBjUm96ODFBX05tV1lqYjBmbDNkS3FsSzdOdmNwQzk4bFVmNnQxWldvM09ldlZnelhyVF9WTU5OWVRKRVRfOWt0cFlmTkhKU1R3TFpDSUJkekVWUnd2WG9NZ3UzMVA0b2ZpV2FpbEVfdXJVaGc?oc=5",
    "summary": "",
-   "published": "2026-10-13T06:01:05Z",
+   "published": "2026-10-13T07:00:00Z",
    "source": "gn-cbam",
    "publisher": "European Rubber Journal",
    "kind": "news",
@@ -6703,6 +7280,30 @@
      "cbam"
     ],
     "note": "Tyres Europe warned that extending CBAM coverage to downstream products could shift carbon-leakage risks to European tire makers."
+   }
+  },
+  {
+   "id": "104bd85e374c9519",
+   "title": "Cross-border Carbon Trading in China: ITMO Framework, Challenges and Impacts on High-carbon Export Industries",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fQWFFUllFM0xLRFgyYzdMejdkUFBaWGxrVmxINlR5SFhNRTdWX1dMQTY2TkFjaERZZUl6MTB1TmRkcnd0SlJ4RHQ1VDZrUkVncXd5anNCanVTZE1KRWc?oc=5",
+   "summary": "",
+   "published": "2026-10-13T06:42:24Z",
+   "source": "gn-cn-carbon",
+   "publisher": "Sunsirs",
+   "kind": "news",
+   "tags": [
+    "cn-ets"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": true,
+    "importance": 2,
+    "regs": [
+     "cbam",
+     "cn-ets"
+    ],
+    "note": "Discussion of cross-border carbon trading in China and impacts on high-carbon export industries."
    }
   },
   {
@@ -7450,25 +8051,6 @@
    }
   },
   {
-   "id": "5385d8d63ab4acbb",
-   "title": "From Now partners with FuturePlus to deliver independent sustainability auditing",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNTZTUzBkM05MYU9KbEJ2bjZGYU16azdxbDhKRmFFN0JqMnVNSW1qaEp6NURQN2RzY2VvLVNtN2JBZlR1N19mV1lMY2VRZi1FZUZfTkNOWUZBbWhwTVUyclVfTnhVWDFXbzYwVWw0eDI1dzNsVUM1WlZ4VlZqX21SVU9GVExnRDUxTGtrcF91OTZ3Q3V4X0VqdTF4SWhhdDctUXBhcFZCVjdMS2hUQl9EYTBDR3FSbFdFdDZpZWFQWXZ0bTNfVzNLUEwtSklqV3ktamtWZkw4Q2Z5YllCTW51UGoyT3dPekZPcXRYa253?oc=5",
-   "summary": "",
-   "published": "2026-10-12T09:01:33Z",
-   "source": "gn-claims",
-   "publisher": "StandOut Magazine",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-14T10:11:51Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
    "id": "0735e4ce28f4e031",
    "title": "CBAM assessment, fastener manufacturing and more in the new Torque Magazine",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRk9XUW5rOHdQaDBTckNRQzE0VkgyVFUzZXlWR3FJNGpROVgxa2FCU1U2S2MwMUxtRmhEbGkzN0Q2aF8xdVgwYjZwQzYyVG1IbWdNNkZKUjJIX2xkQ21Kd2picjVoUmFWRjRsMFNmY0ptQzc5MnZnRkp4cHQySEUwMy02LWNzWW1wSi1jd0N0akUxWWJHT3RObTlEMktrWDhqMWZrWGVWc1RhZGNTQjZYMg?oc=5",
@@ -7531,6 +8113,25 @@
      "eudr"
     ],
     "note": "Vietnamese industry guidance advises domestic wood exporters on meeting EU market access requirements and deforestation standards."
+   }
+  },
+  {
+   "id": "5385d8d63ab4acbb",
+   "title": "From Now partners with FuturePlus to deliver independent sustainability auditing",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNTZTUzBkM05MYU9KbEJ2bjZGYU16azdxbDhKRmFFN0JqMnVNSW1qaEp6NURQN2RzY2VvLVNtN2JBZlR1N19mV1lMY2VRZi1FZUZfTkNOWUZBbWhwTVUyclVfTnhVWDFXbzYwVWw0eDI1dzNsVUM1WlZ4VlZqX21SVU9GVExnRDUxTGtrcF91OTZ3Q3V4X0VqdTF4SWhhdDctUXBhcFZCVjdMS2hUQl9EYTBDR3FSbFdFdDZpZWFQWXZ0bTNfVzNLUEwtSklqV3ktamtWZkw4Q2Z5YllCTW51UGoyT3dPekZPcXRYa253?oc=5",
+   "summary": "",
+   "published": "2026-10-12T07:00:00Z",
+   "source": "gn-claims",
+   "publisher": "StandOut Magazine",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-14T10:11:51Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
    }
   },
   {
@@ -7808,7 +8409,32 @@
     "cn-ets"
    ],
    "weak": true,
-   "first_seen": "2026-10-22T10:10:09Z"
+   "first_seen": "2026-10-22T10:10:09Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "baa8d6c38f9f260e",
+   "title": "Nicosia businesses seek reforms as government steps up investment drive",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmdGUGpVUmFsMVRvaEVvWVk2VkRBU243bzV3bVF4a3lJQWxSdUNraXB3QzZ6M0F2N2g2SXRIUVFqdzJ4ODJHYWU1dTA5QnJJaHJVRE5Tc1Q5S01ZWUhZMkx4Q0NyRTh3N3F5WVpnN0hfRUtsZ2VoVUhkVEdvb3RWSjRCMlhBRTFYRlBkTjVkOWI5RnVaQmRhTllSMHZCODZLaWdWUzFWQWhOUQ?oc=5",
+   "summary": "",
+   "published": "2026-10-12T07:00:00Z",
+   "source": "gn-social",
+   "publisher": "Cyprus Mail",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-10-22T19:13:15Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
   },
   {
    "id": "87f87c8631846282",
@@ -8952,7 +9578,7 @@
    "summary": "",
    "published": "2026-10-09T07:00:00Z",
    "source": "gn-social",
-   "publisher": "Bech-Bruun",
+   "publisher": "Bech-Bruun | Law firm",
    "kind": "news",
    "tags": [
     "pay-transparency"
@@ -17108,450 +17734,6 @@
      "eudr"
     ],
     "note": "Canadian forestry association responds to statements on EUDR trade impacts."
-   }
-  },
-  {
-   "id": "11af6725bd18f360",
-   "title": "Proposal to direct CBAM revenues to farmers 'a sticking plaster'",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmxSeUVNbkozZ2dVZ2hiNTUzNXRmOXhKNV9kbWw3QWdZTzBkME4xblZWZmFFTGxncWR6eUIwYVQ2eGhsakRUVkYyR0hrVWI0cmZCbmhzdzhyUFliNFBkaUJ1Q1BXOE5KNXRkaTJrYU96c0RQU2tDWVN3dGYwalp1VWxzbGExSk5qakVSWXV4X3NXRkh6QXRWaGg3YXdXNXRMLUE?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "Agriland",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "Article discusses debates over allocating EU CBAM revenues to agricultural support."
-   }
-  },
-  {
-   "id": "48caaa9d4eb5ac13",
-   "title": "BRICS, CBAM and the making of a new carbon trade order | Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNHpWTl9xYl9kUFhJaFJvNE95ZHctb1lIdHFiekQwT05hTFE2VzR4Q3IyRWs3b2MzbTA0OXlBb3hfRzhlU2Y2eHU4Z201NlRSUG1UZHhmcGVMT0NIeGN2RmZsa0lkVUN5Nko0QlpSb05heTBRUDJfNFpZOW41UXRSNFBYM3YwVzg3VFk5QXRRX3Nydk9rYWJCdUppNWdNNkNoXzFELVpkZ21jOHcwU0ZBN0YwelpEQ1owZzlsQ01aY0F3SEhqcDJ4Y0VEUHZDdFhEU3pQbtIB2gFBVV95cUxOS0pxQ01JU0RRdkZoa1c3SWRSNVdYV2o1SnZjSkppNDNQMHNuWGU4UjE4OXVYS1g2MnVtYXdkQy1wNXhlQVdNSks5SHdVcW9SdFNYQzRhX2EySEVEckZhYk1VZjljU05KbUc2aDV0dVZLSS1mUEdHU1ZQZXZyYXE2VEk1eG82aHVJMzZKQ2wxMVo5X2xjZHBNaEJVSG5wMTBPV2o1LVMtQ1ZESC1MVFlycW1DQU5YMm0yeTJYOUJ2TlIweXlzSmNrWWd2TVZrNFNQSldubVNmb0g0dw?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "Hindustan Times",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "Commentary examines how BRICS economies are responding to the EU Carbon Border Adjustment Mechanism and global carbon trading rules."
-   }
-  },
-  {
-   "id": "97544d356a945e93",
-   "title": "What to know about the EU’s updated anti-greenwashing law",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uTmh6ckVTU1FwVV9ESjN3Y1ZfVmVhQWJVWC1HUjUyLUtlS19uOEc3cjhKMXotZmJuc2J6ejlDdVJULUZsVUU5al9fWFUzSjI3NnUxTTRpQ21JMGdYWTRrZUwwbHdfZkpkX2I2MXJ5aTNWQjFC?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-claims",
-   "publisher": "Trellis Group",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "ecgt",
-     "green-claims"
-    ],
-    "note": "Overview explains requirements under the EU's updated consumer anti-greenwashing directives."
-   }
-  },
-  {
-   "id": "cd3373f6eeb5cacb",
-   "title": "New EU Anti-Greenwashing Rules Enter into Force",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwNUp2VjhyZU9ac0RHOXYzUEp0WkM3UE1abzFwWVBYclgxT0ZHZ2ZjVlFpdF92d0tTTTgzT3NyNTR4eGRFNHpLYmhWeGc2eFFHNURBbUZ6QWxmMHdGTVc5TndielVjZmpUZDNVM0QzQnQ0MUhfc0dOVzZPUGlsUQ?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-claims",
-   "publisher": "ESG Today",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 3,
-    "regs": [
-     "ecgt"
-    ],
-    "note": "The EU's Empowering Consumers for the Green Transition Directive enters into application, banning misleading environmental claims and labels."
-   }
-  },
-  {
-   "id": "ccd9fe3fee18f7b3",
-   "title": "Accenture, osapiens give DS Smith EUDR-ready traceability across 250 plants",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTdLTnBBTHRmeHJqMVppTkRkQ1BsYURESHY2TXJDZmFQemJoWkxFT0g2TUs1bncyTmdWdVRrSW9RQk5WRGc5VllTQnVhcUNKR0pGOEpjMUhaZUhPNTRUcVpSWmxTT2dWaC0xMGctY1VtaEN3YkI4d2R1eTltRjJwa3ZiSFJtaDNGdUg0cjJCMlRTQ0FlREpSYVIzMFdiSF9nUklZSWY2T25mbEpYU0hWYzlEUURBekVrZXlObDFETjQyQQ?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-eudr",
-   "publisher": "scanx.trade",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "5f5b682221d1e353",
-   "title": "Global Weekly Commentary | Insights",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUlWeGhIQTZlNFlTX1Y5dFBVX05TTjIxanU3QVBieDdiTUFyY1lyamVqRWk4VmpkbnRLUXQzTW1tY2RFMUlLVzlIQnF3OWhpN0tIVm1EdVRTME1LX0pBODZEOFlTcl9tVkhzeVNQRlhBbjl0YnVLVVJtQUVDS2xTcVJmeWlkdkNBQVp5VzhNa2hVbW01VTNfRENaeEFrUUtqMGc?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-finance",
-   "publisher": "BlackRock",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-05T22:00:55Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "7b83517416f8d046",
-   "title": "Ultra-fast fashion — the long legacy of short-life clothing",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTURnaGF6b282WFFWVHhZTk5Ta3lhZ1ZzVVAxdkh2UjIzZ25MQXlGVTBEb3Z4a2VpdEFlUFM0aG5zajNNR193bXpJdlNmdng5RjV1djBhVkpRVjJxVW5Idlo3QklxWXREdm16R3hCWTFJWWp0cElfQkllbGo3ZDVSZkdwcnZraU1lcnd6X2Itay0xNXUxWnlkUmxR?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-products",
-   "publisher": "DW.com",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "403e3caa3a880ea4",
-   "title": "India’s bid to keep carbon cash home as Europe adds a new trade cost",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzV5bWFNNkJRal9BYU9pTXJIdjg0VHJqWXBva2lBMGRVZkVRelpuVUlYTFM5aE04NXo1XzVfMWtvVHFlZEU5WVRYZFlPNzhGR0ZBaTZxd0FJdUtjdWlmcmYwSlI4SDliUDNyZGw3S0hPa1pUTEh5OWJCc1hmNkN1N0Npc3c1ckFlNjQ5TmlQanpSeWhtbFoyM2dvVmQteFBKS2NoU01nSlM2V0JjTmhXTFNFdm80dG1yaTdKMDRaWTdTbEVYekFfWl96Q0pfQ3RGbDFMTHlINNIB3AFBVV95cUxQMElPT3dEbldrQnl6V0kwRVJyUnZxSk9tYmxxRjNoSTVoTlVENFJvMEJRYW91OXF3SjZldU93SEVlZlBuUUJUR0liSnFIZllVa0kyODVyVXdHRWtWQ1JDeFlCemQyVWtuWVI1YXE0TjNlSzVoTFZBdlV0QlRzSEt6RHFjYWZVOWpEUUNTQVNhMW54RnJWbHYtSHpvVE9kUjdXUlZCQjJQUk5hV2FGWFh2YUxuLUhzMFZ5cFlIZEg0RXZURWE0eG5JMDhIU1FqTnhrRzhPMG5DQU5lVkND?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-cn-carbon",
-   "publisher": "The Economic Times",
-   "kind": "news",
-   "tags": [
-    "cn-ets"
-   ],
-   "weak": true,
-   "first_seen": "2026-10-06T12:01:38Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "Commentary on India's efforts to retain carbon tax revenues domestically in response to the EU's Carbon Border Adjustment Mechanism."
-   }
-  },
-  {
-   "id": "e86276c1feaff6f6",
-   "title": "Commerzbank publishes Green Funding Framework report",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGNYYWRiZU1yTFZFSm95SGVQU3VrZ3dvNlpGb3NaSm5fVE9yU3Y5bkN6SjMyM1Q0aFVRNnFnTDhaQ2dqeXJHRkZTXzJwYU5Ebm5PTW85MlpYd0hOREsyeXk4MWlFZ2k0WlhWWTRkdHJVMTMwZGY3d3lnbmRlaDd4a2NOUkRtcFI3UEM2OE1YMkgya3dtT2FSX0M1NlkweEItNnJLUF9ZMXlDZmh3YUFrTXNGZjJvVkFoclBCVw?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-finance",
-   "publisher": "VZ VermögensZentrum",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-08T12:01:37Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "bff8c92397eb6b04",
-   "title": "Accenture and osapiens Make DS Smith’s Global Supply Chain More Transparent and Ready for Evolving EU Regulation",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWgtNXI3a3hsY0Rrb2FKbnA2RTE2MmtNTFBFQmx2dXExdnBzT05udVFKd3ZOVGU1WVppM0taWEp0clZEeTJBZXpjQkRfMHhfQUtkSkJ0a2d4SzI4aVY5R1RRSkF6WnNkd0VodkN2ZFdBdE93Q084ZS1FVUJYNUNEYTB1UkM2bHJDZ19QLVU3MFRsR2tLSmdfV01jYzRtdkU1T1lRY3dhRjh4d3JGeEhDcTRNMDY0UWF6dHlFVXJRQ29QdHlCaU4tYkkwRGhDbnJjX0g4YmVJVi1XaXktUy02d0ZtZzBSa3dQSzhfbDdZR3Fsem1faEpZOE1qMmE?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-eudr",
-   "publisher": "Business Wire",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": true,
-   "first_seen": "2026-10-06T20:19:33Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "ppwr"
-    ],
-    "note": "Accenture and osapiens are partnering to make DS Smith's supply chain transparent and ready for evolving EU regulations."
-   }
-  },
-  {
-   "id": "899fa433fc9bd428",
-   "title": "Shoppers’ Bill of Rights",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rYTl2elJ2WnVfWXdubUhja29DU0YyYzcyaEwxU0VOcHpmOUM3MU5GX0xpMXpxcEVPdjA4VDZsdFNPLVZvcVZwR3dtN29JcWdpaG5TTTdXNkU1cE5vNzBEb09XMjRHV2RJM1V1bFNXUi1yRWs?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-repair",
-   "publisher": "Groundwork Collaborative",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-09T11:53:48Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "3de9cbbbd42aadad",
-   "title": "Commission takes action to ensure complete and timely transposition of EU directives",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3ZKM042eDktYldBWGwyejdnVHZrVGlDOFNrdThfdUIwNjNqZm9PTVlQSTlOaVk1TlY2SkcwNUVwUl9rTi1xQ3paUVI4TmR1VFBQZEJOOEs4ZkVUSHg0SENZRE1Ca3YzdzJETU5EUUI2em9ic1RfV29fVXZLc1VuYmFFU2ozN0tQNG5EWjlvc2tsSFJNb0tZM1VpTjVHRE9yMVg2ejJOS2ROeTJoVTZtaGVKaFpZWUFvUkxhUjBVQnpyaUU?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:00:00Z",
-   "source": "gn-repair",
-   "publisher": "The European Sting",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "9f29f60e719f3030",
-   "title": "New January 1 EU deforestation regulations launch looks set in stone",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmZKQTlkYmswcXNWMFRfcmM5YkJsV2VjRl9CNEZDN0ktMXJ3OWd1anJyMnlZamZTLThmVkVsQTNtcWZXdTBlME9KTVF1b25pZmxsNmdEa2N5bUN6aWp5UXlzS0tabGRvQmpWZVcwTmJCdk16bGcwSDJnNjZ6eUd0TFNsRFlQZXVaekdrTXphcUd3bGNyVk5fR3B3?oc=5",
-   "summary": "",
-   "published": "2026-09-28T05:26:41Z",
-   "source": "gn-eudr",
-   "publisher": "Beef Central",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 2,
-    "regs": [
-     "eudr"
-    ],
-    "note": "Reports indicate the EU Deforestation Regulation remains scheduled to take effect on 1 January without further delays."
-   }
-  },
-  {
-   "id": "39e64fd06f30998b",
-   "title": "EU directives: Commission takes action against member states over implementation",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjFNTmp3V1dud0pDVW1DZkVpVTA0TUZubWFrVVp3Ni1scGVxbmlHb1ZBdXJnSUQzVUU5MlRqdzNDQkkxeTdfeWhSaXM0aGpXNDV3MmxuQ1JEaklIdFROakdBWEk0RmRCZ2pRc3FkTEp0T3c5blBYVGExcF9LM1dfNmJ2eU9xSHN4M284c1RiTDh5TkJCNUZhZXpoX1cxSWdJNFJvX3ZGVTVPZ0dZM0hSTzVaMVU?oc=5",
-   "summary": "",
-   "published": "2026-09-28T03:05:55Z",
-   "source": "gn-repair",
-   "publisher": "Table.Briefings",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "13b8fd6c8cce283b",
-   "title": "China’s economy is changing rapidly. It’s no longer Australia’s easy export market",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGpPakZyMU9VNmtsTmxENzVPdFN6WHJLRlc1ZkVkNms3MnNCS0xIcFd2STBhc3g0SEpSRUJyQlBKVHRrbWtHMkxBbWpVNzZvbUt0YkpOajdEMW5NOWlJbEswejVmSVJ6RlpnT01RTkF3aHhRdXQ0enZLOXJnb0VVMEFqeHJwYlNWN3c4M2xlMGZvUWpENWxXS3lzbnc2OWxwRWpRbnhibw?oc=5",
-   "summary": "",
-   "published": "2026-09-27T19:19:03Z",
-   "source": "gn-cn-carbon",
-   "publisher": "inkl",
-   "kind": "news",
-   "tags": [
-    "cn-ets"
-   ],
-   "weak": true,
-   "first_seen": "2026-10-04T18:38:28Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "f86e2b750b202b92",
-   "title": "EU Agenda: Week Ahead – 28 September – 3 October 2026",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQnhRakoxOUF2ZmlLdFdrRExXR3dDRXMwaC1Gb21qOHMyTFVtX1hyal9ISkNxWGJBUFBjUkNULWRDTzV2MXFfMnB0MGNVMFhDWmJvMzkwbFpNTm8?oc=5",
-   "summary": "",
-   "published": "2026-09-27T13:30:00Z",
-   "source": "gn-products",
-   "publisher": "EUbusiness.com",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "a25153077e958362",
-   "title": "n3Eo in ets2 - from karesuando to catanzaro - full specs king of the kings of the road 1/2",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtMG43MVJCU1RydWtJdTB4MlBxb0FLQ21vYWJZQkNtMFF4MGZOS05ucVUxZTV0VXZ5YXBxWXZ0UFRzc0hETXVfZTVOOWNBamxPRldVd0xfcGFoWGtv?oc=5",
-   "summary": "",
-   "published": "2026-09-27T13:03:55Z",
-   "source": "gn-cbam",
-   "publisher": "YouTube",
-   "kind": "news",
-   "tags": [
-    "ets"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:50:11Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "75adf96a6473dedf",
-   "title": "Mode Switch will bring three career modes to ETS2 and ATS",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MNUdnV19hTjFKLThkNmozYW93UHUzLWs1ZG96TGZva0F5SU9aYWR1V0pFeU1yODg2SkM2SkJYVUNBNFVpbFlfaER4OHQ0Z08zNWM2eVc4eGdyMUVjTFplWUExSmYtQ1p3dlBocjlybFA?oc=5",
-   "summary": "",
-   "published": "2026-09-27T12:28:46Z",
-   "source": "gn-cbam",
-   "publisher": "jeu.video",
-   "kind": "news",
-   "tags": [
-    "ets"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
-   "id": "10f4903c5d014211",
-   "title": "Nearly 25,000 land plots have been monitored as Accenture helps DS Smith prepare for EU deforestation rules.",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRW1JUk02d2pLU01KWUJtbFgtUlEycnNWa3U0V1F1MEhqcDVsNVc1WjFGLUs5MlkzUXlSWm1rQzk3NEdFOVptNjl4M08xd1dBcEw1WnFOaEJDY05QZXc4NHhJSnVlRUI2aHlaNmp1NlFFOEZUemRDcjBhZHNsN0lMeGFsRHpMTU5Pa1k0UlJvWTktb3dZRVpWV0Ywc2FGRkJ5ei1RYkZ5aERtSmhOYjVTOThUR0RueU9n?oc=5",
-   "summary": "",
-   "published": "2026-09-27T07:00:00Z",
-   "source": "gn-eudr",
-   "publisher": "Stock Titan",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T18:41:12Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "eudr"
-    ],
-    "note": "Packaging company DS Smith is monitoring land plots with Accenture to prepare for the EU Deforestation Regulation."
-   }
-  },
-  {
-   "id": "4b717c7f26390e24",
-   "title": "What Does The BRICS Opposition Mean For Other Regional Blocs In The Era Of CBAM? - OpEd",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDhJNlZNZEJ3RkJ2Ny11X3pCdGNTVkI0blJPd0JQRVhWcEF4Q3pHd2d2aHhpVkNaUm80UlBEVVFnY2ljLXQ0WFkyRmNDRnh5azVhVG1OLUF1SmhjYmZqSE5WaXZfbEl0Y2FEWktIeTdUX252dF85M3Y0QU42Y1F1UmFfd004STF6XzBCSm51TlIySzhsSk1RZERGdm1iMnFOU2FQekx5SzBIMmZNQ2FHaHM4dmlQcnFMS2k2by00NU9Mdw?oc=5",
-   "summary": "",
-   "published": "2026-09-26T22:35:56Z",
-   "source": "gn-cbam",
-   "publisher": "Eurasia Review",
-   "kind": "news",
-   "tags": [
-    "cbam"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "cbam"
-    ],
-    "note": "An opinion piece examines the broader trade implications of BRICS opposition to the EU's Carbon Border Adjustment Mechanism."
-   }
-  },
-  {
-   "id": "95fdebe5f7ddc293",
-   "title": "Coffee exporters turn to China as EU deforestation rules loom",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzkwR0toX0piUnVZM1M3RllhanN6RmRIXy13UU5sMHBKZ1BCZFhkb0szeEpxaGtXa2tpNVBabjFIZjc3SzloSkQwRWZxOWtlcWNiZHZ6N1MyMjQwei1KNHNIaVBzVXFiZ1d3Q2RBUTZzOXBya19USUxhaGJXWlV3MVRZOENhc05FV1RleUpLSUUwVGV5Ujk5eWw3cElJdWZ0aGRJ?oc=5",
-   "summary": "",
-   "published": "2026-09-26T22:00:00Z",
-   "source": "gn-eudr",
-   "publisher": "Capital Newspaper",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-09T11:53:48Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "eudr"
-    ],
-    "note": "Coffee exporters are shifting their focus to the Chinese market to bypass strict EU Deforestation Regulation requirements."
    }
   }
  ]
