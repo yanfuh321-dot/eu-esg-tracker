@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-20T10:03:56Z",
- "model": "gemini-3.6-flash",
+ "generated_at": "2026-10-23T10:02:53Z",
+ "model": "gemini-3.5-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "ESMA details CSRD enforcement priorities as EU maintains battery targets",
- "summary": "ESMA and national regulators have highlighted double materiality and negative impact disclosure as primary enforcement priorities for upcoming CSRD statements. Meanwhile, the EU reaffirmed its battery recycling targets, and member states continue implementing right-to-repair rules. Listed importers must ensure supply chain impact data is audit-ready.",
+ "headline": "ESMA CSRD Priorities Focus on Supply Chains as Greenwashing Rules Take Effect",
+ "summary": "ESMA has highlighted double materiality and value chain negative impacts as key 2026 CSRD enforcement priorities for listed companies. Meanwhile, new EU greenwashing regulations have taken effect, introducing severe penalties for unsubstantiated environmental claims. In response, brand owners must rigorously verify supplier sustainability data and audit consumer-facing marketing claims.",
  "items": [
   {
-   "title": "ESMA publishes 2026 CSRD reporting enforcement priorities",
+   "title": "ESMA Sets 2026 CSRD Enforcement Priorities on Value Chain Impacts",
    "regs": [
     "csrd",
     "esrs"
    ],
-   "what": "ESMA set 2026 enforcement priorities for CSRD reporting, targeting double materiality, connectivity, and risk disclosures. Regulators like France's AMF highlighted the recommendations, explicitly warning listed companies against underreporting negative sustainability impacts.",
-   "meaning": "As a listed importer within CSRD scope, your reporting will face scrutiny regarding negative environmental and social impacts across your Chinese supplier network.",
-   "action": "Ensure your double materiality assessment thoroughly documents negative supplier impacts and aligns with financial disclosures.",
+   "what": "ESMA has published its 2026 enforcement priorities for CSRD disclosures, emphasising double materiality and explicitly warning companies against underreporting negative value chain impacts.",
+   "meaning": "As a listed entity in scope for CSRD, your reporting must accurately reflect environmental and labour risks within your Chinese manufacturing supply chain.",
+   "action": "Ensure double materiality assessments cover key environmental and social risks across your Chinese supplier network.",
    "sources": [
     {
      "title": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities",
@@ -22,69 +22,82 @@
      "origin": "esgtoday"
     },
     {
-     "title": "EU Sustainability reporting – ESMA sets 2026 common enforcement priorities – materiality and providing connected information remain firmly in focus",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZRmVnb3J6Y3lfNEhFaWs3UTdfa2hPMFBTbEFOb1g4UWV0SV9qTWZRcHlMQktKOXlmQnJGMGU1b3hqMm8yWThRUEdvX0VVU3VoM0JuQWZseXBzZ29PMjNlc3BHWlZCczMtU0toSFQzX1I?oc=5",
-     "origin": "Hogan Lovells Cadwalader"
-    },
-    {
      "title": "ESMA cracks down on underreporting of negative sustainability impacts",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFFVdm5PNl9CYjFUdmNueERLc3Y1UkxBUFRacF9YUk1hRmx0SVZTQUVlaW1wOTg3aGxtQS14SEZ6WktjMVNfakFnNkZQZl9HeXJ5LXB2a283TXBOY0NfQ0lnX1Z5aThReTczOS1sVjE2cG1PbHo5QjJiZFRpb084Wi1YbzZsdm1BTm4wb0RfTnZHaW5JU00xUU0ydzI5aDd5bVlqX3dnYUlPUE0?oc=5",
      "origin": "Responsible Investor"
     },
     {
-     "title": "Preparing upcoming sustainability statements: the AMF draws listed companies’ attention to ESMA’s 2026 recommendations",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUpidmRFcktSVWFaUjRnaEZWdVRxcjBXaGJ0OEhWRUlrQ2xWQTFWekU1UDZiby1pcE1lMjFBbDBRdVdRVDRRQU9JRUtkM1hISlo3RExUcXhRNm9iSHVPSU1lYWx3LTZGNEZsbzZlZE5OcW5PdTNYUi1lQTdqdGxhbjVxbnZSTDdUaFgwU01kNWF3bzJjVDFocUtodGVXRkgxa3JLRWZiZGNFTUxDMlR2UmtiVHUxQVdQWXpiRHJBNFhIVVE4NG50SF9DV2V6ZDNCVll6WkZTQno1ZU5hMlE?oc=5",
-     "origin": "Autorité des marchés financiers (AMF)"
+     "title": "EU Sustainability reporting – ESMA sets 2026 common enforcement priorities – materiality and providing connected information remain firmly in focus",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZRmVnb3J6Y3lfNEhFaWs3UTdfa2hPMFBTbEFOb1g4UWV0SV9qTWZRcHlMQktKOXlmQnJGMGU1b3hqMm8yWThRUEdvX0VVU3VoM0JuQWZseXBzZ29PMjNlc3BHWlZCczMtU0toSFQzX1I?oc=5",
+     "origin": "Hogan Lovells Cadwalader"
     }
    ]
   },
   {
-   "title": "EU confirms commitment to battery recycling targets",
+   "title": "Strict EU Anti-Greenwashing Rules Take Effect with Turnover Fines",
    "regs": [
-    "batteries"
+    "green-claims",
+    "ecgt"
    ],
-   "what": "EU institutions reaffirmed their commitment to current battery recycling targets and waste rules under the EU Batteries Regulation, maintaining established circular economy expectations.",
-   "meaning": "Compliance timelines for your proprietary battery platform remain firm, requiring verified supplier data on material recovery, recycled content, and collection performance.",
-   "action": "Audit Chinese battery cell suppliers to confirm readiness for material recovery and recycled content documentation.",
+   "what": "EU rules prohibiting misleading environmental claims have reportedly taken effect, introducing potential penalties of over 4% of annual turnover for non-compliance.",
+   "meaning": "All consumer claims regarding tool sustainability, battery platform eco-credentials, or packaging recyclability must be rigorously substantiated across EU sales channels.",
+   "action": "Audit consumer marketing claims and packaging statements against verification requirements.",
    "sources": [
     {
-     "title": "EU sticks to battery recycling targets",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHlHekhIZjBYLWRKUkx6MHMtTXhRdUNRRnc2eGRrcXcxNFN0ek5DWW9JRHlIWGl4UlVEZzJkN2hBNmdXSzZYNUFwUkRIczF6QldBOEQ2bUhieUVsVnMzVXQ4aFhEamVZUGdNS2RneHZvNS1uX2FhaUFMT1hQQlVINFU1OF80Zk1EMHc?oc=5",
-     "origin": "RECYCLING magazin"
+     "title": "EU Greenwashing Rules Take Effect With Fines Exceeding 4% of Turnover",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemVnNXNzeDc5dFJfbXFjMzFScFdIQjNlbE9aUF9RZ211dzRYcHFpWjNJV2VlRnZVUFl0R2NfcTJkeU9zcnFkNE5FSmhKakNmaGk0MnU0MWJDOXZDenc4Mzg4OS15Uk1fVzJjVVFjeDNWdHFaY1ZtcFUycTlRLVBhNWxGOHpuSVA1a0tMZEpUb3pyblU?oc=5",
+     "origin": "ESG News"
     },
     {
-     "title": "The circular economy and waste rules for packaging, batteries and textiles | 19-10-2026 | News",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzllX3ExNXd0c1ZFXzBoUGpMWTNBYnhfTHFyZlFZT28ySDk5U0dNTUtUenBPR2dDdzQ1aTc4ZXUyX01vREd0V1RFQmJvaXpuWUhTNC1PN3dFS2JGcmNZZW02WktMWnRvekN4eGg1U0dLaFdvZUVjdGt6UWFpeXBiRGVmTFBBQTRYWVotRmVJTFByTHRkNTI5VkJKaGtZaEwtemVPVVBoNkt6U0lmSUZBMW9lQTE5bGJ2Z0Y3RjdwVnBzaThDeWltcmVVUjJaWVZRZDh1RTRWNllTWHlWa3pV?oc=5",
-     "origin": "European Parliament"
+     "title": "Now That EU Green Transition Rules Are in Force, Which Cosmetic Packaging Claims Are Off-Limits?",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXlsbG1DV0xZdUNwam5CZUJ6ckhkMDA2aVBfYVlVV2dmaE1BQ0cxTlpGLUxZbGFiOXhEelBnTzloSlg5bXNoWXkyX0h0Q2tGY3ZHQ1pCUlNicl9PVVZGeWdzeW1ILTdJMXZJZDNjeDcyODBVcjFodWtjV0s3SS1QT0p0cmFBSWgzWnJXNzdvTWw4cXFteHlacnhDQnRwR1FPWDl6NXZ3aEN4Yk1ZdXZ3YzJ1VnUzLWRneFZNQ0ZfRE9tWE9uZzJyYkhud0VZRlIyTmpfYg?oc=5",
+     "origin": "Beauty Packaging"
     }
    ]
   },
   {
-   "title": "Member states advance right-to-repair implementation",
+   "title": "EFRAG Consults on 2027–2029 Sustainability Reporting Agenda",
    "regs": [
-    "right-to-repair"
+    "csrd",
+    "esrs"
    ],
-   "what": "EU member states are advancing right-to-repair provisions. Belgium launched a consumer repairer platform, while Spain reported delays transposing rules that extend warranties when consumers choose repair over replacement.",
-   "meaning": "As the legal manufacturer of consumer power tools, national rollouts will govern your obligations regarding spare parts availability, repair access, and warranty obligations.",
-   "action": "Assess spare parts availability and repair documentation across your primary EU consumer distribution networks.",
+   "what": "EFRAG launched a public consultation regarding its work programme for 2027–2029, seeking feedback on the development of future reporting standards under CSRD.",
+   "meaning": "Emerging standards could introduce specific disclosures relevant to consumer electronics, power tool manufacturing, and product life cycles.",
+   "action": "Monitor consultation developments to gauge future supply chain reporting requirements.",
    "sources": [
     {
-     "title": "EU offers extra year of warranty on phones, but Spain faces delays",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHdwM0FOMTFkZ1BTZXYtSVlURUVmanNMcmhHdzVVekYxOF9lbWFVZlAwVl92OWVGb0ZneDdVdkRGcGlEclR1MVAtdXAtOUZpWlk2MzlJVVZVcGJGTGhlb19tcmo0MHh1cFNVRmFoNDNETUVSVWJzOEp5S0lYM3N4X2NuMmtheXBwUWY0NnNRQ2hWVEFXX1k1dmNtWnM3WVpnb1JtM2ZXNA?oc=5",
-     "origin": "Euro Weekly News"
+     "title": "EU CSRD: EFRAG launched consultation on its 2027–2029 sustainability reporting agenda, Julia Voskoboinikova",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORW1DX090a2VPWlV6aGhzMlR6NFVaQktGVTA1LThvM1l5aW1seGRBYVBGaE12R2owT3ZiTlJuY2xDdnNJbzJGckxJRVU5RTlxVEptTjVZX0F5cmtfMVQ5UGVrV1B2MHI2MUQxSEE2VGxKREhrU2tnN1FfTUdLYVJfM0p0cUZiYXUzRzlTWFRwY2FoVDFySm96ajhpRnM3OGFIOWVvb0F5MTJIUjF5Wm1sLThGbWVmbWNxUFpUZV9vc0dBMVhqWE9CVHo0WWQxS0k?oc=5",
+     "origin": "Linklaters - Sustainable Futures"
+    }
+   ]
+  },
+  {
+   "title": "EU Trilogues Begin on Potential CBAM Scope Expansion",
+   "regs": [
+    "cbam"
+   ],
+   "what": "Trilogue negotiations have commenced regarding the expansion of CBAM, with EU institutions divided over whether to extend coverage to downstream finished goods.",
+   "meaning": "While finished power tools are currently exempt, extending CBAM to downstream products could increase import compliance costs and reporting obligations.",
+   "action": "Track trilogue outcomes regarding downstream finished product inclusion.",
+   "sources": [
+    {
+     "title": "Industries urge ‘broadest possible’ CBAM extension, trilogues begin",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVZUMFN0QmZEQlBZTFZtOXJablprSFZ2WVFmS0d4SW5NWWVSTkoyTHRwTkg4LXhWZTZMZ01xcmZjSEl4Y3VnMlFfMnNZWTRUREhvY0szTDJGY1hZV0p5eUh1cUFzWTBDVTJMQ3pTUjVhUnV3ME1mYUlTRTJNeWhmRXRoOE9tU0pYR0ZnMlFvNDQ?oc=5",
+     "origin": "EUROMETAL"
     },
     {
-     "title": "New online tool helps Belgians find repairers for electronic devices",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWlBX1JGNzQtcks2QUxBVEVqZVlrLThoeUxKb2xkYU9fa2U4UjR5VEFYYWhzaF9veng3ZmcyZ2NaUEY2NFhGcmN2ZTdJR3J0Wm5HSm5hR09ISmR5bTMxV0dvQzdSVlVjMngyMzRqN3JIUDA5bzhtRUN0Wklhd3gyYVNER09VUWtJbzEwZUZoLXdwSFBHQ2ZjMTlEcl9DT1FuRG9YZ1NNeTJsQQ?oc=5",
-     "origin": "The Brussels Times"
+     "title": "EU institutions split on scope of CBAM expansion",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcG5aejNwUkQyZ0VpZEJKdFdKNXNxQkc5NFhaZWR3ZkpoR3FtNG1sN19oeUlNZ0l2Y0o4aDFuWHlxVUdZdldIU1hMOG5PbGlCcDFYWkdwUU8wWVB5SXVrYjFraEpBdUxZZXJMV0k2UUx3OWdUS2k5dWxSVkRXbHYzaUttU2xsVVcyNHNqMWwzX2Q1eUNMTXgyNl9xYm9mVzlON0VFWWFSN0t0dFhsM29HMmN4NndQd25EVUhtQVh5NXQ1RUxsWkE?oc=5",
+     "origin": "S&P Global"
     }
    ]
   }
  ],
  "watch": [
-  "Entry into force of revised ESRS standards in November 2026 ahead of mandatory 2027 application.",
-  "The 30 December 2026 EUDR compliance deadline for large and medium operators.",
-  "Political negotiations among EU leaders regarding potential reviews or delays to the ETS2 system."
+  "Revised ESRS standards entering into force on 10 November 2026 ahead of mandatory application in 2027.",
+  "Political negotiations surrounding proposed delays and adjustments to the ETS2 carbon pricing system.",
+  "Progress on EUDR supply chain compliance tools as the December deadline for large operators approaches."
  ],
- "based_on": 40
+ "based_on": 45
 }

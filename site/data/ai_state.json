@@ -13,8 +13,8 @@
   },
   "csrd": {
    "hash": "53a3635fb552",
-   "date": "2026-10-03",
-   "model": "gemini-3.7-flash"
+   "date": "2026-10-23",
+   "model": "gemini-3.5-flash"
   },
   "taxonomy": {
    "hash": "fe987fe74629",
@@ -135,13 +135,39 @@
    "hash": "5c9325a0d1cc",
    "date": "2026-10-19",
    "model": "gemini-3.8-flash"
+  },
+  "cn-ets": {
+   "hash": "bc6c84ebcfdb",
+   "date": "2026-10-23",
+   "model": "gemini-3.5-flash"
+  },
+  "cn-audit-rules": {
+   "hash": "81afa5f3a845",
+   "date": "2026-10-23",
+   "model": "gemini-3.5-flash"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "reg": "ets",
+   "type": "add_date",
+   "reason": "The Council and European Parliament reached a provisional agreement on a targeted amendment to the EU ETS Market Stability Reserve.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/"
+   ],
+   "confidence": "high",
+   "date": "2026-10-21",
+   "label": "provisional agreement reached on market stability reserve amendment",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "dfb190e636a2ed",
+   "proposed_on": "2026-10-23"
+  }
+ ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-10-19",
- "last_briefing": "2026-10-20",
- "last_proposals": "2026-10-20",
+ "last_briefing": "2026-10-23",
+ "last_proposals": "2026-10-23",
  "pr_seen_open": false
 }
