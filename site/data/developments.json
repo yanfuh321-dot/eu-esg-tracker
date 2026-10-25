@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T18:08:33Z",
+ "generated_at": "2026-10-25T09:48:13Z",
  "items": [
   {
    "id": "751acdd12a8a",
@@ -257,6 +257,42 @@
    "official": false,
    "publishers": 1,
    "mentions": [],
+   "visible": false
+  },
+  {
+   "id": "8f974d91f5ea",
+   "group": "delay",
+   "sources": [
+    {
+     "item": "7030e33e6350e4c7",
+     "title": "Denmark Delays EU Pay Transparency Entry Into Force to March 2027",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdzY0eV92VXRtbjllR0FsMGZMOE95TVc1Ym1FNV9mdnpXTzZ3b0JrTHBtd0l6Q3dtNVRXMVp0RElBdmNHMkFQN2tCdEtZUTU3QWVwMC1vQzJoWVhib25uUm5fNS1ENEFqT0ozdjNkNzExWWdHRi1fbmZsUEtpVFpQUlRZYjlMaF83VVFsSUE4cms2aUpWdEE?oc=5",
+     "origin": "Trusaic",
+     "published": "2026-10-14T07:00:00Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "pay-transparency"
+     ],
+     "mentions": [
+      "2027-03"
+     ]
+    }
+   ],
+   "first_seen": "2026-10-25T09:48:13Z",
+   "updated": "2026-10-25T09:48:13Z",
+   "date": "2026-10-14",
+   "regs": [
+    "pay-transparency"
+   ],
+   "title": "Denmark Delays EU Pay Transparency Entry Into Force to March 2027",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdzY0eV92VXRtbjllR0FsMGZMOE95TVc1Ym1FNV9mdnpXTzZ3b0JrTHBtd0l6Q3dtNVRXMVp0RElBdmNHMkFQN2tCdEtZUTU3QWVwMC1vQzJoWVhib25uUm5fNS1ENEFqT0ozdjNkNzExWWdHRi1fbmZsUEtpVFpQUlRZYjlMaF83VVFsSUE4cms2aUpWdEE?oc=5",
+   "origin": "Trusaic",
+   "official": false,
+   "publishers": 1,
+   "mentions": [
+    "2027-03"
+   ],
    "visible": false
   },
   {
