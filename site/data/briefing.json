@@ -1,65 +1,41 @@
 {
- "generated_at": "2026-10-25T09:48:16Z",
+ "generated_at": "2026-10-26T20:29:00Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "ESMA sets CSRD enforcement priorities as green claims scrutiny increases",
- "summary": "ESMA has outlined enforcement focus areas for CSRD sustainability disclosures, directly affecting your FY2027 reporting preparation. Meanwhile, regulators are stepping up scrutiny of green claims, requiring strict substantiation for packaging and product marketing. The EU Council also agreed a position on packaging rule simplifications.",
+ "headline": "Weekly Briefing: Digital Product Passports, CSRD, and Green Claims Enforcement",
+ "summary": "This week saw technical progress on Digital Product Passport standards under ESPR, alongside regulatory pressure on CSRD reporting for listed mid-caps. EU authorities also stepped up enforcement against unverified environmental claims, impacting consumer product marketing across your European distribution channels.",
  "items": [
   {
-   "title": "ESMA publishes enforcement priorities for CSRD sustainability reporting",
+   "title": "Two new EU standards issued for Digital Product Passports",
    "regs": [
-    "csrd",
-    "esrs"
+    "espr"
    ],
-   "what": "ESMA highlighted double materiality, impact and risk identification, and target setting as key focus areas for sustainability disclosures.",
-   "meaning": "As a listed entity in scope for FY2027, your upcoming sustainability statements will be examined against these specific enforcement criteria.",
-   "action": "Align materiality assessments and supply chain target setting with ESMA focal points.",
+   "what": "Two new EU standards have been developed for data security and access control in Digital Product Passports under the Ecodesign for Sustainable Products Regulation.",
+   "meaning": "Directly relevant for your power tools and battery platform as technical data access and security architecture for DPPs is finalised.",
+   "action": "Review the data security standards with your IT and product compliance teams.",
    "sources": [
     {
-     "title": "ESMA to Focus on Materiality, Impacts, Risks, Opportunities and Targets as Sustainability Reporting Enforcement Priorities",
-     "link": "https://www.esgtoday.com/esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities/?utm_source=rss&utm_medium=rss&utm_campaign=esma-to-focus-on-materiality-impacts-risks-opportunities-and-targets-as-sustainability-reporting-enforcement-priorities",
-     "origin": "esgtoday"
+     "title": "Digital Product Passport: Two New EU Standards for Data Security and Access Control",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUdBaW9aWThHd29lZmtpSkJLOWZ1dlFrZ3pOUzFYRVBPdmNXdFBGanhRYVVjUXVuNXdjUko5eDZMY0ZVTW9RS2pYLVVBYkRwX1FvcldKNTNZMG5CNTFVTUw1RFhiUU4tenpuMXVFYndVQUc0cEt2LUFNRjkwSEZuaWlFdV9TaXJxeWlYTV9QNDdkZm8?oc=5",
+     "origin": "WIoT Group"
     }
    ]
   },
   {
-   "title": "Regulators issue guidance and enforce rules on green claims",
+   "title": "CSRD compliance urged for listed mid-caps as EFRAG consults",
    "regs": [
-    "green-claims",
-    "ecgt"
+    "csrd"
    ],
-   "what": "ESMA issued guidance on climate claims, while the Commission secured commitments against misleading environmental packaging statements.",
-   "meaning": "Environmental claims on power tool packaging and battery platforms sold to EU consumers face strict legal substantiation standards.",
-   "action": "Audit consumer-facing packaging and marketing claims for verifiable technical evidence.",
+   "what": "Spanish securities regulators urged listed firms with over 1,000 employees to align disclosures with CSRD, as EFRAG opened a consultation on its 2027–2029 agenda.",
+   "meaning": "Reinforces enforcement expectations for listed companies in your size bracket ahead of mandatory 2027 reporting.",
+   "action": "Maintain preparation for 2027 reporting and evaluate EFRAG's agenda consultation.",
    "sources": [
     {
-     "title": "ESMA Guidance on Impact and Climate Transition Claims",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVpjWHd1VE5lWDJybHZ4QnpfOUNiSXJGMXVGX1MxMFJzUTQ3a1Fpak5wLUZzRS14NWttU0tISHNqbE85b3hPNHp4Y01tcWVzbktiTFhuUWRldDNlbGUyekFfbVZnM1NJR2ZRaURYb01Ca1NaXzdkYWhXZHRtMzhTclA2NmoyNTNNX0FpUXJ2cWjSAZABQVVfeXFMTkVaY1h3dVROZVgycmx2eEJ6XzlDYklyRjF1Rl9TMTBSc1E0N2tRaWpOcC1Gc0UteDVrbVNLSEhzamxPOW94TzR6eGNNbXFlc25LYkxYblFkZXQzZWxlMnpBX21WZzNTSUdmUWlEWG9NQmtTWl83ZGFoV2R0bTM4U3JQNjZqMjUzTV9BaVFydnFo?oc=5",
-     "origin": "The National Law Review"
+     "title": "The CNMV urges listed companies with more than 1,000 employees to align their sustainability reports with the CSRD.",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRmtLNTl3UVQ2NzdjbmdZNW5ZRkZycVFWSXFTZFZ5bjBfQlpSUE5CTV9rX0RyT2pWdElEdlFtNkRXTWZVQ0VMamMtNjZhZG9qak43bm9hMElzZVFFWU1EUHBxeERzYXVmTjcyRG1pdU9NSy1seGk2RTRHSXhOeFp6VmE4bGRtUkpmV21KLThGNi1mbklTM09qWmxtVEVlVHVPSGdjbEFRdjVDcjFtajQxbFFPU1JobWpwZFFsWkNoVjZ0d1BtNVFCektwYk9XQ1VzblJkVk4waFF1Mi1rS185U05KRl9od9IB6wFBVV95cUxPQTdPc1NQcG1jdDdWa2d2MG1HanNud3hlTnBiZGdadnNBM3ZpMGxjUzRCaFlISUNqLTNMQUFjN1lXekNVRVg2UUNtR2p1dEoxSEtqSXVGUkgwRnNXZU0wYkZSRkd4RzhkQUtyc2VUbHF4T3BqeDBIQ2tpbWlPOGExYkNIdkMtTE1Edk1feDZ0UTAtZWYtdVJSTmRFWVhBWDJuVnVFSmR0XzlSVlJrOUpTM3NtVDR2b0hxTVVlWjVHUUk3UTVmaWFiRXkzQ3JvRHJORXZvRmJON3pzN2IwTlM5SGdiTjc5RFdnM1BF?oc=5",
+     "origin": "Demócrata"
     },
-    {
-     "title": "EU Commission secures recycling claim changes from Coca-Cola, Nestlé and Danone",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb0lINnpTcHRaS0JZRUxad19XOFNWZUZIZlRWOTJYS3h4YU1RSlZkdFliRzJQcnhUNUduWFF0UWFtdWprb2tDZVBiTGhLemxpWEhiaEtvT0FYUGpUT0k5RVNOSVVrOC1ESExqOGlLMzlMLXBZRFZXU2hkNEwzcW9yMGJ6YnQ4eW02R1JtZlRiaW4wSFphUUJzWjlnWHExa3VOSFhkM1lYbFZnTUFCaHFfYU5QOEg4bHJFd2xRYnpPTTctWXpPZi1QaC1Zal9JWjNDb3hoYlNlMFBtQnBSWWc?oc=5",
-     "origin": "INSIGHT EU MONITORING"
-    },
-    {
-     "title": "Now That EU Green Transition Rules Are in Force, Which Cosmetic Packaging Claims Are Off-Limits?",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXlsbG1DV0xZdUNwam5CZUJ6ckhkMDA2aVBfYVlVV2dmaE1BQ0cxTlpGLUxZbGFiOXhEelBnTzloSlg5bXNoWXkyX0h0Q2tGY3ZHQ1pCUlNicl9PVVZGeWdzeW1ILTdJMXZJZDNjeDcyODBVcjFodWtjV0s3SS1QT0p0cmFBSWgzWnJXNzdvTWw4cXFteHlacnhDQnRwR1FPWDl6NXZ3aEN4Yk1ZdXZ3YzJ1VnUzLWRneFZNQ0ZfRE9tWE9uZzJyYkhud0VZRlIyTmpfYg?oc=5",
-     "origin": "Beauty Packaging"
-    }
-   ]
-  },
-  {
-   "title": "EFRAG consults on 2027–2029 sustainability reporting work plan",
-   "regs": [
-    "csrd",
-    "esrs"
-   ],
-   "what": "EFRAG launched a public consultation on its priorities for future ESRS development and standards maintenance.",
-   "meaning": "Future standards will determine how deep supply chain disclosures must go, affecting data collection from your Chinese suppliers.",
-   "action": "Review consultation topics to prepare supplier sustainability data gathering systems.",
-   "sources": [
     {
      "title": "EU CSRD: EFRAG launched consultation on its 2027–2029 sustainability reporting agenda, Julia Voskoboinikova",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORW1DX090a2VPWlV6aGhzMlR6NFVaQktGVTA1LThvM1l5aW1seGRBYVBGaE12R2owT3ZiTlJuY2xDdnNJbzJGckxJRVU5RTlxVEptTjVZX0F5cmtfMVQ5UGVrV1B2MHI2MUQxSEE2VGxKREhrU2tnN1FfTUdLYVJfM0p0cUZiYXUzRzlTWFRwY2FoVDFySm96ajhpRnM3OGFIOWVvb0F5MTJIUjF5Wm1sLThGbWVmbWNxUFpUZV9vc0dBMVhqWE9CVHo0WWQxS0k?oc=5",
@@ -68,26 +44,32 @@
    ]
   },
   {
-   "title": "Council agrees stance on packaging rules simplification",
+   "title": "EU Commission enforces stricter standards on consumer green claims",
    "regs": [
-    "ppwr"
+    "green-claims",
+    "ecgt"
    ],
-   "what": "The EU Council agreed its negotiating position to streamline compliance requirements for small packaging producers under proposed packaging rules.",
-   "meaning": "Final negotiations will set packaging design and waste requirements for your imported finished goods from mainland China.",
-   "action": "Track PPWR negotiation progress to inform future supplier packaging guidelines.",
+   "what": "The European Commission secured commitments from major consumer brands to correct misleading recycling claims, alongside new ESMA guidance on sustainability marketing.",
+   "meaning": "Signals active regulatory scrutiny of environmental claims on consumer products, packaging, and battery sustainability.",
+   "action": "Audit product packaging and consumer marketing claims across EU markets.",
    "sources": [
     {
-     "title": "Simplification: Council agrees negotiating stance to cut red tape for small packaging producers",
-     "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/",
-     "origin": "council-press"
+     "title": "EU Commission secures recycling claim changes from Coca-Cola, Nestlé and Danone",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb0lINnpTcHRaS0JZRUxad19XOFNWZUZIZlRWOTJYS3h4YU1RSlZkdFliRzJQcnhUNUduWFF0UWFtdWprb2tDZVBiTGhLemxpWEhiaEtvT0FYUGpUT0k5RVNOSVVrOC1ESExqOGlLMzlMLXBZRFZXU2hkNEwzcW9yMGJ6YnQ4eW02R1JtZlRiaW4wSFphUUJzWjlnWHExa3VOSFhkM1lYbFZnTUFCaHFfYU5QOEg4bHJFd2xRYnpPTTctWXpPZi1QaC1Zal9JWjNDb3hoYlNlMFBtQnBSWWc?oc=5",
+     "origin": "INSIGHT EU MONITORING"
+    },
+    {
+     "title": "ESMA Guidance on Impact and Climate Transition Claims",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVpjWHd1VE5lWDJybHZ4QnpfOUNiSXJGMXVGX1MxMFJzUTQ3a1Fpak5wLUZzRS14NWttU0tISHNqbE85b3hPNHp4Y01tcWVzbktiTFhuUWRldDNlbGUyekFfbVZnM1NJR2ZRaURYb01Ca1NaXzdkYWhXZHRtMzhTclA2NmoyNTNNX0FpUXJ2cWjSAZABQVVfeXFMTkVaY1h3dVROZVgycmx2eEJ6XzlDYklyRjF1Rl9TMTBSc1E0N2tRaWpOcC1Gc0UteDVrbVNLSEhzamxPOW94TzR6eGNNbXFlc25LYkxYblFkZXQzZWxlMnpBX21WZzNTSUdmUWlEWG9NQmtTWl83ZGFoV2R0bTM4U3JQNjZqMjUzTV9BaVFydnFo?oc=5",
+     "origin": "The National Law Review"
     }
    ]
   }
  ],
  "watch": [
-  "Entry into force of revised ESRS standards on 10 November 2026 ahead of mandatory application in FY2027.",
-  "Development of trilogue negotiations on the Packaging and Packaging Waste Regulation.",
-  "EFRAG public consultation process on its 2027–2029 sustainability reporting agenda."
+  "Entry into force of revised ESRS on 10 November 2026.",
+  "Trilogue negotiations regarding potential CBAM extension to downstream finished goods.",
+  "Technical preparations for February 2027 battery passport and user-replaceability deadlines."
  ],
- "based_on": 40
+ "based_on": 45
 }
