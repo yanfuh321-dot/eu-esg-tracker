@@ -147,27 +147,11 @@
    "model": "gemini-3.5-flash"
   }
  },
- "pending": [
-  {
-   "reg": "ets",
-   "type": "add_date",
-   "reason": "The Council and Parliament reached a provisional agreement on a targeted amendment regarding the Market Stability Reserve of the EU ETS on 21 October 2026.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/ets-market-stability-reserve-council-and-parliament-reach-provisional-agreement-on-targeted-amendment/"
-   ],
-   "confidence": "high",
-   "date": "2026-10-21",
-   "label": "provisional agreement reached on market stability reserve amendment",
-   "approx": false,
-   "checked_with_search": false,
-   "fp": "dfb190e636a2ed",
-   "proposed_on": "2026-10-25"
-  }
- ],
+ "pending": [],
  "dismissed": {},
  "learn_edits": [],
- "search_refused": "2026-10-19",
+ "search_refused": "2026-10-27",
  "last_briefing": "2026-10-26",
  "last_proposals": "2026-10-26",
- "pr_seen_open": true
+ "pr_seen_open": false
 }
