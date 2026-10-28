@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-26T20:29:00Z",
- "model": "gemini-3.6-flash",
+ "generated_at": "2026-10-28T11:20:19Z",
+ "model": "gemini-3.5-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "Weekly Briefing: Digital Product Passports, CSRD, and Green Claims Enforcement",
- "summary": "This week saw technical progress on Digital Product Passport standards under ESPR, alongside regulatory pressure on CSRD reporting for listed mid-caps. EU authorities also stepped up enforcement against unverified environmental claims, impacting consumer product marketing across your European distribution channels.",
+ "headline": "DPP standards published as battery passport and packaging rules advance",
+ "summary": "Two new EU standards have established data security and access protocols for Digital Product Passports under ESPR. Meanwhile, industry testing for battery passports progresses ahead of 2027 requirements, and the Council has agreed its negotiating stance on packaging rule simplifications.",
  "items": [
   {
-   "title": "Two new EU standards issued for Digital Product Passports",
+   "title": "EU standards published for Digital Product Passport data security",
    "regs": [
     "espr"
    ],
-   "what": "Two new EU standards have been developed for data security and access control in Digital Product Passports under the Ecodesign for Sustainable Products Regulation.",
-   "meaning": "Directly relevant for your power tools and battery platform as technical data access and security architecture for DPPs is finalised.",
-   "action": "Review the data security standards with your IT and product compliance teams.",
+   "what": "Two new EU standards have been developed to specify data security protocols and access control mechanisms for Digital Product Passports under the Ecodesign for Sustainable Products Regulation.",
+   "meaning": "Technical specifications for product passports are taking shape. Your Chinese manufacturing partners will need to align their data architecture with these security and access standards.",
+   "action": "Review supply chain IT and data infrastructure against the new EU passport security standards.",
    "sources": [
     {
      "title": "Digital Product Passport: Two New EU Standards for Data Security and Access Control",
@@ -23,53 +23,59 @@
    ]
   },
   {
-   "title": "CSRD compliance urged for listed mid-caps as EFRAG consults",
+   "title": "Battery passport pilot demonstrates industry compliance readiness",
    "regs": [
-    "csrd"
+    "batteries"
    ],
-   "what": "Spanish securities regulators urged listed firms with over 1,000 employees to align disclosures with CSRD, as EFRAG opened a consultation on its 2027–2029 agenda.",
-   "meaning": "Reinforces enforcement expectations for listed companies in your size bracket ahead of mandatory 2027 reporting.",
-   "action": "Maintain preparation for 2027 reporting and evaluate EFRAG's agenda consultation.",
+   "what": "Jinko ESS has launched a battery passport pilot with the Global Battery Alliance to test compliance mechanisms under the EU Battery Regulation.",
+   "meaning": "With battery passport obligations applying from February 2027, practical testing provides a model for technical data sharing across your proprietary battery platform.",
+   "action": "Engage Chinese battery suppliers to ensure data collection aligns with emerging passport testing standards.",
    "sources": [
     {
-     "title": "The CNMV urges listed companies with more than 1,000 employees to align their sustainability reports with the CSRD.",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRmtLNTl3UVQ2NzdjbmdZNW5ZRkZycVFWSXFTZFZ5bjBfQlpSUE5CTV9rX0RyT2pWdElEdlFtNkRXTWZVQ0VMamMtNjZhZG9qak43bm9hMElzZVFFWU1EUHBxeERzYXVmTjcyRG1pdU9NSy1seGk2RTRHSXhOeFp6VmE4bGRtUkpmV21KLThGNi1mbklTM09qWmxtVEVlVHVPSGdjbEFRdjVDcjFtajQxbFFPU1JobWpwZFFsWkNoVjZ0d1BtNVFCektwYk9XQ1VzblJkVk4waFF1Mi1rS185U05KRl9od9IB6wFBVV95cUxPQTdPc1NQcG1jdDdWa2d2MG1HanNud3hlTnBiZGdadnNBM3ZpMGxjUzRCaFlISUNqLTNMQUFjN1lXekNVRVg2UUNtR2p1dEoxSEtqSXVGUkgwRnNXZU0wYkZSRkd4RzhkQUtyc2VUbHF4T3BqeDBIQ2tpbWlPOGExYkNIdkMtTE1Edk1feDZ0UTAtZWYtdVJSTmRFWVhBWDJuVnVFSmR0XzlSVlJrOUpTM3NtVDR2b0hxTVVlWjVHUUk3UTVmaWFiRXkzQ3JvRHJORXZvRmJON3pzN2IwTlM5SGdiTjc5RFdnM1BF?oc=5",
-     "origin": "Demócrata"
-    },
-    {
-     "title": "EU CSRD: EFRAG launched consultation on its 2027–2029 sustainability reporting agenda, Julia Voskoboinikova",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORW1DX090a2VPWlV6aGhzMlR6NFVaQktGVTA1LThvM1l5aW1seGRBYVBGaE12R2owT3ZiTlJuY2xDdnNJbzJGckxJRVU5RTlxVEptTjVZX0F5cmtfMVQ5UGVrV1B2MHI2MUQxSEE2VGxKREhrU2tnN1FfTUdLYVJfM0p0cUZiYXUzRzlTWFRwY2FoVDFySm96ajhpRnM3OGFIOWVvb0F5MTJIUjF5Wm1sLThGbWVmbWNxUFpUZV9vc0dBMVhqWE9CVHo0WWQxS0k?oc=5",
-     "origin": "Linklaters - Sustainable Futures"
+     "title": "Jinko ESS Pilots Battery Passport with the Global Battery Alliance, Accelerating Compliance with the EU Battery Regulation",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWGNKQXd1YlJORlYtb1pMZGZ0YlBQcG8tcHdVQ2tmSmRON0FTdmpnb2Nld1FSSG9hWHFnQkZiNEhmX2RJU2tvWmJlWWZocXlYTEloWDZudTlZZlBLbmRneG9Kem9BSDF1VEdXRnZPaWt2M3BZd2xnU1Z6Q3FnZmN0V2lHdnJhRkNybDYtWm9UQkhQSFc4M0NyUV92ekpVeEpjcC1GcWJvaHhKV2FjbU44TU5PMEdUckNRNTlhQ3NOS3RrYm5zOXJ6LUhjSlRMMkctM1RKdkIxS2lrUVYwY1RHMU9RR05fbVVzRGpmMWVSVQ?oc=5",
+     "origin": "ESS News"
     }
    ]
   },
   {
-   "title": "EU Commission enforces stricter standards on consumer green claims",
+   "title": "Council agrees stance on packaging rule simplifications",
    "regs": [
-    "green-claims",
-    "ecgt"
+    "ppwr"
    ],
-   "what": "The European Commission secured commitments from major consumer brands to correct misleading recycling claims, alongside new ESMA guidance on sustainability marketing.",
-   "meaning": "Signals active regulatory scrutiny of environmental claims on consumer products, packaging, and battery sustainability.",
-   "action": "Audit product packaging and consumer marketing claims across EU markets.",
+   "what": "The EU Council agreed its negotiating position on proposed simplifications to reduce administrative burdens for small packaging producers.",
+   "meaning": "While focused on smaller entities, the Council's position signals how packaging documentation rules will settle for imported packaged power tools across EU markets.",
+   "action": "Monitor trilogue negotiations to update supplier packaging compliance guidelines.",
    "sources": [
     {
-     "title": "EU Commission secures recycling claim changes from Coca-Cola, Nestlé and Danone",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb0lINnpTcHRaS0JZRUxad19XOFNWZUZIZlRWOTJYS3h4YU1RSlZkdFliRzJQcnhUNUduWFF0UWFtdWprb2tDZVBiTGhLemxpWEhiaEtvT0FYUGpUT0k5RVNOSVVrOC1ESExqOGlLMzlMLXBZRFZXU2hkNEwzcW9yMGJ6YnQ4eW02R1JtZlRiaW4wSFphUUJzWjlnWHExa3VOSFhkM1lYbFZnTUFCaHFfYU5QOEg4bHJFd2xRYnpPTTctWXpPZi1QaC1Zal9JWjNDb3hoYlNlMFBtQnBSWWc?oc=5",
-     "origin": "INSIGHT EU MONITORING"
-    },
+     "title": "Simplification: Council agrees negotiating stance to cut red tape for small packaging producers",
+     "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/",
+     "origin": "council-press"
+    }
+   ]
+  },
+  {
+   "title": "Italy introduces national rules to combat unsubstantiated greenwashing claims",
+   "regs": [
+    "ecgt",
+    "green-claims"
+   ],
+   "what": "Italy introduced national rules targeting greenwashing, requiring explicit substantiation for environmental marketing claims on consumer products.",
+   "meaning": "Enforcement against unverified claims is tightening across EU member states, impacting how tool efficiency, repairability, and battery performance are marketed.",
+   "action": "Audit environmental claims on tool packaging and retail materials sold in Italy.",
+   "sources": [
     {
-     "title": "ESMA Guidance on Impact and Climate Transition Claims",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVpjWHd1VE5lWDJybHZ4QnpfOUNiSXJGMXVGX1MxMFJzUTQ3a1Fpak5wLUZzRS14NWttU0tISHNqbE85b3hPNHp4Y01tcWVzbktiTFhuUWRldDNlbGUyekFfbVZnM1NJR2ZRaURYb01Ca1NaXzdkYWhXZHRtMzhTclA2NmoyNTNNX0FpUXJ2cWjSAZABQVVfeXFMTkVaY1h3dVROZVgycmx2eEJ6XzlDYklyRjF1Rl9TMTBSc1E0N2tRaWpOcC1Gc0UteDVrbVNLSEhzamxPOW94TzR6eGNNbXFlc25LYkxYblFkZXQzZWxlMnpBX21WZzNTSUdmUWlEWG9NQmtTWl83ZGFoV2R0bTM4U3JQNjZqMjUzTV9BaVFydnFo?oc=5",
-     "origin": "The National Law Review"
+     "title": "Green Claims Under Scrutiny Italy’s New Rules On Greenwashing",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHBHcTZxR3ZFRU9QQldzTGdqNnhlU2c4ZzB0TmdVNFpxbEhEYmJqWUlLQlNTMTgtVXo0RzVxdXBPa1IxS01rOEszR05iZXJ6MXNTYVlfUDZCR1dCdVVlRDdlellBRGNlODBnV3FVT0E2QmUyWHJkRTU5eFdNRHMwY0lRV094WG45LThWbWNLWF9LQjh3Ry00OUIxUFJMU0Vnb1l2MVVEdnQ4MGdZbnVtbDl1UGFTVFhhSFZLNEpZamFGMTY4dnhhTQ?oc=5",
+     "origin": "Mondaq"
     }
    ]
   }
  ],
  "watch": [
-  "Entry into force of revised ESRS on 10 November 2026.",
-  "Trilogue negotiations regarding potential CBAM extension to downstream finished goods.",
-  "Technical preparations for February 2027 battery passport and user-replaceability deadlines."
+  "Revised ESRS entering into force on 10 November 2026.",
+  "EUDR compliance deadline applying to large and medium operators on 30 December 2026.",
+  "Ongoing trilogue negotiations regarding potential CBAM scope extensions."
  ],
- "based_on": 45
+ "based_on": 42
 }
