@@ -23,7 +23,7 @@
   },
   "sfdr": {
    "hash": "ee9875e57734",
-   "date": "2026-10-04",
+   "date": "2026-10-28",
    "model": "gemini-3.5-flash"
   },
   "sfdr2": {
@@ -33,8 +33,8 @@
   },
   "csddd": {
    "hash": "f8338d2c01fd",
-   "date": "2026-10-05",
-   "model": "gemini-3.6-flash"
+   "date": "2026-10-28",
+   "model": "gemini-3.5-flash"
   },
   "cbam": {
    "hash": "9b67a0afd383",
@@ -72,9 +72,9 @@
    "model": "gemini-3.7-flash"
   },
   "ets": {
-   "hash": "ac91a5ed1c82",
-   "date": "2026-10-10",
-   "model": "gemini-3.7-flash"
+   "hash": "6055beaf9d2d",
+   "date": "2026-10-28",
+   "model": "gemini-3.5-flash"
   },
   "pay-transparency": {
    "hash": "1310e82ff06b",
@@ -147,11 +147,27 @@
    "model": "gemini-3.5-flash"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "reg": "ets",
+   "type": "add_date",
+   "reason": "Decision (EU) 2026/2402 strengthening the ETS2 market stability reserve was published in the Official Journal on 28 October 2026 following the provisional agreement.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXZuSjVKdGhPSVFzRG1CV2tEY3puUllJeFdPUXJ4ZWhaQ3ZyWnVnaWZUQnRyb1lGcjlxem9laVBJRi1YS0h6SmQ1TEpXRjZTcmwxMF9YNVpWdFktc1RUanF6S01aQzhvUWxVcENFekNLdkR5UEwyNndyVXd6TzFMdmtCZ2czdzhwbGZQTWtYVDdwM3haZkllWjlQWWhJNU1oNDZRY3ZPZmc4S0p1UzhBdm15czdCTEd5cEhtUVliWQ?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-10-28",
+   "label": "market stability reserve amendment published in the Official Journal",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "d84a8558da71f8",
+   "proposed_on": "2026-10-28"
+  }
+ ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-10-27",
  "last_briefing": "2026-10-28",
- "last_proposals": "2026-10-26",
+ "last_proposals": "2026-10-28",
  "pr_seen_open": false
 }
