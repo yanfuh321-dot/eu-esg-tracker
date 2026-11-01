@@ -38,12 +38,12 @@
   },
   "cbam": {
    "hash": "9b67a0afd383",
-   "date": "2026-10-08",
-   "model": "gemini-3.5-flash"
+   "date": "2026-11-01",
+   "model": "gemini-3.8-flash"
   },
   "eudr": {
    "hash": "88327ab11f76",
-   "date": "2026-10-08",
+   "date": "2026-11-01",
    "model": "gemini-3.8-flash"
   },
   "ecgt": {
@@ -72,9 +72,9 @@
    "model": "gemini-3.7-flash"
   },
   "ets": {
-   "hash": "6055beaf9d2d",
-   "date": "2026-10-28",
-   "model": "gemini-3.5-flash"
+   "hash": "9ebc4d0a44b3",
+   "date": "2026-11-01",
+   "model": "gemini-3.8-flash"
   },
   "pay-transparency": {
    "hash": "1310e82ff06b",
@@ -151,7 +151,7 @@
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-10-27",
- "last_briefing": "2026-10-28",
- "last_proposals": "2026-10-31",
+ "last_briefing": "2026-11-01",
+ "last_proposals": "2026-11-01",
  "pr_seen_open": false
 }
