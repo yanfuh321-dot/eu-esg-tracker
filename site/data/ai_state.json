@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.5-flash",
+ "model": "gemini-3.6-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -147,11 +147,42 @@
    "model": "gemini-3.5-flash"
   }
  },
- "pending": [],
+ "pending": [
+  {
+   "reg": "green-claims",
+   "type": "add_date",
+   "reason": "The European Commission officially withdrew the proposed Green Claims Directive on 4 November 2026.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-11-04",
+   "label": "proposal officially withdrawn by the Commission",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "3ed7a9c2b08783",
+   "proposed_on": "2026-11-04"
+  },
+  {
+   "reg": "green-claims",
+   "type": "set_status",
+   "reason": "The European Commission officially dropped the proposed Green Claims Directive on 4 November 2026.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Withdrawn. The European Commission officially withdrew the proposal on 4 November 2026.",
+   "checked_with_search": false,
+   "fp": "878bfc29668d16",
+   "proposed_on": "2026-11-04"
+  }
+ ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-04",
  "last_briefing": "2026-11-04",
- "last_proposals": "2026-11-03",
+ "last_proposals": "2026-11-04",
  "pr_seen_open": false
 }
