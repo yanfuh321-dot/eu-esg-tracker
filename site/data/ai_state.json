@@ -147,41 +147,11 @@
    "model": "gemini-3.5-flash"
   }
  },
- "pending": [
-  {
-   "reg": "sfdr2",
-   "type": "set_status",
-   "reason": "Trilogue negotiations have commenced as confirmed by multiple independent reporting outlets.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUlmYWlPeEVSdUI0UUtxa0h4NEJwOGZNRkVsVXltb1VueFBQRmJXY3lWcm0xcnNNOVpLSkpuWk9CWGRzeUptQVRta1JOeHRjZFpFWVVwVVl1RnBCNzdfX2V3YzY0aGt3TG02WG4zVWE3aGRXVjRqLUd2WU9NSm1mek5BeVVBNk1uVEl5aV9XWnJYcVFPdmpmRmJpZ29xNXU4NFVzM2RzM0RKLUxQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG1leDM0SmpjUkJnVVJFX3NTR1g1YV9TX192cUMwV2U3RDAwV3ZSeU9JY3RRMHFQenhtQjV3S1JTcmVsV2tqa0pqdDE3SU82N01ua3V3WmE2OEl1QnU2UUJNTFdtblZFX1d4SFo4cGRLMDBmb0FmUWhmMUg5OGRJQkk2dGJETGQ1am1PMjYyUi1jdWFQZGRCWVhkQnB5aS1yaFpweFg0UmYzcVEyWmNtZw?oc=5"
-   ],
-   "confidence": "high",
-   "status": "Trilogue negotiations began in October 2026 following the adoption of Parliament's negotiating mandate on 8 October 2026.",
-   "checked_with_search": false,
-   "fp": "9823c392d611d3",
-   "proposed_on": "2026-11-03"
-  },
-  {
-   "reg": "ppwr",
-   "type": "add_date",
-   "reason": "The Council agreed its negotiating position on a targeted simplification proposal reducing administrative burden for small packaging producers.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/simplification-council-agrees-negotiating-stance-to-cut-red-tape-for-small-packaging-producers/"
-   ],
-   "confidence": "high",
-   "date": "2026-10-21",
-   "label": "Council agrees negotiating stance on targeted simplification rules for small producers",
-   "approx": false,
-   "checked_with_search": false,
-   "fp": "d80bfcfdee246c",
-   "proposed_on": "2026-11-03"
-  }
- ],
+ "pending": [],
  "dismissed": {},
  "learn_edits": [],
- "search_refused": "2026-10-27",
+ "search_refused": "2026-11-04",
  "last_briefing": "2026-11-01",
  "last_proposals": "2026-11-03",
- "pr_seen_open": true
+ "pr_seen_open": false
 }
