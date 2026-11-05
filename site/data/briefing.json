@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-04T12:58:48Z",
- "model": "gemini-3.5-flash",
+ "generated_at": "2026-11-05T13:11:39Z",
+ "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "Right to Repair takes effect as ESPR and CSRD pressure mounts",
- "summary": "EU Right to Repair obligations have taken effect, placing direct liability on importers and brand owners of consumer equipment. Meanwhile, stakeholder pushback continues over proposed CSRD non-EU reporting reliefs, and ESPR focus increases on returned stock and product passports.",
+ "headline": "Right to Repair obligations bite importers as Green Claims Directive wavers",
+ "summary": "EU Right to Repair rules now place direct compliance duties on finished-goods importers. Meanwhile, reports indicate the European Commission has dropped the proposed Green Claims Directive, though general anti-greenwashing rules remain relevant for product marketing.",
  "items": [
   {
-   "title": "EU Right to Repair rules take effect alongside new consultation",
+   "title": "EU Right to Repair rules place obligations on importers",
    "regs": [
     "right-to-repair"
    ],
-   "what": "The EU Right to Repair framework has taken effect, placing compliance obligations on importers, while the Commission launched a consultation on further repairability measures.",
-   "meaning": "As the EU brand owner and importer of consumer power tools, legal responsibility for repair access and spare part availability rests with you.",
-   "action": "Audit spare part logistics and update supply contracts with Chinese contract manufacturers.",
+   "what": "New Right to Repair legislation has taken effect, while the EU Commission opened a consultation on further strengthening product repairability requirements.",
+   "meaning": "As an importer selling under your own brand, you hold primary responsibility for providing repair access, spare parts, and documentation for consumer equipment.",
+   "action": "Audit repair manuals and spare parts supply chains with your Chinese manufacturing partners.",
    "sources": [
     {
      "title": "New Law on Right to Repair Takes Effect",
@@ -29,62 +29,57 @@
      "title": "EU launches consultation on tougher repairability rules to cut waste",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWRuSE1VVXZ4QmhqSENlaVVzOE1nWko1U2k0OXpDMnRTS3BTVlJjbm83ZGx2TFA3c0s2YXFsN1hLQ0x1SzlpZTZIaThwd0haNm9sWjZkd0ZLZWFTTnE0NHY3TEh6c2pVNXNpQm5tNEhqUjlBWE5vUDFhbHZIbDUtQno1QjhNWlM1T1gzczZwRzI1azRTSGlRdFV1bWkxOUh3RGFCWVQyMFZrb1BHV3BNUS1hYkRkRDc4?oc=5",
      "origin": "The Brussels Times"
-    },
-    {
-     "title": "EU Commission seeks feedback on improving the repairability of products in the EU",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVzZVbEM0aS12elRqbUs4TUJrZmhhdzF4SUFiOWJoWUhGakp2VGZWbVV6U3dDY3QxZnpaRGVWOGxvSjdCUEFNdEhZRV9mWEdySk8yTEFsbWZVSXNBeDdfVTNidzhkQVZSUDdMMjRDSExwb0ZBcTNDUnZwb05nY1dBQWhsYm1wbFpkazlnb052VlJIVHNCOUFxNzVoVUVzQkx3bHl5V2llaXZ4dFpTTzJmYUlPc2JIb1U0ZU1ZN1I3c2pMQkZNTFd6TVdUQmRPZ05TRTZudHBlWmNLSHB2OWNGc0d3?oc=5",
-     "origin": "INSIGHT EU MONITORING"
     }
    ]
   },
   {
-   "title": "ESPR implementation highlights circular return challenges and product passports",
+   "title": "EU Commission reportedly abandons proposed Green Claims Directive",
+   "regs": [
+    "green-claims",
+    "ecgt"
+   ],
+   "what": "Reports state the European Commission has dropped the proposed Green Claims Directive, abandoning plans for mandatory independent pre-verification of environmental claims.",
+   "meaning": "Substantiation obligations may be less rigid without ex-ante verification, but product sustainability claims remain subject to EU consumer protection rules.",
+   "action": "Continue collecting verifiable sustainability data from suppliers to support brand claims.",
+   "sources": [
+    {
+     "title": "EU Commission Scraps Green Claims Directive",
+     "link": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
+     "origin": "esgtoday"
+    },
+    {
+     "title": "Independent verification for greenwashing claims officially dropped by EU Commission",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5",
+     "origin": "MLex"
+    },
+    {
+     "title": "EU policy arm calls to kill-off 'in-limbo' Green Claims Directive",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnBhVHhLNi1yYmE5ejZUUlExMF91dHlvcldTNWJjdE5DMEQtb0F6MDJMZ09DQzhsQ1BZTTNiZmlMWlJ2OHR6YkoxaU5VcWR4b0VvUE5FR0F6QWMyM2hsM2t2Vk5pSzBfWnFBVkItZTJkeVZxZldoRXFuRWVLeWsxdW9DN3Q3WjdrRlphbnhWUU5QYm1aaWh0SkdRcmRicHE2dUZkMk5VX05QWWtxbTV4RVNZYw?oc=5",
+     "origin": "Quantum Commodity Intelligence"
+    }
+   ]
+  },
+  {
+   "title": "ESPR increases focus on stock write-offs and circular returns",
    "regs": [
     "espr"
    ],
-   "what": "Industry reports highlight retail write-offs of returned goods under ESPR scrutiny, alongside early corporate implementations of Digital Product Passports.",
-   "meaning": "Ecodesign rules will require greater product durability, waste prevention on returns, and digital trace data for tools and battery systems.",
-   "action": "Review returned stock handling and align Chinese suppliers on Digital Product Passport data requirements.",
+   "what": "Industry reports highlight high write-off rates for returned stock as Ecodesign rules push companies towards circular business models and waste reduction.",
+   "meaning": "Returned power tools and battery packs face growing scrutiny regarding refurbishment and waste prevention across EU distribution networks.",
+   "action": "Review product return policies and reverse logistics arrangements with retail partners.",
    "sources": [
     {
      "title": "Half of retailers write off up to 40 per cent of returned stock, as ESPR raises pressure on circular returns",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX0VzTlh1TWhZZHhfZkRiTFRQT09aazN2dkxZTDZacS02Tlpua3AwYWx2b0kwcjdleWMzOU1hMEJRT3ZBc0NJalNObndBd3lBNWFWdmx0TTZYbWtUQUkzSEI4NmVPQURQUF9nTENEWGNwSnBneHk4WmVhTXo2ZmppeVlfbWRHWjR6dHRraVZxSVktOVFQV1dwbE05c3JyT2hsRVFxanlqVG5BWEhWaXJRVEYwcEc3MlgyOFp6ekM1elY0Yk5OUEJfVV9qb2tiU2duT2MxZHB6WHQ3bnJ1MFNJ?oc=5",
      "origin": "Direct Commerce Association"
-    },
-    {
-     "title": "U.S. Polo Assn. Executes Early on Europe’s Digital Product Passport Mandate",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcVA4Mzh6Y1RPQzg2VHJOVFhETGtUa3lrbnI3MkdHd1p0VmRnYVF2alpUVVJabUtiRTlHMjYydGpuRXNkZFpkV0RobkY3WklUNnduMlpoaVBhVURpY1R5V0w3SGlSUVF0SldySnRvWWE1Q0JsRUZqMGVNekZTUjNqZU5KdE1TNWZVdUJkRFBGZWRXX0pLbDJLRjEycHNIallQV2ZWSnU1RlkxdUw3ODZJRFFTWGl2V1RFckFQQWtFdFpMRFB3c0Rna3RoR1Y?oc=5",
-     "origin": "The Courier-Journal"
-    }
-   ]
-  },
-  {
-   "title": "Pushback builds against proposed CSRD reliefs for non-EU firms",
-   "regs": [
-    "csrd",
-    "esrs"
-   ],
-   "what": "Investor and sustainable finance groups are opposing proposals to weaken CSRD reporting requirements for non-EU companies.",
-   "meaning": "Your direct CSRD reporting starting in financial year 2027 remains firm, reinforcing the need for primary supply chain data from Chinese manufacturers.",
-   "action": "Maintain supplier data collection programmes to ensure readiness for Scope 3 disclosures.",
-   "sources": [
-    {
-     "title": "Scepticism mounts over non-EU reporting reliefs under CSRD",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmlvWHZkbVdPZkp0ZnJYLW5MVVhBYWxWc2FpUnl1NGxVNm1xUExuR2V5OWNydjRDa2R3UVh6emx2OWVHMHpaYml6WVE0MTZGWFF2WnVrZWVmTTAxa2pkdDlCbmViY0V3Z3hRbGxSQXJCMHhILXk0bGt6dWhLUUJyX095VGNVY2tiSDFGZzdnWU1OTE9tUEV4Y1V5V3o?oc=5",
-     "origin": "Responsible Investor"
-    },
-    {
-     "title": "Sustainable Finance and Investor Groups Push Back Against Weaker CSRD Sustainability Reporting Rules for Non-EU Companies",
-     "link": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
-     "origin": "esgtoday"
     }
    ]
   }
  ],
  "watch": [
-  "Entry into force of the revised ESRS framework on 10 November 2026.",
-  "EU Deforestation Regulation compliance deadline for large and medium operators on 30 December 2026.",
-  "Upcoming EU Battery Regulation deadlines in February 2027 regarding battery passports and removable battery design."
+  "Revised ESRS entering into force on 10 November 2026 ahead of CSRD application for financial year 2027.",
+  "EU Battery Regulation requirements coming into force in February 2027 regarding user-replaceable batteries.",
+  "Application of the new Machinery Regulation in January 2027 replacing the Machinery Directive."
  ],
- "based_on": 25
+ "based_on": 19
 }
