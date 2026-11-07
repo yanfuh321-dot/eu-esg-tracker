@@ -1,19 +1,45 @@
 {
- "generated_at": "2026-11-06T12:56:32Z",
+ "generated_at": "2026-11-07T11:43:55Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "Right to Repair Law Takes Effect as Green Claims Proposal Scrapped",
- "summary": "The EU Right to Repair directive has taken effect, imposing mandatory repair obligations on consumer goods alongside a new Commission consultation on repairability. Meanwhile, reports indicate the European Commission plans to abandon the proposed Green Claims Directive.",
+ "headline": "EU Regulatory Briefing: Green Claims Withdrawal, Right to Repair, CSRD Preparation",
+ "summary": "Reports indicate the European Commission plans to scrap the proposed Green Claims Directive. Meanwhile, the EU Right to Repair law has taken effect alongside new consultations on repairability rules. With revised ESRS standards entering into force on 10 November, preparation for CSRD reporting starting in financial year 2027 remains essential.",
  "items": [
   {
-   "title": "EU Right to Repair Directive Enters into Force",
+   "title": "Commission Reportedly Scraps Proposed Green Claims Directive",
+   "regs": [
+    "green-claims"
+   ],
+   "what": "Reports state the European Commission intends to withdraw the proposed Green Claims Directive and its independent verification requirement.",
+   "meaning": "Your consumer marketing for power tools will not face ex-ante verification under this directive, though general greenwashing prohibitions still apply.",
+   "action": "Review environmental marketing strategies against existing EU unfair commercial practice rules.",
+   "sources": [
+    {
+     "title": "EU Pulls Plug on Green Claims Directive",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXpoMkMwT1lua0tKTExUS2FRZTRhdVFRY2pOdEpVbXcxUkR0ckxKR2lyZnBkLVc0SVJ3QnlyelFaTFUyb21seVpwSk9kQ2JCTW1RWG5qdTF1b0pzblo3NGpNU2dTejYzWEtfb0hydzFHY2o4QUw4bVd3Skw2R3MtZjRJdVN4alZ4MFFMa3ZodTJOS216WWg5VXpmRmQ1MW1LNFA4dmo5VHVzSXRh?oc=5",
+     "origin": "WWD"
+    },
+    {
+     "title": "Commission confirms plans to scrap Green Claims Directive",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5",
+     "origin": "ICLG"
+    },
+    {
+     "title": "EU Commission Scraps Green Claims Directive",
+     "link": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
+     "origin": "esgtoday"
+    }
+   ]
+  },
+  {
+   "title": "Right to Repair Law Takes Effect Alongside New Consultation",
    "regs": [
     "right-to-repair"
    ],
-   "what": "The EU Right to Repair directive has taken effect, establishing mandatory repair obligations. Concurrently, the European Commission opened a public consultation seeking feedback on further repairability standards for products.",
-   "meaning": "Directly impacts your power tools and garden equipment portfolio, requiring accessible spare parts, technical information, and product designs that facilitate consumer repair.",
-   "action": "Assess tool design, battery accessibility, and spare parts availability against repair requirements.",
+   "what": "The Right to Repair law took effect on 1 November, while the Commission launched a public consultation on stronger repairability rules.",
+   "meaning": "As a brand manufacturer of consumer equipment, spare part accessibility and repairability standards directly impact product design and post-sale service.",
+   "action": "Assess spare parts availability and evaluate participation in the public consultation.",
    "sources": [
     {
      "title": "New Law on Right to Repair Takes Effect",
@@ -26,48 +52,55 @@
      "origin": "The Brussels Times"
     },
     {
-     "title": "EU Commission seeks feedback on improving the repairability of products in the EU",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVzZVbEM0aS12elRqbUs4TUJrZmhhdzF4SUFiOWJoWUhGakp2VGZWbVV6U3dDY3QxZnpaRGVWOGxvSjdCUEFNdEhZRV9mWEdySk8yTEFsbWZVSXNBeDdfVTNidzhkQVZSUDdMMjRDSExwb0ZBcTNDUnZwb05nY1dBQWhsYm1wbFpkazlnb052VlJIVHNCOUFxNzVoVUVzQkx3bHl5V2llaXZ4dFpTTzJmYUlPc2JIb1U0ZU1ZN1I3c2pMQkZNTFd6TVdUQmRPZ05TRTZudHBlWmNLSHB2OWNGc0d3?oc=5",
-     "origin": "INSIGHT EU MONITORING"
+     "title": "Commission launches public consultation on making products easier to repair",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZF9BQnpUZk1yQXFBVDFUNEdFM3Mxa1FFWUZ6R3N1Z1ZyNGhBZHY0T1ZLRlh6aERFcGZQN01yRnNMbFlnWXRXRUw1OFVaSGZiU1R2aXRwQjZYdU8yenZ4aHBha3BHUWhkOEIwVE82eTJoWGhmQlBuQVh1dm9vRlpBSFlyY2ZUeHlLOTllbjhTVXRsR0EzaVplMFRfazhMblNkUUw4TXAzZnNVak0?oc=5",
+     "origin": "https://environment.ec.europa.eu/index_en"
     }
    ]
   },
   {
-   "title": "European Commission Reportedly Drops Green Claims Directive",
+   "title": "Revised ESRS Standard Set to Enter into Force",
    "regs": [
-    "green-claims"
+    "csrd",
+    "esrs-revised"
    ],
-   "what": "Reports indicate the European Commission intends to withdraw the proposed Green Claims Directive, dropping plans for mandatory ex-ante independent verification of environmental claims.",
-   "meaning": "This proposal is reported as scrapped and is not law. If confirmed, strict pre-approval requirements for environmental marketing of your tools and battery platform will not apply.",
-   "action": "Maintain robust substantiation for sustainability claims under existing consumer protection rules.",
+   "what": "The revised ESRS standards enter into force on 10 November 2026 following Omnibus reform updates to ESG disclosure obligations.",
+   "meaning": "Meeting the employee and turnover thresholds places your business inside CSRD scope starting in financial year 2027.",
+   "action": "Align Chinese supplier sustainability data collection with the finalized ESRS disclosure framework.",
    "sources": [
     {
-     "title": "Commission confirms plans to scrap Green Claims Directive",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5",
-     "origin": "ICLG"
+     "title": "ESG disclosure and corporate due diligence obligations under the Omnibus Reform",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX3pfUWpuUXQ0MVNIWlR2SVR2N1Nsd2lJNS0yZ3YzOHFETkx4c3pfT2pGRHUwbXo3QldlQVdHZnN0ZmxXZ1dTeFk0b3loOFFfeFFZQTNHUkRXeDhRX3NHUjZCSnZpOGp6U1FRWTJadkNzWHIyTktzNVFub2VINE1OQ1VDMHNZNEZBa1k4dVNVa1ZOel8ySThheGZ3bTJ3Vk1BZHU4OVFvY2FYNUtCcXNTYUc1UmQ5U0djQUNvTE1Mbm5Rc1RSQWhuaE15ajRWb2twQVE?oc=5",
+     "origin": "Squire Patton Boggs"
+    }
+   ]
+  },
+  {
+   "title": "Rules Detailed for Crediting Third-Country Carbon Prices Under CBAM",
+   "regs": [
+    "cbam"
+   ],
+   "what": "New details outline rules for crediting carbon prices paid in third countries under CBAM, alongside reported discussions on UK exemptions.",
+   "meaning": "While finished tools fall outside direct CBAM import filings, Chinese supplier carbon pricing crediting may influence upstream component costs.",
+   "action": "Monitor supplier energy cost shifts and potential future expansions of CBAM product scope.",
+   "sources": [
+    {
+     "title": "CBAM Rules for Crediting 3rd Country Carbon Prices",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
+     "origin": "Steel and Stainless Steel News"
     },
     {
-     "title": "EU policy arm calls to kill-off 'in-limbo' Green Claims Directive",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnBhVHhLNi1yYmE5ejZUUlExMF91dHlvcldTNWJjdE5DMEQtb0F6MDJMZ09DQzhsQ1BZTTNiZmlMWlJ2OHR6YkoxaU5VcWR4b0VvUE5FR0F6QWMyM2hsM2t2Vk5pSzBfWnFBVkItZTJkeVZxZldoRXFuRWVLeWsxdW9DN3Q3WjdrRlphbnhWUU5QYm1aaWh0SkdRcmRicHE2dUZkMk5VX05QWWtxbTV4RVNZYw?oc=5",
-     "origin": "Quantum Commodity Intelligence"
-    },
-    {
-     "title": "EU Commission Scraps Green Claims Directive",
-     "link": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-     "origin": "esgtoday"
-    },
-    {
-     "title": "Independent verification for greenwashing claims officially dropped by EU Commission",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5",
-     "origin": "MLex"
+     "title": "Major CBAM Shake-Up: EU Reportedly Plans To Exempt UK Imports From January 2026",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnJ1WERZb0hqbV9yOGZ2T3ByWnpLR3VQVmpZTnRMWjM2dm1Sc3h0WC1QQklqck93aVE4aFp5SXFMdE1sTkducUdwRXQ1cl81b3lXUWxCeFdDcDczSnBZX1JWemZYUTdxclZ6UHlBZmhuakVlMXFoVUxPY0k4TF9YQjJJLVZ3UllXRFJQWVgtbFBVQVlVeEZ1dnJVVTA5c2VmazdIbTRtNA?oc=5",
+     "origin": "Carbon Herald"
     }
    ]
   }
  ],
  "watch": [
-  "The upcoming 30 December 2026 application deadline for the EU Deforestation Regulation regarding paper and wooden packaging.",
-  "Mandatory removable and replaceable battery requirements taking effect under the EU Batteries Regulation in February 2027.",
-  "The entry into force of revised ESRS standards on 10 November 2026 ahead of your 2027 CSRD reporting scope."
+  "Revised ESRS entering into force on 10 November 2026 ahead of mandatory FY2027 reporting.",
+  "Application of EUDR on 30 December 2026 for operators handling wood-based products and packaging.",
+  "Upcoming 2027 deadlines for the EU Machinery Regulation and battery passport requirements."
  ],
- "based_on": 21
+ "based_on": 28
 }

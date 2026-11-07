@@ -78,17 +78,17 @@
   },
   "pay-transparency": {
    "hash": "1310e82ff06b",
-   "date": "2026-10-16",
-   "model": "gemini-3.8-flash"
+   "date": "2026-11-07",
+   "model": "gemini-3.6-flash"
   },
   "green-bond": {
    "hash": "5d86cacb4068",
-   "date": "2026-10-16",
+   "date": "2026-11-07",
    "model": "gemini-3.6-flash"
   },
   "esg-ratings": {
    "hash": "94ebbca740c9",
-   "date": "2026-10-16",
+   "date": "2026-11-07",
    "model": "gemini-3.6-flash"
   },
   "ppwr": {
@@ -151,38 +151,36 @@
   {
    "reg": "green-claims",
    "type": "add_date",
-   "reason": "The European Commission officially withdrew the Green Claims Directive proposal on 4 November 2026.",
+   "reason": "The European Commission officially withdrew the proposal for the Green Claims Directive on 4 November 2026.",
    "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/"
    ],
    "confidence": "high",
    "date": "2026-11-04",
-   "label": "Commission officially withdraws proposal",
+   "label": "Commission officially withdraws the proposal",
    "approx": false,
    "checked_with_search": false,
    "fp": "3ed7a9c2b08783",
-   "proposed_on": "2026-11-06"
+   "proposed_on": "2026-11-07"
   },
   {
    "reg": "green-claims",
    "type": "set_status",
-   "reason": "The European Commission officially dropped the Green Claims Directive proposal on 4 November 2026.",
+   "reason": "The European Commission officially confirmed the withdrawal of the proposal in November 2026.",
    "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/"
    ],
    "confidence": "high",
-   "status": "Proposal officially withdrawn by the European Commission in November 2026.",
+   "status": "Withdrawn. The European Commission officially dropped the proposal on 4 November 2026.",
    "checked_with_search": false,
    "fp": "878bfc29668d16",
-   "proposed_on": "2026-11-06"
+   "proposed_on": "2026-11-07"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-04",
- "last_briefing": "2026-11-06",
- "last_proposals": "2026-11-06",
+ "last_briefing": "2026-11-07",
+ "last_proposals": "2026-11-07",
  "pr_seen_open": true
 }
