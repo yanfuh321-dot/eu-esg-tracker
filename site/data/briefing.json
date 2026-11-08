@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-07T11:43:55Z",
+ "generated_at": "2026-11-08T11:55:39Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU Regulatory Briefing: Green Claims Withdrawal, Right to Repair, CSRD Preparation",
- "summary": "Reports indicate the European Commission plans to scrap the proposed Green Claims Directive. Meanwhile, the EU Right to Repair law has taken effect alongside new consultations on repairability rules. With revised ESRS standards entering into force on 10 November, preparation for CSRD reporting starting in financial year 2027 remains essential.",
+ "headline": "EU Regulatory Update: Green Claims, Right to Repair, and CSRD Scope",
+ "summary": "Reports indicate the EU Commission plans to scrap the Green Claims Directive, while the Right to Repair law has entered into force. Legal analysis confirms your business remains in scope for CSRD reporting from 2027, but outside direct CSDDD duties. Public consultations on product repairability are also underway.",
  "items": [
   {
-   "title": "Commission Reportedly Scraps Proposed Green Claims Directive",
+   "title": "Commission reportedly moves to scrap proposed Green Claims Directive",
    "regs": [
     "green-claims"
    ],
-   "what": "Reports state the European Commission intends to withdraw the proposed Green Claims Directive and its independent verification requirement.",
-   "meaning": "Your consumer marketing for power tools will not face ex-ante verification under this directive, though general greenwashing prohibitions still apply.",
-   "action": "Review environmental marketing strategies against existing EU unfair commercial practice rules.",
+   "what": "Media reports indicate the European Commission intends to withdraw the proposed Green Claims Directive, potentially dropping mandatory third-party verification for environmental claims.",
+   "meaning": "Though not yet official law, withdrawal would simplify marketing claims for your tools and packaging, though general anti-greenwashing rules still apply.",
+   "action": "Monitor official Commission updates before modifying internal environmental claim review processes.",
    "sources": [
     {
      "title": "EU Pulls Plug on Green Claims Directive",
@@ -26,30 +26,25 @@
      "origin": "ICLG"
     },
     {
-     "title": "EU Commission Scraps Green Claims Directive",
-     "link": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-     "origin": "esgtoday"
+     "title": "Independent verification for greenwashing claims officially dropped by EU Commission",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5",
+     "origin": "MLex"
     }
    ]
   },
   {
-   "title": "Right to Repair Law Takes Effect Alongside New Consultation",
+   "title": "Right to Repair rules take effect as new consultation opens",
    "regs": [
     "right-to-repair"
    ],
-   "what": "The Right to Repair law took effect on 1 November, while the Commission launched a public consultation on stronger repairability rules.",
-   "meaning": "As a brand manufacturer of consumer equipment, spare part accessibility and repairability standards directly impact product design and post-sale service.",
-   "action": "Assess spare parts availability and evaluate participation in the public consultation.",
+   "what": "The Right to Repair Directive took effect on 1 November 2026, while the Commission launched a public consultation on further strengthening product repairability.",
+   "meaning": "Directly affects your consumer power tools and garden equipment. You must ensure spare parts availability, repair access, and product serviceability.",
+   "action": "Review spare parts supply chains with Chinese manufacturers to ensure compliance with repair standards.",
    "sources": [
     {
      "title": "New Law on Right to Repair Takes Effect",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZ1AzNWpiU28tSTUza1Z1d3k1cm53VUl6UW9aWndwRnNJOUJIWWJiZElDN2x4MjVZajZEVkk0dmxhVmVxaUFQZjh0Q1dVcEpYODNIOUVINnJsekFfQS1MQlQ5d1lNZFVHZDR1YVVYbzYtX1l2ekE?oc=5",
      "origin": "Denkstrom"
-    },
-    {
-     "title": "EU launches consultation on tougher repairability rules to cut waste",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWRuSE1VVXZ4QmhqSENlaVVzOE1nWko1U2k0OXpDMnRTS3BTVlJjbm83ZGx2TFA3c0s2YXFsN1hLQ0x1SzlpZTZIaThwd0haNm9sWjZkd0ZLZWFTTnE0NHY3TEh6c2pVNXNpQm5tNEhqUjlBWE5vUDFhbHZIbDUtQno1QjhNWlM1T1gzczZwRzI1azRTSGlRdFV1bWkxOUh3RGFCWVQyMFZrb1BHV3BNUS1hYkRkRDc4?oc=5",
-     "origin": "The Brussels Times"
     },
     {
      "title": "Commission launches public consultation on making products easier to repair",
@@ -59,14 +54,14 @@
    ]
   },
   {
-   "title": "Revised ESRS Standard Set to Enter into Force",
+   "title": "Omnibus analysis details CSRD inclusion and CSDDD exclusion",
    "regs": [
     "csrd",
-    "esrs-revised"
+    "csddd"
    ],
-   "what": "The revised ESRS standards enter into force on 10 November 2026 following Omnibus reform updates to ESG disclosure obligations.",
-   "meaning": "Meeting the employee and turnover thresholds places your business inside CSRD scope starting in financial year 2027.",
-   "action": "Align Chinese supplier sustainability data collection with the finalized ESRS disclosure framework.",
+   "what": "Recent legal analysis details how Omnibus reforms adjust corporate sustainability reporting while setting higher thresholds for corporate due diligence.",
+   "meaning": "With over 1,000 employees and €450m turnover, your company is in scope for CSRD starting FY 2027, but remains exempt from direct CSDDD duties.",
+   "action": "Focus supplier sustainability data collection on CSRD reporting alignment rather than full CSDDD mapping.",
    "sources": [
     {
      "title": "ESG disclosure and corporate due diligence obligations under the Omnibus Reform",
@@ -74,33 +69,12 @@
      "origin": "Squire Patton Boggs"
     }
    ]
-  },
-  {
-   "title": "Rules Detailed for Crediting Third-Country Carbon Prices Under CBAM",
-   "regs": [
-    "cbam"
-   ],
-   "what": "New details outline rules for crediting carbon prices paid in third countries under CBAM, alongside reported discussions on UK exemptions.",
-   "meaning": "While finished tools fall outside direct CBAM import filings, Chinese supplier carbon pricing crediting may influence upstream component costs.",
-   "action": "Monitor supplier energy cost shifts and potential future expansions of CBAM product scope.",
-   "sources": [
-    {
-     "title": "CBAM Rules for Crediting 3rd Country Carbon Prices",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
-     "origin": "Steel and Stainless Steel News"
-    },
-    {
-     "title": "Major CBAM Shake-Up: EU Reportedly Plans To Exempt UK Imports From January 2026",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnJ1WERZb0hqbV9yOGZ2T3ByWnpLR3VQVmpZTnRMWjM2dm1Sc3h0WC1QQklqck93aVE4aFp5SXFMdE1sTkducUdwRXQ1cl81b3lXUWxCeFdDcDczSnBZX1JWemZYUTdxclZ6UHlBZmhuakVlMXFoVUxPY0k4TF9YQjJJLVZ3UllXRFJQWVgtbFBVQVlVeEZ1dnJVVTA5c2VmazdIbTRtNA?oc=5",
-     "origin": "Carbon Herald"
-    }
-   ]
   }
  ],
  "watch": [
-  "Revised ESRS entering into force on 10 November 2026 ahead of mandatory FY2027 reporting.",
-  "Application of EUDR on 30 December 2026 for operators handling wood-based products and packaging.",
-  "Upcoming 2027 deadlines for the EU Machinery Regulation and battery passport requirements."
+  "Entry into force of the revised ESRS standards on 10 November 2026.",
+  "Official European Commission confirmation regarding the withdrawal of the Green Claims Directive.",
+  "Upcoming mandatory battery passport and replaceability requirements taking effect in early 2027."
  ],
- "based_on": 28
+ "based_on": 29
 }
