@@ -113,18 +113,18 @@
   },
   "reach": {
    "hash": "b9a44d2621d7",
-   "date": "2026-10-18",
-   "model": "gemini-3.8-flash"
+   "date": "2026-11-09",
+   "model": "gemini-3.6-flash"
   },
   "machinery": {
    "hash": "ce7a9a4c25ee",
-   "date": "2026-10-18",
-   "model": "gemini-3.8-flash"
+   "date": "2026-11-09",
+   "model": "gemini-3.6-flash"
   },
   "de-lksg": {
    "hash": "b56b9473c64e",
-   "date": "2026-10-19",
-   "model": "gemini-3.8-flash"
+   "date": "2026-11-09",
+   "model": "gemini-3.6-flash"
   },
   "de-csrd": {
    "hash": "4a48f4eae052",
@@ -150,39 +150,39 @@
  "pending": [
   {
    "reg": "green-claims",
-   "type": "set_status",
-   "reason": "In early November 2026, the European Commission officially confirmed it is dropping the Green Claims Directive proposal.",
-   "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
-   ],
-   "confidence": "high",
-   "status": "The European Commission officially confirmed in November 2026 that it is scrapping the proposed Green Claims Directive.",
-   "checked_with_search": false,
-   "fp": "878bfc29668d16",
-   "proposed_on": "2026-11-08"
-  },
-  {
-   "reg": "green-claims",
    "type": "add_date",
-   "reason": "The European Commission officially announced it is scrapping the proposed Green Claims Directive.",
+   "reason": "The European Commission officially withdrew the Green Claims Directive proposal on 4 November 2026.",
    "sources": [
     "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5"
    ],
    "confidence": "high",
    "date": "2026-11-04",
-   "label": "Commission confirms withdrawal of proposal",
+   "label": "Commission officially withdraws the proposal",
    "approx": false,
    "checked_with_search": false,
    "fp": "3ed7a9c2b08783",
-   "proposed_on": "2026-11-08"
+   "proposed_on": "2026-11-09"
+  },
+  {
+   "reg": "green-claims",
+   "type": "set_status",
+   "reason": "The Commission formally dropped the proposal, rendering the 'on hold' status outdated.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Withdrawn. The European Commission officially scrapped the proposed directive on 4 November 2026.",
+   "checked_with_search": false,
+   "fp": "878bfc29668d16",
+   "proposed_on": "2026-11-09"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-04",
- "last_briefing": "2026-11-08",
- "last_proposals": "2026-11-08",
+ "last_briefing": "2026-11-09",
+ "last_proposals": "2026-11-09",
  "pr_seen_open": true
 }
