@@ -1,62 +1,62 @@
 {
- "generated_at": "2026-11-09T23:46:40Z",
+ "generated_at": "2026-11-10T21:17:32Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU Commission reported to scrap Green Claims proposal; repairability consultation opens",
- "summary": "Reports indicate the European Commission plans to abandon the proposed Green Claims Directive, potentially easing ex-ante verification burdens for environmental marketing. Meanwhile, a new Commission consultation on product repairability directly targets consumer durables. Legal analysis also confirmed your CSRD obligations for FY2027 while keeping you outside direct CSDDD scope.",
+ "headline": "Commission reported scrapping Green Claims Directive as repairability consultation opens",
+ "summary": "Reports indicate the European Commission plans to abandon the Green Claims Directive, though general greenwashing rules remain active. Meanwhile, the Commission has opened a consultation on product repairability rules. Companies should also prepare supplier data collection for CSRD reporting starting in 2027.",
  "items": [
   {
-   "title": "Commission reported to withdraw Green Claims Directive proposal",
+   "title": "Commission reportedly drops proposed Green Claims Directive",
    "regs": [
     "green-claims"
    ],
-   "what": "Media reports indicate the European Commission intends to drop the proposed Green Claims Directive and its third-party pre-verification scheme for environmental claims.",
-   "meaning": "Ex-ante substantiation requirements for product environmental claims may be shelved, though general anti-greenwashing rules under the Empowering Consumers Directive remain applicable to tool packaging.",
-   "action": "Monitor official Commission updates before modifying ongoing environmental claim substantiation processes.",
+   "what": "Media reports indicate the European Commission plans to withdraw the proposed Green Claims Directive, dropping planned ex-ante verification requirements for environmental claims.",
+   "meaning": "While explicit pre-verification under this directive may be abandoned, green claims on your tools and packaging remain subject to general EU unfair commercial practices rules.",
+   "action": "Maintain robust substantiation for existing green claims without preparing for formal ex-ante verification.",
    "sources": [
     {
-     "title": "Commission confirms plans to scrap Green Claims Directive",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5",
-     "origin": "ICLG"
+     "title": "EU Commission Abandons Plans For The Green Claims Directive",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzNHN3ItRG5qaEdOeFgtOV9qVExpLXNkc0pxcER4REpPVVBJZExWNW5IWXVOTVF5TUwwNkFfaU04RUNhbWE4NDhnY2FpTVQ4VnVJWTQ2OTlZVXFNNVpiamEtOXJSNFc3SVh2elRUZW5fWFFXTW5GWkN0THhxTHR3dkZsWW5uUQ?oc=5",
+     "origin": "JD Supra"
     },
     {
-     "title": "EU Commission Scraps Green Claims Directive",
-     "link": "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
-     "origin": "esgtoday"
+     "title": "European Commission plans to withdraw Green Claims Directive",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFlpTDdQbFhCZ0NMcmFKTkFlQ3dqRVlEWEpvQVlxMUZWSTFlNjdKdzM0TERUVWtVNmxqdl9jd0V6VmtidEM4LXZuVzcxNi1tVTc4SXNDXzFqREtVSmowOWN0b0Y1ZnFaMlZrN2QzemRFeUc3ZmwtUHdoSm1ZZWJUSktqLWZtekdJSGc?oc=5",
+     "origin": "UKFT"
     }
    ]
   },
   {
-   "title": "Commission opens public consultation on product repairability rules",
+   "title": "EU launches public consultation on product repairability rules",
    "regs": [
     "right-to-repair"
    ],
-   "what": "The European Commission launched a public consultation seeking feedback on potential EU measures to improve product repairability and reduce waste.",
-   "meaning": "Future rules could directly impact design standards, spare part availability, and technical documentation for power tools and garden equipment manufactured by Chinese suppliers.",
-   "action": "Review product repairability design criteria and consider contributing feedback to the Commission consultation.",
+   "what": "The European Commission has launched a public consultation to gather stakeholder feedback on strengthening EU product repairability requirements and reducing waste.",
+   "meaning": "Future measures could introduce design, spare part availability, and technical information requirements for power tools and garden equipment sold in the EU.",
+   "action": "Assess supplier repair capabilities and spare parts availability across your Chinese production bases.",
    "sources": [
-    {
-     "title": "Commission launches public consultation on making products easier to repair",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZF9BQnpUZk1yQXFBVDFUNEdFM3Mxa1FFWUZ6R3N1Z1ZyNGhBZHY0T1ZLRlh6aERFcGZQN01yRnNMbFlnWXRXRUw1OFVaSGZiU1R2aXRwQjZYdU8yenZ4aHBha3BHUWhkOEIwVE82eTJoWGhmQlBuQVh1dm9vRlpBSFlyY2ZUeHlLOTllbjhTVXRsR0EzaVplMFRfazhMblNkUUw4TXAzZnNVak0?oc=5",
-     "origin": "https://environment.ec.europa.eu/index_en"
-    },
     {
      "title": "EU launches consultation on tougher repairability rules to cut waste",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWRuSE1VVXZ4QmhqSENlaVVzOE1nWko1U2k0OXpDMnRTS3BTVlJjbm83ZGx2TFA3c0s2YXFsN1hLQ0x1SzlpZTZIaThwd0haNm9sWjZkd0ZLZWFTTnE0NHY3TEh6c2pVNXNpQm5tNEhqUjlBWE5vUDFhbHZIbDUtQno1QjhNWlM1T1gzczZwRzI1azRTSGlRdFV1bWkxOUh3RGFCWVQyMFZrb1BHV3BNUS1hYkRkRDc4?oc=5",
      "origin": "The Brussels Times"
+    },
+    {
+     "title": "EU Commission seeks feedback on improving the repairability of products in the EU",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVzZVbEM0aS12elRqbUs4TUJrZmhhdzF4SUFiOWJoWUhGakp2VGZWbVV6U3dDY3QxZnpaRGVWOGxvSjdCUEFNdEhZRV9mWEdySk8yTEFsbWZVSXNBeDdfVTNidzhkQVZSUDdMMjRDSExwb0ZBcTNDUnZwb05nY1dBQWhsYm1wbFpkazlnb052VlJIVHNCOUFxNzVoVUVzQkx3bHl5V2llaXZ4dFpTTzJmYUlPc2JIb1U0ZU1ZN1I3c2pMQkZNTFd6TVdUQmRPZ05TRTZudHBlWmNLSHB2OWNGc0d3?oc=5",
+     "origin": "INSIGHT EU MONITORING"
     }
    ]
   },
   {
-   "title": "Omnibus reform analysis details revised CSRD and CSDDD thresholds",
+   "title": "Omnibus Reform clarifies CSRD and CSDDD application thresholds",
    "regs": [
     "csrd",
     "csddd"
    ],
-   "what": "Published legal analysis outlines modified corporate reporting and due diligence obligations following the EU Omnibus reform package.",
-   "meaning": "Confirms your business remains subject to CSRD reporting from financial year 2027 while remaining outside the direct scope of CSDDD due to headcount.",
-   "action": "Maintain supply chain ESG data collection planning with mainland Chinese suppliers for FY2027 reporting.",
+   "what": "Analysis clarifies ESG disclosure and due diligence rules under the Omnibus reform, outlining scope shifts for corporate sustainability reporting.",
+   "meaning": "Your company falls inside the CSRD scope for financial year 2027, but remains outside direct CSDDD due diligence requirements.",
+   "action": "Prepare Chinese supplier ESG data gathering to meet revised ESRS requirements starting in 2027.",
    "sources": [
     {
      "title": "ESG disclosure and corporate due diligence obligations under the Omnibus Reform",
@@ -67,9 +67,9 @@
   }
  ],
  "watch": [
-  "Revised ESRS entering into force on 10 November 2026.",
-  "EUDR compliance deadline taking effect on 30 December 2026 for large and medium operators.",
-  "Official European Commission statements regarding the formal status of the Green Claims Directive proposal."
+  "Official European Commission updates regarding the proposed withdrawal of the Green Claims Directive.",
+  "Progress of the EU public consultation on product repairability standards.",
+  "Implementation steps for the 2027 battery passport and replaceable battery mandates."
  ],
- "based_on": 26
+ "based_on": 25
 }
