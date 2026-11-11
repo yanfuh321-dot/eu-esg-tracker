@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-10T21:17:32Z",
+ "generated_at": "2026-11-11T12:42:55Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "Commission reported scrapping Green Claims Directive as repairability consultation opens",
- "summary": "Reports indicate the European Commission plans to abandon the Green Claims Directive, though general greenwashing rules remain active. Meanwhile, the Commission has opened a consultation on product repairability rules. Companies should also prepare supplier data collection for CSRD reporting starting in 2027.",
+ "headline": "EU Commission reported to scrap Green Claims Directive amid regulatory updates",
+ "summary": "The European Commission reportedly plans to scrap the Green Claims Directive, potentially easing ex-ante verification burdens for consumer marketing. Meanwhile, analyses clarify CSRD and CSDDD thresholds under the Omnibus package, and national implementations of the Pay Transparency Directive advance ahead of upcoming corporate reporting and product compliance milestones.",
  "items": [
   {
-   "title": "Commission reportedly drops proposed Green Claims Directive",
+   "title": "EU Commission reportedly plans to abandon Green Claims Directive",
    "regs": [
     "green-claims"
    ],
-   "what": "Media reports indicate the European Commission plans to withdraw the proposed Green Claims Directive, dropping planned ex-ante verification requirements for environmental claims.",
-   "meaning": "While explicit pre-verification under this directive may be abandoned, green claims on your tools and packaging remain subject to general EU unfair commercial practices rules.",
-   "action": "Maintain robust substantiation for existing green claims without preparing for formal ex-ante verification.",
+   "what": "Media reports indicate the European Commission intends to withdraw the proposed Green Claims Directive, abandoning plans for mandatory third-party pre-approval of environmental claims.",
+   "meaning": "Eases expected administrative burdens for consumer marketing on your brand's tools, though existing national unfair commercial practices laws still apply.",
+   "action": "Continue substantiating environmental marketing claims while awaiting official confirmation from the European Commission.",
    "sources": [
     {
      "title": "EU Commission Abandons Plans For The Green Claims Directive",
@@ -24,39 +24,23 @@
      "title": "European Commission plans to withdraw Green Claims Directive",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFlpTDdQbFhCZ0NMcmFKTkFlQ3dqRVlEWEpvQVlxMUZWSTFlNjdKdzM0TERUVWtVNmxqdl9jd0V6VmtidEM4LXZuVzcxNi1tVTc4SXNDXzFqREtVSmowOWN0b0Y1ZnFaMlZrN2QzemRFeUc3ZmwtUHdoSm1ZZWJUSktqLWZtekdJSGc?oc=5",
      "origin": "UKFT"
-    }
-   ]
-  },
-  {
-   "title": "EU launches public consultation on product repairability rules",
-   "regs": [
-    "right-to-repair"
-   ],
-   "what": "The European Commission has launched a public consultation to gather stakeholder feedback on strengthening EU product repairability requirements and reducing waste.",
-   "meaning": "Future measures could introduce design, spare part availability, and technical information requirements for power tools and garden equipment sold in the EU.",
-   "action": "Assess supplier repair capabilities and spare parts availability across your Chinese production bases.",
-   "sources": [
-    {
-     "title": "EU launches consultation on tougher repairability rules to cut waste",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWRuSE1VVXZ4QmhqSENlaVVzOE1nWko1U2k0OXpDMnRTS3BTVlJjbm83ZGx2TFA3c0s2YXFsN1hLQ0x1SzlpZTZIaThwd0haNm9sWjZkd0ZLZWFTTnE0NHY3TEh6c2pVNXNpQm5tNEhqUjlBWE5vUDFhbHZIbDUtQno1QjhNWlM1T1gzczZwRzI1azRTSGlRdFV1bWkxOUh3RGFCWVQyMFZrb1BHV3BNUS1hYkRkRDc4?oc=5",
-     "origin": "The Brussels Times"
     },
     {
-     "title": "EU Commission seeks feedback on improving the repairability of products in the EU",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVzZVbEM0aS12elRqbUs4TUJrZmhhdzF4SUFiOWJoWUhGakp2VGZWbVV6U3dDY3QxZnpaRGVWOGxvSjdCUEFNdEhZRV9mWEdySk8yTEFsbWZVSXNBeDdfVTNidzhkQVZSUDdMMjRDSExwb0ZBcTNDUnZwb05nY1dBQWhsYm1wbFpkazlnb052VlJIVHNCOUFxNzVoVUVzQkx3bHl5V2llaXZ4dFpTTzJmYUlPc2JIb1U0ZU1ZN1I3c2pMQkZNTFd6TVdUQmRPZ05TRTZudHBlWmNLSHB2OWNGc0d3?oc=5",
-     "origin": "INSIGHT EU MONITORING"
+     "title": "Commission confirms plans to scrap Green Claims Directive",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5",
+     "origin": "ICLG"
     }
    ]
   },
   {
-   "title": "Omnibus Reform clarifies CSRD and CSDDD application thresholds",
+   "title": "Omnibus Reform analysis clarifies CSRD and CSDDD obligations",
    "regs": [
     "csrd",
     "csddd"
    ],
-   "what": "Analysis clarifies ESG disclosure and due diligence rules under the Omnibus reform, outlining scope shifts for corporate sustainability reporting.",
-   "meaning": "Your company falls inside the CSRD scope for financial year 2027, but remains outside direct CSDDD due diligence requirements.",
-   "action": "Prepare Chinese supplier ESG data gathering to meet revised ESRS requirements starting in 2027.",
+   "what": "Legal analysis outlined updated sustainability reporting and due diligence expectations following the EU Omnibus reform package.",
+   "meaning": "Confirms your CSRD reporting obligations start from FY2027, while your headcount keeps you outside the direct scope of the CSDDD.",
+   "action": "Align Chinese supplier sustainability data collection with CSRD metrics rather than CSDDD due diligence protocols.",
    "sources": [
     {
      "title": "ESG disclosure and corporate due diligence obligations under the Omnibus Reform",
@@ -64,12 +48,54 @@
      "origin": "Squire Patton Boggs"
     }
    ]
+  },
+  {
+   "title": "EUDR compliance preparations advance with updated guidance and training",
+   "regs": [
+    "eudr"
+   ],
+   "what": "Third-country training and updated industry guidance were published to support compliance with EU Deforestation Regulation traceability standards.",
+   "meaning": "Affects wooden handles, paper packaging or cardboard imported with your finished products ahead of the December 2026 application date.",
+   "action": "Ensure Chinese suppliers of wood components and packaging are prepared to provide geolocation traceability data.",
+   "sources": [
+    {
+     "title": "Training on wood traceability according to EUDR standards.",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXFKQ25mSHJ6MGxNbnlUWnhJWlhpWU41RnI3ckdxaHZLOEdISkRlOHJmWHdOeDUtYnNCbmFQRmxsNFA4eWlIQndTX0tvX1JwOGp5LWFPZ2htZHg3ODh6bHllQVBJWms3TEdnekUzY0FzaUZrMVNGdndaRi1xdXQwYUlPLUM?oc=5",
+     "origin": "Vietnam.vn"
+    },
+    {
+     "title": "EU Deforestation Regulation",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjB3eWt0OTFkdWFFVmpZNjlqRGRXQ1pOendLa2lVMGF5R2M3dXlUR0VvRVFMQVJ4WlBiLXhXN1VrcjNPZjNuQ1lfMkFJTzFJNUYyb1hOU09WRk9fV1h0Qy1RS1pBbHBJLWJWWDNXUVQwWVp6U25Mc3JHMS12MzdPRGFtNTJJbk5VZ2pPRlVIVW9Zb2lmTHFkZmZUd0Z3T1lnUFh2NDBjbmU2NnU1S2c?oc=5",
+     "origin": "Gov.ie"
+    }
+   ]
+  },
+  {
+   "title": "Pay transparency implementation mandates salary ranges in job ads",
+   "regs": [
+    "pay-transparency"
+   ],
+   "what": "EU Member States are introducing legislation under the Pay Transparency Directive requiring salary ranges in job advertisements next year.",
+   "meaning": "Directly impacts HR processes for your EU headcount, requiring published salary bands and internal pay structure reviews.",
+   "action": "Review recruitment practices and establish formal salary structures across all EU operations.",
+   "sources": [
+    {
+     "title": "Employers to be required to disclose salaries in job adverts under new laws",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFRZWndKMzhXeUlUWGpxYm1jLVUxZnBQZ3VocFpFX3o1V0RyZHVpbDVzLVV6U3VpS1Z0UW9jVjBudUtBV2cxRmJrTkMwSnJ3ejRuN0JXb1UzTWdhMGZOVlFNcjNnUVl2cnU0d0Y5Ulk3eU1RZWdMSjVzYnRfRDE2VFJCRGJuVlpmT3RnU2NTOEtDNHZLR01rZDRNeGtLRUEyOWJqWEY0ZnJqcm5t?oc=5",
+     "origin": "People Management"
+    },
+    {
+     "title": "Legal change next year will ban employers from advertising jobs without disclosing the salary",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdXNFc2xXN2NOa3dmVnFwM3BHaXZfRVJUeHBCQkxBNUg4amdCYzVySmIzLXljeVpoajlLSXJLbGJkbDY1OXJfaWNsdDVIVGM1amQ1cmtFMDZIcVRmU180UkpaX3lKdER1NjBZNk8tZ3JfMC1ZTTlWb0w4WVRicms?oc=5",
+     "origin": "The Journal"
+    }
+   ]
   }
  ],
  "watch": [
-  "Official European Commission updates regarding the proposed withdrawal of the Green Claims Directive.",
-  "Progress of the EU public consultation on product repairability standards.",
-  "Implementation steps for the 2027 battery passport and replaceable battery mandates."
+  "Official confirmation from the European Commission regarding the formal withdrawal of the Green Claims Directive.",
+  "Application of the EU Deforestation Regulation starting on 30 December 2026 for large operators.",
+  "Preparation for revised ESRS applicability and Battery Regulation requirements approaching in 2027."
  ],
- "based_on": 25
+ "based_on": 23
 }
