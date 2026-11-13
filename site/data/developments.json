@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T21:50:30Z",
+ "generated_at": "2026-11-13T13:05:53Z",
  "items": [
   {
    "id": "7f879a057a2e",
@@ -32,6 +32,51 @@
    "publishers": 1,
    "mentions": [],
    "visible": false
+  },
+  {
+   "id": "5d3fed78cb89",
+   "group": "decision",
+   "sources": [
+    {
+     "item": "96038a4f9ea571a8",
+     "title": "Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries",
+     "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
+     "origin": "Council of the EU, press releases",
+     "published": "2026-11-12T22:30:00Z",
+     "official": true,
+     "strong": true,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    },
+    {
+     "item": "14a0947719bbba2d",
+     "title": "EU Parliament, Council Strike Deal to Give Industry €10 Billion in Additional Free Carbon Allowances",
+     "link": "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances",
+     "origin": "ESG Today",
+     "published": "2026-11-13T10:42:29Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-11-13T13:05:53Z",
+   "updated": "2026-11-13T13:05:53Z",
+   "date": "2026-11-12",
+   "regs": [
+    "ets"
+   ],
+   "title": "Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries",
+   "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
+   "origin": "Council of the EU, press releases",
+   "official": true,
+   "publishers": 2,
+   "mentions": [],
+   "visible": true
   },
   {
    "id": "4b0c4e9702b6",

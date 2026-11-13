@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.6-flash",
+ "model": "gemini-3.5-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -33,7 +33,7 @@
   },
   "csddd": {
    "hash": "f8338d2c01fd",
-   "date": "2026-10-28",
+   "date": "2026-11-13",
    "model": "gemini-3.5-flash"
   },
   "cbam": {
@@ -149,40 +149,55 @@
  },
  "pending": [
   {
+   "reg": "ets",
+   "type": "add_date",
+   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
+   ],
+   "confidence": "high",
+   "date": "2026-11-12",
+   "label": "provisional agreement reached on boosting free carbon allowances",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "91019c265f2cf9",
+   "proposed_on": "2026-11-13"
+  },
+  {
    "reg": "green-claims",
    "type": "add_date",
-   "reason": "On 4 November 2026, the European Commission officially confirmed its decision to withdraw and scrap the Green Claims Directive proposal.",
+   "reason": "The European Commission officially confirmed its decision to scrap and withdraw the Green Claims Directive proposal.",
    "sources": [
     "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE6bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV_mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
    ],
    "confidence": "high",
    "date": "2026-11-04",
-   "label": "commission confirms withdrawal of the proposal",
+   "label": "Commission confirms withdrawal of the proposal",
    "approx": false,
    "checked_with_search": false,
    "fp": "3ed7a9c2b08783",
-   "proposed_on": "2026-11-12"
+   "proposed_on": "2026-11-13"
   },
   {
    "reg": "green-claims",
    "type": "set_status",
-   "reason": "The status needed updating to reflect that the Commission officially confirmed the withdrawal of the proposal in November 2026.",
+   "reason": "Updates status to reflect the official scrapping/withdrawal of the Green Claims Directive proposal by the Commission in November 2026.",
    "sources": [
     "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF_yMFVTaUE6bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV_mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
    ],
    "confidence": "high",
-   "status": "Withdrawn. The European Commission officially confirmed in November 2026 that it is scrapping the proposed directive.",
+   "status": "Withdrawn. The European Commission officially confirmed the withdrawal of the proposal in November 2026, after negotiations were stalled in June 2025.",
    "checked_with_search": false,
    "fp": "878bfc29668d16",
-   "proposed_on": "2026-11-12"
+   "proposed_on": "2026-11-13"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-12",
- "last_briefing": "2026-11-12",
- "last_proposals": "2026-11-12",
+ "last_briefing": "2026-11-13",
+ "last_proposals": "2026-11-13",
  "pr_seen_open": true
 }
