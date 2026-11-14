@@ -1,40 +1,63 @@
 {
- "generated_at": "2026-11-13T21:25:26Z",
+ "generated_at": "2026-11-14T12:10:19Z",
  "items": [
   {
+   "reg": "esrs-revised",
+   "text": "Change the stage from Adopted to In force",
+   "reason": "The entry into force date of 10 November 2026 has passed, moving the act to stage 3 (In force).",
+   "sources": [
+    "https://eur-lex.europa.eu"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-14"
+  },
+  {
+   "reg": "esrs-revised",
+   "text": "New status text: “In force. Entered into force on 10 November 2026. The revised ESRS apply from financial year 2027, while the voluntary reporting standard has been in force since 24 September 2026.”",
+   "reason": "Update status text now that the 10 November 2026 entry into force date has passed.",
+   "sources": [
+    "https://eur-lex.europa.eu"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-14"
+  },
+  {
+   "reg": "green-claims",
+   "text": "Add the date 2026-11-04: “Green Claims commission confirms decision to scrap proposal”",
+   "reason": "The European Commission officially confirmed plans to scrap/withdraw the Green Claims Directive proposal.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBKeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-14"
+  },
+  {
+   "reg": "green-claims",
+   "text": "New status text: “Withdrawn. The European Commission confirmed in November 2026 that it is scrapping the proposal following the cancellation of trilogue negotiations in 2025.”",
+   "reason": "Update status to reflect the Commission's decision to withdraw the proposal.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBKeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-14"
+  },
+  {
    "reg": "ets",
-   "text": "Add the date 2026-11-12: “EU ETS provisional agreement reached on boosting free carbon allowances”",
-   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
+   "text": "Add the date 2026-11-12: “EU ETS provisional agreement reached to increase free carbon allowances for energy-intensive industries”",
+   "reason": "The Council and European Parliament reached a provisional deal on 12 November 2026 regarding additional free carbon allowances under the EU ETS.",
    "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
+    "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances"
    ],
    "confidence": "high",
    "checked_with_search": false,
-   "proposed_on": "2026-11-13"
-  },
-  {
-   "reg": "green-claims",
-   "text": "Add the date 2026-11-04: “Green Claims Commission confirms withdrawal of the proposal”",
-   "reason": "The European Commission officially confirmed its decision to scrap and withdraw the Green Claims Directive proposal.",
-   "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE6bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV_mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-13"
-  },
-  {
-   "reg": "green-claims",
-   "text": "New status text: “Withdrawn. The European Commission officially confirmed the withdrawal of the proposal in November 2026, after negotiations were stalled in June 2025.”",
-   "reason": "Updates status to reflect the official scrapping/withdrawal of the Green Claims Directive proposal by the Commission in November 2026.",
-   "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF_yMFVTaUE6bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV_mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-13"
+   "proposed_on": "2026-11-14"
   }
  ],
  "learn_edits": []

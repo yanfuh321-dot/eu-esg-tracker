@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-13T13:05:56Z",
- "model": "gemini-3.6-flash",
+ "generated_at": "2026-11-14T12:10:19Z",
+ "model": "gemini-3.5-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU CSRD Assurance Drafts Published Alongside Ecodesign Repairability Consultation",
- "summary": "The European Commission has published draft sustainability reporting assurance standards under CSRD, impacting your upcoming FY2027 reporting obligations. Meanwhile, consultations have opened on ESPR repairability rules relevant to power and garden tools, and reports indicate the Green Claims Directive may be abandoned.",
+ "headline": "Draft CSRD assurance standards released; ESPR repairability consultation launched",
+ "summary": "The European Commission published draft CSRD reporting assurance standards and launched an ESPR public consultation on repairability for small electricals. Unofficial reports indicate the Commission may withdraw the Green Claims Directive, while the EU Court of Justice confirmed CBAM's legal validity.",
  "items": [
   {
-   "title": "Draft Sustainability Reporting Assurance Standards Published Under CSRD",
+   "title": "Draft CSRD assurance standards published by Commission",
    "regs": [
     "csrd"
    ],
-   "what": "The European Commission published draft standards for the mandatory assurance of corporate sustainability reporting under CSRD.",
-   "meaning": "As a listed entity in scope for FY2027 reporting under Omnibus I rules, your sustainability disclosures will require independent assurance, including data collected from Chinese suppliers.",
-   "action": "Review draft assurance criteria against your current supplier ESG data collection processes.",
+   "what": "The European Commission published draft standards setting out criteria for mandatory third-party assurance of sustainability reporting under the CSRD.",
+   "meaning": "As an in-scope entity from FY 2027 under post-Omnibus I rules, these standards define how auditors will evaluate your supply chain sustainability disclosures.",
+   "action": "Review draft assurance standards to align supplier data collection processes with upcoming audit requirements.",
    "sources": [
     {
      "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
@@ -23,15 +23,25 @@
    ]
   },
   {
-   "title": "EU Opens Consultation on Ecodesign Repairability Requirements",
+   "title": "EU consults on ESPR repairability for small electricals",
    "regs": [
     "espr",
     "right-to-repair"
    ],
-   "what": "The European Commission launched a consultation regarding repairability requirements under ecodesign rules.",
-   "meaning": "Directly affects power tools and garden equipment, signaling future requirements around product disassembly, spare parts availability, and repairability scoring.",
-   "action": "Engage engineering and supplier teams to assess product repairability and spare parts logistics.",
+   "what": "The EU launched a public consultation gathering evidence on potential repairability rules for small electrical devices under the Ecodesign for Sustainable Products Regulation.",
+   "meaning": "Proposed repairability standards could directly impact power tool, garden equipment, and battery pack design requirements, spare part availability, and disassembly access.",
+   "action": "Assess product portfolio repairability and consider providing feedback to the consultation.",
    "sources": [
+    {
+     "title": "Public Consultation On Ecodesign Requirements On Product Repairability Under The EU ESPR",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnVLRzZpMVJabXFQb3M3TjhXbm8yb3k2RlJyeUkwS2FRel9zQkZGX1YxQ2MxcnROT0tNT1RLX3RjWDY4eFZUbXIxMEtOMFF4YWJ5bmtpSmxLN21DaUJNVmFpRjBucTBYQnJRQ3E1cUM4T3BnNzdrdTBObXZTZmNKZA?oc=5",
+     "origin": "JD Supra"
+    },
+    {
+     "title": "EU seeks evidence on repair rules for small electricals and e-scooters",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2xOZnNBeEhrY2JCWDdUUEpEOFU4bjl0S1RfcVVLVUdfVW1pMU9BU1d3RTlLQWU3N3NVYkI3V3NMMTFqX0FLWnd4QXFnSXN6RGxLWHk3eW5lOVg4LXBBVnFCMndvSm4xNFRyQlFvWGVUaDU3azh2aUJDMVM2aVVFX1VfTVdGbzc3dUJsX193TXB1dlhrclhUZnlBWTJyQ01VNGhsbjRlbTg?oc=5",
+     "origin": "resourcemedia.eco"
+    },
     {
      "title": "Fix it, don't bin it: the EU consults on Ecodesign repairability requirements",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEpySTU3Ml9FN2l1aGpWWXlKaGFGeDdRbjJfVU5aX3N4QW00WWxrQmVjQjFIcF9BZGotR1pPMlJ5SVpVNVRlcEp3aUQ4c0tkLUE2YXJvYXN4aFBGT2ptb0JKMng2Q3R0T1BfcnR5SXNqZnhJbERaeU5NUWlhOVdwbWcxckF1SGU3OWFVYWdoeVpoRzhOTHVXZ0hWMXpqcm5Zc1JKOW5wd1N5eWtWZWszYjd0aS1uZ1ZSNzVQLS1Ea1VYYU5Ub3pNODlR?oc=5",
@@ -40,13 +50,13 @@
    ]
   },
   {
-   "title": "Reports Indicate European Commission May Withdraw Green Claims Directive",
+   "title": "Reports suggest Green Claims Directive may be scrapped",
    "regs": [
     "green-claims"
    ],
-   "what": "Media outlets report that the European Commission has abandoned plans to proceed with the proposed Green Claims Directive.",
-   "meaning": "Although standalone green claim verification rules may be shelved, general anti-greenwashing requirements under the Empowering Consumers Directive still apply to branded products.",
-   "action": "Ensure all consumer-facing green claims remain audited and substantiated under general EU consumer law.",
+   "what": "Reports indicate the European Commission plans to abandon the proposed Green Claims Directive.",
+   "meaning": "Specific ex-ante verification rules may not proceed, though environmental claims remain regulated under the Empowering Consumers Directive (EmpCo).",
+   "action": "Continue auditing green claims against existing EmpCo requirements while awaiting official Commission confirmation.",
    "sources": [
     {
      "title": "EU Commission Abandons Plans For The Green Claims Directive",
@@ -57,19 +67,30 @@
      "title": "European Commission plans to withdraw Green Claims Directive",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFlpTDdQbFhCZ0NMcmFKTkFlQ3dqRVlEWEpvQVlxMUZWSTFlNjdKdzM0TERUVWtVNmxqdl9jd0V6VmtidEM4LXZuVzcxNi1tVTc4SXNDXzFqREtVSmowOWN0b0Y1ZnFaMlZrN2QzemRFeUc3ZmwtUHdoSm1ZZWJUSktqLWZtekdJSGc?oc=5",
      "origin": "UKFT"
-    },
+    }
+   ]
+  },
+  {
+   "title": "EU High Court upholds CBAM legality",
+   "regs": [
+    "cbam"
+   ],
+   "what": "The EU Court of Justice rejected a legal challenge against the Carbon Border Adjustment Mechanism, confirming it is an environmental measure rather than a tax.",
+   "meaning": "Although finished tool imports are currently exempt, the decision secures CBAM's legal foundation ahead of potential future extensions to downstream products.",
+   "action": "Monitor future policy proposals regarding potential CBAM scope expansions to finished metal goods.",
+   "sources": [
     {
-     "title": "EU Pulls Plug on Green Claims Directive",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXpoMkMwT1lua0tKTExUS2FRZTRhdVFRY2pOdEpVbXcxUkR0ckxKR2lyZnBkLVc0SVJ3QnlyelFaTFUyb21seVpwSk9kQ2JCTW1RWG5qdTF1b0pzblo3NGpNU2dTejYzWEtfb0hydzFHY2o4QUw4bVd3Skw2R3MtZjRJdVN4alZ4MFFMa3ZodTJOS216WWg5VXpmRmQ1MW1LNFA4dmo5VHVzSXRh?oc=5",
-     "origin": "WWD"
+     "title": "EU High Court Upholds CBAM As Climate Measure, Not Tax",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclpYbG8zTGczd00tVGdQaldDZVM1ZzJvUVJaTHYtM3hQakgxZmJabnJseTNyVHE5WnRzZHBXMm1EMzJ1ZjBoYnFVdG1DQ0tSV1hJNkJ0SDd4MGNOaDVOcUFVOTA1aHlRbGd6cUhiSWFyOUlsSkpkYWxuS3BQRU8wd0JMYm1jcXpsTzJTR2tuNFl6bmFfY3pMetIBaEFVX3lxTE9CMG1oSHpUazFnSmNsQ29rMi1UYUF3cXBGd0ZZaEtqcUVEcWFrVzVRclpaSGxzNko3aFE2UDNNUUQzR1R2a2VzQlBUVGx5RXd5dzRpQ1NFc3A0TzVzU24xd1d1eEU4Qkg2?oc=5",
+     "origin": "Law360"
     }
    ]
   }
  ],
  "watch": [
-  "Application of EUDR obligations on 30 December 2026 regarding paper and wood packaging elements.",
-  "Technical implementation details for battery passport requirements taking effect in February 2027.",
-  "Provisions under the EU Battery Regulation requiring end-user replaceable portable batteries by February 2027."
+  "Official confirmation from the European Commission regarding the status of the Green Claims Directive.",
+  "Draft ecodesign delegated acts targeting power tools and battery platforms under ESPR.",
+  "Preparation for EU Battery Regulation obligations entering into force in early 2027."
  ],
- "based_on": 22
+ "based_on": 23
 }
