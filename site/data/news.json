@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:43:39Z",
+ "generated_at": "2026-11-15T20:23:30Z",
  "repository": "yanfuh321-dot/eu-esg-tracker",
  "branch": "main",
  "sources": [
@@ -8,15 +8,15 @@
    "name": "EUR-Lex, new Parliament and Council legislation",
    "kind": "official",
    "url": "https://eur-lex.europa.eu/EN/display-feed.rss?rssId=162",
-   "ok": false,
-   "error": "The server answered (HTTP 202, text/html, 0 bytes) but did not send a feed. It is probably turning away automated requests.",
+   "ok": true,
+   "error": null,
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 0,
-   "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-13T13:05:53Z",
+   "fetched": 100,
+   "kept": 2,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 2
   },
   {
@@ -29,10 +29,10 @@
    "note": "The feed could not be used: HTTP 403. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 38,
+   "fetched": 37,
    "kept": 1,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 0
   },
   {
@@ -47,8 +47,8 @@
    "empty": false,
    "fetched": 4,
    "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 0
   },
   {
@@ -63,8 +63,8 @@
    "empty": false,
    "fetched": 9,
    "kept": 1,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 2
   },
   {
@@ -77,10 +77,10 @@
    "note": "The feed could not be used: HTTP 403. A news search of the same site was used instead.",
    "via": "fallback",
    "empty": false,
-   "fetched": 22,
+   "fetched": 20,
    "kept": 2,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 8
   },
   {
@@ -95,7 +95,7 @@
    "empty": false,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
    "last_ok": null,
    "stored": 0
   },
@@ -111,8 +111,8 @@
    "empty": false,
    "fetched": 20,
    "kept": 2,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 15
   },
   {
@@ -127,8 +127,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 6,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 20
   },
   {
@@ -141,10 +141,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 10,
-   "kept": 10,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "fetched": 9,
+   "kept": 9,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 76
   },
   {
@@ -157,10 +157,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 9,
-   "kept": 9,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "fetched": 10,
+   "kept": 10,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 34
   },
   {
@@ -173,11 +173,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 9,
-   "kept": 9,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
-   "stored": 58
+   "fetched": 8,
+   "kept": 8,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
+   "stored": 59
   },
   {
    "id": "gn-cbam",
@@ -189,11 +189,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 42,
-   "kept": 42,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
-   "stored": 257
+   "fetched": 40,
+   "kept": 40,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
+   "stored": 255
   },
   {
    "id": "gn-eudr",
@@ -207,9 +207,9 @@
    "empty": false,
    "fetched": 21,
    "kept": 21,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
-   "stored": 120
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
+   "stored": 119
   },
   {
    "id": "gn-claims",
@@ -221,10 +221,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 12,
-   "kept": 12,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "fetched": 14,
+   "kept": 14,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 54
   },
   {
@@ -237,10 +237,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 9,
-   "kept": 9,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 44
   },
   {
@@ -255,8 +255,8 @@
    "empty": false,
    "fetched": 10,
    "kept": 10,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 45
   },
   {
@@ -269,11 +269,11 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 6,
-   "kept": 6,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
-   "stored": 28
+   "fetched": 7,
+   "kept": 7,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
+   "stored": 29
   },
   {
    "id": "gn-chemicals",
@@ -287,8 +287,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 0
   },
   {
@@ -300,12 +300,12 @@
    "error": null,
    "note": null,
    "via": "feed",
-   "empty": true,
-   "fetched": 0,
-   "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
-   "stored": 0
+   "empty": false,
+   "fetched": 1,
+   "kept": 1,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
+   "stored": 1
   },
   {
    "id": "gn-de-lieferkette",
@@ -319,8 +319,8 @@
    "empty": false,
    "fetched": 4,
    "kept": 4,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 12
   },
   {
@@ -335,8 +335,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 0
   },
   {
@@ -351,8 +351,8 @@
    "empty": true,
    "fetched": 0,
    "kept": 0,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 3
   },
   {
@@ -365,10 +365,10 @@
    "note": null,
    "via": "feed",
    "empty": false,
-   "fetched": 6,
-   "kept": 6,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "fetched": 5,
+   "kept": 5,
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 18
   },
   {
@@ -383,8 +383,8 @@
    "empty": false,
    "fetched": 2,
    "kept": 2,
-   "checked_at": "2026-11-15T12:43:39Z",
-   "last_ok": "2026-11-15T12:43:39Z",
+   "checked_at": "2026-11-15T20:23:30Z",
+   "last_ok": "2026-11-15T20:23:30Z",
    "stored": 4
   }
  ],
@@ -544,6 +544,27 @@
    }
   },
   {
+   "id": "d6f2df3184d8bf95",
+   "title": "15 best mattresses that actually improved our sleep",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONlRoYUM2Yk42a3VVaEFfdExRaGI0V01nWjF4OWxoMjZUWDRYTjNxT181blR4Q1o4WEVnQ3MzaXJ1Y3NzZVNRaE1PbXR2alZGOU5SMmFlOElJNjZha2VYVU1CWE5xWWl0N05lcDRqTjFnQ29fZnZFdjFnS3ZocjVyUWlKMmEzNUNDLWhUMF9FZkFKVkJDaUtvQTZHQ3ZsS21zc1huT2drRQ?oc=5",
+   "summary": "",
+   "published": "2026-11-13T16:43:00Z",
+   "source": "gn-tools",
+   "publisher": "The Independent",
+   "kind": "news",
+   "tags": [
+    "batteries"
+   ],
+   "weak": true,
+   "first_seen": "2026-11-15T20:23:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "52405e505e13a2f3",
    "title": "Assofermet calls on EU to raise CBAM exemption threshold to 500 mt",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3dndHdKem9fZEJWTF84cDcyVjVuVnhTMTFqNnRieVBOYlN6UlZJcjA2b3g5OGFZX3BzTEY1Y3ozSTJIWlZybGphbVVJTjFYRzV5d0EySUZOM08zeXhnampReGoyTkhJZHhYOFAxaEVhMDdKbm9hYUJ6ZklpNEd4ZjRqVWN4OTBOUnY3MFNITjBsYlU?oc=5",
@@ -664,6 +685,25 @@
    ],
    "weak": true,
    "first_seen": "2026-11-13T13:05:53Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
+   "id": "5f5f7039a2ef3516",
+   "title": "Circular Economy",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZeUQ0WmpYVmFpTEl6dlJFMDZLTkdHOFVXZnJhX1A0U3E5bHRzemZsWWliblZYdUc0RmlzWXhVWnBxZnNDVTlJQXRfb2lQZkwyVEJrZXVTelBsNHRCMlgzLTFGaFJYbkUzUzdwek1B?oc=5",
+   "summary": "",
+   "published": "2026-11-13T12:00:00Z",
+   "source": "gn-repair",
+   "publisher": "https://environment.ec.europa.eu/index_en",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-11-15T20:23:30Z",
    "ai": {
     "relevant": false,
     "importance": 0,
@@ -2209,6 +2249,25 @@
    }
   },
   {
+   "id": "ce44f8ceae70a12d",
+   "title": "Sustainability-conscious investments",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUlJZVBBbFRIME92U01tTEI0cWFoUkJSTU5DZzBzck1fTHFPZlJGOFN2REpaYjdvaXNrd1JLM3BDZ2ZmeTUya2xUTlQ1d05FLXg1RUF4a1NxOVU3NktPZ0Rlams3aDBrR1hDcEF3UDVzbFZYUUY4RGJ2OGlrSklRVHNpdVZFZjAtdUN4ZUhPSUY2Tm1FbUV5MW80b2M1MGlQaWc?oc=5",
+   "summary": "",
+   "published": "2026-11-10T08:00:00Z",
+   "source": "gn-finance",
+   "publisher": "Intesa Sanpaolo",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-11-15T20:23:30Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "129602ffb490f5b7",
    "title": "Wagner Timber Investigator Says EUDR Ratings Overlook Corruption",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kOHAwZHFGUGJCcjlzODFoMFBfTjZSVzlSdXFJRU9WRmIwaTU2YTRpMEFaYkxuc3RwZTB3SnkwYk9HYS1WMy03OWJpWmg0SVdiSzU0TDhxelZCeDBkd2R2U3MxMEpJRWxtQ0dyajE1SDRCN1RB?oc=5",
@@ -2657,6 +2716,29 @@
    }
   },
   {
+   "id": "ef5c1197f03b4a98",
+   "title": "Delaying ETS2 will not protect households from the next energy crisis",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGFQOFctMzcwZW1seW5BUzVnZWg5Mlk0d3NFcFRFaTNpWWJaSXZPYm9qOFhXU2llRzZaNXZSVGVDWFJHTUhzaHoxWGVpaDM5V0lmZGFOaHNlaXUwU0M4dzM1YUVwNGFZU0dLSXBXZk4zUWFZWUlVTm5NWEhaQm9XWG42MXo5c1FpUlpBNTZQT3NTTlRyekMtYVdVTjNaRkhoRkxKR1RoRUl2NV9IY3VjVE9USjNTQQ?oc=5",
+   "summary": "",
+   "published": "2026-11-09T08:00:00Z",
+   "source": "gn-cbam",
+   "publisher": "Transport & Environment",
+   "kind": "news",
+   "tags": [
+    "ets"
+   ],
+   "weak": false,
+   "first_seen": "2026-11-07T11:43:53Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "ets"
+    ],
+    "note": "Transport & Environment argues that delaying the EU ETS2 framework will not shield households from future energy crises."
+   }
+  },
+  {
    "id": "e48aa56c105ca716",
    "title": "Taiwan plans local CBAM and ETS to drive industrial decarbonization",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFM5LV9NQlcxcE1ibDdlU3VvZDNEVGhBTUFIWlQ3a1Jybko5Rk9rRl9kNVBPSHFWODZzS1NrS0tFMklDdWZBbmxWTlRVX2ZqcU01cDZ6Mzc2dTNGVVQ0aDNhTGdoWm10d3VlYUdRZzkyYTdfSXZub01EVE5VN1RmY2NTcGcxdTFCbjRORjlTOXZyLU1RQ3lZQzBmX2FtQ1Jz?oc=5",
@@ -2762,6 +2844,27 @@
    }
   },
   {
+   "id": "74f32a65851b7a6e",
+   "title": "Michelle Bennett, General Manager of Tara Mines | Deloitte Ireland",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXJZMERZV0JkWHFKVkhrZy1QZXZ5ZXNUQWlFb3B0bFROejZwdkw5R0JpRGZJdEZOeFZBV2NDWXBHLWdES3hzNF81QmJnRGx5ZWlXTzdHb1Nnd011TXNycHJZeGUyVzR1ck1SbmpzWm1OVW9FZ2JIM1dCZTliMnA3ZllhNWs3c0ZyTVFlY3ViVUI0aVpsV09fLTZ4aVA3YlhPTUdOT2J2ZjQ?oc=5",
+   "summary": "",
+   "published": "2026-11-08T05:26:34Z",
+   "source": "gn-reporting",
+   "publisher": "Deloitte",
+   "kind": "news",
+   "tags": [
+    "csrd"
+   ],
+   "weak": true,
+   "first_seen": "2026-10-03T02:29:23Z",
+   "ai": {
+    "relevant": false,
+    "importance": 0,
+    "regs": [],
+    "note": ""
+   }
+  },
+  {
    "id": "f50e29a477248e17",
    "title": "Clean the Sky - Greenwashing Compliance Tools",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lM2t6SmRMQ1htRXJlVWNxRTBENzltYWM2UzA0c0lvS1VnUkpqM3NMcExXZHBJNWpVUUJkSTNuU2s5d0k1NXg5RzFUZVV0Sl94NE9xQ3VudG0xUm1CQV9PaQ?oc=5",
@@ -2806,27 +2909,6 @@
    }
   },
   {
-   "id": "941376f416b8cefa",
-   "title": "Wine labels can no longer lean on vague 'eco-friendly' claims under new EU rules",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUG9OMC04UUZNcm1zd3J3YW5iNU9YVXUtcV9DNU8wbjNDNWU2YnAyeDI3ZHNDalIycDVEQWRMTjV6b2FyZ3hKTkVKWGJhQXJUOTFLeXBERElGZk9LbWY1UFhNNmpFWFpaTUwtZlZDNFlqRHpxVl9rZ2JRcVQ4NHNaQUM4RUVhUkxGNFVqN0hwNzliUHNzMmc?oc=5",
-   "summary": "",
-   "published": "2026-11-08T00:20:00Z",
-   "source": "gn-claims",
-   "publisher": "Yahoo Finance",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-11-08T11:55:36Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "ecgt"
-    ],
-    "note": "An explainer on how EU greenwashing rules ban vague environmental claims on product labels."
-   }
-  },
-  {
    "id": "38a776dc2605df04",
    "title": "Britain’s Leading Airlines Warn Passenger Prices Could Rise",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjhrTjJFVkdCb3VTUGg1RnlPRnZXVXVKa2J5SFZNSnVKdUR2ZmpqTFQyM2xTQkZuOTFCRVk1emxmWW9MeFNtb2g2NlViek0yek9iR2Q3aVFqYi1SdDBlaTk0d2hKRmtJbi1MMGxXRkgyRDdQUXZEVFB0LXNqYnY5UmRpSjNmT29JcHJ4Uw?oc=5",
@@ -2865,6 +2947,27 @@
      "de-lksg"
     ],
     "note": "Commentary discusses the need for a shared industry approach to supply chain due diligence."
+   }
+  },
+  {
+   "id": "941376f416b8cefa",
+   "title": "Wine labels can no longer lean on vague 'eco-friendly' claims under new EU rules",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUG9OMC04UUZNcm1zd3J3YW5iNU9YVXUtcV9DNU8wbjNDNWU2YnAyeDI3ZHNDalIycDVEQWRMTjV6b2FyZ3hKTkVKWGJhQXJUOTFLeXBERElGZk9LbWY1UFhNNmpFWFpaTUwtZlZDNFlqRHpxVl9rZ2JRcVQ4NHNaQUM4RUVhUkxGNFVqN0hwNzliUHNzMmc?oc=5",
+   "summary": "",
+   "published": "2026-11-07T08:00:00Z",
+   "source": "gn-claims",
+   "publisher": "Yahoo Finance",
+   "kind": "news",
+   "tags": [],
+   "weak": true,
+   "first_seen": "2026-11-08T11:55:36Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "ecgt"
+    ],
+    "note": "An explainer on how EU greenwashing rules ban vague environmental claims on product labels."
    }
   },
   {
@@ -5209,6 +5312,29 @@
    }
   },
   {
+   "id": "ef9a66cec50a9733",
+   "title": "Understanding the European Union’s Export of ESG through the CSDDD",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVhqaGxxME90ZC1kTDN4TU9hQ2J1MHJLd3ZJQzlVSTdLR0tfLTd1ODhrY3NWTG1nV0ZYdExlMTZwSWdlRU1zNGVYUkZEVWtiVm1tTkJpaEQ4RE1DY1F0dzFZR2x2Qkd0Y0hTRHByLXdUa3RzZ1I4VUc0bkdfa3lQS3JJQlpxc0JVM0xLcXVJMTV2ZUxzclhHOGMtcU5EN0FVb2tacDdrSDFSOUVB?oc=5",
+   "summary": "",
+   "published": "2026-11-03T16:02:39Z",
+   "source": "gn-csddd",
+   "publisher": "Advancing American Freedom",
+   "kind": "news",
+   "tags": [
+    "csddd"
+   ],
+   "weak": false,
+   "first_seen": "2026-11-03T20:59:04Z",
+   "ai": {
+    "relevant": true,
+    "importance": 1,
+    "regs": [
+     "csddd"
+    ],
+    "note": "An article analyzes how the EU extends sustainability due diligence obligations globally through the CSDDD."
+   }
+  },
+  {
    "id": "09d7ff9fef3e9bea",
    "title": "NBIM urges EU reporting changes to prevent duplicate sustainability disclosures",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONkhBWDVnNS1MQ1ZWVXl2cllIRW1nYWJ4QjlvdGhWNkY1VGpCd2RGX0U5aWlNaml4Q1lySG96OXZnbmlUdXpnMHd6T21iY3R5X2hUN2ZsNG1USGEydVpxVG91a2ZmSnlPUW5QYW03YkdQQUw4Xzl1M1dpZUpvTE9nTkZ5Q0x5S0ZMNm1pQlRmVkhpdW9QM25pQ3JFanl6M2tlQzlTNXZHaHdlQW5BTTdhS2lkQ0hOV3c0NTJmczR3?oc=5",
@@ -5378,29 +5504,6 @@
     "importance": 0,
     "regs": [],
     "note": ""
-   }
-  },
-  {
-   "id": "ef9a66cec50a9733",
-   "title": "Understanding the European Union’s Export of ESG through the CSDDD",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVhqaGxxME90ZC1kTDN4TU9hQ2J1MHJLd3ZJQzlVSTdLR0tfLTd1ODhrY3NWTG1nV0ZYdExlMTZwSWdlRU1zNGVYUkZEVWtiVm1tTkJpaEQ4RE1DY1F0dzFZR2x2Qkd0Y0hTRHByLXdUa3RzZ1I4VUc0bkdfa3lQS3JJQlpxc0JVM0xLcXVJMTV2ZUxzclhHOGMtcU5EN0FVb2tacDdrSDFSOUVB?oc=5",
-   "summary": "",
-   "published": "2026-11-03T08:00:00Z",
-   "source": "gn-csddd",
-   "publisher": "Advancing American Freedom",
-   "kind": "news",
-   "tags": [
-    "csddd"
-   ],
-   "weak": false,
-   "first_seen": "2026-11-03T20:59:04Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "csddd"
-    ],
-    "note": "An article analyzes how the EU extends sustainability due diligence obligations globally through the CSDDD."
    }
   },
   {
@@ -6242,29 +6345,6 @@
     "importance": 0,
     "regs": [],
     "note": ""
-   }
-  },
-  {
-   "id": "ef5c1197f03b4a98",
-   "title": "Delaying ETS2 will not protect households from the next energy crisis",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGFQOFctMzcwZW1seW5BUzVnZWg5Mlk0d3NFcFRFaTNpWWJaSXZPYm9qOFhXU2llRzZaNXZSVGVDWFJHTUhzaHoxWGVpaDM5V0lmZGFOaHNlaXUwU0M4dzM1YUVwNGFZU0dLSXBXZk4zUWFZWUlVTm5NWEhaQm9XWG42MXo5c1FpUlpBNTZQT3NTTlRyekMtYVdVTjNaRkhoRkxKR1RoRUl2NV9IY3VjVE9USjNTQQ?oc=5",
-   "summary": "",
-   "published": "2026-11-02T08:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "Transport & Environment",
-   "kind": "news",
-   "tags": [
-    "ets"
-   ],
-   "weak": false,
-   "first_seen": "2026-11-07T11:43:53Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "ets"
-    ],
-    "note": "Transport & Environment argues that delaying the EU ETS2 framework will not shield households from future energy crises."
    }
   },
   {
@@ -15698,27 +15778,6 @@
    }
   },
   {
-   "id": "74f32a65851b7a6e",
-   "title": "Michelle Bennett, General Manager of Tara Mines | Deloitte Ireland",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQXJZMERZV0JkWHFKVkhrZy1QZXZ5ZXNUQWlFb3B0bFROejZwdkw5R0JpRGZJdEZOeFZBV2NDWXBHLWdES3hzNF81QmJnRGx5ZWlXTzdHb1Nnd011TXNycHJZeGUyVzR1ck1SbmpzWm1OVW9FZ2JIM1dCZTliMnA3ZllhNWs3c0ZyTVFlY3ViVUI0aVpsV09fLTZ4aVA3YlhPTUdOT2J2ZjQ?oc=5",
-   "summary": "",
-   "published": "2026-10-17T04:33:08Z",
-   "source": "gn-reporting",
-   "publisher": "Deloitte",
-   "kind": "news",
-   "tags": [
-    "csrd"
-   ],
-   "weak": true,
-   "first_seen": "2026-10-03T02:29:23Z",
-   "ai": {
-    "relevant": false,
-    "importance": 0,
-    "regs": [],
-    "note": ""
-   }
-  },
-  {
    "id": "3b7d2c96487b0f50",
    "title": "DPP readiness starts with the supply chain, not software",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUDNMZnhHWWxFZEd5S3dXbldXbkQwS3hwWURKSFpXSHR2Zk9BcDRHNHRCT1Y3ZnhBQnhCRWliUjFCUHJlZTdBWDhrOF9GOE1PbjlLVVQ5cG1ibFVXV3k0cXhsdUdVZmR3allNaFFkT2ZYRVI5ZkRRUGtXZE05ci1lR1I4azJpcG9FdFNkRU83akk?oc=5",
@@ -17590,73 +17649,6 @@
      "ets"
     ],
     "note": "The Cypriot president has publicly called on the EU to postpone the implementation of ETS2."
-   }
-  },
-  {
-   "id": "18715ccee0e4b651",
-   "title": "Christodoulides urges EU flexibility on energy bills and further ETS2 delay",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbE1FXzZRUUlXUm9fSjN6eWVOVVc3aXRtLVVvdHVkNTBTd1ZkRldTcW5DcWF3ZzBqV0g1OXJnZTJXN1BQYU5ubGZUTkNnQm9lTTc3cXJqT2J2RmpIVVdQZ2tmRkE2SExMdXV6NTl5U185YjJNVXM2M0Y2LXduZHhKOWE3c2dBY2dUeXFKSnN6d3NCeWdVXzFLbTFNYWw4MU9NMS01Ny1tN1lNdXZNTTJhWg?oc=5",
-   "summary": "",
-   "published": "2026-10-15T07:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "Cyprus Inform",
-   "kind": "news",
-   "tags": [
-    "ets"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-15T19:06:56Z",
-   "ai": {
-    "relevant": true,
-    "importance": 2,
-    "regs": [
-     "ets"
-    ],
-    "note": "Cyprus urges EU flexibility on consumer energy costs and seeks further delay of the ETS2 system."
-   }
-  },
-  {
-   "id": "0a6c2da71e008b9e",
-   "title": "Interview with Silvia Melegari: EUDR, Brussels and the Growing Pressure on Europe’s Wood Industry",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzlXV1FCU2pZT21VTlhDeks2Y2JHS0RjemdtalVIUVFXd0J5Tl9VRzN4ci13VjJyVHg1Rzl3MGYzdkJsRjh6eDBCQmVsT1NrUGVacWcxaEFLeU1ocllOYVhBSFVndG40cm1HeW02Sm4xY1lZU09tTGdackluQ0xQYQ?oc=5",
-   "summary": "",
-   "published": "2026-10-15T07:00:00Z",
-   "source": "gn-eudr",
-   "publisher": "Fordaq",
-   "kind": "news",
-   "tags": [
-    "eudr"
-   ],
-   "weak": false,
-   "first_seen": "2026-10-16T09:48:10Z",
-   "ai": {
-    "relevant": true,
-    "importance": 1,
-    "regs": [
-     "eudr"
-    ],
-    "note": "Interview discussing compliance pressure on the European timber industry under the EU Deforestation Regulation."
-   }
-  },
-  {
-   "id": "f61b09c80ad5fae6",
-   "title": "EU leaders’ summit descends into 3-hour argument over taxing car emissions",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOUdvQW95SkUzaE1EV0NvLWhBOGtmd3JxTUJqVHZXeF9PbUF5Vlo4OGh0Z01qcVhJWGNWZzZ3clF6V2dfMWJMRGQ4aVZWZVNBYWVSU2piMGpGRm1hanA4dW1jU3hhWV8wY0lTQWtWYUdaV05hc3c5ZHViMGEta00yb1hoS2xLUnlQX0FF?oc=5",
-   "summary": "",
-   "published": "2026-10-15T07:00:00Z",
-   "source": "gn-cbam",
-   "publisher": "POLITICO.eu",
-   "kind": "news",
-   "tags": [],
-   "weak": true,
-   "first_seen": "2026-10-16T09:48:10Z",
-   "ai": {
-    "relevant": true,
-    "importance": 2,
-    "regs": [
-     "ets"
-    ],
-    "note": "EU leaders argued over road transport carbon pricing under ETS2 at the Brussels summit."
    }
   }
  ]
