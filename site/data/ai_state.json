@@ -28,8 +28,8 @@
   },
   "sfdr2": {
    "hash": "fb720a4193ae",
-   "date": "2026-11-05",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-15",
+   "model": "gemini-3.5-flash"
   },
   "csddd": {
    "hash": "f8338d2c01fd",
@@ -48,13 +48,13 @@
   },
   "ecgt": {
    "hash": "a8ce8187d395",
-   "date": "2026-11-03",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-15",
+   "model": "gemini-3.5-flash"
   },
   "green-claims": {
    "hash": "c518323a8182",
-   "date": "2026-11-05",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-15",
+   "model": "gemini-3.5-flash"
   },
   "espr": {
    "hash": "42b81a1778a7",
@@ -177,54 +177,53 @@
   {
    "reg": "green-claims",
    "type": "add_date",
-   "reason": "The European Commission officially confirmed plans to scrap/withdraw the Green Claims Directive proposal.",
+   "reason": "The European Commission officially confirmed in November 2026 that it is scrapping and withdrawing the proposed Green Claims Directive.",
    "sources": [
     "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBKeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzNHN3ItRG5qaEdOeFgtOV9qVExpLXNkc0pxcER4REpPVVBJZExWNW5IWXVOTVF5TUwwNkFfaU04RUNhbWE4NDhnY2FpTVQ4VnVJWTQ2OTlZVXFNNVpiamEtOXJSNFc3SVh2elRUZW5fWFFXTW5GWkN0THhxTHR3dkZsWW5uUQ?oc=5"
    ],
    "confidence": "high",
    "date": "2026-11-04",
-   "label": "commission confirms decision to scrap proposal",
+   "label": "Commission confirms withdrawal of the proposal",
    "approx": false,
    "checked_with_search": false,
    "fp": "3ed7a9c2b08783",
-   "proposed_on": "2026-11-14"
+   "proposed_on": "2026-11-15"
   },
   {
    "reg": "green-claims",
    "type": "set_status",
-   "reason": "Update status to reflect the Commission's decision to withdraw the proposal.",
+   "reason": "The Commission officially confirmed the withdrawal of the proposal in early November 2026.",
    "sources": [
     "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBKeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzNHN3ItRG5qaEdOeFgtOV9qVExpLXNkc0pxcER4REpPVVBJZExWNW5IWXVOTVF5TUwwNkFfaU04RUNhbWE4NDhnY2FpTVQ4VnVJWTQ2OTlZVXFNNVpiamEtOXJSNFc3SVh2elRUZW5fWFFXTW5GWkN0THhxTHR3dkZsWW5uUQ?oc=5"
    ],
    "confidence": "high",
-   "status": "Withdrawn. The European Commission confirmed in November 2026 that it is scrapping the proposal following the cancellation of trilogue negotiations in 2025.",
+   "status": "Scrapped by the European Commission in November 2026 following the cancellation of trilogue negotiations in 2025.",
    "checked_with_search": false,
    "fp": "878bfc29668d16",
-   "proposed_on": "2026-11-14"
+   "proposed_on": "2026-11-15"
   },
   {
    "reg": "ets",
    "type": "add_date",
-   "reason": "The Council and European Parliament reached a provisional deal on 12 November 2026 regarding additional free carbon allowances under the EU ETS.",
+   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
    "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
-    "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances"
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
    ],
    "confidence": "high",
    "date": "2026-11-12",
-   "label": "provisional agreement reached to increase free carbon allowances for energy-intensive industries",
+   "label": "provisional agreement reached on boosting free carbon allowances for industry",
    "approx": false,
    "checked_with_search": false,
    "fp": "91019c265f2cf9",
-   "proposed_on": "2026-11-14"
+   "proposed_on": "2026-11-15"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-12",
- "last_briefing": "2026-11-14",
- "last_proposals": "2026-11-14",
+ "last_briefing": "2026-11-15",
+ "last_proposals": "2026-11-15",
  "pr_seen_open": true
 }
