@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-15T20:23:30Z",
+ "generated_at": "2026-11-16T13:38:19Z",
  "items": [
+  {
+   "id": "34aaaa52fdd6",
+   "group": "delay",
+   "sources": [
+    {
+     "item": "8272be48947a0bde",
+     "title": "German kitchen manufacturers call for delay to EU ecodesign rules",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzhwM0hQMm5YTElSX3JlM05MaUZBTlkxdDMxbTZ0UDY1alBsWTVmb3pobS1xb2pXdWtVbXZQOWJHLWQxS0RCNGVWWnpHbDdiZWl0NHVuWGpzb2RISTFBTEpzOGxxOVBTcUxPWHFyeDVvTlRqZHRVLU9TN0xmWkRUYW5xRUhmYXVBODNjRFVVX0hQN1RERVhEOXNwUDU2cFZndllOVmJlVkFZd3N3Zm55OVN3?oc=5",
+     "origin": "InteriorDaily",
+     "published": "2026-11-16T10:06:57Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "espr"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-11-16T13:38:19Z",
+   "updated": "2026-11-16T13:38:19Z",
+   "date": "2026-11-16",
+   "regs": [
+    "espr"
+   ],
+   "title": "German kitchen manufacturers call for delay to EU ecodesign rules",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzhwM0hQMm5YTElSX3JlM05MaUZBTlkxdDMxbTZ0UDY1alBsWTVmb3pobS1xb2pXdWtVbXZQOWJHLWQxS0RCNGVWWnpHbDdiZWl0NHVuWGpzb2RISTFBTEpzOGxxOVBTcUxPWHFyeDVvTlRqZHRVLU9TN0xmWkRUYW5xRUhmYXVBODNjRFVVX0hQN1RERVhEOXNwUDU2cFZndllOVmJlVkFZd3N3Zm55OVN3?oc=5",
+   "origin": "InteriorDaily",
+   "official": false,
+   "publishers": 1,
+   "mentions": [],
+   "visible": false
+  },
   {
    "id": "7f879a057a2e",
    "group": "delay",
@@ -345,6 +377,70 @@
    "origin": "ESG Today",
    "official": false,
    "publishers": 4,
+   "mentions": [],
+   "visible": true
+  },
+  {
+   "id": "b28047c4be5c",
+   "group": "proposal",
+   "sources": [
+    {
+     "item": "5536e82340d93a8e",
+     "title": "Highlights - EU ETS revisions: Consideration of amendments - Committee on the Environment, Public Health and Food Safety",
+     "link": "https://www.europarl.europa.eu/committees/en/product/product-details/20261028CAN79826",
+     "origin": "European Parliament, Environment committee (ENVI)",
+     "published": "2026-11-03T16:42:41Z",
+     "official": true,
+     "strong": true,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-11-16T13:38:19Z",
+   "updated": "2026-11-16T13:38:19Z",
+   "date": "2026-11-03",
+   "regs": [
+    "ets"
+   ],
+   "title": "Highlights - EU ETS revisions: Consideration of amendments - Committee on the Environment, Public Health and Food Safety",
+   "link": "https://www.europarl.europa.eu/committees/en/product/product-details/20261028CAN79826",
+   "origin": "European Parliament, Environment committee (ENVI)",
+   "official": true,
+   "publishers": 1,
+   "mentions": [],
+   "visible": true
+  },
+  {
+   "id": "93a6ae0b19b4",
+   "group": "decision",
+   "sources": [
+    {
+     "item": "e094202db1f49932",
+     "title": "Highlights - Exchange of Views on phasing out animal testing - Committee on the Environment, Public Health and Food Safety",
+     "link": "https://www.europarl.europa.eu/committees/en/product/product-details/20261103CAN79845",
+     "origin": "European Parliament, Environment committee (ENVI)",
+     "published": "2026-11-03T16:52:01Z",
+     "official": true,
+     "strong": true,
+     "regs": [
+      "reach"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-11-16T13:38:19Z",
+   "updated": "2026-11-16T13:38:19Z",
+   "date": "2026-11-03",
+   "regs": [
+    "reach"
+   ],
+   "title": "Highlights - Exchange of Views on phasing out animal testing - Committee on the Environment, Public Health and Food Safety",
+   "link": "https://www.europarl.europa.eu/committees/en/product/product-details/20261103CAN79845",
+   "origin": "European Parliament, Environment committee (ENVI)",
+   "official": true,
+   "publishers": 1,
    "mentions": [],
    "visible": true
   },

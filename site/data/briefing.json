@@ -1,19 +1,35 @@
 {
- "generated_at": "2026-11-15T12:43:42Z",
+ "generated_at": "2026-11-16T13:38:22Z",
  "model": "gemini-3.5-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU Draft Assurance Standards and Ecodesign Consultations Shift Sustainability Focus",
- "summary": "The European Commission has published draft CSRD assurance standards, which will impact supply chain data collection for your financial year 2027 reporting scope. Meanwhile, new EU consultations target ecodesign repairability for electrical products. Media reports also suggest the Commission may withdraw the Green Claims Directive proposal.",
+ "headline": "EU Regulatory Briefing: Digital Passports, CSRD Assurance and ESPR Repairability",
+ "summary": "The European Commission published technical resources for Digital Product Passport registry integration and draft assurance standards for CSRD reporting. Additionally, consultations on ecodesign repairability rules have opened, while reports indicate the proposed Green Claims Directive may be withdrawn.",
  "items": [
   {
-   "title": "Draft CSRD Sustainability Reporting Assurance Standards Released",
+   "title": "Commission Publishes Technical Resources for Digital Product Passport Registry",
+   "regs": [
+    "espr"
+   ],
+   "what": "The European Commission published six technical resources to assist companies connecting to the Digital Product Passport registry under the Ecodesign for Sustainable Products Regulation.",
+   "meaning": "Provides initial technical specifications for IT and product data systems, essential for future digital passport compliance across power tools and equipment.",
+   "action": "Forward technical documentation to IT and compliance teams to assess data system readiness.",
+   "sources": [
+    {
+     "title": "Commission publishes six technical resources for companies connecting to the digital product passport registry",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXIxNUFOZ0xBelFVcnduOGZGMnNTQjZ6Ykx0eTJYQ0ZWZ3BoRkVOUnRLcmdldHhaSmxhNWZCLTljcmVrRndnOXBaaTBkT1RlMUxfcEFEejhrS0wxTW4xLVhHMzBvYldRVlJOT0NObXMtNEktZUlxcmp0dkd6UFNTOEdOYnI3S1VmcXRHYnpVTFZnbHR0eURXcjJQTmc1czVQS3BhTGNDMWYzdFhQVS1nYVBlLUFERVptYlJsX2s3X0c3XzlLeVF3Vlh4cmprenZhbFFmQ0VGMWs0djg?oc=5",
+     "origin": "Informat.ro"
+    }
+   ]
+  },
+  {
+   "title": "Draft CSRD Sustainability Assurance Standards Published",
    "regs": [
     "csrd"
    ],
-   "what": "The European Commission released draft sustainability reporting assurance standards under the CSRD framework.",
-   "meaning": "As a listed company in CSRD scope for financial year 2027, sustainability data from Chinese suppliers will face formal audit scrutiny.",
-   "action": "Review draft standards to ensure supplier data collection processes meet anticipated assurance requirements.",
+   "what": "The European Commission released draft sustainability reporting assurance standards under the Corporate Sustainability Reporting Directive framework.",
+   "meaning": "Clarifies audit requirements for sustainability reporting, directly affecting data collection and verification standards for Chinese supplier supply chains.",
+   "action": "Review draft standards with auditors to refine supplier sustainability data protocols.",
    "sources": [
     {
      "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
@@ -23,14 +39,14 @@
    ]
   },
   {
-   "title": "EU Consults on Ecodesign Repairability for Electrical Products",
+   "title": "EU Consults on Ecodesign Repairability Rules for Electricals",
    "regs": [
     "espr",
     "right-to-repair"
    ],
-   "what": "The European Commission launched a public consultation on ecodesign repairability requirements covering small electrical devices.",
-   "meaning": "Future repairability rules under ESPR could require product design changes, spare parts availability, and easier battery platform disassembly.",
-   "action": "Evaluate tool ranges and battery platforms against potential repairability standards.",
+   "what": "The European Commission opened a public consultation gathering evidence on proposed repairability requirements for small electrical equipment.",
+   "meaning": "Signals upcoming mandatory design rules for disassembly, spare part availability, and repair information relevant to power tools and garden equipment.",
+   "action": "Evaluate current spare parts distribution and repair documentation across EU operations.",
    "sources": [
     {
      "title": "EU seeks evidence on repair rules for small electricals and e-scooters",
@@ -50,13 +66,13 @@
    ]
   },
   {
-   "title": "Reports Suggest European Commission May Scrap Green Claims Directive",
+   "title": "Reports Suggest Commission May Withdraw Green Claims Directive Proposal",
    "regs": [
     "green-claims"
    ],
-   "what": "Media reports indicate the European Commission plans to abandon its proposed Green Claims Directive.",
-   "meaning": "If withdrawn, explicit ex-ante verification may be dropped, though general EU consumer protection rules on greenwashing still apply.",
-   "action": "Maintain robust substantiation for product environmental claims while awaiting official Commission confirmation.",
+   "what": "Media reports indicate the European Commission plans to abandon the proposed Green Claims Directive, though this is not yet officially declared.",
+   "meaning": "Environmental claims remain subject to general consumer law, but explicit substantiation rules under this specific directive may not proceed.",
+   "action": "Continue auditing product marketing claims against established EU consumer protection standards.",
    "sources": [
     {
      "title": "EU Commission Abandons Plans For The Green Claims Directive",
@@ -69,28 +85,12 @@
      "origin": "UKFT"
     }
    ]
-  },
-  {
-   "title": "Chinese Battery Supplier Achieves EU Battery Regulation Conformity",
-   "regs": [
-    "batteries"
-   ],
-   "what": "Battery manufacturer TWS Technology obtained TÜV Rheinland conformity certification under the EU Battery Regulation.",
-   "meaning": "Demonstrates that Chinese battery suppliers are actively establishing conformity certification ahead of upcoming EU regulatory deadlines.",
-   "action": "Audit Chinese battery suppliers regarding their certification roadmap for EU Battery Regulation compliance.",
-   "sources": [
-    {
-     "title": "EU Battery Regulation: TWS Technology Attains TÜV Rheinland Conformity",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbndOZV83dk5aOXdoeHZwQVJPSEJ5MzN4Q1JPNHI1ek5MRjg5aUJlNE9KN1lyZVktWG5tdUtzRFhwOXRRY0gzdnV0MkZSNUdMam5ZQWk1Q3NENFpSYlRNeXQtTWt6UE9qaV82SDhPRkNDekFtd0VzZS1rQVpyeXNfbFM4WmpyQUFHRWhJR0t3bDZFZWxPRHhmcmtOYVJNeldQNlE5U0pxVFB1NDB5Wi00aA?oc=5",
-     "origin": "EIN News"
-    }
-   ]
   }
  ],
  "watch": [
-  "Official Commission confirmation regarding the status of the proposed Green Claims Directive.",
-  "Publication of draft ESPR ecodesign requirements specifically targeting power tools and garden machinery.",
-  "Supplier readiness for EU Battery Regulation rules taking effect in early 2027."
+  "EUDR compliance deadline approaching on 30 December 2026 for large and medium operators.",
+  "Publication of ESPR product-specific delegated acts defining priority product rules.",
+  "Implementation of EU Battery Regulation requirements on removable batteries and battery passports ahead of February 2027 deadlines."
  ],
- "based_on": 26
+ "based_on": 31
 }

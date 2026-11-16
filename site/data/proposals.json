@@ -1,28 +1,6 @@
 {
- "generated_at": "2026-11-15T20:23:33Z",
+ "generated_at": "2026-11-16T13:38:22Z",
  "items": [
-  {
-   "reg": "esrs-revised",
-   "text": "Change the stage from Adopted to In force",
-   "reason": "The entry into force date of 10 November 2026 has passed, moving the act to stage 3 (In force).",
-   "sources": [
-    "https://eur-lex.europa.eu"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-14"
-  },
-  {
-   "reg": "esrs-revised",
-   "text": "New status text: “In force. Entered into force on 10 November 2026. The revised ESRS apply from financial year 2027, while the voluntary reporting standard has been in force since 24 September 2026.”",
-   "reason": "Update status text now that the 10 November 2026 entry into force date has passed.",
-   "sources": [
-    "https://eur-lex.europa.eu"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-14"
-  },
   {
    "reg": "green-claims",
    "text": "Add the date 2026-11-04: “Green Claims Commission confirms withdrawal of the proposal”",
@@ -36,27 +14,48 @@
    "proposed_on": "2026-11-15"
   },
   {
-   "reg": "green-claims",
-   "text": "New status text: “Scrapped by the European Commission in November 2026 following the cancellation of trilogue negotiations in 2025.”",
-   "reason": "The Commission officially confirmed the withdrawal of the proposal in early November 2026.",
+   "reg": "esrs-revised",
+   "text": "Change the stage from Adopted to In force",
+   "reason": "The revised ESRS entered into force on 10 November 2026.",
    "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzNHN3ItRG5qaEdOeFgtOV9qVExpLXNkc0pxcER4REpPVVBJZExWNW5IWXVOTVF5TUwwNkFfaU04RUNhbWE4NDhnY2FpTVQ4VnVJWTQ2OTlZVXFNNVpiamEtOXJSNFc3SVh2elRUZW5fWFFXTW5GWkN0THhxTHR3dkZsWW5uUQ?oc=5"
+    "https://eur-lex.europa.eu/"
    ],
    "confidence": "high",
    "checked_with_search": false,
-   "proposed_on": "2026-11-15"
+   "proposed_on": "2026-11-16"
+  },
+  {
+   "reg": "esrs-revised",
+   "text": "New status text: “Entered into force on 10 November 2026 and apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.”",
+   "reason": "Reflects that the 10 November 2026 entry into force date has passed.",
+   "sources": [
+    "https://eur-lex.europa.eu/"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-16"
   },
   {
    "reg": "ets",
-   "text": "Add the date 2026-11-12: “EU ETS provisional agreement reached on boosting free carbon allowances for industry”",
-   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
+   "text": "Add the date 2026-11-12: “EU ETS provisional agreement reached on boosting free carbon allowances for energy-intensive industries”",
+   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to increase free carbon allowance allocations for energy-intensive industries.",
    "sources": [
     "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
    ],
    "confidence": "high",
    "checked_with_search": false,
-   "proposed_on": "2026-11-15"
+   "proposed_on": "2026-11-16"
+  },
+  {
+   "reg": "green-claims",
+   "text": "New status text: “Proposal abandoned following official confirmation by the European Commission in November 2026 that it is withdrawing the draft directive.”",
+   "reason": "The European Commission officially confirmed in November 2026 its intention to withdraw the Green Claims Directive proposal.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-16"
   }
  ],
  "learn_edits": []

@@ -58,13 +58,13 @@
   },
   "espr": {
    "hash": "42b81a1778a7",
-   "date": "2026-11-06",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-16",
+   "model": "gemini-3.5-flash"
   },
   "batteries": {
    "hash": "238b937632a9",
-   "date": "2026-11-06",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-16",
+   "model": "gemini-3.5-flash"
   },
   "forced-labour": {
    "hash": "3aba5484a298",
@@ -93,8 +93,8 @@
   },
   "ppwr": {
    "hash": "3af43d3bae3d",
-   "date": "2026-11-05",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-16",
+   "model": "gemini-3.5-flash"
   },
   "conflict-minerals": {
    "hash": "4edd6ee235b2",
@@ -149,32 +149,6 @@
  },
  "pending": [
   {
-   "reg": "esrs-revised",
-   "type": "set_stage",
-   "reason": "The entry into force date of 10 November 2026 has passed, moving the act to stage 3 (In force).",
-   "sources": [
-    "https://eur-lex.europa.eu"
-   ],
-   "confidence": "high",
-   "stage": 3,
-   "checked_with_search": false,
-   "fp": "77b36fdb2144f2",
-   "proposed_on": "2026-11-14"
-  },
-  {
-   "reg": "esrs-revised",
-   "type": "set_status",
-   "reason": "Update status text now that the 10 November 2026 entry into force date has passed.",
-   "sources": [
-    "https://eur-lex.europa.eu"
-   ],
-   "confidence": "high",
-   "status": "In force. Entered into force on 10 November 2026. The revised ESRS apply from financial year 2027, while the voluntary reporting standard has been in force since 24 September 2026.",
-   "checked_with_search": false,
-   "fp": "5cc2e828265fcc",
-   "proposed_on": "2026-11-14"
-  },
-  {
    "reg": "green-claims",
    "type": "add_date",
    "reason": "The European Commission officially confirmed in November 2026 that it is scrapping and withdrawing the proposed Green Claims Directive.",
@@ -191,39 +165,64 @@
    "proposed_on": "2026-11-15"
   },
   {
-   "reg": "green-claims",
-   "type": "set_status",
-   "reason": "The Commission officially confirmed the withdrawal of the proposal in early November 2026.",
+   "reg": "esrs-revised",
+   "type": "set_stage",
+   "reason": "The revised ESRS entered into force on 10 November 2026.",
    "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzNHN3ItRG5qaEdOeFgtOV9qVExpLXNkc0pxcER4REpPVVBJZExWNW5IWXVOTVF5TUwwNkFfaU04RUNhbWE4NDhnY2FpTVQ4VnVJWTQ2OTlZVXFNNVpiamEtOXJSNFc3SVh2elRUZW5fWFFXTW5GWkN0THhxTHR3dkZsWW5uUQ?oc=5"
+    "https://eur-lex.europa.eu/"
    ],
    "confidence": "high",
-   "status": "Scrapped by the European Commission in November 2026 following the cancellation of trilogue negotiations in 2025.",
+   "stage": 3,
    "checked_with_search": false,
-   "fp": "878bfc29668d16",
-   "proposed_on": "2026-11-15"
+   "fp": "77b36fdb2144f2",
+   "proposed_on": "2026-11-16"
+  },
+  {
+   "reg": "esrs-revised",
+   "type": "set_status",
+   "reason": "Reflects that the 10 November 2026 entry into force date has passed.",
+   "sources": [
+    "https://eur-lex.europa.eu/"
+   ],
+   "confidence": "high",
+   "status": "Entered into force on 10 November 2026 and apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.",
+   "checked_with_search": false,
+   "fp": "5cc2e828265fcc",
+   "proposed_on": "2026-11-16"
   },
   {
    "reg": "ets",
    "type": "add_date",
-   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
+   "reason": "The Council and European Parliament reached a provisional agreement on 12 November 2026 to increase free carbon allowance allocations for energy-intensive industries.",
    "sources": [
     "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
    ],
    "confidence": "high",
    "date": "2026-11-12",
-   "label": "provisional agreement reached on boosting free carbon allowances for industry",
+   "label": "provisional agreement reached on boosting free carbon allowances for energy-intensive industries",
    "approx": false,
    "checked_with_search": false,
    "fp": "91019c265f2cf9",
-   "proposed_on": "2026-11-15"
+   "proposed_on": "2026-11-16"
+  },
+  {
+   "reg": "green-claims",
+   "type": "set_status",
+   "reason": "The European Commission officially confirmed in November 2026 its intention to withdraw the Green Claims Directive proposal.",
+   "sources": [
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/"
+   ],
+   "confidence": "high",
+   "status": "Proposal abandoned following official confirmation by the European Commission in November 2026 that it is withdrawing the draft directive.",
+   "checked_with_search": false,
+   "fp": "878bfc29668d16",
+   "proposed_on": "2026-11-16"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-12",
- "last_briefing": "2026-11-15",
- "last_proposals": "2026-11-15",
+ "last_briefing": "2026-11-16",
+ "last_proposals": "2026-11-16",
  "pr_seen_open": true
 }
