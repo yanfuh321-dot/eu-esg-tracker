@@ -1,96 +1,96 @@
 {
- "generated_at": "2026-11-16T13:38:22Z",
- "model": "gemini-3.5-flash",
+ "generated_at": "2026-11-19T22:39:45Z",
+ "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU Regulatory Briefing: Digital Passports, CSRD Assurance and ESPR Repairability",
- "summary": "The European Commission published technical resources for Digital Product Passport registry integration and draft assurance standards for CSRD reporting. Additionally, consultations on ecodesign repairability rules have opened, while reports indicate the proposed Green Claims Directive may be withdrawn.",
+ "headline": "Digital passport progress, CSRD assurance consultation, and proposed downstream CBAM expansion",
+ "summary": "The EU published technical resources and a joint EU-China white paper on Digital Product Passport interoperability. Meanwhile, the Commission opened a consultation on CSRD limited assurance standards and outlined plans to extend CBAM to downstream metal products.",
  "items": [
   {
-   "title": "Commission Publishes Technical Resources for Digital Product Passport Registry",
+   "title": "Technical resources and EU-China white paper published for Digital Product Passports",
    "regs": [
     "espr"
    ],
-   "what": "The European Commission published six technical resources to assist companies connecting to the Digital Product Passport registry under the Ecodesign for Sustainable Products Regulation.",
-   "meaning": "Provides initial technical specifications for IT and product data systems, essential for future digital passport compliance across power tools and equipment.",
-   "action": "Forward technical documentation to IT and compliance teams to assess data system readiness.",
+   "what": "The European Commission published six technical resources for connecting to the Digital Product Passport registry, alongside a joint EU-China white paper on DPP data interoperability.",
+   "meaning": "Clarifies data connectivity standards between EU importers and Chinese manufacturers, which is vital for preparing your battery platform and power tool portfolio for DPP requirements.",
+   "action": "Share technical specifications with IT and Chinese supplier management teams to align data exchange protocols.",
    "sources": [
     {
      "title": "Commission publishes six technical resources for companies connecting to the digital product passport registry",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXIxNUFOZ0xBelFVcnduOGZGMnNTQjZ6Ykx0eTJYQ0ZWZ3BoRkVOUnRLcmdldHhaSmxhNWZCLTljcmVrRndnOXBaaTBkT1RlMUxfcEFEejhrS0wxTW4xLVhHMzBvYldRVlJOT0NObXMtNEktZUlxcmp0dkd6UFNTOEdOYnI3S1VmcXRHYnpVTFZnbHR0eURXcjJQTmc1czVQS3BhTGNDMWYzdFhQVS1nYVBlLUFERVptYlJsX2s3X0c3XzlLeVF3Vlh4cmprenZhbFFmQ0VGMWs0djg?oc=5",
      "origin": "Informat.ro"
+    },
+    {
+     "title": "China, EU release DPP interoperability white paper to facilitate data connectivity",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYW5qOExLdjBVaHR4R3pxMnZlbEw0TjVYX3NXYmRxaHE1TlI2VVF4TXZJR1RldWJtb3kyb0JwN1BBbjkzNFFDRml5SUhXVEpuSzBvamk2WE5MYnFBTUhJTEZLa2tYaWl0czFvc25La0RvRTRPU21Qc1lFb21BTzlZVXh6YnRROWpDalNBOG5pbXV3UERxa0lCVGhOVVZCRk9qbDByWmxmSGlkR19rVlRxd3NmdkIyU2l3QmdjQnpwMmpQWjZPS2JwWFl1RDF5Zw?oc=5",
+     "origin": "巴士的報"
     }
    ]
   },
   {
-   "title": "Draft CSRD Sustainability Assurance Standards Published",
+   "title": "Commission consults on CSRD limited assurance standards",
    "regs": [
     "csrd"
    ],
-   "what": "The European Commission released draft sustainability reporting assurance standards under the Corporate Sustainability Reporting Directive framework.",
-   "meaning": "Clarifies audit requirements for sustainability reporting, directly affecting data collection and verification standards for Chinese supplier supply chains.",
-   "action": "Review draft standards with auditors to refine supplier sustainability data protocols.",
+   "what": "The European Commission launched a consultation on standards for limited assurance of sustainability reporting under the Corporate Sustainability Reporting Directive.",
+   "meaning": "Directly impacts your CSRD compliance strategy by defining the criteria external auditors will apply when verifying your sustainability metrics and Chinese supplier data.",
+   "action": "Review consultation topics with internal audit leads to ensure sustainability data collection meets audit standards.",
    "sources": [
     {
-     "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
-     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1yUjhkeWtKbG9HSElVTnVLTHNQbFNFY3NzM1ZYOHZqZ19vR01YaGd4a192T1RHUmN3Wno4?oc=5",
-     "origin": "Howl.Link"
+     "title": "EU CSRD: Commission consults on limited assurance standards, Julia Voskoboinikova",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3kxLXlBYkFtM0FsbjZnZXh4bWR3dFBFclNwNUFGZnNmaHNSNVJZdHIzODJFNzEzMlJGb0hGYTdlREtBQ0pwM2pIY2hqV0VkTHlxdkZPTzV3UVFPQjNCTGRpYlZJM0lIdGk5UUVsaGs5ZVVXSnJ0OUlOOXNkM1FEZzJLaW52Qm9wdXprOGk1bjdDazdjY0ZmcmNGN05UanNCRlR0Ui0yTXd4M1JtcHdoTjI5RQ?oc=5",
+     "origin": "Linklaters - Sustainable Futures"
     }
    ]
   },
   {
-   "title": "EU Consults on Ecodesign Repairability Rules for Electricals",
+   "title": "Commission proposes CBAM expansion to downstream steel and aluminium products",
    "regs": [
-    "espr",
-    "right-to-repair"
+    "cbam",
+    "cn-ets"
    ],
-   "what": "The European Commission opened a public consultation gathering evidence on proposed repairability requirements for small electrical equipment.",
-   "meaning": "Signals upcoming mandatory design rules for disassembly, spare part availability, and repair information relevant to power tools and garden equipment.",
-   "action": "Evaluate current spare parts distribution and repair documentation across EU operations.",
+   "what": "The European Commission proposed extending CBAM to 180 downstream products and finalized rules for deducting third-country carbon costs, recognizing China's emissions trading scheme.",
+   "meaning": "Although finished packaged goods are currently exempt, extending CBAM to downstream steel and aluminium items could directly impact imported power tools or components from China.",
+   "action": "Review the proposed list of 180 downstream products against your import tariff codes.",
    "sources": [
     {
-     "title": "EU seeks evidence on repair rules for small electricals and e-scooters",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2xOZnNBeEhrY2JCWDdUUEpEOFU4bjl0S1RfcVVLVUdfVW1pMU9BU1d3RTlLQWU3N3NVYkI3V3NMMTFqX0FLWnd4QXFnSXN6RGxLWHk3eW5lOVg4LXBBVnFCMndvSm4xNFRyQlFvWGVUaDU3azh2aUJDMVM2aVVFX1VfTVdGbzc3dUJsX193TXB1dlhrclhUZnlBWTJyQ01VNGhsbjRlbTg?oc=5",
-     "origin": "resourcemedia.eco"
+     "title": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb0JXYTgxemVfcndRcDYwR1lYRFRzSmxyOXowUUJPY1E3Wmg1bU5SdkQ1QkN2OU1tT0poOTA4Yjk4UElqT0VZNWJzSzJiRWVranZZVS1YZU5SUXdGejFMOWJ3VTc0czFiTDRmSUhPeExycThnN1ZxQ3NKM1dRZ29XWFdwZVBXVjB4c3RhN3RhWUg4OUpQdkNGQU5GRGxPUkRnbktjaGVFMmI2Ri1qU2xnSFNTVmlNMElUQ3o4V0Z0QnlDR2hIMUh4VHBJbVlVY1pCUzBFM0phWHlCVzRZb1E?oc=5",
+     "origin": "EUROMETAL"
     },
     {
-     "title": "Public Consultation On Ecodesign Requirements On Product Repairability Under The EU ESPR",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnVLRzZpMVJabXFQb3M3TjhXbm8yb3k2RlJyeUkwS2FRel9zQkZGX1YxQ2MxcnROT0tNT1RLX3RjWDY4eFZUbXIxMEtOMFF4YWJ5bmtpSmxLN21DaUJNVmFpRjBucTBYQnJRQ3E1cUM4T3BnNzdrdTBObXZTZmNKZA?oc=5",
-     "origin": "JD Supra"
+     "title": "EU Recognizes China’s Carbon Market for Border Levy Deductions",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEh3UUl6dE5qdzRTQmxJUmNHUkxjeEV6OGVQd0RvRkprOUozTlRlamRDWFVkZ1JuQ2M0VklCU2hEeGtRMk5YRHFJaUtkZFhqbGlzQ0g2bkRKNmh5MnFHU3Bmd19TbGEtbGRiMjRNVlV4ZXg2OE45U3BhNGQyZlJYZFR3VU14cW5Dckg1eWoyMGdvX2xlcnBnX1BNNVhFY0xjemhUZVJEQ1QtYlctTXJJYlZwTnh0bTg?oc=5",
+     "origin": "Caixin Global"
     },
     {
-     "title": "Fix it, don't bin it: the EU consults on Ecodesign repairability requirements",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEpySTU3Ml9FN2l1aGpWWXlKaGFGeDdRbjJfVU5aX3N4QW00WWxrQmVjQjFIcF9BZGotR1pPMlJ5SVpVNVRlcEp3aUQ4c0tkLUE2YXJvYXN4aFBGT2ptb0JKMng2Q3R0T1BfcnR5SXNqZnhJbERaeU5NUWlhOVdwbWcxckF1SGU3OWFVYWdoeVpoRzhOTHVXZ0hWMXpqcm5Zc1JKOW5wd1N5eWtWZWszYjd0aS1uZ1ZSNzVQLS1Ea1VYYU5Ub3pNODlR?oc=5",
-     "origin": "Lewis Silkin"
+     "title": "EU sets rules for deducting third-country carbon costs under CBAM, recognizes Turkey’s ETS",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRnUEpOM19vQjdpVXNwUDREMVVKb0pFRk5jZ0hTNHE2S2tFeFh6ajI3d3RIb1E2d19ZTmN2WllHUW9EQkdfay0yNmZEWk52cWRDNGViZTJTTUtlSHRwSzdrWWtqREUwUzZ3MlB1aHZ6bXlSRDd0ZlBQTVhlZXlBOU9GMUpkSG5pajlCbjVETjJTNXd5anYzbWVtbU9hSzRFeVRNblJrNUREb1ZLb3lTeg?oc=5",
+     "origin": "EUROMETAL"
     }
    ]
   },
   {
-   "title": "Reports Suggest Commission May Withdraw Green Claims Directive Proposal",
+   "title": "Corrigendum published for EU Machinery Regulation",
    "regs": [
-    "green-claims"
+    "machinery"
    ],
-   "what": "Media reports indicate the European Commission plans to abandon the proposed Green Claims Directive, though this is not yet officially declared.",
-   "meaning": "Environmental claims remain subject to general consumer law, but explicit substantiation rules under this specific directive may not proceed.",
-   "action": "Continue auditing product marketing claims against established EU consumer protection standards.",
+   "what": "The EU published an official corrigendum to Regulation (EU) 2023/1230 on machinery, introducing technical corrections.",
+   "meaning": "As the brand manufacturer of powered tools and equipment, your technical documentation must reflect the updated text ahead of the January 2027 application date.",
+   "action": "Inform product compliance teams to check technical file references against the corrected text.",
    "sources": [
     {
-     "title": "EU Commission Abandons Plans For The Green Claims Directive",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzNHN3ItRG5qaEdOeFgtOV9qVExpLXNkc0pxcER4REpPVVBJZExWNW5IWXVOTVF5TUwwNkFfaU04RUNhbWE4NDhnY2FpTVQ4VnVJWTQ2OTlZVXFNNVpiamEtOXJSNFc3SVh2elRUZW5fWFFXTW5GWkN0THhxTHR3dkZsWW5uUQ?oc=5",
-     "origin": "JD Supra"
-    },
-    {
-     "title": "European Commission plans to withdraw Green Claims Directive",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFlpTDdQbFhCZ0NMcmFKTkFlQ3dqRVlEWEpvQVlxMUZWSTFlNjdKdzM0TERUVWtVNmxqdl9jd0V6VmtidEM4LXZuVzcxNi1tVTc4SXNDXzFqREtVSmowOWN0b0Y1ZnFaMlZrN2QzemRFeUc3ZmwtUHdoSm1ZZWJUSktqLWZtekdJSGc?oc=5",
-     "origin": "UKFT"
+     "title": "CELEX:32023R1230R(05): Berichtigung der Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates vom 14. Juni 2023 über Maschinen und zur Aufhebung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates und der Richtlinie 73/361/EWG des Rates (ABl. L 165 vom 29.6.2023)",
+     "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R1230R(05)",
+     "origin": "eurlex-legislation"
     }
    ]
   }
  ],
  "watch": [
-  "EUDR compliance deadline approaching on 30 December 2026 for large and medium operators.",
-  "Publication of ESPR product-specific delegated acts defining priority product rules.",
-  "Implementation of EU Battery Regulation requirements on removable batteries and battery passports ahead of February 2027 deadlines."
+  "Formal legislative proposals detailing the 180 downstream steel and aluminium products proposed for CBAM inclusion.",
+  "Draft delegated acts specifying functional requirements for battery passports ahead of February 2027.",
+  "Progress on Member State transposition of the revised CSRD reporting thresholds."
  ],
- "based_on": 31
+ "based_on": 45
 }

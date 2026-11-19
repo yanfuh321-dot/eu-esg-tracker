@@ -78,17 +78,17 @@
   },
   "pay-transparency": {
    "hash": "1310e82ff06b",
-   "date": "2026-11-07",
+   "date": "2026-11-19",
    "model": "gemini-3.6-flash"
   },
   "green-bond": {
    "hash": "5d86cacb4068",
-   "date": "2026-11-07",
+   "date": "2026-11-19",
    "model": "gemini-3.6-flash"
   },
   "esg-ratings": {
    "hash": "94ebbca740c9",
-   "date": "2026-11-07",
+   "date": "2026-11-19",
    "model": "gemini-3.6-flash"
   },
   "ppwr": {
@@ -190,12 +190,40 @@
    "proposed_on": "2026-11-18"
   },
   {
+   "reg": "sfdr2",
+   "type": "add_date",
+   "reason": "On 19 November 2026, the Council and European Parliament reached a provisional political agreement on the SFDR 2.0 reform.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWNTeGRFcXkyS2hJb1E3NGtyY0RGSlB5UGJ1NVl1TmFTUXo5X01va3FhUWtGOTFDLW1QVzluZ0dCZHNCOERRRF9OcWV2aEhYWEFYSVFraTdUSEkwY2ZzajM5TW1UdzZ0RDRLVG54bWdHUGZEU3ptbEJsSDBZak95VmVJUkNESDctR1plbW9kU2NRek55Z2cwbU50dlcxdG5JbTRtcklndGV1bkQ4ODFQeE9jMW8xTkt4LTAwQV9tRk8wYkNTSzFwTDRqSi0tUEVhbXg0cmU2aWFtblBvY196ZkV0ZW1xQnBpazI1WXBnRGdwNDE5akkwMHgwZlRCUQ?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-11-19",
+   "label": "provisional agreement reached between Council and Parliament",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "cf9c964fe930a3",
+   "proposed_on": "2026-11-19"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "set_status",
+   "reason": "The Council and Parliament struck a deal on SFDR 2.0 rules, bringing trilogue negotiations to a successful conclusion.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWNTeGRFcXkyS2hJb1E3NGtyY0RGSlB5UGJ1NVl1TmFTUXo5X01va3FhUWtGOTFDLW1QVzluZ0dCZHNCOERRRF9OcWV2aEhYWEFYSVFraTdUSEkwY2ZzajM5TW1UdzZ0RDRLVG54bWdHUGZEU3ptbEJsSDBZak95VmVJUkNESDctR1plbW9kU2NRek55Z2cwbU50dlcxdG5JbTRtcklndGV1bkQ4ODFQeE9jMW8xTkt4LTAwQV9tRk8wYkNTSzFwTDRqSi0tUEVhbXg0cmU2aWFtblBvY196ZkV0ZW1xQnBpazI1WXBnRGdwNDE5akkwMHgwZlRCUQ?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Trilogue negotiations concluded with a provisional agreement reached between the Council and European Parliament on 19 November 2026.",
+   "checked_with_search": false,
+   "fp": "9823c392d611d3",
+   "proposed_on": "2026-11-19"
+  },
+  {
    "reg": "green-claims",
    "type": "add_date",
-   "reason": "The European Commission officially confirmed the withdrawal and scrapping of the proposed Green Claims Directive.",
+   "reason": "The European Commission officially confirmed the withdrawal and scrapping of the Green Claims Directive proposal in November 2026.",
    "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5"
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
    ],
    "confidence": "high",
    "date": "2026-11-04",
@@ -203,27 +231,27 @@
    "approx": false,
    "checked_with_search": false,
    "fp": "3ed7a9c2b08783",
-   "proposed_on": "2026-11-18"
+   "proposed_on": "2026-11-19"
   },
   {
    "reg": "green-claims",
    "type": "set_status",
-   "reason": "The European Commission formally announced the withdrawal of the Green Claims Directive proposal.",
+   "reason": "The Commission officially confirmed the withdrawal of the Green Claims Directive proposal.",
    "sources": [
-    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNKR1JtSmJTVmJobmlOS3kzZU1PV01UNFFEU1p1dEhfMW8yelpJdlBPbkVCaGNBWEZPWjNFcF84NlFqYzVUZTBrdDBfZTA5VTZNTExHTG81RWt2dHNQYmJIYWo2TGFIRnUwUjRKQWFvN2RrcUZLNzhBcjFad2R6YnlrWGljQnNDTlpRaE1Rc2tnWEI2MmRHY1dmRTFoNnc5N1J3bUI1bFlFdFVUZEVoSFBLZ3hfZVMzdnAzOUpJeHJFbTJHOVHSAVpBVV95cUxQUWo1eVpibEM5dXFVS19ZMjFhLWpjaGMxc0tMMWtNdXNQSk1zVkJlTXZNRjVhWThFNGdHbGtYYUNtaS13cnRfN3I2MHN0QnJrU3RBRi1XY3JUY1E?oc=5"
+    "https://www.esgtoday.com/eu-commission-scraps-green-claims-directive/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-scraps-green-claims-directive",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVIxWmgxV1ZpY2txU3M0LXpJOUNBYXZtN2hjN2hVV1ZKSVVacF9yMFVTaUE2bG1VUGRyaFBLeFltQVhQMUJPX2Z3clpqbjY0NTd5YV9mdlI4MjU4cjJnQ2xwY0luNjZTRUdUMlVRbWpWTzRWVy1MelZURm03RGF4OThtQUh1ejQ?oc=5"
    ],
    "confidence": "high",
-   "status": "Proposal officially withdrawn by the European Commission in November 2026.",
+   "status": "Officially withdrawn by the European Commission in November 2026 following the earlier suspension of trilogue negotiations.",
    "checked_with_search": false,
    "fp": "878bfc29668d16",
-   "proposed_on": "2026-11-18"
+   "proposed_on": "2026-11-19"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-12",
- "last_briefing": "2026-11-16",
- "last_proposals": "2026-11-18",
+ "last_briefing": "2026-11-19",
+ "last_proposals": "2026-11-19",
  "pr_seen_open": true
 }
