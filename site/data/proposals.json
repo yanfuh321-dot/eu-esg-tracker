@@ -1,61 +1,6 @@
 {
- "generated_at": "2026-11-19T22:39:45Z",
+ "generated_at": "2026-11-20T13:59:53Z",
  "items": [
-  {
-   "reg": "esrs-revised",
-   "text": "Change the stage from Adopted to In force",
-   "reason": "The revised ESRS entered into force on 10 November 2026.",
-   "sources": [
-    "https://eur-lex.europa.eu/"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-16"
-  },
-  {
-   "reg": "esrs-revised",
-   "text": "New status text: “Entered into force on 10 November 2026 and apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.”",
-   "reason": "Reflects that the 10 November 2026 entry into force date has passed.",
-   "sources": [
-    "https://eur-lex.europa.eu/"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-16"
-  },
-  {
-   "reg": "ets",
-   "text": "Add the date 2026-11-12: “EU ETS provisional agreement reached on free carbon allowances revision”",
-   "reason": "On 12 November 2026, the Council and European Parliament reached a provisional agreement to boost free carbon allowances for energy-intensive industries.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-18"
-  },
-  {
-   "reg": "sfdr2",
-   "text": "Add the date 2026-11-19: “SFDR 2.0 provisional agreement reached between Council and Parliament”",
-   "reason": "On 19 November 2026, the Council and European Parliament reached a provisional political agreement on the SFDR 2.0 reform.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWNTeGRFcXkyS2hJb1E3NGtyY0RGSlB5UGJ1NVl1TmFTUXo5X01va3FhUWtGOTFDLW1QVzluZ0dCZHNCOERRRF9OcWV2aEhYWEFYSVFraTdUSEkwY2ZzajM5TW1UdzZ0RDRLVG54bWdHUGZEU3ptbEJsSDBZak95VmVJUkNESDctR1plbW9kU2NRek55Z2cwbU50dlcxdG5JbTRtcklndGV1bkQ4ODFQeE9jMW8xTkt4LTAwQV9tRk8wYkNTSzFwTDRqSi0tUEVhbXg0cmU2aWFtblBvY196ZkV0ZW1xQnBpazI1WXBnRGdwNDE5akkwMHgwZlRCUQ?oc=5"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-19"
-  },
-  {
-   "reg": "sfdr2",
-   "text": "New status text: “Trilogue negotiations concluded with a provisional agreement reached between the Council and European Parliament on 19 November 2026.”",
-   "reason": "The Council and Parliament struck a deal on SFDR 2.0 rules, bringing trilogue negotiations to a successful conclusion.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWNTeGRFcXkyS2hJb1E3NGtyY0RGSlB5UGJ1NVl1TmFTUXo5X01va3FhUWtGOTFDLW1QVzluZ0dCZHNCOERRRF9OcWV2aEhYWEFYSVFraTdUSEkwY2ZzajM5TW1UdzZ0RDRLVG54bWdHUGZEU3ptbEJsSDBZak95VmVJUkNESDctR1plbW9kU2NRek55Z2cwbU50dlcxdG5JbTRtcklndGV1bkQ4ODFQeE9jMW8xTkt4LTAwQV9tRk8wYkNTSzFwTDRqSi0tUEVhbXg0cmU2aWFtblBvY196ZkV0ZW1xQnBpazI1WXBnRGdwNDE5akkwMHgwZlRCUQ?oc=5"
-   ],
-   "confidence": "high",
-   "checked_with_search": false,
-   "proposed_on": "2026-11-19"
-  },
   {
    "reg": "green-claims",
    "text": "Add the date 2026-11-04: “Green Claims Commission officially confirms withdrawal of the proposal”",
@@ -79,6 +24,74 @@
    "confidence": "high",
    "checked_with_search": false,
    "proposed_on": "2026-11-19"
+  },
+  {
+   "reg": "sfdr2",
+   "text": "Add the date 2026-11-19: “SFDR 2.0 provisional agreement reached in trilogue”",
+   "reason": "The Council and the European Parliament reached a provisional political agreement on the SFDR revision on 19 November 2026.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDFMT3hRVkJ4MHNJYUJrV1NtZzVVWWR0RWs0ZnlRLUtDLU1tbFBwT0RWTVpobjRCR29nb195TzVuNXRwc0NoTHNNaURQYnhvUlI5VFMxcDNnX1ROaXQ4S25qNHRtXzdSaV8tYVo1MGUyYWotU25scWJ0SjNoT3pKQmFFRXd5QzhGTXdCSi1wbHQ3VFJnQUNBb2Y0RjVLbDNfWW5NZ1VDR3RCSlA0M2hWWTlwWDljMlU5SHc0T1Foa3c?oc=5"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "sfdr2",
+   "text": "New status text: “Council and Parliament reached a provisional political agreement on 19 November 2026. The text now awaits formal approval by both institutions.”",
+   "reason": "Updates the status from negotiating to reflect the provisional deal struck in trilogue.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "sfdr",
+   "text": "New status text: “Applies. Council and Parliament reached a provisional agreement on the SFDR 2.0 revision on 19 November 2026.”",
+   "reason": "Updates the status text to reflect that negotiations on SFDR 2.0 concluded with a provisional agreement.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "esrs-revised",
+   "text": "Change the stage from Adopted to In force",
+   "reason": "The revised ESRS entered into force on 10 November 2026, transitioning from stage 2 (Adopted) to stage 3 (In force).",
+   "sources": [
+    "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "esrs-revised",
+   "text": "New status text: “In force since 10 November 2026. The revised ESRS apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.”",
+   "reason": "Updates the status text as the entry into force date of 10 November 2026 has now passed.",
+   "sources": [
+    "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "ets",
+   "text": "Add the date 2026-11-12: “EU ETS provisional agreement reached on boosting free carbon allowances”",
+   "reason": "Council and Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
+    "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/"
+   ],
+   "confidence": "high",
+   "checked_with_search": false,
+   "proposed_on": "2026-11-20"
   }
  ],
  "learn_edits": []

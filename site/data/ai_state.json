@@ -1,5 +1,5 @@
 {
- "model": "gemini-3.6-flash",
+ "model": "gemini-3.8-flash",
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
@@ -98,13 +98,13 @@
   },
   "conflict-minerals": {
    "hash": "4edd6ee235b2",
-   "date": "2026-11-08",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-20",
+   "model": "gemini-3.8-flash"
   },
   "right-to-repair": {
    "hash": "942d1456ea85",
-   "date": "2026-11-08",
-   "model": "gemini-3.6-flash"
+   "date": "2026-11-20",
+   "model": "gemini-3.8-flash"
   },
   "rohs": {
    "hash": "60f382ffd212",
@@ -149,75 +149,6 @@
  },
  "pending": [
   {
-   "reg": "esrs-revised",
-   "type": "set_stage",
-   "reason": "The revised ESRS entered into force on 10 November 2026.",
-   "sources": [
-    "https://eur-lex.europa.eu/"
-   ],
-   "confidence": "high",
-   "stage": 3,
-   "checked_with_search": false,
-   "fp": "77b36fdb2144f2",
-   "proposed_on": "2026-11-16"
-  },
-  {
-   "reg": "esrs-revised",
-   "type": "set_status",
-   "reason": "Reflects that the 10 November 2026 entry into force date has passed.",
-   "sources": [
-    "https://eur-lex.europa.eu/"
-   ],
-   "confidence": "high",
-   "status": "Entered into force on 10 November 2026 and apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.",
-   "checked_with_search": false,
-   "fp": "5cc2e828265fcc",
-   "proposed_on": "2026-11-16"
-  },
-  {
-   "reg": "ets",
-   "type": "add_date",
-   "reason": "On 12 November 2026, the Council and European Parliament reached a provisional agreement to boost free carbon allowances for energy-intensive industries.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/"
-   ],
-   "confidence": "high",
-   "date": "2026-11-12",
-   "label": "provisional agreement reached on free carbon allowances revision",
-   "approx": false,
-   "checked_with_search": false,
-   "fp": "91019c265f2cf9",
-   "proposed_on": "2026-11-18"
-  },
-  {
-   "reg": "sfdr2",
-   "type": "add_date",
-   "reason": "On 19 November 2026, the Council and European Parliament reached a provisional political agreement on the SFDR 2.0 reform.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWNTeGRFcXkyS2hJb1E3NGtyY0RGSlB5UGJ1NVl1TmFTUXo5X01va3FhUWtGOTFDLW1QVzluZ0dCZHNCOERRRF9OcWV2aEhYWEFYSVFraTdUSEkwY2ZzajM5TW1UdzZ0RDRLVG54bWdHUGZEU3ptbEJsSDBZak95VmVJUkNESDctR1plbW9kU2NRek55Z2cwbU50dlcxdG5JbTRtcklndGV1bkQ4ODFQeE9jMW8xTkt4LTAwQV9tRk8wYkNTSzFwTDRqSi0tUEVhbXg0cmU2aWFtblBvY196ZkV0ZW1xQnBpazI1WXBnRGdwNDE5akkwMHgwZlRCUQ?oc=5"
-   ],
-   "confidence": "high",
-   "date": "2026-11-19",
-   "label": "provisional agreement reached between Council and Parliament",
-   "approx": false,
-   "checked_with_search": false,
-   "fp": "cf9c964fe930a3",
-   "proposed_on": "2026-11-19"
-  },
-  {
-   "reg": "sfdr2",
-   "type": "set_status",
-   "reason": "The Council and Parliament struck a deal on SFDR 2.0 rules, bringing trilogue negotiations to a successful conclusion.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbWNTeGRFcXkyS2hJb1E3NGtyY0RGSlB5UGJ1NVl1TmFTUXo5X01va3FhUWtGOTFDLW1QVzluZ0dCZHNCOERRRF9OcWV2aEhYWEFYSVFraTdUSEkwY2ZzajM5TW1UdzZ0RDRLVG54bWdHUGZEU3ptbEJsSDBZak95VmVJUkNESDctR1plbW9kU2NRek55Z2cwbU50dlcxdG5JbTRtcklndGV1bkQ4ODFQeE9jMW8xTkt4LTAwQV9tRk8wYkNTSzFwTDRqSi0tUEVhbXg0cmU2aWFtblBvY196ZkV0ZW1xQnBpazI1WXBnRGdwNDE5akkwMHgwZlRCUQ?oc=5"
-   ],
-   "confidence": "high",
-   "status": "Trilogue negotiations concluded with a provisional agreement reached between the Council and European Parliament on 19 November 2026.",
-   "checked_with_search": false,
-   "fp": "9823c392d611d3",
-   "proposed_on": "2026-11-19"
-  },
-  {
    "reg": "green-claims",
    "type": "add_date",
    "reason": "The European Commission officially confirmed the withdrawal and scrapping of the Green Claims Directive proposal in November 2026.",
@@ -246,12 +177,96 @@
    "checked_with_search": false,
    "fp": "878bfc29668d16",
    "proposed_on": "2026-11-19"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "add_date",
+   "reason": "The Council and the European Parliament reached a provisional political agreement on the SFDR revision on 19 November 2026.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDFMT3hRVkJ4MHNJYUJrV1NtZzVVWWR0RWs0ZnlRLUtDLU1tbFBwT0RWTVpobjRCR29nb195TzVuNXRwc0NoTHNNaURQYnhvUlI5VFMxcDNnX1ROaXQ4S25qNHRtXzdSaV8tYVo1MGUyYWotU25scWJ0SjNoT3pKQmFFRXd5QzhGTXdCSi1wbHQ3VFJnQUNBb2Y0RjVLbDNfWW5NZ1VDR3RCSlA0M2hWWTlwWDljMlU5SHc0T1Foa3c?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-11-19",
+   "label": "provisional agreement reached in trilogue",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "cf9c964fe930a3",
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "set_status",
+   "reason": "Updates the status from negotiating to reflect the provisional deal struck in trilogue.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/"
+   ],
+   "confidence": "high",
+   "status": "Council and Parliament reached a provisional political agreement on 19 November 2026. The text now awaits formal approval by both institutions.",
+   "checked_with_search": false,
+   "fp": "9823c392d611d3",
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "sfdr",
+   "type": "set_status",
+   "reason": "Updates the status text to reflect that negotiations on SFDR 2.0 concluded with a provisional agreement.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/"
+   ],
+   "confidence": "high",
+   "status": "Applies. Council and Parliament reached a provisional agreement on the SFDR 2.0 revision on 19 November 2026.",
+   "checked_with_search": false,
+   "fp": "d0c12a008c1b7e",
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "esrs-revised",
+   "type": "set_stage",
+   "reason": "The revised ESRS entered into force on 10 November 2026, transitioning from stage 2 (Adopted) to stage 3 (In force).",
+   "sources": [
+    "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
+   ],
+   "confidence": "high",
+   "stage": 3,
+   "checked_with_search": false,
+   "fp": "77b36fdb2144f2",
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "esrs-revised",
+   "type": "set_status",
+   "reason": "Updates the status text as the entry into force date of 10 November 2026 has now passed.",
+   "sources": [
+    "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
+   ],
+   "confidence": "high",
+   "status": "In force since 10 November 2026. The revised ESRS apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.",
+   "checked_with_search": false,
+   "fp": "5cc2e828265fcc",
+   "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "ets",
+   "type": "add_date",
+   "reason": "Council and Parliament reached a provisional agreement on 12 November 2026 to boost free carbon allowances for energy-intensive industries.",
+   "sources": [
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/emissions-trading-system-council-and-parliament-agree-to-boost-free-carbon-allowances-for-energy-intensive-industries/",
+    "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/"
+   ],
+   "confidence": "high",
+   "date": "2026-11-12",
+   "label": "provisional agreement reached on boosting free carbon allowances",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "91019c265f2cf9",
+   "proposed_on": "2026-11-20"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
- "search_refused": "2026-11-12",
+ "search_refused": "2026-11-20",
  "last_briefing": "2026-11-19",
- "last_proposals": "2026-11-19",
+ "last_proposals": "2026-11-20",
  "pr_seen_open": true
 }
