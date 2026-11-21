@@ -108,17 +108,17 @@
   },
   "rohs": {
    "hash": "60f382ffd212",
-   "date": "2026-11-08",
+   "date": "2026-11-21",
    "model": "gemini-3.6-flash"
   },
   "reach": {
    "hash": "b9a44d2621d7",
-   "date": "2026-11-09",
+   "date": "2026-11-21",
    "model": "gemini-3.6-flash"
   },
   "machinery": {
    "hash": "ce7a9a4c25ee",
-   "date": "2026-11-09",
+   "date": "2026-11-21",
    "model": "gemini-3.6-flash"
   },
   "de-lksg": {
@@ -179,61 +179,6 @@
    "proposed_on": "2026-11-19"
   },
   {
-   "reg": "sfdr2",
-   "type": "add_date",
-   "reason": "The Council and the European Parliament reached a provisional political agreement on the SFDR revision on 19 November 2026.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDFMT3hRVkJ4MHNJYUJrV1NtZzVVWWR0RWs0ZnlRLUtDLU1tbFBwT0RWTVpobjRCR29nb195TzVuNXRwc0NoTHNNaURQYnhvUlI5VFMxcDNnX1ROaXQ4S25qNHRtXzdSaV8tYVo1MGUyYWotU25scWJ0SjNoT3pKQmFFRXd5QzhGTXdCSi1wbHQ3VFJnQUNBb2Y0RjVLbDNfWW5NZ1VDR3RCSlA0M2hWWTlwWDljMlU5SHc0T1Foa3c?oc=5"
-   ],
-   "confidence": "high",
-   "date": "2026-11-19",
-   "label": "provisional agreement reached in trilogue",
-   "approx": false,
-   "checked_with_search": false,
-   "fp": "cf9c964fe930a3",
-   "proposed_on": "2026-11-20"
-  },
-  {
-   "reg": "sfdr2",
-   "type": "set_status",
-   "reason": "Updates the status from negotiating to reflect the provisional deal struck in trilogue.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/"
-   ],
-   "confidence": "high",
-   "status": "Council and Parliament reached a provisional political agreement on 19 November 2026. The text now awaits formal approval by both institutions.",
-   "checked_with_search": false,
-   "fp": "9823c392d611d3",
-   "proposed_on": "2026-11-20"
-  },
-  {
-   "reg": "sfdr",
-   "type": "set_status",
-   "reason": "Updates the status text to reflect that negotiations on SFDR 2.0 concluded with a provisional agreement.",
-   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2026/11/19/sustainability-council-and-parliament-strike-deal-on-simpler-transparency-rules-for-financial-product/"
-   ],
-   "confidence": "high",
-   "status": "Applies. Council and Parliament reached a provisional agreement on the SFDR 2.0 revision on 19 November 2026.",
-   "checked_with_search": false,
-   "fp": "d0c12a008c1b7e",
-   "proposed_on": "2026-11-20"
-  },
-  {
-   "reg": "esrs-revised",
-   "type": "set_stage",
-   "reason": "The revised ESRS entered into force on 10 November 2026, transitioning from stage 2 (Adopted) to stage 3 (In force).",
-   "sources": [
-    "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
-   ],
-   "confidence": "high",
-   "stage": 3,
-   "checked_with_search": false,
-   "fp": "77b36fdb2144f2",
-   "proposed_on": "2026-11-20"
-  },
-  {
    "reg": "esrs-revised",
    "type": "set_status",
    "reason": "Updates the status text as the entry into force date of 10 November 2026 has now passed.",
@@ -261,12 +206,67 @@
    "checked_with_search": false,
    "fp": "91019c265f2cf9",
    "proposed_on": "2026-11-20"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "add_date",
+   "reason": "The Council and European Parliament reached a provisional agreement on the SFDR 2.0 reform on 19 November 2026.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdBX3FjVGJGVjFfTHNNWTZsdTZRQ3FLS0VXQTFZVFRSNFJlckEzaDVZNHE2WXhKM3JmdkUxdEg3Zk5faW9VQlRxUkNLZG9kV05ITHZyQXNuU0ZMZnhBMnNhU09MMFQwZjF5OFkxeW9VYzdfRXpNMU9saWRBZHIyeDZpTTIyNXNpY1RKZmF0Qk9aWFF4OE11MUc2ZmttVDVob0dmWnJuX1NzT2NyenpnVFYwdHd3SnpBX1FOSHdaSVdKRzR5dGF4dmw0QVFhNW1LVnVaOTJDaGNWN2gxVmtxVzNGN1QydGxJX0tiV1QwdF9DS3VhWVZrNmh6UFZkZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDFMT3hRVkJ4MHNJYUJrV1NtZzVVWWR0RWs0ZnlRLUtDLU1tbFBwT0RWTVpobjRCR29nb195TzVuNXRwc0NoTHNNaURQYnhvUlI5VFMxcDNnX1ROaXQ4S25qNHRtXzdSaV8tYVo1MGUyYWotU25scWJ0SjNoT3pKQmFFRXd5QzhGTXdCSi1wbHQ3VFJnQUNBb2Y0RjVLbDNfWW5NZ1VDR3RCSlA0M2hWWTlwWDljMlU5SHc0T1Foa3c?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-11-19",
+   "label": "provisional agreement reached between Council and Parliament",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "cf9c964fe930a3",
+   "proposed_on": "2026-11-21"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "set_status",
+   "reason": "Trilogue negotiations concluded with a provisional agreement on 19 November 2026.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdBX3FjVGJGVjFfTHNNWTZsdTZRQ3FLS0VXQTFZVFRSNFJlckEzaDVZNHE2WXhKM3JmdkUxdEg3Zk5faW9VQlRxUkNLZG9kV05ITHZyQXNuU0ZMZnhBMnNhU09MMFQwZjF5OFkxeW9VYzdfRXpNMU9saWRBZHIyeDZpTTIyNXNpY1RKZmF0Qk9aWFF4OE11MUc2ZmttVDVob0dmWnJuX1NzT2NyenpnVFYwdHd3SnpBX1FOSHdaSVdKRzR5dGF4dmw0QVFhNW1LVnVaOTJDaGNWN2gxVmtxVzNGN1QydGxJX0tiV1QwdF9DS3VhWVZrNmh6UFZkZw?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Provisional agreement reached between the Council and European Parliament on 19 November 2026. The agreed text now awaits formal adoption.",
+   "checked_with_search": false,
+   "fp": "9823c392d611d3",
+   "proposed_on": "2026-11-21"
+  },
+  {
+   "reg": "sfdr",
+   "type": "set_status",
+   "reason": "Trilogue negotiations on the SFDR review have concluded with a provisional deal.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdBX3FjVGJGVjFfTHNNWTZsdTZRQ3FLS0VXQTFZVFRSNFJlckEzaDVZNHE2WXhKM3JmdkUxdEg3Zk5faW9VQlRxUkNLZG9kV05ITHZyQXNuU0ZMZnhBMnNhU09MMFQwZjF5OFkxeW9VYzdfRXpNMU9saWRBZHIyeDZpTTIyNXNpY1RKZmF0Qk9aWFF4OE11MUc2ZmttVDVob0dmWnJuX1NzT2NyenpnVFYwdHd3SnpBX1FOSHdaSVdKRzR5dGF4dmw0QVFhNW1LVnVaOTJDaGNWN2gxVmtxVzNGN1QydGxJX0tiV1QwdF9DS3VhWVZrNmh6UFZkZw?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Applies. A provisional agreement on the SFDR revision (SFDR 2.0) was reached by the Council and Parliament on 19 November 2026.",
+   "checked_with_search": false,
+   "fp": "d0c12a008c1b7e",
+   "proposed_on": "2026-11-21"
+  },
+  {
+   "reg": "esrs-revised",
+   "type": "set_stage",
+   "reason": "The revised ESRS entered into force on 10 November 2026.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CdmdVODdqaEgwdEotaWU2Q3pLVndrZkItbWl6eTNRZmliUmZJZVktMXdXbUJQRmRoUGNBMm5fanFkM2N4UFpsVjJJX0hKcWhXZlIyNTJOS29UNlpScy1nMFVIYjBYLWtpbWJn?oc=5"
+   ],
+   "confidence": "high",
+   "stage": 3,
+   "checked_with_search": false,
+   "fp": "77b36fdb2144f2",
+   "proposed_on": "2026-11-21"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-20",
- "last_briefing": "2026-11-20",
- "last_proposals": "2026-11-20",
+ "last_briefing": "2026-11-21",
+ "last_proposals": "2026-11-21",
  "pr_seen_open": true
 }
