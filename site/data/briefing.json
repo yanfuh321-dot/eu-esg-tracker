@@ -1,19 +1,35 @@
 {
- "generated_at": "2026-11-21T13:28:00Z",
+ "generated_at": "2026-11-22T21:03:19Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "DPP technical resources, CSRD assurance consultation, and proposed CBAM expansion",
- "summary": "The European Commission released technical guidance for Digital Product Passport registry integration and opened a consultation on CSRD limited assurance standards. Meanwhile, rules were adopted for CBAM carbon cost deductions alongside reported proposals to extend CBAM to downstream steel and aluminium products.",
+ "headline": "EU regulatory briefing: CSRD assurance, ESPR passports, and CBAM rules",
+ "summary": "This week's key updates include a Commission consultation on CSRD limited assurance standards and technical specifications for the ESPR Digital Product Passport registry. Rules were also finalized for deducting third-country carbon costs under CBAM, alongside an official corrigendum to the EU Machinery Regulation.",
  "items": [
   {
-   "title": "Commission releases Digital Product Passport registry technical documentation",
+   "title": "Commission consults on CSRD limited assurance standards",
+   "regs": [
+    "csrd"
+   ],
+   "what": "The European Commission launched a consultation on limited assurance standards for reporting under the Corporate Sustainability Reporting Directive.",
+   "meaning": "Directly impacts your FY2027 CSRD reporting by setting expectations for external auditor verification of sustainability disclosures.",
+   "action": "Review the consultation details with internal audit and sustainability teams to prepare verification workflows.",
+   "sources": [
+    {
+     "title": "EU CSRD: Commission consults on limited assurance standards, Julia Voskoboinikova",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3kxLXlBYkFtM0FsbjZnZXh4bWR3dFBFclNwNUFGZnNmaHNSNVJZdHIzODJFNzEzMlJGb0hGYTdlREtBQ0pwM2pIY2hqV0VkTHlxdkZPTzV3UVFPQjNCTGRpYlZJM0lIdGk5UUVsaGs5ZVVXSnJ0OUlOOXNkM1FEZzJLaW52Qm9wdXprOGk1bjdDazdjY0ZmcmNGN05UanNCRlR0Ui0yTXd4M1JtcHdoTjI5RQ?oc=5",
+     "origin": "Linklaters - Sustainable Futures"
+    }
+   ]
+  },
+  {
+   "title": "Technical resources published for ESPR Digital Product Passport registry",
    "regs": [
     "espr"
    ],
-   "what": "The European Commission published technical documentation and six technical resources to support companies connecting to the Digital Product Passport registry.",
-   "meaning": "As a manufacturer and importer of battery-powered tools, these technical specifications provide the exact requirements needed to prepare data architecture for future product passports.",
-   "action": "Pass technical resources to IT and compliance teams to evaluate DPP system architecture requirements.",
+   "what": "The European Commission published six technical resources detailing how businesses will connect to the official Digital Product Passport registry.",
+   "meaning": "Relevant for preparing your tool and battery platform data architecture to comply with upcoming ESPR and battery passport mandates.",
+   "action": "Share technical resources with IT and supply chain teams to plan data integration with Chinese suppliers.",
    "sources": [
     {
      "title": "EU Publishes Digital Product Passport Registry Documentation",
@@ -28,56 +44,40 @@
    ]
   },
   {
-   "title": "Commission consults on CSRD limited assurance standards",
-   "regs": [
-    "csrd"
-   ],
-   "what": "The European Commission launched a consultation on limited assurance standards under the Corporate Sustainability Reporting Directive.",
-   "meaning": "Directly impacts your CSRD reporting requirements, clarifying how independent auditors will verify reported sustainability metrics.",
-   "action": "Review consultation draft to align Chinese supplier data collection with expected auditor verification standards.",
-   "sources": [
-    {
-     "title": "EU CSRD: Commission consults on limited assurance standards, Julia Voskoboinikova",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3kxLXlBYkFtM0FsbjZnZXh4bWR3dFBFclNwNUFGZnNmaHNSNVJZdHIzODJFNzEzMlJGb0hGYTdlREtBQ0pwM2pIY2hqV0VkTHlxdkZPTzV3UVFPQjNCTGRpYlZJM0lIdGk5UUVsaGs5ZVVXSnJ0OUlOOXNkM1FEZzJLaW52Qm9wdXprOGk1bjdDazdjY0ZmcmNGN05UanNCRlR0Ui0yTXd4M1JtcHdoTjI5RQ?oc=5",
-     "origin": "Linklaters - Sustainable Futures"
-    }
-   ]
-  },
-  {
-   "title": "EU adopts CBAM deduction rules and considers downstream extension",
+   "title": "EU adopts rules for third-country carbon price deductions under CBAM",
    "regs": [
     "cbam",
     "cn-ets"
    ],
-   "what": "The EU finalized rules for deducting third-country carbon costs, recognizing China's ETS. Reports also indicate a proposed extension to 180 downstream steel and aluminium products.",
-   "meaning": "Finished tools are currently exempt, but proposed downstream scope expansion could cover imported hardware components. Deductions for Chinese ETS payments could offset future carbon costs.",
-   "action": "Identify which Chinese suppliers pay into China's ETS and track proposed downstream product lists.",
+   "what": "The European Commission adopted rules for deducting carbon prices paid outside the EU, with reports indicating recognition of China's carbon market.",
+   "meaning": "While finished tools are currently outside CBAM scope, proposed downstream extensions to steel and aluminium products could impact imports from China.",
+   "action": "Monitor proposed CBAM downstream product extensions and review supplier carbon data in China.",
    "sources": [
+    {
+     "title": "EU sets rules for deducting third-country carbon costs under CBAM, recognizes Turkey’s ETS",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRnUEpOM19vQjdpVXNwUDREMVVKb0pFRk5jZ0hTNHE2S2tFeFh6ajI3d3RIb1E2d19ZTmN2WllHUW9EQkdfay0yNmZEWk52cWRDNGViZTJTTUtlSHRwSzdrWWtqREUwUzZ3MlB1aHZ6bXlSRDd0ZlBQTVhlZXlBOU9GMUpkSG5pajlCbjVETjJTNXd5anYzbWVtbU9hSzRFeVRNblJrNUREb1ZLb3lTeg?oc=5",
+     "origin": "EUROMETAL"
+    },
     {
      "title": "EU Recognizes China’s Carbon Market for Border Levy Deductions",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEh3UUl6dE5qdzRTQmxJUmNHUkxjeEV6OGVQd0RvRkprOUozTlRlamRDWFVkZ1JuQ2M0VklCU2hEeGtRMk5YRHFJaUtkZFhqbGlzQ0g2bkRKNmh5MnFHU3Bmd19TbGEtbGRiMjRNVlV4ZXg2OE45U3BhNGQyZlJYZFR3VU14cW5Dckg1eWoyMGdvX2xlcnBnX1BNNVhFY0xjemhUZVJEQ1QtYlctTXJJYlZwTnh0bTg?oc=5",
      "origin": "Caixin Global"
     },
     {
-     "title": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb0JXYTgxemVfcndRcDYwR1lYRFRzSmxyOXowUUJPY1E3Wmg1bU5SdkQ1QkN2OU1tT0poOTA4Yjk4UElqT0VZNWJzSzJiRWVranZZVS1YZU5SUXdGejFMOWJ3VTc0czFiTDRmSUhPeExycThnN1ZxQ3NKM1dRZ29XWFdwZVBXVjB4c3RhN3RhWUg4OUpQdkNGQU5GRGxPUkRnbktjaGVFMmI2Ri1qU2xnSFNTVmlNMElUQ3o4V0Z0QnlDR2hIMUh4VHBJbVlVY1pCUzBFM0phWHlCVzRZb1E?oc=5",
-     "origin": "EUROMETAL"
-    },
-    {
-     "title": "EU sets rules for deducting third-country carbon costs under CBAM, recognizes Turkey’s ETS",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRnUEpOM19vQjdpVXNwUDREMVVKb0pFRk5jZ0hTNHE2S2tFeFh6ajI3d3RIb1E2d19ZTmN2WllHUW9EQkdfay0yNmZEWk52cWRDNGViZTJTTUtlSHRwSzdrWWtqREUwUzZ3MlB1aHZ6bXlSRDd0ZlBQTVhlZXlBOU9GMUpkSG5pajlCbjVETjJTNXd5anYzbWVtbU9hSzRFeVRNblJrNUREb1ZLb3lTeg?oc=5",
-     "origin": "EUROMETAL"
+     "title": "CBAM: European Commission adopts rules for recognising carbon prices paid outside the EU",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHMwQUxzNlgyaUpEdzN4SVQ5UVVwVlFRWHpqaFFKUXJoRXZMSThrck5tcHBkSXFNclRJYlZWbHFnakwzQ1N0MUtSamIzT1ZIZlNHOUtiNnJrTldrc2ZENGRCbkV6Nkp2WkpwNTQxU2hkVElKNXRseWIzbWlMejkxOEdVLU5vc3ZBUTI5S3dGeUxpVjdXQThlZ1BjaW9WdTNVTzJiM1RZQ1VLTXoxcFBfUjMzVVJOandGdnMwM0JIdw?oc=5",
+     "origin": "ЭкоПолитика"
     }
    ]
   },
   {
-   "title": "Corrigendum published for EU Machinery Regulation",
+   "title": "Official corrigendum published for EU Machinery Regulation",
    "regs": [
     "machinery"
    ],
-   "what": "An official corrigendum to the EU Machinery Regulation (EU) 2023/1230 was published in the Official Journal.",
-   "meaning": "Provides legal clarity ahead of the regulation taking effect and replacing the old Machinery Directive in January 2027.",
-   "action": "Verify technical compliance documentation against the corrected legal text.",
+   "what": "An official corrigendum to EU Machinery Regulation 2023/1230 was published in the Official Journal of the EU.",
+   "meaning": "As the brand manufacturer under EU law, text corrections may affect technical files and compliance readiness ahead of 2027.",
+   "action": "Review corrected text against ongoing Machinery Regulation compliance preparations for January 2027.",
    "sources": [
     {
      "title": "CELEX:32023R1230R(06): Rectificatif au règlement (UE) 2023/1230 du Parlement européen et du Conseil du 14 juin 2023 sur les machines, abrogeant la directive 2006/42/CE du Parlement européen et du Conseil et la directive 73/361/CEE du Conseil (JO L 165 du 29.6.2023)",
@@ -88,9 +88,9 @@
   }
  ],
  "watch": [
-  "Application of the EU Deforestation Regulation for large and medium operators on 30 December 2026.",
-  "Official legislative progress on proposed CBAM scope extensions to downstream goods.",
-  "Mandatory application of the EU Machinery Regulation taking effect on 20 January 2027."
+  "Track proposed EU CBAM scope extensions to downstream steel and aluminium product categories.",
+  "Prepare IT systems for 2027 EU Battery Regulation passport and battery replaceability mandates.",
+  "Monitor national transposition of CSRD Omnibus I adjustments across EU Member States ahead of 2027."
  ],
  "based_on": 45
 }
