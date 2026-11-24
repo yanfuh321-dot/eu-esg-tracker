@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-23T15:57:29Z",
+ "generated_at": "2026-11-24T15:52:49Z",
  "items": [
+  {
+   "id": "abc74c0eaae2",
+   "group": "delay",
+   "sources": [
+    {
+     "item": "71c22cab2432d8bf",
+     "title": "Ukraine asks Germany for support on steel quotas and CBAM postponement",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmpmUDdGVTNiMHY5S21nYng2N2hnM2p0LXV2dy1mb2FyQUliVnBqdVZKQWFCWlI1QVVmVzhQSktCbHhmWDJBYmdzN3Y4MDBnWVI5dGltVnkwc0ljdXNfcEl5VEFiR2JVYmtkZEdzV0VmUlFYQko4NlR3U2JwczliWC1RVU93MDgxS1djRFM3ZU5NOUJEaWRQRkoxYWtzUknSAaQBQVVfeXFMT3g5bmJUUVZ4TFFLNUhTX2FLV2FDVkRlQ2NISUpmaG9oajhIVzNuQXRYQnI0ZkJLNEtoNEEyOWlnODhsZ1NRcmVNSWUybHVmbTVPNGZBeUtJUGRSSXA2N2Ezd05LVTZTdG10bkZ0S1kxTTN0RWMtbU95RWY2eUpDUlRpY2tMLWl1akhmbUM4N2VXX1c5ckJXWkRFbjhqWktMWlkyaC0?oc=5",
+     "origin": "GMK Center",
+     "published": "2026-11-24T12:59:53Z",
+     "official": false,
+     "strong": false,
+     "regs": [
+      "cbam"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-11-24T15:52:49Z",
+   "updated": "2026-11-24T15:52:49Z",
+   "date": "2026-11-24",
+   "regs": [
+    "cbam"
+   ],
+   "title": "Ukraine asks Germany for support on steel quotas and CBAM postponement",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmpmUDdGVTNiMHY5S21nYng2N2hnM2p0LXV2dy1mb2FyQUliVnBqdVZKQWFCWlI1QVVmVzhQSktCbHhmWDJBYmdzN3Y4MDBnWVI5dGltVnkwc0ljdXNfcEl5VEFiR2JVYmtkZEdzV0VmUlFYQko4NlR3U2JwczliWC1RVU93MDgxS1djRFM3ZU5NOUJEaWRQRkoxYWtzUknSAaQBQVVfeXFMT3g5bmJUUVZ4TFFLNUhTX2FLV2FDVkRlQ2NISUpmaG9oajhIVzNuQXRYQnI0ZkJLNEtoNEEyOWlnODhsZ1NRcmVNSWUybHVmbTVPNGZBeUtJUGRSSXA2N2Ezd05LVTZTdG10bkZ0S1kxTTN0RWMtbU95RWY2eUpDUlRpY2tMLWl1akhmbUM4N2VXX1c5ckJXWkRFbjhqWktMWlkyaC0?oc=5",
+   "origin": "GMK Center",
+   "official": false,
+   "publishers": 1,
+   "mentions": [],
+   "visible": false
+  },
   {
    "id": "1cd4cd250ef2",
    "group": "decision",
@@ -32,6 +64,51 @@
    "origin": "Norton Rose Fulbright",
    "official": false,
    "publishers": 1,
+   "mentions": [],
+   "visible": false
+  },
+  {
+   "id": "a8db9e4b23b8",
+   "group": "delay",
+   "sources": [
+    {
+     "item": "7f3aebcb92f9c48c",
+     "title": "Changes or delays to ETS2 extension opposed by eight EU countries",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3lpM2NlWFp5MzBuaWdXTGtiTnE3MnBoSVpMSVhLMGhLbFEtQlRLb2hfN0o5RGJ2bVVFVVFicFlXOXY5SFlsZHpVOFA3VzU1cjlHX1dabjMzMlRyNEtvUzhpVXVOSkh2blhIYldjUTZ0Y181SnpicldKM3BmdmZlNXFvM09lZmFXV2prWjdqdjBGUGxqaE1VSWJkUWZiVWwwNkdrZGZFdXVISEVHTzI3ZXhYRWZZQdIBWkFVX3lxTE92dGEzY2NlU3RrN2NYWVMyV0stdzdveUdZYjZzUFVZdE9LUEI1UXh2emNscU5VdlIwSGVndmVGaHBsUkFoRnA5YnBWazkwMG9DY1Z5WFJMbXBmUQ?oc=5",
+     "origin": "MLex",
+     "published": "2026-11-23T16:59:55Z",
+     "official": false,
+     "strong": true,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    },
+    {
+     "item": "44afd2bc5beab736",
+     "title": "Visegrad Group leaders demand ETS2 delay to 2030",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1VDNzU3M2wtOWMzbWR0dmpvd3VNXzdONy1BSl9UMVdHN01iMGk3Rkg1aVFPQ1BkRVFLT2VzTjNCbnpNSC1kUUpiSDBkcnNkMHVoVzJRTE1oSFR6VGR6MUVYV0NGRjBCOGRtaVp2ZEdKa2RmYkVveV85QTAzc1Rsb3pXSHBBdzRGc3ZlVUdzaXFKREpsWXNPMGJIUFNCX0pmR25Mb3V4LW1jRjVuV3U0?oc=5",
+     "origin": "Euronews.com",
+     "published": "2026-11-24T14:57:26Z",
+     "official": false,
+     "strong": false,
+     "regs": [
+      "ets"
+     ],
+     "mentions": []
+    }
+   ],
+   "first_seen": "2026-11-24T15:52:49Z",
+   "updated": "2026-11-24T15:52:49Z",
+   "date": "2026-11-23",
+   "regs": [
+    "ets"
+   ],
+   "title": "Changes or delays to ETS2 extension opposed by eight EU countries",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3lpM2NlWFp5MzBuaWdXTGtiTnE3MnBoSVpMSVhLMGhLbFEtQlRLb2hfN0o5RGJ2bVVFVVFicFlXOXY5SFlsZHpVOFA3VzU1cjlHX1dabjMzMlRyNEtvUzhpVXVOSkh2blhIYldjUTZ0Y181SnpicldKM3BmdmZlNXFvM09lZmFXV2prWjdqdjBGUGxqaE1VSWJkUWZiVWwwNkdrZGZFdXVISEVHTzI3ZXhYRWZZQdIBWkFVX3lxTE92dGEzY2NlU3RrN2NYWVMyV0stdzdveUdZYjZzUFVZdE9LUEI1UXh2emNscU5VdlIwSGVndmVGaHBsUkFoRnA5YnBWazkwMG9DY1Z5WFJMbXBmUQ?oc=5",
+   "origin": "MLex",
+   "official": false,
+   "publishers": 2,
    "mentions": [],
    "visible": false
   },
