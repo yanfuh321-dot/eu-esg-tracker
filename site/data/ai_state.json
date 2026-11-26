@@ -3,7 +3,7 @@
  "learn_checked": {
   "esrs": {
    "hash": "c19ccc72a3b9",
-   "date": "2026-11-11",
+   "date": "2026-11-26",
    "model": "gemini-3.6-flash"
   },
   "esrs-revised": {
@@ -133,12 +133,12 @@
   },
   "cn-csds": {
    "hash": "5c9325a0d1cc",
-   "date": "2026-11-10",
+   "date": "2026-11-26",
    "model": "gemini-3.6-flash"
   },
   "cn-ets": {
    "hash": "bc6c84ebcfdb",
-   "date": "2026-11-11",
+   "date": "2026-11-26",
    "model": "gemini-3.6-flash"
   },
   "cn-audit-rules": {
@@ -148,19 +148,6 @@
   }
  },
  "pending": [
-  {
-   "reg": "esrs-revised",
-   "type": "set_status",
-   "reason": "Updates the status text as the entry into force date of 10 November 2026 has now passed.",
-   "sources": [
-    "https://eur-lex.europa.eu/eli/reg_del/2026/1563/oj"
-   ],
-   "confidence": "high",
-   "status": "In force since 10 November 2026. The revised ESRS apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.",
-   "checked_with_search": false,
-   "fp": "5cc2e828265fcc",
-   "proposed_on": "2026-11-20"
-  },
   {
    "reg": "ets",
    "type": "add_date",
@@ -178,19 +165,6 @@
    "proposed_on": "2026-11-20"
   },
   {
-   "reg": "esrs-revised",
-   "type": "set_stage",
-   "reason": "The revised ESRS entered into force on 10 November 2026.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CdmdVODdqaEgwdEotaWU2Q3pLVndrZkItbWl6eTNRZmliUmZJZVktMXdXbUJQRmRoUGNBMm5fanFkM2N4UFpsVjJJX0hKcWhXZlIyNTJOS29UNlpScy1nMFVIYjBYLWtpbWJn?oc=5"
-   ],
-   "confidence": "high",
-   "stage": 3,
-   "checked_with_search": false,
-   "fp": "77b36fdb2144f2",
-   "proposed_on": "2026-11-21"
-  },
-  {
    "reg": "sfdr2",
    "type": "add_date",
    "reason": "The European Parliament and the Council reached a provisional agreement on the SFDR 2.0 review on 19 November 2026.",
@@ -204,32 +178,6 @@
    "approx": false,
    "checked_with_search": false,
    "fp": "cf9c964fe930a3",
-   "proposed_on": "2026-11-22"
-  },
-  {
-   "reg": "sfdr2",
-   "type": "set_status",
-   "reason": "Trilogue negotiations concluded with a provisional agreement on 19 November 2026.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdBX3FjVGJGVjFfTHNNWTZsdTZRQ3FLS0VXQTFZVFRSNFJlckEzaDVZNHE2WXhKM3RmdkUxdEg3Zk5faW9VQlRxUkNLZG9kV05ITHZyQXNuU0ZMZnhBMnNhU09MMFQwZjF5OFkxeW9VYzdfRXpNMU9saWRBZHIyeDZpTTIyNXNpY1RKZmatQk9aWFF4OE11MUc2ZmttVDVob0dmZlprn1NzT2NyenpnVFYwdHd3SnpBX1FOSHdaSVdKRzR5dGF4dmw0QVFhNW1LVnVaOTJDaGNWN2gxVmtxVzNGN1QydGxJX0tiV1QwdF9DS3VhWVZrNmh6UFZkZw?oc=5"
-   ],
-   "confidence": "high",
-   "status": "Provisional agreement reached between the Council and Parliament on 19 November 2026. The agreed text now awaits formal adoption by both co-legislators.",
-   "checked_with_search": false,
-   "fp": "9823c392d611d3",
-   "proposed_on": "2026-11-22"
-  },
-  {
-   "reg": "sfdr",
-   "type": "set_status",
-   "reason": "Co-legislators reached a provisional agreement on SFDR 2.0, updating the status of the current SFDR framework.",
-   "sources": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTdBX3FjVGJGVjFfTHNNWTZsdTZRQ3FLS0VXQTFZVFRSNFJlckEzaDVZNHE2WXhKM3RmdkUxdEg3Zk5faW9VQlRxUkNLZG9kV05ITHZyQXNuU0ZMZnhBMnNhU09MMFQwZjF5OFkxeW9VYzdfRXpNMU9saWRBZHIyeDZpTTIyNXNpY1RKZmatQk9aWFF4OE11MUc2ZmttVDVob0dmZlprn1NzT2NyenpnVFYwdHd3SnpBX1FOSHdaSVdKRzR5dGF4dmw0QVFhNW1LVnVaOTJDaGNWN2gxVmtxVzNGN1QydGxJX0tiV1QwdF9DS3VhWVZrNmh6UFZkZw?oc=5"
-   ],
-   "confidence": "high",
-   "status": "Applies. SFDR 2.0 will replace it following a provisional agreement reached by co-legislators on 19 November 2026.",
-   "checked_with_search": false,
-   "fp": "d0c12a008c1b7e",
    "proposed_on": "2026-11-22"
   },
   {
@@ -260,12 +208,82 @@
    "checked_with_search": false,
    "fp": "878bfc29668d16",
    "proposed_on": "2026-11-22"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "add_date",
+   "reason": "The European Parliament and Council reached a provisional political agreement on the SFDR revision in November 2026.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGpfUW1qTmFWazM2SHJzYUFPRmg4UnZGMk1pN1dPRjRhRHZJVWluckwtdDY3WG9Xd254eVc5X2ZOZ3BpR1E3cmZaaWl5ajNHWFV5RUVNVWdsUVA2amZFOExucjNpVDA5QWoyV090YVRGakpaWGwtMzBqQ3o5MnB5VDRXeXlmRG5xWUxYRG9hc2NKUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhKVHpzVVFzY1Y4VXE4MWxzdkpXWFQ0ME5KUU5tdU1KLXVlMm8xMmFodmh2eUVEY1E5MnRTWnc3ZFRrU2xBSkdWRlpFVzNtdmxXSXVGRmhpTXJjWnMzcVR2R3hvVkpIZHJKQ1NCTWl2eWVkZzdTSHVETUpXVWlCYjFvaXc?oc=5"
+   ],
+   "confidence": "high",
+   "date": "2026-11-20",
+   "label": "provisional agreement reached between Council and Parliament",
+   "approx": false,
+   "checked_with_search": false,
+   "fp": "369d552fae11cb",
+   "proposed_on": "2026-11-26"
+  },
+  {
+   "reg": "sfdr2",
+   "type": "set_status",
+   "reason": "Trilogue negotiations concluded with a provisional agreement between Council and Parliament in November 2026.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGpfUW1qTmFWazM2SHJzYUFPRmg4UnZGMk1pN1dPRjRhRHZJVWluckwtdDY3WG9Xd254eVc5X2ZOZ3BpR1E3cmZaaWl5ajNHWFV5RUVNVWdsUVA2amZFOExucjNpVDA5QWoyV090YVRGakpaWGwtMzBqQ3o5MnB5VDRXeXlmRG5xWUxYRG9hc2NKUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3F5N3NnZmhZS01sdGV1aW5DR2hJZmllLWRuZURhUTV1bThWMUYwNi1DLVdreDU2aHZnNWgwUERKc1NlaUpXaldZY2ZmT3ZSTTVtY2RCd09laTh1UEtLOGczLVdBWGZDWWRDVHhtY3hGSHNaSW1LZ01yaWpXcnFlRkxreTJ6cWF3d3dZYnhKQXVLbU9wdzJ3?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Provisional agreement was reached between Council and Parliament on 20 November 2026. Formal adoption by both co-legislators is pending.",
+   "checked_with_search": false,
+   "fp": "9823c392d611d3",
+   "proposed_on": "2026-11-26"
+  },
+  {
+   "reg": "sfdr",
+   "type": "set_status",
+   "reason": "Updating status text as trilogue negotiations for SFDR 2.0 concluded with a provisional agreement.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGpfUW1qTmFWazM2SHJzYUFPRmg4UnZGMk1pN1dPRjRhRHZJVWluckwtdDY3WG9Xd254eVc5X2ZOZ3BpR1E3cmZaaWl5ajNHWFV5RUVNVWdsUVA2amZFOExucjNpVDA5QWoyV090YVRGakpaWGwtMzBqQ3o5MnB5VDRXeXlmRG5xWUxYRG9hc2NKUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhKVHpzVVFzY1Y4VXE4MWxzdkpXWFQ0ME5KUU5tdU1KLXVlMm8xMmFodmh2eUVEY1E5MnRTWnc3ZFRrU2xBSkdWRlpFVzNtdmxXSXVGRmhpTXJjWnMzcVR2R3hvVkpIZHJKQ1NCTWl2eWVkZzdTSHVETUpXVWlCYjFvaXc?oc=5"
+   ],
+   "confidence": "high",
+   "status": "Applies. A provisional agreement on SFDR 2.0 was reached by EU co-legislators in November 2026.",
+   "checked_with_search": false,
+   "fp": "d0c12a008c1b7e",
+   "proposed_on": "2026-11-26"
+  },
+  {
+   "reg": "esrs-revised",
+   "type": "set_stage",
+   "reason": "The revised ESRS entered into force on 10 November 2026.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHdJN1dpd3VXMER6OUNyUzVnQnNwV2ljN3c2U1ppYmI4aVozYk5NZHV6Um1IT29YSzhJYzY5Z3IwX2VxUzdmSWdzR01vc3llcUdOSVJWX3hhcEpmdjBQclRtQ1_VRmY5bElHRnlDWkRPNDQycVZ6Znlnc0NYNTFFdmJkb3FkNndmckxWenU3d1U4aFV4RVpuMWVWUDFKYU1XaHUyYmxrUUw0bldVUGI3VDl1UEttZw?oc=5"
+   ],
+   "confidence": "high",
+   "stage": 3,
+   "checked_with_search": false,
+   "fp": "77b36fdb2144f2",
+   "proposed_on": "2026-11-26"
+  },
+  {
+   "reg": "esrs-revised",
+   "type": "set_status",
+   "reason": "Updating status text to reflect that the 10 November 2026 entry into force date has passed.",
+   "sources": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHdJN1dpd3VXMER6OUNyUzVnQnNwV2ljN3c2U1ppYmI4aVozYk5NZHV6Um1IT29YSzhJYzY5Z3IwX2VxUzdmSWdzR01vc3llcUdOSVJWX3hhcEpmdjBQclRtQ1_VRmY5bElHRnlDWkRPNDQycVZ6Znlnc0NYNTFFdmJkb3FkNndmckxWenU3d1U4aFV4RVpuMWVWUDFKYU1XaHUyYmxrUUw0bldVUGI3VDl1UEttZw?oc=5"
+   ],
+   "confidence": "high",
+   "status": "In force since 10 November 2026. The revised ESRS apply from financial year 2027; the voluntary standard entered into force on 24 September 2026.",
+   "checked_with_search": false,
+   "fp": "5cc2e828265fcc",
+   "proposed_on": "2026-11-26"
   }
  ],
  "dismissed": {},
  "learn_edits": [],
  "search_refused": "2026-11-20",
- "last_briefing": "2026-11-22",
- "last_proposals": "2026-11-22",
+ "last_briefing": "2026-11-26",
+ "last_proposals": "2026-11-26",
  "pr_seen_open": true
 }

@@ -1,96 +1,86 @@
 {
- "generated_at": "2026-11-22T21:03:19Z",
+ "generated_at": "2026-11-26T23:52:54Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU regulatory briefing: CSRD assurance, ESPR passports, and CBAM rules",
- "summary": "This week's key updates include a Commission consultation on CSRD limited assurance standards and technical specifications for the ESPR Digital Product Passport registry. Rules were also finalized for deducting third-country carbon costs under CBAM, alongside an official corrigendum to the EU Machinery Regulation.",
+ "headline": "EU regulatory update: CSRD Omnibus adopted, battery and forced labour guidance",
+ "summary": "The EU has adopted the Omnibus Directive, confirming CSRD reporting for your company from financial year 2027. Meanwhile, battery QR code rules face pending technical specifications, and German customs issued operational guidance on forced labour. EUDR enforcement readiness also remains under Commission scrutiny.",
  "items": [
   {
-   "title": "Commission consults on CSRD limited assurance standards",
+   "title": "EU adopts Omnibus Directive amending CSRD timelines and thresholds",
    "regs": [
-    "csrd"
+    "csrd",
+    "csddd"
    ],
-   "what": "The European Commission launched a consultation on limited assurance standards for reporting under the Corporate Sustainability Reporting Directive.",
-   "meaning": "Directly impacts your FY2027 CSRD reporting by setting expectations for external auditor verification of sustainability disclosures.",
-   "action": "Review the consultation details with internal audit and sustainability teams to prepare verification workflows.",
+   "what": "The EU has adopted the Omnibus Directive, revising reporting scope and implementation timelines under both the CSRD and CSDDD.",
+   "meaning": "With over 1,000 employees and €450m turnover, your company falls into the revised CSRD reporting scope starting in financial year 2027.",
+   "action": "Align sustainability reporting frameworks and supplier data requests with the revised ESRS requirements for FY2027.",
    "sources": [
     {
-     "title": "EU CSRD: Commission consults on limited assurance standards, Julia Voskoboinikova",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3kxLXlBYkFtM0FsbjZnZXh4bWR3dFBFclNwNUFGZnNmaHNSNVJZdHIzODJFNzEzMlJGb0hGYTdlREtBQ0pwM2pIY2hqV0VkTHlxdkZPTzV3UVFPQjNCTGRpYlZJM0lIdGk5UUVsaGs5ZVVXSnJ0OUlOOXNkM1FEZzJLaW52Qm9wdXprOGk1bjdDazdjY0ZmcmNGN05UanNCRlR0Ui0yTXd4M1JtcHdoTjI5RQ?oc=5",
-     "origin": "Linklaters - Sustainable Futures"
+     "title": "European Union adopts Omnibus Directive amending CSRD and CS3D",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXc2MXBJNW01clNlSWJrcUdMZEZWdUwtTEV0Ui1MblZlQktGWjY2bzRrTGltNE5YV2F0ajZYLXJ4VVUtc3ZKbEd3VFNGLUo4VGhtWTFPRTR6YkJWNlJKQm1wV09YN0VzUVhDYUd3NjhKVl9nQ1RaQ3RORWtsSFhTSi1tekNDZU5vTXNiVnRQREhPNzgtSWZVV0xiTmFEbW1pbVl5QXFDd0p5dXdfYjdyNlp1WmhRZU1oMjZTWU14Ykt2QTZqY0F3WlRZcC16T2ZmSXlEQU5IYUhJOWs?oc=5",
+     "origin": "Norton Rose Fulbright"
     }
    ]
   },
   {
-   "title": "Technical resources published for ESPR Digital Product Passport registry",
+   "title": "Battery QR code deadline set for 2027 amidst missing rulebook",
    "regs": [
-    "espr"
+    "batteries"
    ],
-   "what": "The European Commission published six technical resources detailing how businesses will connect to the official Digital Product Passport registry.",
-   "meaning": "Relevant for preparing your tool and battery platform data architecture to comply with upcoming ESPR and battery passport mandates.",
-   "action": "Share technical resources with IT and supply chain teams to plan data integration with Chinese suppliers.",
+   "what": "Reports indicate the EU maintains a 2027 deadline for mandatory battery QR codes, even though detailed secondary technical specifications remain unfinalised.",
+   "meaning": "Directly impacts your proprietary battery platform; system architecture and product labelling must prepare for digital passport rules.",
+   "action": "Audit supplier capabilities for battery data management and monitor EU publication of technical implementing rules.",
    "sources": [
     {
-     "title": "EU Publishes Digital Product Passport Registry Documentation",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0VCU2RFLUhWUHlLZ0RnaTFvVE02bUVVRUI5aG5udmFKRUljT0w2Wm0yS2E5SVZoajN0LWxfbTZ0d2k1RlluUklnRlBWRDlyc0wtNDlxUmpmanhLcTdYOTJaUG16d3ZlRXNDeVpSazdjb1J5QzZUXzJ1emY5NWg5THliTjljSEd5eExnaTMxcmtMVlNJODRwdGlkVUV1REZU?oc=5",
-     "origin": "Wisevoter"
-    },
-    {
-     "title": "Commission publishes six technical resources for companies connecting to the digital product passport registry",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXIxNUFOZ0xBelFVcnduOGZGMnNTQjZ6Ykx0eTJYQ0ZWZ3BoRkVOUnRLcmdldHhaSmxhNWZCLTljcmVrRndnOXBaaTBkT1RlMUxfcEFEejhrS0wxTW4xLVhHMzBvYldRVlJOT0NObXMtNEktZUlxcmp0dkd6UFNTOEdOYnI3S1VmcXRHYnpVTFZnbHR0eURXcjJQTmc1czVQS3BhTGNDMWYzdFhQVS1nYVBlLUFERVptYlJsX2s3X0c3XzlLeVF3Vlh4cmprenZhbFFmQ0VGMWs0djg?oc=5",
-     "origin": "Informat.ro"
+     "title": "Brussels Sets a 2027 Deadline for Battery QR Codes — but Its Own Rulebook Is Still Missing",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQW5XR2dKME9kTnhRV0ZiT19YUEZRZ3J2cDN1Y082bmlDdnY3SGZrMzBaRTdOWXIyM2NuQU55ZHFWdG1oRHYzbUZGVWJMdDByZWhoNHlWSkJQcXBwRUNJTmxLUTdSUEpWWk1URXZOZmVfZ3hCVzZiYV9qODNoWlNPZWNlRzBPakhodDRkV1Bnd3A2bWFodHBiYWttU3FNa0hoN2lNSGxqX0NhSlpzYU94RWdzVE81NC1lLUs2YTliUHBRVjJORWFSTFQ1M0MwbW9UU1V2VUVyZl9BbWMtYnRXNS1vbF9OTDhGME5KUm1PUWctUQ?oc=5",
+     "origin": "ad-hoc-news.de"
     }
    ]
   },
   {
-   "title": "EU adopts rules for third-country carbon price deductions under CBAM",
+   "title": "German customs issues guide on EU Forced Labour Regulation",
    "regs": [
-    "cbam",
-    "cn-ets"
+    "forced-labour"
    ],
-   "what": "The European Commission adopted rules for deducting carbon prices paid outside the EU, with reports indicating recognition of China's carbon market.",
-   "meaning": "While finished tools are currently outside CBAM scope, proposed downstream extensions to steel and aluminium products could impact imports from China.",
-   "action": "Monitor proposed CBAM downstream product extensions and review supplier carbon data in China.",
+   "what": "German customs published compliance guidance outlining enforcement procedures and importer expectations under the EU Forced Labour Regulation.",
+   "meaning": "Relevant for imports from your Chinese suppliers, as customs authorities established operational procedures to inspect risk-exposed supply chains.",
+   "action": "Strengthen supply chain tracing and labour audit documentation across all mainland China manufacturing partners.",
    "sources": [
     {
-     "title": "EU sets rules for deducting third-country carbon costs under CBAM, recognizes Turkey’s ETS",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRnUEpOM19vQjdpVXNwUDREMVVKb0pFRk5jZ0hTNHE2S2tFeFh6ajI3d3RIb1E2d19ZTmN2WllHUW9EQkdfay0yNmZEWk52cWRDNGViZTJTTUtlSHRwSzdrWWtqREUwUzZ3MlB1aHZ6bXlSRDd0ZlBQTVhlZXlBOU9GMUpkSG5pajlCbjVETjJTNXd5anYzbWVtbU9hSzRFeVRNblJrNUREb1ZLb3lTeg?oc=5",
-     "origin": "EUROMETAL"
-    },
-    {
-     "title": "EU Recognizes China’s Carbon Market for Border Levy Deductions",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEh3UUl6dE5qdzRTQmxJUmNHUkxjeEV6OGVQd0RvRkprOUozTlRlamRDWFVkZ1JuQ2M0VklCU2hEeGtRMk5YRHFJaUtkZFhqbGlzQ0g2bkRKNmh5MnFHU3Bmd19TbGEtbGRiMjRNVlV4ZXg2OE45U3BhNGQyZlJYZFR3VU14cW5Dckg1eWoyMGdvX2xlcnBnX1BNNVhFY0xjemhUZVJEQ1QtYlctTXJJYlZwTnh0bTg?oc=5",
-     "origin": "Caixin Global"
-    },
-    {
-     "title": "CBAM: European Commission adopts rules for recognising carbon prices paid outside the EU",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHMwQUxzNlgyaUpEdzN4SVQ5UVVwVlFRWHpqaFFKUXJoRXZMSThrck5tcHBkSXFNclRJYlZWbHFnakwzQ1N0MUtSamIzT1ZIZlNHOUtiNnJrTldrc2ZENGRCbkV6Nkp2WkpwNTQxU2hkVElKNXRseWIzbWlMejkxOEdVLU5vc3ZBUTI5S3dGeUxpVjdXQThlZ1BjaW9WdTNVTzJiM1RZQ1VLTXoxcFBfUjMzVVJOandGdnMwM0JIdw?oc=5",
-     "origin": "ЭкоПолитика"
+     "title": "EU Forced Labour Regulation Germany: Zoll Guide",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFZDZDY3NGxvSnViTlNHX29FZkc1UndqbUp3Rnh1TThHYi02d081YjNQQUlzQ3BMTzJBb19qSFFMcUNWNG9PUlBrX09PV2pyUjBDdWxLVWFIU2dlemliSE0wOGlfMTRpSXlBV0pNU1EyTTJwYUVLZTNQNXhSY1B4X3haTzkzRGtxNGhNX2xwREFCVjlRd1A5RWlfZDg5Zw?oc=5",
+     "origin": "Global Advisory Experts"
     }
    ]
   },
   {
-   "title": "Official corrigendum published for EU Machinery Regulation",
+   "title": "Commission opens infringement cases against four states over EUDR enforcement",
    "regs": [
-    "machinery"
+    "eudr"
    ],
-   "what": "An official corrigendum to EU Machinery Regulation 2023/1230 was published in the Official Journal of the EU.",
-   "meaning": "As the brand manufacturer under EU law, text corrections may affect technical files and compliance readiness ahead of 2027.",
-   "action": "Review corrected text against ongoing Machinery Regulation compliance preparations for January 2027.",
+   "what": "The European Commission launched legal proceedings against four member states for failing to designate national authorities to enforce deforestation rules.",
+   "meaning": "National enforcement readiness varies, but the 30 December 2026 application date for large operators remains unchanged.",
+   "action": "Ensure due diligence workflows cover timber handles or paper packaging imported with finished goods.",
    "sources": [
     {
-     "title": "CELEX:32023R1230R(06): Rectificatif au règlement (UE) 2023/1230 du Parlement européen et du Conseil du 14 juin 2023 sur les machines, abrogeant la directive 2006/42/CE du Parlement européen et du Conseil et la directive 73/361/CEE du Conseil (JO L 165 du 29.6.2023)",
-     "link": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R1230R(06)",
-     "origin": "eurlex-legislation"
+     "title": "EU opens EUDR enforcement-authority cases against four member states",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSG54Y3pPVnhfRmFZaGs4b0ZMVnBCYmpqeFhSMTVUODVNbHNpR2JqMDZpdjBFOGVzTFFQczNMRmpRWl93bUlTTHRBRUpiclB5bFBzaDJWQTJsRjRMcHltS1hDUkp6a3FmdURKOWRkWVNpWWFnSkFEbHVhSHBDTjFDOGRTYTA4eGZ6?oc=5",
+     "origin": "Fordaq"
+    },
+    {
+     "title": "EU presses four member states to set up deforestation law enforcement before rules apply",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFZBajAzS2pMSEIyM0thSDgwbWxtdjg5TTBiSDJ2R24zZEk2eVgxUEZ2MWVieHFzZzlWM2wwRmNtM2VZVV9pTkhJSERKVHpkQ0wycnU1b2ZSUHViYkZMUWlkc05pYU1KTUszZF83ZTNkcjRHVHRiNTg1QkNYbW9taGZFZkMzUWNJR0hicDEzVkZpSk5Sa1RRNVIwdGJGN3RLb2tBSTJDN1VkRVgwbmNNb2h5cmVlT0ZNSk1lcFBUMlJ6N1lyWkhV?oc=5",
+     "origin": "Lesprom Network"
     }
    ]
   }
  ],
  "watch": [
-  "Track proposed EU CBAM scope extensions to downstream steel and aluminium product categories.",
-  "Prepare IT systems for 2027 EU Battery Regulation passport and battery replaceability mandates.",
-  "Monitor national transposition of CSRD Omnibus I adjustments across EU Member States ahead of 2027."
+  "National transposition of the CSRD Omnibus Directive across EU member states.",
+  "Publication of the EU Commission's technical specifications for battery QR codes and passports.",
+  "Member state designation of national competent authorities ahead of the 30 December 2026 EUDR deadline."
  ],
  "based_on": 45
 }
