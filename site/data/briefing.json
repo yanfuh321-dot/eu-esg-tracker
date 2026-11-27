@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-26T23:52:54Z",
+ "generated_at": "2026-11-27T23:26:53Z",
  "model": "gemini-3.6-flash",
  "days": 7,
  "checked_with_search": false,
- "headline": "EU regulatory update: CSRD Omnibus adopted, battery and forced labour guidance",
- "summary": "The EU has adopted the Omnibus Directive, confirming CSRD reporting for your company from financial year 2027. Meanwhile, battery QR code rules face pending technical specifications, and German customs issued operational guidance on forced labour. EUDR enforcement readiness also remains under Commission scrutiny.",
+ "headline": "EU Regulatory Update: Omnibus Directive Adopted and Taxonomy Simplified",
+ "summary": "The EU has formally adopted the Omnibus Directive, confirming your CSRD reporting timeline for FY2027 while keeping your business outside direct CSDDD obligations. The Commission also simplified EU Taxonomy screening criteria to ease reporting burdens. Meanwhile, clarity on upcoming 2027 battery QR code rules remains outstanding.",
  "items": [
   {
-   "title": "EU adopts Omnibus Directive amending CSRD timelines and thresholds",
+   "title": "EU Omnibus Directive adopted, setting CSRD scope and CSDDD exemptions",
    "regs": [
     "csrd",
     "csddd"
    ],
-   "what": "The EU has adopted the Omnibus Directive, revising reporting scope and implementation timelines under both the CSRD and CSDDD.",
-   "meaning": "With over 1,000 employees and €450m turnover, your company falls into the revised CSRD reporting scope starting in financial year 2027.",
-   "action": "Align sustainability reporting frameworks and supplier data requests with the revised ESRS requirements for FY2027.",
+   "what": "The EU has formally adopted the Omnibus Directive, amending reporting requirements and application timelines for both CSRD and CSDDD.",
+   "meaning": "Your company remains within CSRD scope starting FY2027 due to your size, but is confirmed outside the direct scope of CSDDD.",
+   "action": "Finalise FY2027 CSRD implementation plans under the revised parameters.",
    "sources": [
     {
      "title": "European Union adopts Omnibus Directive amending CSRD and CS3D",
@@ -24,13 +24,39 @@
    ]
   },
   {
-   "title": "Battery QR code deadline set for 2027 amidst missing rulebook",
+   "title": "Commission simplifies technical screening criteria for EU Taxonomy",
+   "regs": [
+    "taxonomy"
+   ],
+   "what": "The European Commission adopted revised EU Taxonomy criteria to remove duplicative requirements and streamline rules for classifying sustainable economic activities.",
+   "meaning": "Eases the technical reporting burden for your mandatory CSRD Taxonomy disclosures regarding eligible power tool and equipment lines.",
+   "action": "Review the simplified screening criteria when mapping product taxonomy eligibility.",
+   "sources": [
+    {
+     "title": "EU Commission Simplifies EU Taxonomy Criteria",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43a3pPLVZ6Y19tbk1DbXZSLW9IbnFJX28tbU51ZmhTb2pTNkl4MFFGUTEyc1NHYjZONE1UM0o0Y2lGQ3gxMVZYTUR6NDVjWWg3T2dlWDk4ZWFRSmZqUFpkajlEX1FOT05hejZCTzE5RXFpTlJrZ3c?oc=5",
+     "origin": "Impakter"
+    },
+    {
+     "title": "European Commission Cuts Duplicative Requirements From EU Taxonomy Criteria, Clarifies Compliance Rules",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NX2JPQjNWN25wMnN3RWlhb1huTmtyZHJGazNIU04tMEkycHZyRlpJRUVnN0s2MWIwajVTXy02LXpQNy1mUHhaVVN5Z0NoOWtCalc4aHNwWmpPeG9hSGtFT2t4SlpiMlRMajg1Z18wRG44N2kyMTlZcE5odEpkMHc?oc=5",
+     "origin": "ESG News"
+    },
+    {
+     "title": "Commission adopts amended criteria to simplify the EU Taxonomy",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNi00UXF3c0JzanFsamk5dzE0R0RiYmE0ZUs0bEdjbUtxbWozQlhkcDlvRWtmN2gzakY4ck10dmwtSU9UQWFXNXJpLXNCRWE5U2NaazZKQ19FUDJqcHh4R2xtMWxqcC03dG00cGxlSEJhTE9UNjhPRjlIQm9sakdOT0RZd1pYWWlQbjl4N2NkcWh5QXlPUnBDYjFoWnRfLVNRajJURUo2cWNjZw?oc=5",
+     "origin": "Global Regulation Tomorrow"
+    }
+   ]
+  },
+  {
+   "title": "Battery QR code deadline approaches while detailed rules remain pending",
    "regs": [
     "batteries"
    ],
-   "what": "Reports indicate the EU maintains a 2027 deadline for mandatory battery QR codes, even though detailed secondary technical specifications remain unfinalised.",
-   "meaning": "Directly impacts your proprietary battery platform; system architecture and product labelling must prepare for digital passport rules.",
-   "action": "Audit supplier capabilities for battery data management and monitor EU publication of technical implementing rules.",
+   "what": "Reports note that while the 2027 deadline for mandatory battery QR codes is fixed, the European Commission has not yet published detailed technical specifications.",
+   "meaning": "Creates uncertainty for technical implementation on your proprietary battery platform, though data gathering requirements remain on the horizon.",
+   "action": "Maintain battery supply chain data collection with Chinese suppliers while awaiting detailed specifications.",
    "sources": [
     {
      "title": "Brussels Sets a 2027 Deadline for Battery QR Codes — but Its Own Rulebook Is Still Missing",
@@ -40,47 +66,31 @@
    ]
   },
   {
-   "title": "German customs issues guide on EU Forced Labour Regulation",
-   "regs": [
-    "forced-labour"
-   ],
-   "what": "German customs published compliance guidance outlining enforcement procedures and importer expectations under the EU Forced Labour Regulation.",
-   "meaning": "Relevant for imports from your Chinese suppliers, as customs authorities established operational procedures to inspect risk-exposed supply chains.",
-   "action": "Strengthen supply chain tracing and labour audit documentation across all mainland China manufacturing partners.",
-   "sources": [
-    {
-     "title": "EU Forced Labour Regulation Germany: Zoll Guide",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFZDZDY3NGxvSnViTlNHX29FZkc1UndqbUp3Rnh1TThHYi02d081YjNQQUlzQ3BMTzJBb19qSFFMcUNWNG9PUlBrX09PV2pyUjBDdWxLVWFIU2dlemliSE0wOGlfMTRpSXlBV0pNU1EyTTJwYUVLZTNQNXhSY1B4X3haTzkzRGtxNGhNX2xwREFCVjlRd1A5RWlfZDg5Zw?oc=5",
-     "origin": "Global Advisory Experts"
-    }
-   ]
-  },
-  {
-   "title": "Commission opens infringement cases against four states over EUDR enforcement",
+   "title": "EUDR customs codes updated ahead of December enforcement",
    "regs": [
     "eudr"
    ],
-   "what": "The European Commission launched legal proceedings against four member states for failing to designate national authorities to enforce deforestation rules.",
-   "meaning": "National enforcement readiness varies, but the 30 December 2026 application date for large operators remains unchanged.",
-   "action": "Ensure due diligence workflows cover timber handles or paper packaging imported with finished goods.",
+   "what": "The Commission adjusted customs codes for EUDR compliance covering exports and re-imports shortly before the 30 December implementation date.",
+   "meaning": "Applies to imported products containing timber components or wood-based packaging from your Chinese manufacturing partners.",
+   "action": "Confirm customs reporting readiness for any timber elements or paper packaging.",
    "sources": [
     {
-     "title": "EU opens EUDR enforcement-authority cases against four member states",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSG54Y3pPVnhfRmFZaGs4b0ZMVnBCYmpqeFhSMTVUODVNbHNpR2JqMDZpdjBFOGVzTFFQczNMRmpRWl93bUlTTHRBRUpiclB5bFBzaDJWQTJsRjRMcHltS1hDUkp6a3FmdURKOWRkWVNpWWFnSkFEbHVhSHBDTjFDOGRTYTA4eGZ6?oc=5",
-     "origin": "Fordaq"
+     "title": "EUDR rules introduce new customs requirements for international exporters starting December 30",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUt3azliejdhQ0xNZkJjd2hibU16S09xN3hoTXR0SnZWNUE4elhEc1BrVG1vSnlLWEhWV0JFaEdHbWNEQ0ZQLWoyQTRSOUpqUjlRczdiMFp5YjVpSjA2UXU5VXRkMGljVmdxbDhoVS1haV9GQWhObF9qSmpvdmt2Z1VhbmdVTG1sWkNralJNTFk0eDhLZDFPU25QTzhpT1NiTGs5aWE1T254OFo4SnhrRElEa0o5OUxUSm1URnoyT2VaNk04MENDRGNFSlpsUjQ?oc=5",
+     "origin": "Canadian Biomass Magazine"
     },
     {
-     "title": "EU presses four member states to set up deforestation law enforcement before rules apply",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFZBajAzS2pMSEIyM0thSDgwbWxtdjg5TTBiSDJ2R24zZEk2eVgxUEZ2MWVieHFzZzlWM2wwRmNtM2VZVV9pTkhJSERKVHpkQ0wycnU1b2ZSUHViYkZMUWlkc05pYU1KTUszZF83ZTNkcjRHVHRiNTg1QkNYbW9taGZFZkMzUWNJR0hicDEzVkZpSk5Sa1RRNVIwdGJGN3RLb2tBSTJDN1VkRVgwbmNNb2h5cmVlT0ZNSk1lcFBUMlJ6N1lyWkhV?oc=5",
+     "title": "European Commission adjusts customs codes for deforestation rules on exports and re-imports",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWVXV000UEtha09RQllGdTFBejlhS2g0U3F1MW0zWU9jUnJ0WVEtY0NtMlFLbDB2VUZzRmNBeXZCV3gzSXotdUJxZFpfdXpFbW5LMzhHbUp1VGNBNHhTRGJrQVA0cXEzM3JiMjNVVkpoS1RLdk55S0NTWGlUQ1dUTFNrUE1pa29Xel9UNlI3U2VFcDdXazdweTdXcnYzQ05jT1V4UVJZdXJpUWtJdGtxVXlXMWw2RFZ4WDFFSnJad3ZxbUtJOWpJeThTVQ?oc=5",
      "origin": "Lesprom Network"
     }
    ]
   }
  ],
  "watch": [
-  "National transposition of the CSRD Omnibus Directive across EU member states.",
-  "Publication of the EU Commission's technical specifications for battery QR codes and passports.",
-  "Member state designation of national competent authorities ahead of the 30 December 2026 EUDR deadline."
+  "Publication of secondary legislation for the EU Batteries Regulation regarding digital battery passport data formats.",
+  "National transposition progress of the CSRD Omnibus changes across key EU target markets.",
+  "Upcoming EUDR enforcement updates and national authority designations ahead of 30 December."
  ],
  "based_on": 45
 }
