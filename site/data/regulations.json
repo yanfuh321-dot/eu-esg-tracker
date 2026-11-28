@@ -133,9 +133,9 @@
     "S"
    ],
    "area": "Reporting",
-   "stage": 2,
+   "stage": 3,
    "flag": null,
-   "status": "Published in the Official Journal on 21 September 2026 after the scrutiny period. The revised ESRS enter into force on 10 November 2026 and apply from financial year 2027; the voluntary standard has been in force since 24 September 2026.",
+   "status": "In force since 10 November 2026. The revised ESRS apply from financial year 2027; the voluntary standard entered into force on 24 September 2026.",
    "summary": "Shorter standards with about 61% fewer mandatory datapoints, a reworked materiality assessment and new reliefs and phase-ins. A second delegated act sets up a voluntary reporting standard for companies outside the CSRD scope.",
    "scope": "Mandatory for CSRD reporters from financial year 2027. For financial year 2026, companies already reporting may keep the current ESRS (with or without the new reliefs) or switch to the revised standards. The voluntary standard also caps what CSRD reporters may request from value-chain companies with up to 1,000 employees, from financial year 2027.",
    "keywords": [
@@ -259,7 +259,7 @@
    "area": "Sustainable finance",
    "stage": 4,
    "flag": "revision",
-   "status": "Applies. SFDR 2.0 would replace it and is heading into trilogue negotiations.",
+   "status": "Applies. EU co-legislators reached a provisional agreement on the SFDR 2.0 revision on 20 November 2026.",
    "summary": "Sustainability disclosure rules for financial market participants and advisers at entity and product level, including Article 8 and Article 9 product disclosures and principal adverse impact reporting.",
    "scope": "Asset managers, insurers offering investment products, pension providers, investment firms and financial advisers operating in the EU.",
    "keywords": [
@@ -300,7 +300,7 @@
    "area": "Sustainable finance",
    "stage": 1,
    "flag": null,
-   "status": "Trilogue negotiations began in October 2026 following the adoption of Parliament's negotiating mandate on 8 October 2026.",
+   "status": "Provisional agreement reached between the European Parliament and Council on 20 November 2026, establishing revised categorization and disclosure rules for sustainable financial products.",
    "summary": "Replaces the Article 8/9 logic with three product categories (sustainable, transition and ESG basics) with minimum criteria and exclusions, drops entity-level principal adverse impact disclosures and restricts sustainability terms in fund names and marketing to categorised products.",
    "scope": "Same population as the SFDR. Council and Parliament both favour applying the new rules 24 months after entry into force, so application is unlikely before 2029.",
    "keywords": [
@@ -325,6 +325,14 @@
     {
      "date": "2026-10-08",
      "label": "Parliament adopts its negotiating mandate in plenary"
+    },
+    {
+     "date": "2026-11-19",
+     "label": "provisional agreement reached in trilogues"
+    },
+    {
+     "date": "2026-11-20",
+     "label": "provisional agreement reached in trilogue"
     }
    ],
    "links": [
@@ -564,7 +572,7 @@
    "area": "Consumer claims",
    "stage": 1,
    "flag": "stalled",
-   "status": "On hold since June 2025, when the final trilogue was cancelled after the Commission announced its intention to withdraw the proposal.",
+   "status": "Withdrawn. The European Commission officially confirmed the withdrawal of the Green Claims Directive proposal in November 2026.",
    "summary": "Would set minimum requirements for substantiating, communicating and verifying explicit environmental claims and for environmental labelling schemes, complementing the bans in the ECGT directive.",
    "scope": "As proposed: traders making explicit environmental claims to consumers. How to treat micro-enterprises was the main sticking point.",
    "keywords": [
@@ -580,6 +588,10 @@
     {
      "date": "2025-06-23",
      "label": "final trilogue cancelled, negotiations on hold"
+    },
+    {
+     "date": "2026-11-04",
+     "label": "Commission officially withdraws the proposal"
     }
    ],
    "links": [
@@ -749,6 +761,10 @@
     {
      "date": "2026-10-28",
      "label": "market stability reserve amendment published in the Official Journal"
+    },
+    {
+     "date": "2026-11-12",
+     "label": "provisional agreement reached on boosting free carbon allowances"
     },
     {
      "date": "2028-01-01",
